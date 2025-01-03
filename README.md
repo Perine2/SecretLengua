@@ -390,7 +390,7 @@ A rainbow is a colorful collection of gases that forms in the sky, usually when 
             <img src="https://via.placeholder.com/50/FF69B4/FFFFFF?text=Monique" alt="Miranne">
             <audio id="audio1" controls>
                 <source src="
-https://feeds.soundcloud.com/stream/1863928806-perinemagne-lect28anglais-varieties-of-barbecue-sauce-c1"type="audio/mpeg">
+https://feeds.soundcloud.com/perinemagne/lect28anglais-varieties-of-barbecue-sauce-c1"type="audio/mpeg">
                 Votre navigateur ne supporte pas l'élément audio.
             </audio>
             <div class="control-buttons">
