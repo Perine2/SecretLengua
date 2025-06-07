@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Quel est le traitement de première intention de l'hypertension artérielle essentielle chez l'adulte sans comorbidité ?",
+    "options": [
+      "Furosémide",
+      "Inhibiteur de l’enzyme de conversion (IEC)",
+      "Bêta-bloquant",
+      "Anticoagulant"
+    ],
+    "answer": "Inhibiteur de l’enzyme de conversion (IEC)"
+  },
+  {
+    "question": "Une angine à streptocoque du groupe A se traite prioritairement avec :",
+    "options": [
+      "Amoxicilline",
+      "Azithromycine",
+      "Ciprofloxacine",
+      "Doxycycline"
+    ],
+    "answer": "Amoxicilline"
+  },
+  {
+    "question": "Chez un patient de 65 ans avec BPCO stable, le vaccin recommandé est :",
+    "options": [
+      "Antitétanique",
+      "BCG",
+      "Antigrippal + antipneumococcique",
+      "Antipaludique"
+    ],
+    "answer": "Antigrippal + antipneumococcique"
+  },
+  {
+    "question": "Le score CHADS2-VASc sert à évaluer le risque de :",
+    "options": [
+      "Rechute dépressive",
+      "AVC chez un patient en fibrillation auriculaire",
+      "Cancer colorectal",
+      "Détresse respiratoire aiguë"
+    ],
+    "answer": "AVC chez un patient en fibrillation auriculaire"
+  },
+  {
+    "question": "Le symptôme d’un diabète de type 2 non diagnostiqué est souvent :",
+    "options": [
+      "Hypothermie",
+      "Polyurie et polydipsie",
+      "Perte d’audition",
+      "Hémoptysie"
+    ],
+    "answer": "Polyurie et polydipsie"
+  }
+]
