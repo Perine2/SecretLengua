@@ -1,0 +1,548 @@
+[
+    {
+        "id": 1,
+        "question": "Quelle est la cause la plus fréquente d’infection urinaire chez l’homme ?",
+        "options": [
+            "Virus",
+            "Escherichia coli",
+            "Champignons",
+            "Protéus mirabilis"
+        ],
+        "answer": "Escherichia coli"
+    },
+    {
+        "id": 2,
+        "question": "Quel est le symptôme principal d'une hyperplasie bénigne de la prostate (HBP) ?",
+        "options": [
+            "Fièvre élevée",
+            "Douleur testiculaire",
+            "Jet urinaire faible et mictions fréquentes",
+            "Sang dans les selles"
+        ],
+        "answer": "Jet urinaire faible et mictions fréquentes"
+    },
+    {
+        "id": 3,
+        "question": "Quel examen est recommandé en première intention pour évaluer un globe vésical ?",
+        "options": [
+            "IRM pelvienne",
+            "Échographie vésicale",
+            "Uroscanner",
+            "Toucher rectal"
+        ],
+        "answer": "Échographie vésicale"
+    },
+    {
+        "id": 4,
+        "question": "Quelle pathologie est souvent liée à une douleur testiculaire aiguë chez l’adolescent ?",
+        "options": [
+            "Hernie inguinale",
+            "Prostatite",
+            "Torsion du cordon spermatique",
+            "Épididymite chronique"
+        ],
+        "answer": "Torsion du cordon spermatique"
+    },
+    {
+        "id": 5,
+        "question": "Quelle est l’indication d’un toucher rectal chez un homme de plus de 50 ans ?",
+        "options": [
+            "Examen de la rate",
+            "Détection de calculs",
+            "Dépistage du cancer de la prostate",
+            "Recherche de varicocèle"
+        ],
+        "answer": "Dépistage du cancer de la prostate"
+    },
+    {
+        "id": 6,
+        "question": "Quel test sanguin est utilisé dans le suivi du cancer de la prostate ?",
+        "options": [
+            "Créatinine",
+            "PSA (antigène prostatique spécifique)",
+            "Glycémie",
+            "Hémoglobine"
+        ],
+        "answer": "PSA (antigène prostatique spécifique)"
+    },
+    {
+        "id": 7,
+        "question": "Une pyélonéphrite aiguë est une infection de :",
+        "options": [
+            "La vessie",
+            "L’un ou les deux reins",
+            "L’urètre",
+            "La prostate"
+        ],
+        "answer": "L’un ou les deux reins"
+    },
+    {
+        "id": 8,
+        "question": "Quel traitement est proposé en urgence pour une rétention aiguë d’urine ?",
+        "options": [
+            "Sonde urinaire à demeure",
+            "Antibiotiques oraux",
+            "Chirurgie immédiate",
+            "Lavage vésical"
+        ],
+        "answer": "Sonde urinaire à demeure"
+    },
+    {
+        "id": 9,
+        "question": "Quelle anomalie urinaire est typique dans la colique néphrétique ?",
+        "options": [
+            "Glucose urinaire",
+            "Hématurie microscopique",
+            "Protéinurie abondante",
+            "Nitrites positifs"
+        ],
+        "answer": "Hématurie microscopique"
+    },
+    {
+        "id": 10,
+        "question": "Le cancer du testicule survient surtout chez :",
+        "options": [
+            "Les hommes âgés (> 60 ans)",
+            "Les jeunes hommes (15–35 ans)",
+            "Les enfants",
+            "Les femmes"
+        ],
+        "answer": "Les jeunes hommes (15–35 ans)"
+    },{
+        "id": 11,
+        "question": "Le varicocèle est une dilatation :",
+        "options": [
+            "De l’urètre",
+            "Des veines du cordon spermatique",
+            "De l’artère testiculaire",
+            "De la prostate"
+        ],
+        "answer": "Des veines du cordon spermatique"
+    },
+    {
+        "id": 12,
+        "question": "Quelle est la principale complication d'une torsion testiculaire non opérée ?",
+        "options": [
+            "Infertilité féminine",
+            "Nécrose testiculaire",
+            "HBP",
+            "Infection urinaire"
+        ],
+        "answer": "Nécrose testiculaire"
+    },
+    {
+        "id": 13,
+        "question": "L’incontinence urinaire d’effort touche surtout :",
+        "options": [
+            "Les hommes jeunes",
+            "Les femmes après accouchement ou chirurgie",
+            "Les enfants",
+            "Les sportifs de haut niveau"
+        ],
+        "answer": "Les femmes après accouchement ou chirurgie"
+    },
+    {
+        "id": 14,
+        "question": "Quel est le traitement habituel d’un adénome de la prostate symptomatique modéré ?",
+        "options": [
+            "Résection transurétrale en urgence",
+            "Antibiothérapie",
+            "Alpha-bloquants +/- inhibiteurs de la 5-alpha-réductase",
+            "Diurétiques"
+        ],
+        "answer": "Alpha-bloquants +/- inhibiteurs de la 5-alpha-réductase"
+    },
+    {
+        "id": 15,
+        "question": "Une hématurie macroscopique sans douleur impose :",
+        "options": [
+            "Un traitement antibiotique immédiat",
+            "Une cystoscopie + uroscanner",
+            "Une échographie du foie",
+            "Une analyse de sperme"
+        ],
+        "answer": "Une cystoscopie + uroscanner"
+    },
+    {
+        "id": 16,
+        "question": "Le syndrome de la vessie hyperactive inclut :",
+        "options": [
+            "Rétention urinaire",
+            "Urgences mictionnelles et nycturie",
+            "Dysurie",
+            "Anurie"
+        ],
+        "answer": "Urgences mictionnelles et nycturie"
+    },
+    {
+        "id": 17,
+        "question": "Quel est le facteur de risque principal du cancer de la vessie ?",
+        "options": [
+            "Hypertension",
+            "Infections rénales",
+            "Tabagisme",
+            "Sport intensif"
+        ],
+        "answer": "Tabagisme"
+    },
+    {
+        "id": 18,
+        "question": "Quelle anomalie urinaire est typique dans le diabète mal contrôlé ?",
+        "options": [
+            "Cristaux de struvite",
+            "Glycosurie",
+            "Hématurie",
+            "Bactériurie"
+        ],
+        "answer": "Glycosurie"
+    },
+    {
+        "id": 19,
+        "question": "La balanite est une inflammation de :",
+        "options": [
+            "L’urètre",
+            "La prostate",
+            "Le gland du pénis",
+            "L’épididyme"
+        ],
+        "answer": "Le gland du pénis"
+    },
+    {
+        "id": 20,
+        "question": "L’orchite est le plus souvent causée par :",
+        "options": [
+            "Infection bactérienne à E. coli",
+            "Virus des oreillons",
+            "Cancer",
+            "Varicocèle"
+        ],
+        "answer": "Virus des oreillons"
+    },{
+        "id": 21,
+        "question": "Un PSA élevé sans cancer peut être observé en cas de :",
+        "options": [
+            "Prostatite ou HBP",
+            "Cystite",
+            "Calcul rénal",
+            "Varicocèle"
+        ],
+        "answer": "Prostatite ou HBP"
+    },
+    {
+        "id": 22,
+        "question": "Quel est le traitement d’un phimosis chez l’adulte symptomatique ?",
+        "options": [
+            "Antibiotiques",
+            "Stéroïdes topiques",
+            "Circoncision",
+            "Alpha-bloquants"
+        ],
+        "answer": "Circoncision"
+    },
+    {
+        "id": 23,
+        "question": "Quel examen est utile pour détecter des calculs dans les voies urinaires ?",
+        "options": [
+            "Uroscanner sans injection",
+            "IRM cérébrale",
+            "Fibroscopie",
+            "Radiographie pulmonaire"
+        ],
+        "answer": "Uroscanner sans injection"
+    },
+    {
+        "id": 24,
+        "question": "L’énurésie nocturne est normale jusqu’à quel âge environ ?",
+        "options": [
+            "2 ans",
+            "5 ans",
+            "7 ans",
+            "10 ans"
+        ],
+        "answer": "5 ans"
+    },
+    {
+        "id": 25,
+        "question": "Quelle complication peut survenir après une prostatectomie ?",
+        "options": [
+            "Surdité",
+            "Incontinence urinaire ou troubles de l’érection",
+            "Perte de cheveux",
+            "Infection pulmonaire"
+        ],
+        "answer": "Incontinence urinaire ou troubles de l’érection"
+    },
+    {
+        "id": 26,
+        "question": "La sténose urétrale provoque :",
+        "options": [
+            "Difficultés à uriner avec jet faible",
+            "Incontinence",
+            "Éjaculation précoce",
+            "Dysphonie"
+        ],
+        "answer": "Difficultés à uriner avec jet faible"
+    },
+    {
+        "id": 27,
+        "question": "Quel est l’antibiotique de choix en cas de cystite simple chez la femme ?",
+        "options": [
+            "Fosfomycine ou nitrofurantoïne",
+            "Amoxicilline",
+            "Céftriaxone",
+            "Azithromycine"
+        ],
+        "answer": "Fosfomycine ou nitrofurantoïne"
+    },
+    {
+        "id": 28,
+        "question": "La cryptorchidie est :",
+        "options": [
+            "Une inflammation testiculaire",
+            "Une absence de descente testiculaire dans le scrotum",
+            "Une dilatation des veines",
+            "Une hernie ombilicale"
+        ],
+        "answer": "Une absence de descente testiculaire dans le scrotum"
+    },
+    {
+        "id": 29,
+        "question": "Le test de Frotis urétral est indiqué pour diagnostiquer :",
+        "options": [
+            "Colique néphrétique",
+            "IST comme la gonorrhée",
+            "HBP",
+            "Varicocèle"
+        ],
+        "answer": "IST comme la gonorrhée"
+    },
+    {
+        "id": 30,
+        "question": "La nycturie est définie comme :",
+        "options": [
+            "Difficulté à uriner",
+            "Mictions fréquentes la nuit",
+            "Sang dans les urines",
+            "Sensation de brûlure"
+        ],
+        "answer": "Mictions fréquentes la nuit"
+    }, {
+        "id": 31,
+        "question": "Quelle est la complication redoutée d’une prostatite aiguë non traitée ?",
+        "options": [
+            "Colique néphrétique",
+            "Abcès prostatique",
+            "Orchite",
+            "Varicocèle"
+        ],
+        "answer": "Abcès prostatique"
+    },
+    {
+        "id": 32,
+        "question": "Le testicule est considéré atrophique si :",
+        "options": [
+            "Il est douloureux",
+            "Son volume est significativement réduit",
+            "Il est en position anormale",
+            "Il est chaud"
+        ],
+        "answer": "Son volume est significativement réduit"
+    },
+    {
+        "id": 33,
+        "question": "Quel cancer urologique est le plus fréquent ?",
+        "options": [
+            "Cancer testiculaire",
+            "Cancer de la prostate",
+            "Cancer de la vessie",
+            "Cancer de l’urètre"
+        ],
+        "answer": "Cancer de la prostate"
+    },
+    {
+        "id": 34,
+        "question": "Le traitement des calculs rénaux de petite taille inclut :",
+        "options": [
+            "Chirurgie immédiate",
+            "Hydratation + antalgiques + surveillance",
+            "Immunosuppresseurs",
+            "Radiothérapie"
+        ],
+        "answer": "Hydratation + antalgiques + surveillance"
+    },
+    {
+        "id": 35,
+        "question": "Une hématurie microscopique isolée doit être explorée par :",
+        "options": [
+            "Électrocardiogramme",
+            "Uroscanner",
+            "Coloscopie",
+            "Spirométrie"
+        ],
+        "answer": "Uroscanner"
+    },
+    {
+        "id": 36,
+        "question": "Quel est le traitement d’un hydrocèle symptomatique ?",
+        "options": [
+            "Ponction simple",
+            "Chirurgie (hydrocélectomie)",
+            "Stéroïdes",
+            "Antibiotiques"
+        ],
+        "answer": "Chirurgie (hydrocélectomie)"
+    },
+    {
+        "id": 37,
+        "question": "Un testicule non palpable doit être recherché par :",
+        "options": [
+            "Palpation abdominale uniquement",
+            "Échographie scrotale puis laparoscopie si besoin",
+            "IRM cérébrale",
+            "Radiographie du bassin"
+        ],
+        "answer": "Échographie scrotale puis laparoscopie si besoin"
+    },
+    {
+        "id": 38,
+        "question": "Une hémospermie peut être bénigne, mais elle impose :",
+        "options": [
+            "Lavage urinaire",
+            "Exploration si > 40 ans ou symptômes associés",
+            "Antiviraux",
+            "Stimulation hormonale"
+        ],
+        "answer": "Exploration si > 40 ans ou symptômes associés"
+    },
+    {
+        "id": 39,
+        "question": "Quel examen permet de visualiser l’urètre en cas de sténose ?",
+        "options": [
+            "IRM abdominale",
+            "Urétrographie rétrograde",
+            "Échographie rénale",
+            "Cytoscopie digestive"
+        ],
+        "answer": "Urétrographie rétrograde"
+    },
+    {
+        "id": 40,
+        "question": "L’épididymite aiguë est souvent due à :",
+        "options": [
+            "Reflux vésico-rénal",
+            "Infection ascendante (E. coli ou IST)",
+            "Hernie inguinale",
+            "Tumeur maligne"
+        ],
+        "answer": "Infection ascendante (E. coli ou IST)"
+    },{
+        "id": 41,
+        "question": "Une anurie brutale évoque :",
+        "options": [
+            "Rhinite",
+            "Obstruction bilatérale des voies urinaires ou insuffisance rénale aiguë",
+            "Asthme",
+            "Phimosis"
+        ],
+        "answer": "Obstruction bilatérale des voies urinaires ou insuffisance rénale aiguë"
+    },
+    {
+        "id": 42,
+        "question": "La balanoposthite est l’inflammation de :",
+        "options": [
+            "L’urètre",
+            "La prostate",
+            "Gland et prépuce",
+            "Scrotum"
+        ],
+        "answer": "Gland et prépuce"
+    },
+    {
+        "id": 43,
+        "question": "Quelle est une complication classique de l’HBP ?",
+        "options": [
+            "Fistule anale",
+            "Rétention aiguë d’urine",
+            "Orchite",
+            "Hémorroïdes"
+        ],
+        "answer": "Rétention aiguë d’urine"
+    },
+    {
+        "id": 44,
+        "question": "Quelle mesure est utile pour prévenir les infections urinaires à répétition ?",
+        "options": [
+            "Café quotidien",
+            "Hydratation régulière et mictions après rapports",
+            "Antibiotiques en continu",
+            "Repos prolongé"
+        ],
+        "answer": "Hydratation régulière et mictions après rapports"
+    },
+    {
+        "id": 45,
+        "question": "La torsion testiculaire est une urgence car :",
+        "options": [
+            "Elle est rare",
+            "Elle peut entraîner la perte du testicule en 6h",
+            "Elle donne de la fièvre",
+            "Elle est virale"
+        ],
+        "answer": "Elle peut entraîner la perte du testicule en 6h"
+    },
+    {
+        "id": 46,
+        "question": "Le priapisme est :",
+        "options": [
+            "Une érection absente",
+            "Une érection prolongée non désirée",
+            "Une dysfonction éjaculatoire",
+            "Une infection pénienne"
+        ],
+        "answer": "Une érection prolongée non désirée"
+    },
+    {
+        "id": 47,
+        "question": "Quelle tumeur urologique touche les jeunes enfants ?",
+        "options": [
+            "Cancer prostatique",
+            "Tumeur de Wilms (néphroblastome)",
+            "Cancer de la vessie",
+            "Varicocèle"
+        ],
+        "answer": "Tumeur de Wilms (néphroblastome)"
+    },
+    {
+        "id": 48,
+        "question": "Un éjaculat anormalement faible peut signaler :",
+        "options": [
+            "Hyperactivité vésicale",
+            "Obstruction des canaux éjaculateurs",
+            "Infection ORL",
+            "Allergie alimentaire"
+        ],
+        "answer": "Obstruction des canaux éjaculateurs"
+    },
+    {
+        "id": 49,
+        "question": "Quel médicament peut causer des troubles urinaires ?",
+        "options": [
+            "Anticholinergiques",
+            "Antipyrétiques",
+            "Anticoagulants",
+            "Probiotiques"
+        ],
+        "answer": "Anticholinergiques"
+    },
+    {
+        "id": 50,
+        "question": "Le dépistage systématique du cancer de la prostate est recommandé :",
+        "options": [
+            "Chez tous les hommes dès 30 ans",
+            "Chez les hommes à risque à partir de 50 ans ou 45 ans si antécédents familiaux",
+            "Chez les enfants",
+            "Chez les femmes"
+        ],
+        "answer": "Chez les hommes à risque à partir de 50 ans ou 45 ans si antécédents familiaux"
+    }
+]
