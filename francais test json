@@ -382,5 +382,114 @@
       "Un texte écrit sans fautes"
     ],
     "answer": "Un texte dont les idées sont logiquement liées"
+  },{
+    "numero": 51,
+    "question": "Quelle formule de politesse est correcte dans une lettre formelle ?",
+    "options": [
+      "À plus",
+      "Bien à toi",
+      "Veuillez agréer, Madame, l’expression de mes salutations distinguées.",
+      "Salut"
+    ],
+    "answer": "Veuillez agréer, Madame, l’expression de mes salutations distinguées."
+  },
+  {
+    "numero": 52,
+    "question": "Quel mot est le plus soutenu ?",
+    "options": [
+      "Bouffer",
+      "Manger",
+      "Déguster",
+      "Se nourrir"
+    ],
+    "answer": "Se nourrir"
+  },
+  {
+    "numero": 53,
+    "question": "Dans un email professionnel, on évite :",
+    "options": [
+      "Les tournures impersonnelles",
+      "L’utilisation du passé composé",
+      "Le tutoiement",
+      "Les phrases longues"
+    ],
+    "answer": "Le tutoiement"
+  },
+  {
+    "numero": 54,
+    "question": "Choisissez la meilleure transition logique pour exprimer une conséquence :",
+    "options": [
+      "En revanche",
+      "Par conséquent",
+      "Pourtant",
+      "En effet"
+    ],
+    "answer": "Par conséquent"
+  },
+  {
+    "numero": 55,
+    "question": "Lequel est un registre de langue familier ?",
+    "options": [
+      "S’éclipser",
+      "Se casser",
+      "S’absenter",
+      "Se retirer"
+    ],
+    "answer": "Se casser"
+  },
+  {
+    "numero": 56,
+    "question": "Laquelle de ces phrases conviendrait dans un rapport administratif ?",
+    "options": [
+      "Le chef a pété les plombs.",
+      "Le directeur est devenu fou.",
+      "Le supérieur a exprimé sa contrariété.",
+      "Ça l’a saoulé."
+    ],
+    "answer": "Le supérieur a exprimé sa contrariété."
+  },
+  {
+    "numero": 57,
+    "question": "Quelle phrase est claire et concise ?",
+    "options": [
+      "Il est évident que cela pourrait éventuellement potentiellement se produire.",
+      "Cela pourrait se produire.",
+      "C’est une chose que l’on ne peut pas prévoir si jamais cela survenait.",
+      "Si éventuellement cela devait arriver un jour, peut-être que…"
+    ],
+    "answer": "Cela pourrait se produire."
+  },
+  {
+    "numero": 58,
+    "question": "Laquelle est une phrase neutre et professionnelle ?",
+    "options": [
+      "Vous êtes priés de faire le boulot.",
+      "Merci de bien vouloir effectuer cette tâche.",
+      "Faites ce qu’on vous dit.",
+      "Faut le faire."
+    ],
+    "answer": "Merci de bien vouloir effectuer cette tâche."
+  },
+  {
+    "numero": 59,
+    "question": "Lequel est un connecteur logique de concession ?",
+    "options": [
+      "Toutefois",
+      "En effet",
+      "C’est pourquoi",
+      "D’abord"
+    ],
+    "answer": "Toutefois"
+  },
+  {
+    "numero": 60,
+    "question": "Complétez avec le bon ton formel : « Nous vous remercions de ___ votre attention. »",
+    "options": [
+      "nous avoir accordé",
+      "nous donner",
+      "nous accorder",
+      "avoir donné"
+    ],
+    "answer": "nous avoir accordé"
   }
 ]
