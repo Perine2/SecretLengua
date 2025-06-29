@@ -1,550 +1,386 @@
 [
     {
     "numero": 1,
-    "question": "Quelle est la phrase correcte ?",
-    "options": [
-      "Il faut que tu vas à l’école.",
-      "Il faut que tu ailles à l’école.",
-      "Il faut que tu allais à l’école.",
-      "Il faut que tu es allé à l’école."
-    ],
-    "answer": "Il faut que tu ailles à l’école."
-  },
-  {
-    "numero": 2,
-    "question": "Quel est le sujet dans la phrase : « Il est arrivé quelque chose d’étrange » ?",
-    "options": [
-      "Il",
-      "Quelque chose",
-      "Arrivé",
-      "D’étrange"
-    ],
-    "answer": "Quelque chose"
-  },
-  {
-    "numero": 3,
-    "question": "Complétez : « Les enfants ___ leurs jouets. »",
-    "options": [
-      "ranges",
-      "rangeons",
-      "rangent",
-      "ranger"
-    ],
-    "answer": "rangent"
-  },
-  {
-    "numero": 4,
-    "question": "Quelle phrase contient un accord incorrect ?",
-    "options": [
-      "Les fleurs sont fanées.",
-      "Elles se sont lavé les mains.",
-      "Ils se sont téléphonés.",
-      "Elles se sont parlées longuement."
-    ],
-    "answer": "Elles se sont parlées longuement."
-  },
-  {
-    "numero": 5,
-    "question": "Quelle proposition est une subordonnée conjonctive ?",
-    "options": [
-      "Il court vite.",
-      "Quand il court, il respire mal.",
-      "Il court et respire mal.",
-      "En courant, il respire mal."
-    ],
-    "answer": "Quand il court, il respire mal."
-  },
-  {
-    "numero": 6,
-    "question": "Dans la phrase « La maison que j’ai achetée est vieille », que remplace « que » ?",
-    "options": [
-      "Le sujet",
-      "Le verbe",
-      "Le complément d’objet direct",
-      "Un adjectif"
-    ],
-    "answer": "Le complément d’objet direct"
-  },
-  {
-    "numero": 7,
-    "question": "Complétez avec le bon pronom relatif : « C’est une ville ___ j’ai beaucoup entendu parler. »",
-    "options": [
-      "que",
-      "dont",
-      "où",
-      "lequel"
-    ],
-    "answer": "dont"
-  },
-  {
-    "numero": 8,
-    "question": "Choisissez le mot qui convient : « Elle n’a ___ vu venir. »",
-    "options": [
-      "rien",
-      "jamais",
-      "personne",
-      "aucun"
-    ],
-    "answer": "rien"
-  },
-  {
-    "numero": 9,
-    "question": "Quelle phrase est à la voix passive ?",
-    "options": [
-      "Il lit le livre.",
-      "Le livre a été lu par l’élève.",
-      "L’élève va lire le livre.",
-      "Il va lire le livre."
-    ],
-    "answer": "Le livre a été lu par l’élève."
-  },
-  {
-    "numero": 10,
-    "question": "Accordez correctement : « La voiture qu’ils ont ___ était rouge. »",
-    "options": [
-      "achetée",
-      "achetés",
-      "acheté",
-      "achetées"
-    ],
-    "answer": "achetée"
-  },
-  {
-    "numero": 11,
-    "question": "Quelle est la classe grammaticale du mot « rapidement » ?",
-    "options": [
-      "Adjectif",
-      "Verbe",
-      "Nom",
-      "Adverbe"
-    ],
-    "answer": "Adverbe"
-  },
-  {
-    "numero": 12,
-    "question": "Lequel est un complément circonstanciel ?",
-    "options": [
-      "Marie lit un livre.",
-      "Elle marche dans le parc.",
-      "L’enfant est fatigué.",
-      "Il est gentil."
-    ],
-    "answer": "Elle marche dans le parc."
-  },
-  {
-    "numero": 13,
-    "question": "Dans « Je me suis lavé les mains », pourquoi « lavé » ne s’accorde-t-il pas ?",
-    "options": [
-      "Parce que c’est un verbe du 3e groupe",
-      "Parce qu’il n’a pas de COD",
-      "Parce que le COD suit",
-      "Parce qu’il est réfléchi"
-    ],
-    "answer": "Parce que le COD suit"
-  },
-  {
-    "numero": 14,
-    "question": "Identifiez la proposition indépendante :",
-    "options": [
-      "S’il pleut, je resterai.",
-      "Bien qu’il vienne, il est discret.",
-      "Il mange, il lit.",
-      "Quand il mange, il lit."
-    ],
-    "answer": "Il mange, il lit."
-  },
-  {
-    "numero": 15,
-    "question": "Le mot « lesquelles » est :",
-    "options": [
-      "Un déterminant",
-      "Un pronom relatif",
-      "Un nom",
-      "Une conjonction"
-    ],
-    "answer": "Un pronom relatif"
-  },
-  {
-    "numero": 1,
-    "question": "Lequel est bien orthographié ?",
-    "options": [
-      "Apparament",
-      "Apparément",
-      "Apparemment",
-      "Aparrement"
-    ],
-    "answer": "Apparemment"
-  },
-  {
-    "numero": 2,
-    "question": "Quelle phrase contient une faute d’accord ?",
-    "options": [
-      "Elles sont heureuses.",
-      "Les valises sont lourds.",
-      "Ces enfants sont polis.",
-      "Les voitures sont rapides."
-    ],
-    "answer": "Les valises sont lourds."
-  },
-  {
-    "numero": 3,
-    "question": "Le mot « circonspect » signifie :",
-    "options": [
-      "Joyeux",
-      "Prudent",
-      "Rude",
-      "Énergique"
-    ],
-    "answer": "Prudent"
-  },
-  {
-    "numero": 4,
-    "question": "Trouvez le synonyme de « hâtif  » :",
-    "options": [
-      "Lent",
-      "Précipité",
-      "Sérieux",
-      "Doux"
-    ],
-    "answer": "Précipité"
-  },
-  {
-    "numero": 5,
-    "question": "L'antonyme de « explicite » est :",
-    "options": [
-      "Douteux",
-      "Caché",
-      "Implicite",
-      "Clair"
-    ],
-    "answer": "Implicite"
-  },
-  {
-    "numero": 6,
-    "question": "Dans quelle phrase le mot est bien employé ?",
-    "options": [
-      "Il a acquis une voiture neuve.",
-      "Il a acquit une voiture neuve.",
-      "Il a aquis une voiture neuve.",
-      "Il a acquis une voiture nouveau."
-    ],
-    "answer": "Il a acquis une voiture neuve."
-  },
-  {
-    "numero": 7,
-    "question": "Quel mot contient un pléonasme ?",
-    "options": [
-      "Monter en haut",
-      "Descendre",
-      "Courir vite",
-      "Penser souvent"
-    ],
-    "answer": "Monter en haut"
-  },
-  {
-    "numero": 8,
-    "question": "Choisissez le mot correctement orthographié :",
-    "options": [
-      "Innéficace",
-      "Inefficace",
-      "Inefiquace",
-      "Inéfficace"
-    ],
-    "answer": "Inefficace"
-  },
-  {
-    "numero": 9,
-    "question": "Le mot « abroger » signifie :",
-    "options": [
-      "Appliquer une loi",
-      "Modifier une loi",
-      "Supprimer une loi",
-      "Prolonger une loi"
-    ],
-    "answer": "Supprimer une loi"
-  },
-  {
-    "numero": 10,
-    "question": "Trouvez le mot qui ne correspond pas aux autres :",
-    "options": [
-      "Avare",
-      "Généreux",
-      "Radin",
-      "Pingre"
-    ],
-    "answer": "Généreux"
-  },
-  {
-    "numero": 11,
-    "question": "Lequel est un verbe pronominal ?",
-    "options": [
-      "Manger",
-      "Lire",
-      "Se laver",
-      "Courir"
-    ],
-    "answer": "Se laver"
-  },
-  {
-    "numero": 12,
-    "question": "Que signifie « être à cheval sur les principes » ?",
-    "options": [
-      "Être sportif",
-      "Être instable",
-      "Être strict",
-      "Être désorganisé"
-    ],
-    "answer": "Être strict"
-  },
-  {
-    "numero": 13,
-    "question": "Le mot « aléatoire » veut dire :",
-    "options": [
-      "Certain",
-      "Équilibré",
-      "Hasardeux",
-      "Rigoureux"
-    ],
-    "answer": "Hasardeux"
-  },
-  {
-    "numero": 14,
-    "question": "Dans quelle phrase le mot est mal utilisé ?",
-    "options": [
-      "Il a commis une erreur.",
-      "Elle a subi une perte.",
-      "Il a consommé une peine.",
-      "Ils ont pris une décision."
-    ],
-    "answer": "Il a consommé une peine."
-  },
-  {
-    "numero": 15,
-    "question": "Le mot « tacite » signifie :",
-    "options": [
-      "Évident",
-      "Implicite",
-      "Parlé",
-      "Proclamé"
-    ],
-    "answer": "Implicite"
-  },{
-    "numero": 1,
-    "question": "Au subjonctif présent : « Il faut que tu ___ (faire) attention. »",
-    "options": [
-      "fais",
-      "fait",
-      "fasses",
-      "feras"
-    ],
-    "answer": "fasses"
-  },
-  {
-    "numero": 2,
-    "question": "À quel temps est conjugué ce verbe : « Nous aurions voulu » ?",
-    "options": [
-      "Futur antérieur",
-      "Subjonctif passé",
-      "Conditionnel passé",
-      "Imparfait"
-    ],
-    "answer": "Conditionnel passé"
-  },
-  {
-    "numero": 3,
-    "question": "À quel mode est conjugué « Allons-y ! » ?",
+    "question": "Quel est le mode du verbe dans la phrase : « Il faut que tu viennes » ?",
     "options": [
       "Indicatif",
       "Subjonctif",
       "Conditionnel",
       "Impératif"
     ],
-    "answer": "Impératif"
-  },
-  {
-    "numero": 4,
-    "question": "« Si j’___ plus d’argent, je voyagerais. »",
-    "options": [
-      "avais",
-      "ai",
-      "aurai",
-      "aie"
-    ],
-    "answer": "avais"
-  },
-  {
-    "numero": 5,
-    "question": "Quelle est la bonne terminaison du futur pour « venir » à la 1ʳᵉ personne du singulier ?",
-    "options": [
-      "Viens",
-      "Viendrai",
-      "Viendra",
-      "Venirai"
-    ],
-    "answer": "Viendrai"
-  },
-  {
-    "numero": 6,
-    "question": "À quel temps est conjugué « Il aura fini » ?",
-    "options": [
-      "Futur simple",
-      "Futur antérieur",
-      "Passé composé",
-      "Plus-que-parfait"
-    ],
-    "answer": "Futur antérieur"
-  },
-  {
-    "numero": 7,
-    "question": "Quelle forme est correcte ?",
-    "options": [
-      "Qu’ils viennes",
-      "Qu’ils viennent",
-      "Qu’ils viennents",
-      "Qu’ils vienne"
-    ],
-    "answer": "Qu’ils viennent"
-  },
-  {
-    "numero": 8,
-    "question": "Complétez : « Ils ___ en train de travailler. »",
-    "options": [
-      "sont",
-      "aient",
-      "étaient",
-      "soyez"
-    ],
-    "answer": "sont"
-  },
-  {
-    "numero": 9,
-    "question": "Quelle est la forme correcte du verbe « s’asseoir » au présent, 1ʳᵉ personne du singulier ?",
-    "options": [
-      "Je m’assois",
-      "Je m’assied",
-      "Je m’assis",
-      "Je m’assieds"
-    ],
-    "answer": "Je m’assieds"
-  },
-  {
-    "numero": 10,
-    "question": "À quel temps est conjugué « j’écrivais » ?",
-    "options": [
-      "Imparfait",
-      "Passé simple",
-      "Présent",
-      "Subjonctif"
-    ],
-    "answer": "Imparfait"
-  },{
-    "numero": 1,
-    "question": "Quelle formule de politesse est correcte dans une lettre formelle ?",
-    "options": [
-      "À plus",
-      "Bien à toi",
-      "Veuillez agréer, Madame, l’expression de mes salutations distinguées.",
-      "Salut"
-    ],
-    "answer": "Veuillez agréer, Madame, l’expression de mes salutations distinguées."
+    "answer": "Subjonctif"
   },
   {
     "numero": 2,
-    "question": "Quel mot est le plus soutenu ?",
+    "question": "Dans « Les enfants que j’ai vus partir », le mot « vus » est accordé :",
     "options": [
-      "Bouffer",
-      "Manger",
-      "Déguster",
-      "Se nourrir"
+      "avec le sujet « enfants »",
+      "avec « j’ »",
+      "ne s’accorde pas",
+      "avec « partir »"
     ],
-    "answer": "Se nourrir"
+    "answer": "avec le sujet « enfants »"
   },
   {
     "numero": 3,
-    "question": "Dans un email professionnel, on évite :",
+    "question": "Laquelle de ces propositions contient un pléonasme ?",
     "options": [
-      "Les tournures impersonnelles",
-      "L’utilisation du passé composé",
-      "Le tutoiement",
-      "Les phrases longues"
+      "Je monte en haut",
+      "Je descends les escaliers",
+      "Je vais au marché",
+      "Il pleut beaucoup"
     ],
-    "answer": "Le tutoiement"
+    "answer": "Je monte en haut"
   },
   {
     "numero": 4,
-    "question": "Choisissez la meilleure transition logique pour exprimer une conséquence :",
+    "question": "Dans « Il mangeait quand je suis arrivé », quelle est la valeur de l’imparfait ?",
     "options": [
-      "En revanche",
-      "Par conséquent",
-      "Pourtant",
-      "En effet"
+      "Narratif",
+      "Hypothétique",
+      "Duratif",
+      "Ordre"
     ],
-    "answer": "Par conséquent"
+    "answer": "Duratif"
   },
   {
     "numero": 5,
-    "question": "Lequel est un registre de langue familier ?",
+    "question": "Le mot « alternative » signifie :",
     "options": [
-      "S’éclipser",
-      "Se casser",
-      "S’absenter",
-      "Se retirer"
+      "Plusieurs possibilités",
+      "Un ensemble de solutions",
+      "Un choix entre deux options",
+      "Un compromis"
     ],
-    "answer": "Se casser"
+    "answer": "Un choix entre deux options"
   },
   {
     "numero": 6,
-    "question": "Laquelle de ces phrases conviendrait dans un rapport administratif ?",
+    "question": "Dans « Soudain, il se leva », quel est le rôle de « soudain » ?",
     "options": [
-      "Le chef a pété les plombs.",
-      "Le directeur est devenu fou.",
-      "Le supérieur a exprimé sa contrariété.",
-      "Ça l’a saoulé."
+      "Conjonction",
+      "Adverbe",
+      "Adjectif",
+      "Préposition"
     ],
-    "answer": "Le supérieur a exprimé sa contrariété."
+    "answer": "Adverbe"
   },
   {
     "numero": 7,
-    "question": "Quelle phrase est claire et concise ?",
+    "question": "Laquelle de ces phrases contient une faute d’orthographe grammaticale ?",
     "options": [
-      "Il est évident que cela pourrait éventuellement potentiellement se produire.",
-      "Cela pourrait se produire.",
-      "C’est une chose que l’on ne peut pas prévoir si jamais cela survenait.",
-      "Si éventuellement cela devait arriver un jour, peut-être que…"
+      "Ils ont mangé",
+      "Ils ont manger",
+      "Nous sommes allés",
+      "Tu as vu"
     ],
-    "answer": "Cela pourrait se produire."
+    "answer": "Ils ont manger"
   },
   {
     "numero": 8,
-    "question": "Laquelle est une phrase neutre et professionnelle ?",
+    "question": "Quelle est la classe grammaticale du mot « rapidement » ?",
     "options": [
-      "Vous êtes priés de faire le boulot.",
-      "Merci de bien vouloir effectuer cette tâche.",
-      "Faites ce qu’on vous dit.",
-      "Faut le faire."
+      "Nom",
+      "Verbe",
+      "Adverbe",
+      "Conjonction"
     ],
-    "answer": "Merci de bien vouloir effectuer cette tâche."
+    "answer": "Adverbe"
   },
   {
     "numero": 9,
-    "question": "Lequel est un connecteur logique de concession ?",
+    "question": "Quel est le complément circonstanciel dans « Il est parti sans prévenir » ?",
     "options": [
-      "Toutefois",
-      "En effet",
-      "C’est pourquoi",
-      "D’abord"
+      "Il",
+      "Est",
+      "Parti",
+      "Sans prévenir"
     ],
-    "answer": "Toutefois"
+    "answer": "Sans prévenir"
   },
   {
     "numero": 10,
-    "question": "Complétez avec le bon ton formel : « Nous vous remercions de ___ votre attention. »",
+    "question": "Dans le mot « bibliothécaire », le suffixe indique :",
     "options": [
-      "nous avoir accordé",
-      "nous donner",
-      "nous accorder",
-      "avoir donné"
+      "Une action",
+      "Un lieu",
+      "Une personne",
+      "Un adjectif"
     ],
-    "answer": "nous avoir accordé"
+    "answer": "Une personne"
+  }, {
+    "numero": 26,
+    "question": "Quelle est la nature du mot « quoiqu’il » dans la phrase suivante : « Quoiqu’il pleuve, il viendra » ?",
+    "options": [
+      "Conjonction de subordination",
+      "Pronom relatif",
+      "Adverbe interrogatif",
+      "Préposition"
+    ],
+    "answer": "Conjonction de subordination"
+  },
+  {
+    "numero": 27,
+    "question": "Parmi ces mots, lequel contient un hiatus ?",
+    "options": [
+      "Nuage",
+      "Lion",
+      "Chien",
+      "Route"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "numero": 28,
+    "question": "Quelle est la fonction de « le » dans « Il le pense sincèrement » ?",
+    "options": [
+      "Attribut du sujet",
+      "Complément d'objet direct",
+      "Sujet",
+      "Complément d’agent"
+    ],
+    "answer": "Complément d'objet direct"
+  },
+  {
+    "numero": 29,
+    "question": "Dans la phrase « Elle se laisse emporter par la foule », quelle est la voix du verbe ?",
+    "options": [
+      "Active",
+      "Passive",
+      "Pronominale",
+      "Impersonnelle"
+    ],
+    "answer": "Pronominale"
+  },
+  {
+    "numero": 30,
+    "question": "Lequel de ces mots est un archaïsme en français moderne ?",
+    "options": [
+      "Vespéral",
+      "Quérir",
+      "Inouï",
+      "Éclore"
+    ],
+    "answer": "Quérir"
+  },
+  {
+    "numero": 31,
+    "question": "Quel est le mode verbal utilisé dans « Fusse-t-il honnête, je ne lui ferais pas confiance » ?",
+    "options": [
+      "Conditionnel",
+      "Subjonctif",
+      "Indicatif",
+      "Impératif"
+    ],
+    "answer": "Subjonctif"
+  },
+  {
+    "numero": 32,
+    "question": "Quelle est la valeur aspectuelle de l’imparfait dans la phrase suivante : « Il pleuvait tous les dimanches » ?",
+    "options": [
+      "Aspect accompli",
+      "Aspect itératif",
+      "Aspect prospectif",
+      "Aspect perfectif"
+    ],
+    "answer": "Aspect itératif"
+  },
+  {
+    "numero": 33,
+    "question": "Dans quel cas emploie-t-on le subjonctif après « après que » ?",
+    "options": [
+      "Toujours",
+      "Jamais",
+      "Lorsque l’action est incertaine",
+      "Lorsque l’action est antérieure"
+    ],
+    "answer": "Jamais"
+  },
+  {
+    "numero": 34,
+    "question": "Quelle est la principale difficulté pédagogique liée à l’enseignement du passé simple à l’oral ?",
+    "options": [
+      "Son usage rare à l’écrit",
+      "Son absence dans le langage courant",
+      "Sa prononciation difficile",
+      "Sa confusion avec l’imparfait"
+    ],
+    "answer": "Son absence dans le langage courant"
+  },
+  {
+    "numero": 35,
+    "question": "Quel est le type de subordination dans « Il pense que tu viendras » ?",
+    "options": [
+      "Relative",
+      "Circonstancielle",
+      "Complétive",
+      "Infinitive"
+    ],
+    "answer": "Complétive"
+  },
+  {
+    "numero": 36,
+    "question": "Lequel de ces mots est un mot-valise ?",
+    "options": [
+      "Informatique",
+      "Clavardage",
+      "Courriel",
+      "Franglais"
+    ],
+    "answer": "Franglais"
+  },
+  {
+    "numero": 37,
+    "question": "Quel est le rôle du pronom « en » dans la phrase : « Il en parle souvent » ?",
+    "options": [
+      "Pronom sujet",
+      "Pronom possessif",
+      "Pronom adverbial",
+      "Pronom personnel complément"
+    ],
+    "answer": "Pronom personnel complément"
+  },
+  {
+    "numero": 38,
+    "question": "Laquelle de ces propositions contient une syllepse de sens ?",
+    "options": [
+      "Le chat dort sur le canapé.",
+      "Le navire était en feu et les passagers en panique.",
+      "La foule court vite.",
+      "Je me suis levé tôt ce matin."
+    ],
+    "answer": "Le navire était en feu et les passagers en panique."
+  },
+  {
+    "numero": 39,
+    "question": "Quel mot est un hyperonyme de « chêne » ?",
+    "options": [
+      "Feuille",
+      "Forêt",
+      "Arbre",
+      "Tronc"
+    ],
+    "answer": "Arbre"
+  },
+  {
+    "numero": 40,
+    "question": "Lequel de ces termes désigne un énoncé coupé du temps et du lieu d’énonciation ?",
+    "options": [
+      "Énoncé subjectif",
+      "Énoncé impersonnel",
+      "Énoncé ancré",
+      "Énoncé coupé"
+    ],
+    "answer": "Énoncé coupé"
+  },
+  {
+    "numero": 41,
+    "question": "Lequel de ces verbes est essentiellement pronominal ?",
+    "options": [
+      "Se taire",
+      "S’amuser",
+      "Se laver",
+      "S’habiller"
+    ],
+    "answer": "Se taire"
+  },
+  {
+    "numero": 42,
+    "question": "Dans l’approche actionnelle du CECRL, quel est le rôle central de l’apprenant ?",
+    "options": [
+      "Récepteur passif de la langue",
+      "Imitateur de structures grammaticales",
+      "Acteur social en situation de communication",
+      "Observateur de faits linguistiques"
+    ],
+    "answer": "Acteur social en situation de communication"
+  },
+  {
+    "numero": 43,
+    "question": "Le mot « imbuvable » appartient à quel registre de langue ?",
+    "options": [
+      "Soutenu",
+      "Familier",
+      "Neutre",
+      "Technique"
+    ],
+    "answer": "Familier"
+  },
+  {
+    "numero": 44,
+    "question": "Lequel des termes suivants est un antonyme contextuel du mot « clair » ?",
+    "options": [
+      "Dense",
+      "Trouble",
+      "Obscur",
+      "Dense"
+    ],
+    "answer": "Trouble"
+  },
+  {
+    "numero": 45,
+    "question": "Quelle est la principale caractéristique d’un texte injonctif ?",
+    "options": [
+      "Il raconte un événement passé",
+      "Il expose des arguments",
+      "Il donne des ordres ou conseils",
+      "Il décrit un lieu"
+    ],
+    "answer": "Il donne des ordres ou conseils"
+  },
+  {
+    "numero": 46,
+    "question": "Dans « Les enfants que j’ai vus jouer », pourquoi y a-t-il accord de « vus » ?",
+    "options": [
+      "Parce que le verbe est conjugué avec être",
+      "Parce que « enfants » est le sujet du verbe",
+      "Parce que le COD est placé avant l’auxiliaire",
+      "Il ne devrait pas y avoir d’accord"
+    ],
+    "answer": "Parce que le COD est placé avant l’auxiliaire"
+  },
+  {
+    "numero": 47,
+    "question": "Lequel de ces mots contient un préfixe privatif ?",
+    "options": [
+      "Inactif",
+      "Refaire",
+      "Dépasser",
+      "Prévenir"
+    ],
+    "answer": "Inactif"
+  },
+  {
+    "numero": 48,
+    "question": "Dans l’alternance oral/écrit, quelle est la principale difficulté pour les apprenants avancés ?",
+    "options": [
+      "Apprendre le vocabulaire",
+      "Maîtriser les temps composés",
+      "Gérer le niveau de formalité",
+      "Utiliser le subjonctif"
+    ],
+    "answer": "Gérer le niveau de formalité"
+  },
+  {
+    "numero": 49,
+    "question": "Lequel des mots suivants est un néologisme reconnu par l’Académie française ?",
+    "options": [
+      "Covoiturage",
+      "Selfie",
+      "Like",
+      "Webinaire"
+    ],
+    "answer": "Covoiturage"
+  },
+  {
+    "numero": 50,
+    "question": "Quelle est la définition correcte d’un « cohérent » texte ?",
+    "options": [
+      "Un texte bien ponctué",
+      "Un texte respectant la chronologie",
+      "Un texte dont les idées sont logiquement liées",
+      "Un texte écrit sans fautes"
+    ],
+    "answer": "Un texte dont les idées sont logiquement liées"
   }
 ]
