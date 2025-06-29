@@ -1,549 +1,657 @@
 [
    {
     "numero": 1,
-    "question": "Which sentence is grammatically correct?",
+    "question": "Which of the following sentences contains a cleft sentence?",
     "options": [
-      "She don’t like the movie.",
-      "She doesn’t likes the movie.",
-      "She doesn’t like the movie.",
-      "She isn’t like the movie."
+      "I saw the man who lives next door.",
+      "It was John who broke the window.",
+      "John broke the window yesterday.",
+      "Who broke the window?"
     ],
-    "answer": "She doesn’t like the movie."
+    "answer": "It was John who broke the window."
   },
   {
     "numero": 2,
-    "question": "Identify the correct passive form: 'The committee approved the proposal.'",
+    "question": "Identify the function of the word 'that' in this sentence: “The book that I read was excellent.”",
     "options": [
-      "The proposal approves the committee.",
-      "The proposal is approved by the committee.",
-      "The proposal was approved by the committee.",
-      "The committee was approved by the proposal."
+      "Conjunction",
+      "Preposition",
+      "Relative pronoun",
+      "Determiner"
     ],
-    "answer": "The proposal was approved by the committee."
+    "answer": "Relative pronoun"
   },
   {
     "numero": 3,
-    "question": "Choose the correct verb tense: 'By next year, she ___ in London for a decade.'",
-    "options": [
-      "lived",
-      "lives",
-      "has lived",
-      "will have lived"
-    ],
-    "answer": "will have lived"
-  },
-  {
-    "numero": 4,
-    "question": "Which sentence uses the subjunctive mood?",
-    "options": [
-      "If I was rich, I’d buy a yacht.",
-      "If I were rich, I’d buy a yacht.",
-      "If I am rich, I’d buy a yacht.",
-      "If I be rich, I’d buy a yacht."
-    ],
-    "answer": "If I were rich, I’d buy a yacht."
-  },
-  {
-    "numero": 5,
-    "question": "Which word is an adverb?",
-    "options": [
-      "Quick",
-      "Quickly",
-      "Quicker",
-      "Quickest"
-    ],
-    "answer": "Quickly"
-  },
-  {
-    "numero": 6,
-    "question": "Identify the indirect question:",
-    "options": [
-      "What time is it?",
-      "Can you tell me what time it is?",
-      "Tell me the time.",
-      "You know what time?"
-    ],
-    "answer": "Can you tell me what time it is?"
-  },
-  {
-    "numero": 7,
-    "question": "Which preposition is correct? 'He’s good ___ math.'",
-    "options": [
-      "on",
-      "for",
-      "at",
-      "in"
-    ],
-    "answer": "at"
-  },
-  {
-    "numero": 8,
-    "question": "Identify the correct conditional form: 'If she had studied, she ___ the exam.'",
-    "options": [
-      "will pass",
-      "would pass",
-      "would have passed",
-      "passed"
-    ],
-    "answer": "would have passed"
-  },
-  {
-    "numero": 9,
     "question": "Choose the sentence with correct subject-verb agreement:",
     "options": [
-      "The list of items are on the desk.",
-      "The list of items is on the desk.",
-      "The items is on the desk.",
-      "The item are on the desk."
+      "Neither the boy nor the girls was present.",
+      "Each of the students have submitted the form.",
+      "The data is inaccurate.",
+      "A number of students are late."
     ],
-    "answer": "The list of items is on the desk."
+    "answer": "A number of students are late."
+  },
+  {
+    "numero": 4,
+    "question": "Identify the grammatical voice used in: 'The house was being painted.'",
+    "options": [
+      "Active",
+      "Middle",
+      "Passive",
+      "Reflexive"
+    ],
+    "answer": "Passive"
+  },
+  {
+    "numero": 5,
+    "question": "Which structure represents the past perfect continuous tense?",
+    "options": [
+      "Had been eating",
+      "Was eating",
+      "Has eaten",
+      "Had eaten"
+    ],
+    "answer": "Had been eating"
+  },
+  {
+    "numero": 6,
+    "question": "What type of conditional is this: “If I had known, I would have helped.”",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Mixed"
+    ],
+    "answer": "Third"
+  },
+  {
+    "numero": 7,
+    "question": "Which sentence contains a reduced relative clause?",
+    "options": [
+      "The man who is talking to Mary is my brother.",
+      "The man talking to Mary is my brother.",
+      "The man that talks to Mary is my brother.",
+      "Mary talks to the man who is my brother."
+    ],
+    "answer": "The man talking to Mary is my brother."
+  },
+  {
+    "numero": 8,
+    "question": "What type of noun clause is in the sentence: “I don’t know what he wants.”",
+    "options": [
+      "Subject",
+      "Object",
+      "Complement",
+      "Adverbial"
+    ],
+    "answer": "Object"
+  },
+  {
+    "numero": 9,
+    "question": "What grammatical role does the word “quickly” play in this sentence: “She runs quickly.”",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Verb",
+      "Preposition"
+    ],
+    "answer": "Adverb"
   },
   {
     "numero": 10,
-    "question": "Which word correctly completes this sentence? 'Neither the teacher nor the students ___ happy with the results.'",
+    "question": "Which of the following is an example of a stative verb?",
     "options": [
-      "is",
-      "was",
-      "are",
-      "be"
+      "Sleep",
+      "Run",
+      "Know",
+      "Eat"
     ],
-    "answer": "are"
+    "answer": "Know"
   },
   {
     "numero": 11,
-    "question": "Choose the correct modal verb: 'You ___ wear a helmet when riding a motorcycle.'",
+    "question": "Choose the correct use of a modal verb expressing deduction:",
     "options": [
-      "can",
-      "must",
-      "might",
-      "may"
+      "She can be at home.",
+      "She might to be at home.",
+      "She must be at home.",
+      "She should goes home."
     ],
-    "answer": "must"
+    "answer": "She must be at home."
   },
   {
     "numero": 12,
-    "question": "Select the sentence with the correct comparative:",
+    "question": "Which is an example of an inversion after a negative adverbial?",
     "options": [
-      "She is more prettier than her sister.",
-      "She is prettier than her sister.",
-      "She is most pretty than her sister.",
-      "She is more pretty than her sister."
+      "Not only he went to Paris.",
+      "Not only did he go to Paris.",
+      "He did not only go to Paris.",
+      "He not only went to Paris."
     ],
-    "answer": "She is prettier than her sister."
+    "answer": "Not only did he go to Paris."
   },
   {
     "numero": 13,
-    "question": "Which is the correct reported speech form? 'He said, “I will call you tomorrow.”'",
+    "question": "Choose the sentence with a dangling participle:",
     "options": [
-      "He said he would call me tomorrow.",
-      "He said he will call me the next day.",
-      "He said he would call me the next day.",
-      "He said he would call me tomorrow."
+      "Running to the bus, my phone rang.",
+      "I ran to the bus while my phone rang.",
+      "As I ran, my phone rang.",
+      "Running to the bus, I dropped my phone."
     ],
-    "answer": "He said he would call me the next day."
+    "answer": "Running to the bus, my phone rang."
   },
   {
     "numero": 14,
-    "question": "Which sentence is punctuated correctly?",
+    "question": "Identify the correct indirect question:",
     "options": [
-      "I like apples, oranges and bananas.",
-      "I like, apples oranges and bananas.",
-      "I like apples, oranges, and bananas.",
-      "I like apples oranges, and bananas."
+      "Tell me what is he doing.",
+      "Tell me what he is doing.",
+      "Tell me what is he doing?",
+      "Tell me what he is doing?"
     ],
-    "answer": "I like apples, oranges, and bananas."
+    "answer": "Tell me what he is doing."
   },
   {
     "numero": 15,
-    "question": "Select the correct relative clause:",
+    "question": "Which sentence demonstrates ellipsis?",
     "options": [
-      "The man, that called, is my brother.",
-      "The man who called is my brother.",
-      "The man who he called is my brother.",
-      "The man he who called is my brother."
+      "I wanted to go, but I didn’t.",
+      "I wanted to go but I stayed.",
+      "I wanted to go, however I didn’t go.",
+      "I wanted to go and I did go."
     ],
-    "answer": "The man who called is my brother."
+    "answer": "I wanted to go, but I didn’t."
+  },{
+    "numero": 16,
+    "question": "In RP (Received Pronunciation), the final sound in “judge” is:",
+    "options": [
+      "/ʃ/",
+      "/tʃ/",
+      "/dʒ/",
+      "/z/"
+    ],
+    "answer": "/dʒ/"
+  },
+  {
+    "numero": 17,
+    "question": "What is the IPA transcription of “thought”?",
+    "options": [
+      "/θɔːt/",
+      "/tɔːt/",
+      "/ðɔːt/",
+      "/θuːt/"
+    ],
+    "answer": "/θɔːt/"
+  },
+  {
+    "numero": 18,
+    "question": "Which of these is an example of consonant elision?",
+    "options": [
+      "Sandwich → sanwich",
+      "Go on → goon",
+      "Comfortable → comf-ter-ble",
+      "Chocolate → chok-lit"
+    ],
+    "answer": "Sandwich → sanwich"
+  },
+  {
+    "numero": 19,
+    "question": "Identify the minimal pair:",
+    "options": [
+      "Ship – Sheep",
+      "Go – Went",
+      "Sit – Sit",
+      "Book – Books"
+    ],
+    "answer": "Ship – Sheep"
+  },
+  {
+    "numero": 20,
+    "question": "In connected speech, “I want to eat” becomes:",
+    "options": [
+      "/aɪ wɒnt tu iːt/",
+      "/aɪ wɒnə iːt/",
+      "/aɪ wɒntə tuː iːt/",
+      "/aɪ wɒnt iːt/"
+    ],
+    "answer": "/aɪ wɒnə iːt/"
+  },
+  {
+    "numero": 21,
+    "question": "What is schwa in phonetics?",
+    "options": [
+      "A stressed central vowel",
+      "An unstressed central vowel /ə/",
+      "A nasal vowel",
+      "A voiced consonant"
+    ],
+    "answer": "An unstressed central vowel /ə/"
+  },
+  {
+    "numero": 22,
+    "question": "Which word contains a diphthong?",
+    "options": [
+      "Cat",
+      "Boat",
+      "Sit",
+      "Cut"
+    ],
+    "answer": "Boat"
+  },
+  {
+    "numero": 23,
+    "question": "The intonation of yes/no questions in English is usually:",
+    "options": [
+      "Falling",
+      "Rising",
+      "Flat",
+      "Broken"
+    ],
+    "answer": "Rising"
+  },
+  {
+    "numero": 24,
+    "question": "In the word \"unbelievable\", the primary stress is on:",
+    "options": [
+      "un-",
+      "-be-",
+      "-liev-",
+      "-able"
+    ],
+    "answer": "-liev-"
+  },
+  {
+    "numero": 25,
+    "question": "Which word is pronounced with a silent consonant?",
+    "options": [
+      "Know",
+      "Goat",
+      "Knife",
+      "Both a and c"
+    ],
+    "answer": "Both a and c"
+  },{
+    "numero": 26,
+    "question": "Which approach promotes learning through meaningful interaction?",
+    "options": [
+      "Grammar-translation",
+      "Audio-lingual",
+      "Communicative Language Teaching (CLT)",
+      "Total Physical Response"
+    ],
+    "answer": "Communicative Language Teaching (CLT)"
+  },
+  {
+    "numero": 27,
+    "question": "What does TPR stand for in teaching?",
+    "options": [
+      "Total Pronunciation Reinforcement",
+      "Task-based Reading",
+      "Total Physical Response",
+      "Teaching Pronunciation and Rhythm"
+    ],
+    "answer": "Total Physical Response"
+  },
+  {
+    "numero": 28,
+    "question": "The CEFR level most associated with 'Can write a simple email' is:",
+    "options": [
+      "A1",
+      "A2",
+      "B1",
+      "C1"
+    ],
+    "answer": "A2"
+  },
+  {
+    "numero": 29,
+    "question": "In task-based learning, the focus is on:",
+    "options": [
+      "Grammar drills",
+      "Vocabulary tests",
+      "Real-world communication tasks",
+      "Translation accuracy"
+    ],
+    "answer": "Real-world communication tasks"
+  },
+  {
+    "numero": 30,
+    "question": "Which is a formative assessment?",
+    "options": [
+      "End-of-term test",
+      "National exam",
+      "Class discussion feedback",
+      "Final grade report"
+    ],
+    "answer": "Class discussion feedback"
+  },
+  {
+    "numero": 31,
+    "question": "The term scaffolding refers to:",
+    "options": [
+      "Punishing students",
+      "Giving students the test early",
+      "Gradual removal of teacher support",
+      "Assigning homework"
+    ],
+    "answer": "Gradual removal of teacher support"
+  },
+  {
+    "numero": 32,
+    "question": "Which of the following is a receptive skill?",
+    "options": [
+      "Writing",
+      "Speaking",
+      "Reading",
+      "Spelling"
+    ],
+    "answer": "Reading"
+  },
+  {
+    "numero": 33,
+    "question": "Which is an authentic material for teaching?",
+    "options": [
+      "Exercise from a textbook",
+      "Grammar worksheet",
+      "News article",
+      "Vocabulary list"
+    ],
+    "answer": "News article"
+  },
+  {
+    "numero": 34,
+    "question": "Differentiation in language teaching refers to:",
+    "options": [
+      "Teaching only high-performing students",
+      "Using multiple methods to address diverse learners",
+      "Teaching the same way for all",
+      "Testing every day"
+    ],
+    "answer": "Using multiple methods to address diverse learners"
+  },
+  {
+    "numero": 35,
+    "question": "Which feedback style promotes learner autonomy?",
+    "options": [
+      "Explicit correction only",
+      "Error highlighting with self-correction",
+      "Teacher-only correction",
+      "Repeating the correct answer"
+    ],
+    "answer": "Error highlighting with self-correction"
+  }, {
+    "numero": 36,
+    "question": "What is a morpheme?",
+    "options": [
+      "A part of speech",
+      "The smallest unit of meaning",
+      "A phonetic symbol",
+      "A type of clause"
+    ],
+    "answer": "The smallest unit of meaning"
+  },
+  {
+    "numero": 37,
+    "question": "“Unhappiness” contains how many morphemes?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "numero": 38,
+    "question": "Which is an inflectional morpheme?",
+    "options": [
+      "-ing",
+      "un-",
+      "re-",
+      "-ness"
+    ],
+    "answer": "-ing"
+  },
+  {
+    "numero": 39,
+    "question": "In the sentence “They made him president”, what is “president”?",
+    "options": [
+      "Subject complement",
+      "Object complement",
+      "Appositive",
+      "Direct object"
+    ],
+    "answer": "Object complement"
+  },
+  {
+    "numero": 40,
+    "question": "The syntagmatic relationship is:",
+    "options": [
+      "Vertical",
+      "Hierarchical",
+      "Linear and sequential",
+      "Random"
+    ],
+    "answer": "Linear and sequential"
+  },
+  {
+    "numero": 41,
+    "question": "In corpus linguistics, collocations are:",
+    "options": [
+      "Mistakes in speech",
+      "Frequent word combinations",
+      "Irregular verbs",
+      "Synonyms"
+    ],
+    "answer": "Frequent word combinations"
+  },
+  {
+    "numero": 42,
+    "question": "What is metalanguage?",
+    "options": [
+      "A language for programming",
+      "Language about language",
+      "Literary figurative language",
+      "Sign language"
+    ],
+    "answer": "Language about language"
+  },
+  {
+    "numero": 43,
+    "question": "What’s the main function of a conjunction?",
+    "options": [
+      "To modify a noun",
+      "To connect clauses",
+      "To express mood",
+      "To negate a verb"
+    ],
+    "answer": "To connect clauses"
+  },
+  {
+    "numero": 44,
+    "question": "“He’s not just clever – he’s a genius.” What rhetorical device is this?",
+    "options": [
+      "Simile",
+      "Hyperbole",
+      "Understatement",
+      "Antithesis"
+    ],
+    "answer": "Antithesis"
+  },
+  {
+    "numero": 45,
+    "question": "“Time is a thief.” is an example of:",
+    "options": [
+      "Personification",
+      "Simile",
+      "Irony",
+      "Euphemism"
+    ],
+    "answer": "Personification"
+  },{
+    "numero": 46,
+    "question": "The Silent Way is characterized by:",
+    "options": [
+      "Teacher talking time",
+      "Grammar translation",
+      "Minimal teacher intervention",
+      "Repetition drills"
+    ],
+    "answer": "Minimal teacher intervention"
+  },
+  {
+    "numero": 47,
+    "question": "In English-speaking cultures, eye contact usually signifies:",
+    "options": [
+      "Aggression",
+      "Honesty and attention",
+      "Disrespect",
+      "Boredom"
+    ],
+    "answer": "Honesty and attention"
+  },
+  {
+    "numero": 48,
+    "question": "Which classroom technique reduces teacher talking time?",
+    "options": [
+      "Lecturing",
+      "Think-pair-share",
+      "Dictation",
+      "Reading aloud"
+    ],
+    "answer": "Think-pair-share"
+  },
+  {
+    "numero": 49,
+    "question": "Which language skill is usually emphasized in immersion programs?",
+    "options": [
+      "Listening",
+      "Writing",
+      "Translation",
+      "Reading"
+    ],
+    "answer": "Listening"
+  },
+  {
+    "numero": 50,
+    "question": "In lesson planning, a “warmer” is:",
+    "options": [
+      "A final activity",
+      "A grammatical explanation",
+      "An opening interactive activity",
+      "A review test"
+    ],
+    "answer": "An opening interactive activity"
   },{
     "numero": 1,
-    "question": "What does “break the ice” mean?",
+    "question": "Which of the following is a non-finite verb?",
     "options": [
-      "To shiver in cold weather",
-      "To start a conversation in a social setting",
-      "To destroy something frozen",
-      "To stop a fight"
+      "Runs",
+      "Is",
+      "Running",
+      "Was"
     ],
-    "answer": "To start a conversation in a social setting"
+    "answer": "Running"
   },
   {
     "numero": 2,
-    "question": "Choose the correct synonym of “concise”:",
+    "question": "Identify the correct sentence with parallel structure.",
     "options": [
-      "Wordy",
-      "Lengthy",
-      "Brief",
-      "Elaborate"
+      "She likes reading, to swim, and biking.",
+      "She likes reading, swimming, and biking.",
+      "She likes to read, to swim, and biking.",
+      "She likes to read, swimming, and bike."
     ],
-    "answer": "Brief"
+    "answer": "She likes reading, swimming, and biking."
   },
   {
     "numero": 3,
-    "question": "What is the meaning of “in the long run”?",
+    "question": "Which of the following is an example of a phrasal verb?",
     "options": [
-      "In a marathon",
-      "Eventually",
-      "Immediately",
-      "Never"
+      "Discover",
+      "Run",
+      "Take off",
+      "Suggest"
     ],
-    "answer": "Eventually"
+    "answer": "Take off"
   },
   {
     "numero": 4,
-    "question": "Select the antonym of “benevolent”:",
+    "question": "In English, the schwa /ə/ sound typically occurs in:",
     "options": [
-      "Kind",
-      "Generous",
-      "Malevolent",
-      "Thoughtful"
+      "Stressed syllables",
+      "Open syllables only",
+      "Unstressed syllables",
+      "Word-final position only"
     ],
-    "answer": "Malevolent"
+    "answer": "Unstressed syllables"
   },
   {
     "numero": 5,
-    "question": "“He was known for his integrity.” What does “integrity” mean?",
+    "question": "Which is NOT a communicative approach principle?",
     "options": [
-      "Dishonesty",
-      "Intelligence",
-      "Honesty",
-      "Humor"
+      "Use of authentic material",
+      "Emphasis on grammar drills",
+      "Focus on meaning",
+      "Interaction in the target language"
     ],
-    "answer": "Honesty"
+    "answer": "Emphasis on grammar drills"
   },
   {
     "numero": 6,
-    "question": "Choose the correct word: She made a strong ___ on the audience.",
+    "question": "The sentence “Neither the teacher nor the students ____ late.” requires which verb?",
     "options": [
-      "effect",
-      "affect",
-      "affection",
-      "effective"
+      "Was",
+      "Is",
+      "Are",
+      "Has been"
     ],
-    "answer": "effect"
+    "answer": "Are"
   },
   {
     "numero": 7,
-    "question": "“To bite the bullet” means:",
+    "question": "Which of the following best defines “backchaining”?",
     "options": [
-      "To eat quickly",
-      "To face something unpleasant bravely",
-      "To shoot someone",
-      "To panic"
+      "Teaching vocabulary backwards",
+      "Repeating a sentence in reverse order",
+      "Practicing pronunciation from the end of a phrase backward",
+      "Correcting students after they speak"
     ],
-    "answer": "To face something unpleasant bravely"
+    "answer": "Practicing pronunciation from the end of a phrase backward"
   },
   {
     "numero": 8,
-    "question": "What is the closest synonym of “allocate”?",
+    "question": "What is the function of the word “however” in the sentence: “He was tired. However, he kept working”?",
     "options": [
-      "Neglect",
-      "Distribute",
-      "Hoard",
-      "Complain"
+      "Conjunction",
+      "Determiner",
+      "Discourse marker",
+      "Interjection"
     ],
-    "answer": "Distribute"
+    "answer": "Discourse marker"
   },
   {
     "numero": 9,
-    "question": "Pick the correct phrasal verb: I need to ___ the meeting.",
+    "question": "Identify the cleft sentence:",
     "options": [
-      "put on",
-      "call off",
-      "take over",
-      "hold out"
+      "It was John who broke the vase.",
+      "John broke the vase.",
+      "The vase was broken by John.",
+      "John is the one that broke the vase."
     ],
-    "answer": "call off"
+    "answer": "It was John who broke the vase."
   },
   {
     "numero": 10,
-    "question": "Which word is closest in meaning to “meticulous”?",
+    "question": "Which is an example of a fossilized error?",
     "options": [
-      "Sloppy",
-      "Careful",
-      "Quick",
-      "Loud"
+      "Mispronouncing a word occasionally",
+      "Forgetting irregular verb forms",
+      "A recurring, uncorrected error in fluent speech",
+      "A mistake in early language acquisition"
     ],
-    "answer": "Careful"
-  },
-  {
-    "numero": 11,
-    "question": "“Out of the blue” means:",
-    "options": [
-      "Suddenly",
-      "Slowly",
-      "With sadness",
-      "With excitement"
-    ],
-    "answer": "Suddenly"
-  },
-  {
-    "numero": 12,
-    "question": "A “turning point” is:",
-    "options": [
-      "A curve on a road",
-      "A point where a significant change occurs",
-      "A dance move",
-      "A delay in time"
-    ],
-    "answer": "A point where a significant change occurs"
-  },
-  {
-    "numero": 13,
-    "question": "Choose the appropriate word: He is the most ___ employee in the company.",
-    "options": [
-      "valuable",
-      "valued",
-      "valuing",
-      "value"
-    ],
-    "answer": "valuable"
-  },
-  {
-    "numero": 14,
-    "question": "What does “pull someone’s leg” mean?",
-    "options": [
-      "To hurt them",
-      "To joke with them",
-      "To convince them",
-      "To trip them"
-    ],
-    "answer": "To joke with them"
-  },
-  {
-    "numero": 15,
-    "question": "Choose the best word: The teacher gave a very ___ explanation.",
-    "options": [
-      "clarity",
-      "clarify",
-      "clear",
-      "clearly"
-    ],
-    "answer": "clear"
-  },{
-    "numero": 1,
-    "question": "What is the main idea of a paragraph?",
-    "options": [
-      "A supporting fact",
-      "A detailed example",
-      "The central message",
-      "A summary of another topic"
-    ],
-    "answer": "The central message"
-  },
-  {
-    "numero": 2,
-    "question": "The word “reluctant” most nearly means:",
-    "options": [
-      "Willing",
-      "Hesitant",
-      "Confident",
-      "Excited"
-    ],
-    "answer": "Hesitant"
-  },
-  {
-    "numero": 3,
-    "question": "If a text is written in the “third person,” which pronouns are likely used?",
-    "options": [
-      "I, me, we",
-      "You, your",
-      "He, she, they",
-      "Us, our"
-    ],
-    "answer": "He, she, they"
-  },
-  {
-    "numero": 4,
-    "question": "Choose the correct inference: “He slammed the door and walked out.”",
-    "options": [
-      "He was angry",
-      "He was happy",
-      "He was tired",
-      "He was hungry"
-    ],
-    "answer": "He was angry"
-  },
-  {
-    "numero": 5,
-    "question": "What does “the tone of a passage” refer to?",
-    "options": [
-      "The grammar",
-      "The author's attitude",
-      "The spelling",
-      "The structure"
-    ],
-    "answer": "The author's attitude"
-  },
-  {
-    "numero": 6,
-    "question": "What’s the opposite of \"literal meaning\"?",
-    "options": [
-      "Imaginary",
-      "Figurative",
-      "Visual",
-      "Objective"
-    ],
-    "answer": "Figurative"
-  },
-  {
-    "numero": 7,
-    "question": "Which type of writing is meant to persuade?",
-    "options": [
-      "Narrative",
-      "Descriptive",
-      "Expository",
-      "Argumentative"
-    ],
-    "answer": "Argumentative"
-  },
-  {
-    "numero": 8,
-    "question": "“The project was doomed from the start” implies:",
-    "options": [
-      "It succeeded",
-      "It was uncertain",
-      "It was likely to fail",
-      "It was exciting"
-    ],
-    "answer": "It was likely to fail"
-  },
-  {
-    "numero": 9,
-    "question": "“A convincing argument must be backed by…”",
-    "options": [
-      "Humor",
-      "Facts and examples",
-      "Emotions",
-      "Opinion only"
-    ],
-    "answer": "Facts and examples"
-  },
-  {
-    "numero": 10,
-    "question": "What can you deduce from: “He left the room silently with his head down”?",
-    "options": [
-      "He was angry",
-      "He was embarrassed or ashamed",
-      "He was proud",
-      "He was confused"
-    ],
-    "answer": "He was embarrassed or ashamed"
-  },{
-    "numero": 1,
-    "question": "Which is most appropriate for a business email opening?",
-    "options": [
-      "Hey dude!",
-      "What’s up?",
-      "Dear Mr. Johnson,",
-      "Yo!"
-    ],
-    "answer": "Dear Mr. Johnson,"
-  },
-  {
-    "numero": 2,
-    "question": "Which is a strong transition for contrast?",
-    "options": [
-      "Moreover",
-      "Consequently",
-      "However",
-      "Next"
-    ],
-    "answer": "However"
-  },
-  {
-    "numero": 3,
-    "question": "Which closing phrase is most formal?",
-    "options": [
-      "Cheers",
-      "Take care",
-      "Yours sincerely",
-      "Bye"
-    ],
-    "answer": "Yours sincerely"
-  },
-  {
-    "numero": 4,
-    "question": "Which sentence is most appropriate in academic writing?",
-    "options": [
-      "I think this is bad.",
-      "This thing is really cool.",
-      "The study suggests significant implications.",
-      "LOL this was wild."
-    ],
-    "answer": "The study suggests significant implications."
-  },
-  {
-    "numero": 5,
-    "question": "Which phrase shows cause and effect?",
-    "options": [
-      "On the other hand",
-      "As a result",
-      "In the meantime",
-      "Afterward"
-    ],
-    "answer": "As a result"
-  },
-  {
-    "numero": 6,
-    "question": "In writing, “coherence” refers to:",
-    "options": [
-      "Correct punctuation",
-      "Logical flow of ideas",
-      "Fancy vocabulary",
-      "Word count"
-    ],
-    "answer": "Logical flow of ideas"
-  },
-  {
-    "numero": 7,
-    "question": "Choose the formal version:",
-    "options": [
-      "Kids should be taught early.",
-      "Children ought to receive early instruction.",
-      "We need to teach them early.",
-      "Gotta teach them early."
-    ],
-    "answer": "Children ought to receive early instruction."
-  },
-  {
-    "numero": 8,
-    "question": "Select the sentence free of redundancy:",
-    "options": [
-      "She returned back to the office.",
-      "He advanced forward.",
-      "They combined together.",
-      "The team collaborated efficiently."
-    ],
-    "answer": "The team collaborated efficiently."
-  },
-  {
-    "numero": 9,
-    "question": "Which is the correct format for a bullet list in a report?",
-    "options": [
-      "Use commas only",
-      "One line per bullet with consistent structure",
-      "Use emojis",
-      "Paragraph form only"
-    ],
-    "answer": "One line per bullet with consistent structure"
-  },
-  {
-    "numero": 10,
-    "question": "Identify the grammatically correct sentence:",
-    "options": [
-      "Its important to know you're rights.",
-      "It’s important to know your rights.",
-      "Its’ important to know your right’s.",
-      "It is important knowing your rights."
-    ],
-    "answer": "It’s important to know your rights."
+    "answer": "A recurring, uncorrected error in fluent speech"
   }
 ]
