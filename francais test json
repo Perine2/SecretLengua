@@ -1,548 +1,550 @@
 [
     {
-        "id": 1,
-        "question": "Quelle est la cause la plus fréquente d’infection urinaire chez l’homme ?",
-        "options": [
-            "Virus",
-            "Escherichia coli",
-            "Champignons",
-            "Protéus mirabilis"
-        ],
-        "answer": "Escherichia coli"
-    },
-    {
-        "id": 2,
-        "question": "Quel est le symptôme principal d'une hyperplasie bénigne de la prostate (HBP) ?",
-        "options": [
-            "Fièvre élevée",
-            "Douleur testiculaire",
-            "Jet urinaire faible et mictions fréquentes",
-            "Sang dans les selles"
-        ],
-        "answer": "Jet urinaire faible et mictions fréquentes"
-    },
-    {
-        "id": 3,
-        "question": "Quel examen est recommandé en première intention pour évaluer un globe vésical ?",
-        "options": [
-            "IRM pelvienne",
-            "Échographie vésicale",
-            "Uroscanner",
-            "Toucher rectal"
-        ],
-        "answer": "Échographie vésicale"
-    },
-    {
-        "id": 4,
-        "question": "Quelle pathologie est souvent liée à une douleur testiculaire aiguë chez l’adolescent ?",
-        "options": [
-            "Hernie inguinale",
-            "Prostatite",
-            "Torsion du cordon spermatique",
-            "Épididymite chronique"
-        ],
-        "answer": "Torsion du cordon spermatique"
-    },
-    {
-        "id": 5,
-        "question": "Quelle est l’indication d’un toucher rectal chez un homme de plus de 50 ans ?",
-        "options": [
-            "Examen de la rate",
-            "Détection de calculs",
-            "Dépistage du cancer de la prostate",
-            "Recherche de varicocèle"
-        ],
-        "answer": "Dépistage du cancer de la prostate"
-    },
-    {
-        "id": 6,
-        "question": "Quel test sanguin est utilisé dans le suivi du cancer de la prostate ?",
-        "options": [
-            "Créatinine",
-            "PSA (antigène prostatique spécifique)",
-            "Glycémie",
-            "Hémoglobine"
-        ],
-        "answer": "PSA (antigène prostatique spécifique)"
-    },
-    {
-        "id": 7,
-        "question": "Une pyélonéphrite aiguë est une infection de :",
-        "options": [
-            "La vessie",
-            "L’un ou les deux reins",
-            "L’urètre",
-            "La prostate"
-        ],
-        "answer": "L’un ou les deux reins"
-    },
-    {
-        "id": 8,
-        "question": "Quel traitement est proposé en urgence pour une rétention aiguë d’urine ?",
-        "options": [
-            "Sonde urinaire à demeure",
-            "Antibiotiques oraux",
-            "Chirurgie immédiate",
-            "Lavage vésical"
-        ],
-        "answer": "Sonde urinaire à demeure"
-    },
-    {
-        "id": 9,
-        "question": "Quelle anomalie urinaire est typique dans la colique néphrétique ?",
-        "options": [
-            "Glucose urinaire",
-            "Hématurie microscopique",
-            "Protéinurie abondante",
-            "Nitrites positifs"
-        ],
-        "answer": "Hématurie microscopique"
-    },
-    {
-        "id": 10,
-        "question": "Le cancer du testicule survient surtout chez :",
-        "options": [
-            "Les hommes âgés (> 60 ans)",
-            "Les jeunes hommes (15–35 ans)",
-            "Les enfants",
-            "Les femmes"
-        ],
-        "answer": "Les jeunes hommes (15–35 ans)"
-    },{
-        "id": 11,
-        "question": "Le varicocèle est une dilatation :",
-        "options": [
-            "De l’urètre",
-            "Des veines du cordon spermatique",
-            "De l’artère testiculaire",
-            "De la prostate"
-        ],
-        "answer": "Des veines du cordon spermatique"
-    },
-    {
-        "id": 12,
-        "question": "Quelle est la principale complication d'une torsion testiculaire non opérée ?",
-        "options": [
-            "Infertilité féminine",
-            "Nécrose testiculaire",
-            "HBP",
-            "Infection urinaire"
-        ],
-        "answer": "Nécrose testiculaire"
-    },
-    {
-        "id": 13,
-        "question": "L’incontinence urinaire d’effort touche surtout :",
-        "options": [
-            "Les hommes jeunes",
-            "Les femmes après accouchement ou chirurgie",
-            "Les enfants",
-            "Les sportifs de haut niveau"
-        ],
-        "answer": "Les femmes après accouchement ou chirurgie"
-    },
-    {
-        "id": 14,
-        "question": "Quel est le traitement habituel d’un adénome de la prostate symptomatique modéré ?",
-        "options": [
-            "Résection transurétrale en urgence",
-            "Antibiothérapie",
-            "Alpha-bloquants +/- inhibiteurs de la 5-alpha-réductase",
-            "Diurétiques"
-        ],
-        "answer": "Alpha-bloquants +/- inhibiteurs de la 5-alpha-réductase"
-    },
-    {
-        "id": 15,
-        "question": "Une hématurie macroscopique sans douleur impose :",
-        "options": [
-            "Un traitement antibiotique immédiat",
-            "Une cystoscopie + uroscanner",
-            "Une échographie du foie",
-            "Une analyse de sperme"
-        ],
-        "answer": "Une cystoscopie + uroscanner"
-    },
-    {
-        "id": 16,
-        "question": "Le syndrome de la vessie hyperactive inclut :",
-        "options": [
-            "Rétention urinaire",
-            "Urgences mictionnelles et nycturie",
-            "Dysurie",
-            "Anurie"
-        ],
-        "answer": "Urgences mictionnelles et nycturie"
-    },
-    {
-        "id": 17,
-        "question": "Quel est le facteur de risque principal du cancer de la vessie ?",
-        "options": [
-            "Hypertension",
-            "Infections rénales",
-            "Tabagisme",
-            "Sport intensif"
-        ],
-        "answer": "Tabagisme"
-    },
-    {
-        "id": 18,
-        "question": "Quelle anomalie urinaire est typique dans le diabète mal contrôlé ?",
-        "options": [
-            "Cristaux de struvite",
-            "Glycosurie",
-            "Hématurie",
-            "Bactériurie"
-        ],
-        "answer": "Glycosurie"
-    },
-    {
-        "id": 19,
-        "question": "La balanite est une inflammation de :",
-        "options": [
-            "L’urètre",
-            "La prostate",
-            "Le gland du pénis",
-            "L’épididyme"
-        ],
-        "answer": "Le gland du pénis"
-    },
-    {
-        "id": 20,
-        "question": "L’orchite est le plus souvent causée par :",
-        "options": [
-            "Infection bactérienne à E. coli",
-            "Virus des oreillons",
-            "Cancer",
-            "Varicocèle"
-        ],
-        "answer": "Virus des oreillons"
-    },{
-        "id": 21,
-        "question": "Un PSA élevé sans cancer peut être observé en cas de :",
-        "options": [
-            "Prostatite ou HBP",
-            "Cystite",
-            "Calcul rénal",
-            "Varicocèle"
-        ],
-        "answer": "Prostatite ou HBP"
-    },
-    {
-        "id": 22,
-        "question": "Quel est le traitement d’un phimosis chez l’adulte symptomatique ?",
-        "options": [
-            "Antibiotiques",
-            "Stéroïdes topiques",
-            "Circoncision",
-            "Alpha-bloquants"
-        ],
-        "answer": "Circoncision"
-    },
-    {
-        "id": 23,
-        "question": "Quel examen est utile pour détecter des calculs dans les voies urinaires ?",
-        "options": [
-            "Uroscanner sans injection",
-            "IRM cérébrale",
-            "Fibroscopie",
-            "Radiographie pulmonaire"
-        ],
-        "answer": "Uroscanner sans injection"
-    },
-    {
-        "id": 24,
-        "question": "L’énurésie nocturne est normale jusqu’à quel âge environ ?",
-        "options": [
-            "2 ans",
-            "5 ans",
-            "7 ans",
-            "10 ans"
-        ],
-        "answer": "5 ans"
-    },
-    {
-        "id": 25,
-        "question": "Quelle complication peut survenir après une prostatectomie ?",
-        "options": [
-            "Surdité",
-            "Incontinence urinaire ou troubles de l’érection",
-            "Perte de cheveux",
-            "Infection pulmonaire"
-        ],
-        "answer": "Incontinence urinaire ou troubles de l’érection"
-    },
-    {
-        "id": 26,
-        "question": "La sténose urétrale provoque :",
-        "options": [
-            "Difficultés à uriner avec jet faible",
-            "Incontinence",
-            "Éjaculation précoce",
-            "Dysphonie"
-        ],
-        "answer": "Difficultés à uriner avec jet faible"
-    },
-    {
-        "id": 27,
-        "question": "Quel est l’antibiotique de choix en cas de cystite simple chez la femme ?",
-        "options": [
-            "Fosfomycine ou nitrofurantoïne",
-            "Amoxicilline",
-            "Céftriaxone",
-            "Azithromycine"
-        ],
-        "answer": "Fosfomycine ou nitrofurantoïne"
-    },
-    {
-        "id": 28,
-        "question": "La cryptorchidie est :",
-        "options": [
-            "Une inflammation testiculaire",
-            "Une absence de descente testiculaire dans le scrotum",
-            "Une dilatation des veines",
-            "Une hernie ombilicale"
-        ],
-        "answer": "Une absence de descente testiculaire dans le scrotum"
-    },
-    {
-        "id": 29,
-        "question": "Le test de Frotis urétral est indiqué pour diagnostiquer :",
-        "options": [
-            "Colique néphrétique",
-            "IST comme la gonorrhée",
-            "HBP",
-            "Varicocèle"
-        ],
-        "answer": "IST comme la gonorrhée"
-    },
-    {
-        "id": 30,
-        "question": "La nycturie est définie comme :",
-        "options": [
-            "Difficulté à uriner",
-            "Mictions fréquentes la nuit",
-            "Sang dans les urines",
-            "Sensation de brûlure"
-        ],
-        "answer": "Mictions fréquentes la nuit"
-    }, {
-        "id": 31,
-        "question": "Quelle est la complication redoutée d’une prostatite aiguë non traitée ?",
-        "options": [
-            "Colique néphrétique",
-            "Abcès prostatique",
-            "Orchite",
-            "Varicocèle"
-        ],
-        "answer": "Abcès prostatique"
-    },
-    {
-        "id": 32,
-        "question": "Le testicule est considéré atrophique si :",
-        "options": [
-            "Il est douloureux",
-            "Son volume est significativement réduit",
-            "Il est en position anormale",
-            "Il est chaud"
-        ],
-        "answer": "Son volume est significativement réduit"
-    },
-    {
-        "id": 33,
-        "question": "Quel cancer urologique est le plus fréquent ?",
-        "options": [
-            "Cancer testiculaire",
-            "Cancer de la prostate",
-            "Cancer de la vessie",
-            "Cancer de l’urètre"
-        ],
-        "answer": "Cancer de la prostate"
-    },
-    {
-        "id": 34,
-        "question": "Le traitement des calculs rénaux de petite taille inclut :",
-        "options": [
-            "Chirurgie immédiate",
-            "Hydratation + antalgiques + surveillance",
-            "Immunosuppresseurs",
-            "Radiothérapie"
-        ],
-        "answer": "Hydratation + antalgiques + surveillance"
-    },
-    {
-        "id": 35,
-        "question": "Une hématurie microscopique isolée doit être explorée par :",
-        "options": [
-            "Électrocardiogramme",
-            "Uroscanner",
-            "Coloscopie",
-            "Spirométrie"
-        ],
-        "answer": "Uroscanner"
-    },
-    {
-        "id": 36,
-        "question": "Quel est le traitement d’un hydrocèle symptomatique ?",
-        "options": [
-            "Ponction simple",
-            "Chirurgie (hydrocélectomie)",
-            "Stéroïdes",
-            "Antibiotiques"
-        ],
-        "answer": "Chirurgie (hydrocélectomie)"
-    },
-    {
-        "id": 37,
-        "question": "Un testicule non palpable doit être recherché par :",
-        "options": [
-            "Palpation abdominale uniquement",
-            "Échographie scrotale puis laparoscopie si besoin",
-            "IRM cérébrale",
-            "Radiographie du bassin"
-        ],
-        "answer": "Échographie scrotale puis laparoscopie si besoin"
-    },
-    {
-        "id": 38,
-        "question": "Une hémospermie peut être bénigne, mais elle impose :",
-        "options": [
-            "Lavage urinaire",
-            "Exploration si > 40 ans ou symptômes associés",
-            "Antiviraux",
-            "Stimulation hormonale"
-        ],
-        "answer": "Exploration si > 40 ans ou symptômes associés"
-    },
-    {
-        "id": 39,
-        "question": "Quel examen permet de visualiser l’urètre en cas de sténose ?",
-        "options": [
-            "IRM abdominale",
-            "Urétrographie rétrograde",
-            "Échographie rénale",
-            "Cytoscopie digestive"
-        ],
-        "answer": "Urétrographie rétrograde"
-    },
-    {
-        "id": 40,
-        "question": "L’épididymite aiguë est souvent due à :",
-        "options": [
-            "Reflux vésico-rénal",
-            "Infection ascendante (E. coli ou IST)",
-            "Hernie inguinale",
-            "Tumeur maligne"
-        ],
-        "answer": "Infection ascendante (E. coli ou IST)"
-    },{
-        "id": 41,
-        "question": "Une anurie brutale évoque :",
-        "options": [
-            "Rhinite",
-            "Obstruction bilatérale des voies urinaires ou insuffisance rénale aiguë",
-            "Asthme",
-            "Phimosis"
-        ],
-        "answer": "Obstruction bilatérale des voies urinaires ou insuffisance rénale aiguë"
-    },
-    {
-        "id": 42,
-        "question": "La balanoposthite est l’inflammation de :",
-        "options": [
-            "L’urètre",
-            "La prostate",
-            "Gland et prépuce",
-            "Scrotum"
-        ],
-        "answer": "Gland et prépuce"
-    },
-    {
-        "id": 43,
-        "question": "Quelle est une complication classique de l’HBP ?",
-        "options": [
-            "Fistule anale",
-            "Rétention aiguë d’urine",
-            "Orchite",
-            "Hémorroïdes"
-        ],
-        "answer": "Rétention aiguë d’urine"
-    },
-    {
-        "id": 44,
-        "question": "Quelle mesure est utile pour prévenir les infections urinaires à répétition ?",
-        "options": [
-            "Café quotidien",
-            "Hydratation régulière et mictions après rapports",
-            "Antibiotiques en continu",
-            "Repos prolongé"
-        ],
-        "answer": "Hydratation régulière et mictions après rapports"
-    },
-    {
-        "id": 45,
-        "question": "La torsion testiculaire est une urgence car :",
-        "options": [
-            "Elle est rare",
-            "Elle peut entraîner la perte du testicule en 6h",
-            "Elle donne de la fièvre",
-            "Elle est virale"
-        ],
-        "answer": "Elle peut entraîner la perte du testicule en 6h"
-    },
-    {
-        "id": 46,
-        "question": "Le priapisme est :",
-        "options": [
-            "Une érection absente",
-            "Une érection prolongée non désirée",
-            "Une dysfonction éjaculatoire",
-            "Une infection pénienne"
-        ],
-        "answer": "Une érection prolongée non désirée"
-    },
-    {
-        "id": 47,
-        "question": "Quelle tumeur urologique touche les jeunes enfants ?",
-        "options": [
-            "Cancer prostatique",
-            "Tumeur de Wilms (néphroblastome)",
-            "Cancer de la vessie",
-            "Varicocèle"
-        ],
-        "answer": "Tumeur de Wilms (néphroblastome)"
-    },
-    {
-        "id": 48,
-        "question": "Un éjaculat anormalement faible peut signaler :",
-        "options": [
-            "Hyperactivité vésicale",
-            "Obstruction des canaux éjaculateurs",
-            "Infection ORL",
-            "Allergie alimentaire"
-        ],
-        "answer": "Obstruction des canaux éjaculateurs"
-    },
-    {
-        "id": 49,
-        "question": "Quel médicament peut causer des troubles urinaires ?",
-        "options": [
-            "Anticholinergiques",
-            "Antipyrétiques",
-            "Anticoagulants",
-            "Probiotiques"
-        ],
-        "answer": "Anticholinergiques"
-    },
-    {
-        "id": 50,
-        "question": "Le dépistage systématique du cancer de la prostate est recommandé :",
-        "options": [
-            "Chez tous les hommes dès 30 ans",
-            "Chez les hommes à risque à partir de 50 ans ou 45 ans si antécédents familiaux",
-            "Chez les enfants",
-            "Chez les femmes"
-        ],
-        "answer": "Chez les hommes à risque à partir de 50 ans ou 45 ans si antécédents familiaux"
-    }
+    "numero": 1,
+    "question": "Quelle est la phrase correcte ?",
+    "options": [
+      "Il faut que tu vas à l’école.",
+      "Il faut que tu ailles à l’école.",
+      "Il faut que tu allais à l’école.",
+      "Il faut que tu es allé à l’école."
+    ],
+    "answer": "Il faut que tu ailles à l’école."
+  },
+  {
+    "numero": 2,
+    "question": "Quel est le sujet dans la phrase : « Il est arrivé quelque chose d’étrange » ?",
+    "options": [
+      "Il",
+      "Quelque chose",
+      "Arrivé",
+      "D’étrange"
+    ],
+    "answer": "Quelque chose"
+  },
+  {
+    "numero": 3,
+    "question": "Complétez : « Les enfants ___ leurs jouets. »",
+    "options": [
+      "ranges",
+      "rangeons",
+      "rangent",
+      "ranger"
+    ],
+    "answer": "rangent"
+  },
+  {
+    "numero": 4,
+    "question": "Quelle phrase contient un accord incorrect ?",
+    "options": [
+      "Les fleurs sont fanées.",
+      "Elles se sont lavé les mains.",
+      "Ils se sont téléphonés.",
+      "Elles se sont parlées longuement."
+    ],
+    "answer": "Elles se sont parlées longuement."
+  },
+  {
+    "numero": 5,
+    "question": "Quelle proposition est une subordonnée conjonctive ?",
+    "options": [
+      "Il court vite.",
+      "Quand il court, il respire mal.",
+      "Il court et respire mal.",
+      "En courant, il respire mal."
+    ],
+    "answer": "Quand il court, il respire mal."
+  },
+  {
+    "numero": 6,
+    "question": "Dans la phrase « La maison que j’ai achetée est vieille », que remplace « que » ?",
+    "options": [
+      "Le sujet",
+      "Le verbe",
+      "Le complément d’objet direct",
+      "Un adjectif"
+    ],
+    "answer": "Le complément d’objet direct"
+  },
+  {
+    "numero": 7,
+    "question": "Complétez avec le bon pronom relatif : « C’est une ville ___ j’ai beaucoup entendu parler. »",
+    "options": [
+      "que",
+      "dont",
+      "où",
+      "lequel"
+    ],
+    "answer": "dont"
+  },
+  {
+    "numero": 8,
+    "question": "Choisissez le mot qui convient : « Elle n’a ___ vu venir. »",
+    "options": [
+      "rien",
+      "jamais",
+      "personne",
+      "aucun"
+    ],
+    "answer": "rien"
+  },
+  {
+    "numero": 9,
+    "question": "Quelle phrase est à la voix passive ?",
+    "options": [
+      "Il lit le livre.",
+      "Le livre a été lu par l’élève.",
+      "L’élève va lire le livre.",
+      "Il va lire le livre."
+    ],
+    "answer": "Le livre a été lu par l’élève."
+  },
+  {
+    "numero": 10,
+    "question": "Accordez correctement : « La voiture qu’ils ont ___ était rouge. »",
+    "options": [
+      "achetée",
+      "achetés",
+      "acheté",
+      "achetées"
+    ],
+    "answer": "achetée"
+  },
+  {
+    "numero": 11,
+    "question": "Quelle est la classe grammaticale du mot « rapidement » ?",
+    "options": [
+      "Adjectif",
+      "Verbe",
+      "Nom",
+      "Adverbe"
+    ],
+    "answer": "Adverbe"
+  },
+  {
+    "numero": 12,
+    "question": "Lequel est un complément circonstanciel ?",
+    "options": [
+      "Marie lit un livre.",
+      "Elle marche dans le parc.",
+      "L’enfant est fatigué.",
+      "Il est gentil."
+    ],
+    "answer": "Elle marche dans le parc."
+  },
+  {
+    "numero": 13,
+    "question": "Dans « Je me suis lavé les mains », pourquoi « lavé » ne s’accorde-t-il pas ?",
+    "options": [
+      "Parce que c’est un verbe du 3e groupe",
+      "Parce qu’il n’a pas de COD",
+      "Parce que le COD suit",
+      "Parce qu’il est réfléchi"
+    ],
+    "answer": "Parce que le COD suit"
+  },
+  {
+    "numero": 14,
+    "question": "Identifiez la proposition indépendante :",
+    "options": [
+      "S’il pleut, je resterai.",
+      "Bien qu’il vienne, il est discret.",
+      "Il mange, il lit.",
+      "Quand il mange, il lit."
+    ],
+    "answer": "Il mange, il lit."
+  },
+  {
+    "numero": 15,
+    "question": "Le mot « lesquelles » est :",
+    "options": [
+      "Un déterminant",
+      "Un pronom relatif",
+      "Un nom",
+      "Une conjonction"
+    ],
+    "answer": "Un pronom relatif"
+  },
+  {
+    "numero": 1,
+    "question": "Lequel est bien orthographié ?",
+    "options": [
+      "Apparament",
+      "Apparément",
+      "Apparemment",
+      "Aparrement"
+    ],
+    "answer": "Apparemment"
+  },
+  {
+    "numero": 2,
+    "question": "Quelle phrase contient une faute d’accord ?",
+    "options": [
+      "Elles sont heureuses.",
+      "Les valises sont lourds.",
+      "Ces enfants sont polis.",
+      "Les voitures sont rapides."
+    ],
+    "answer": "Les valises sont lourds."
+  },
+  {
+    "numero": 3,
+    "question": "Le mot « circonspect » signifie :",
+    "options": [
+      "Joyeux",
+      "Prudent",
+      "Rude",
+      "Énergique"
+    ],
+    "answer": "Prudent"
+  },
+  {
+    "numero": 4,
+    "question": "Trouvez le synonyme de « hâtif  » :",
+    "options": [
+      "Lent",
+      "Précipité",
+      "Sérieux",
+      "Doux"
+    ],
+    "answer": "Précipité"
+  },
+  {
+    "numero": 5,
+    "question": "L'antonyme de « explicite » est :",
+    "options": [
+      "Douteux",
+      "Caché",
+      "Implicite",
+      "Clair"
+    ],
+    "answer": "Implicite"
+  },
+  {
+    "numero": 6,
+    "question": "Dans quelle phrase le mot est bien employé ?",
+    "options": [
+      "Il a acquis une voiture neuve.",
+      "Il a acquit une voiture neuve.",
+      "Il a aquis une voiture neuve.",
+      "Il a acquis une voiture nouveau."
+    ],
+    "answer": "Il a acquis une voiture neuve."
+  },
+  {
+    "numero": 7,
+    "question": "Quel mot contient un pléonasme ?",
+    "options": [
+      "Monter en haut",
+      "Descendre",
+      "Courir vite",
+      "Penser souvent"
+    ],
+    "answer": "Monter en haut"
+  },
+  {
+    "numero": 8,
+    "question": "Choisissez le mot correctement orthographié :",
+    "options": [
+      "Innéficace",
+      "Inefficace",
+      "Inefiquace",
+      "Inéfficace"
+    ],
+    "answer": "Inefficace"
+  },
+  {
+    "numero": 9,
+    "question": "Le mot « abroger » signifie :",
+    "options": [
+      "Appliquer une loi",
+      "Modifier une loi",
+      "Supprimer une loi",
+      "Prolonger une loi"
+    ],
+    "answer": "Supprimer une loi"
+  },
+  {
+    "numero": 10,
+    "question": "Trouvez le mot qui ne correspond pas aux autres :",
+    "options": [
+      "Avare",
+      "Généreux",
+      "Radin",
+      "Pingre"
+    ],
+    "answer": "Généreux"
+  },
+  {
+    "numero": 11,
+    "question": "Lequel est un verbe pronominal ?",
+    "options": [
+      "Manger",
+      "Lire",
+      "Se laver",
+      "Courir"
+    ],
+    "answer": "Se laver"
+  },
+  {
+    "numero": 12,
+    "question": "Que signifie « être à cheval sur les principes » ?",
+    "options": [
+      "Être sportif",
+      "Être instable",
+      "Être strict",
+      "Être désorganisé"
+    ],
+    "answer": "Être strict"
+  },
+  {
+    "numero": 13,
+    "question": "Le mot « aléatoire » veut dire :",
+    "options": [
+      "Certain",
+      "Équilibré",
+      "Hasardeux",
+      "Rigoureux"
+    ],
+    "answer": "Hasardeux"
+  },
+  {
+    "numero": 14,
+    "question": "Dans quelle phrase le mot est mal utilisé ?",
+    "options": [
+      "Il a commis une erreur.",
+      "Elle a subi une perte.",
+      "Il a consommé une peine.",
+      "Ils ont pris une décision."
+    ],
+    "answer": "Il a consommé une peine."
+  },
+  {
+    "numero": 15,
+    "question": "Le mot « tacite » signifie :",
+    "options": [
+      "Évident",
+      "Implicite",
+      "Parlé",
+      "Proclamé"
+    ],
+    "answer": "Implicite"
+  },{
+    "numero": 1,
+    "question": "Au subjonctif présent : « Il faut que tu ___ (faire) attention. »",
+    "options": [
+      "fais",
+      "fait",
+      "fasses",
+      "feras"
+    ],
+    "answer": "fasses"
+  },
+  {
+    "numero": 2,
+    "question": "À quel temps est conjugué ce verbe : « Nous aurions voulu » ?",
+    "options": [
+      "Futur antérieur",
+      "Subjonctif passé",
+      "Conditionnel passé",
+      "Imparfait"
+    ],
+    "answer": "Conditionnel passé"
+  },
+  {
+    "numero": 3,
+    "question": "À quel mode est conjugué « Allons-y ! » ?",
+    "options": [
+      "Indicatif",
+      "Subjonctif",
+      "Conditionnel",
+      "Impératif"
+    ],
+    "answer": "Impératif"
+  },
+  {
+    "numero": 4,
+    "question": "« Si j’___ plus d’argent, je voyagerais. »",
+    "options": [
+      "avais",
+      "ai",
+      "aurai",
+      "aie"
+    ],
+    "answer": "avais"
+  },
+  {
+    "numero": 5,
+    "question": "Quelle est la bonne terminaison du futur pour « venir » à la 1ʳᵉ personne du singulier ?",
+    "options": [
+      "Viens",
+      "Viendrai",
+      "Viendra",
+      "Venirai"
+    ],
+    "answer": "Viendrai"
+  },
+  {
+    "numero": 6,
+    "question": "À quel temps est conjugué « Il aura fini » ?",
+    "options": [
+      "Futur simple",
+      "Futur antérieur",
+      "Passé composé",
+      "Plus-que-parfait"
+    ],
+    "answer": "Futur antérieur"
+  },
+  {
+    "numero": 7,
+    "question": "Quelle forme est correcte ?",
+    "options": [
+      "Qu’ils viennes",
+      "Qu’ils viennent",
+      "Qu’ils viennents",
+      "Qu’ils vienne"
+    ],
+    "answer": "Qu’ils viennent"
+  },
+  {
+    "numero": 8,
+    "question": "Complétez : « Ils ___ en train de travailler. »",
+    "options": [
+      "sont",
+      "aient",
+      "étaient",
+      "soyez"
+    ],
+    "answer": "sont"
+  },
+  {
+    "numero": 9,
+    "question": "Quelle est la forme correcte du verbe « s’asseoir » au présent, 1ʳᵉ personne du singulier ?",
+    "options": [
+      "Je m’assois",
+      "Je m’assied",
+      "Je m’assis",
+      "Je m’assieds"
+    ],
+    "answer": "Je m’assieds"
+  },
+  {
+    "numero": 10,
+    "question": "À quel temps est conjugué « j’écrivais » ?",
+    "options": [
+      "Imparfait",
+      "Passé simple",
+      "Présent",
+      "Subjonctif"
+    ],
+    "answer": "Imparfait"
+  },{
+    "numero": 1,
+    "question": "Quelle formule de politesse est correcte dans une lettre formelle ?",
+    "options": [
+      "À plus",
+      "Bien à toi",
+      "Veuillez agréer, Madame, l’expression de mes salutations distinguées.",
+      "Salut"
+    ],
+    "answer": "Veuillez agréer, Madame, l’expression de mes salutations distinguées."
+  },
+  {
+    "numero": 2,
+    "question": "Quel mot est le plus soutenu ?",
+    "options": [
+      "Bouffer",
+      "Manger",
+      "Déguster",
+      "Se nourrir"
+    ],
+    "answer": "Se nourrir"
+  },
+  {
+    "numero": 3,
+    "question": "Dans un email professionnel, on évite :",
+    "options": [
+      "Les tournures impersonnelles",
+      "L’utilisation du passé composé",
+      "Le tutoiement",
+      "Les phrases longues"
+    ],
+    "answer": "Le tutoiement"
+  },
+  {
+    "numero": 4,
+    "question": "Choisissez la meilleure transition logique pour exprimer une conséquence :",
+    "options": [
+      "En revanche",
+      "Par conséquent",
+      "Pourtant",
+      "En effet"
+    ],
+    "answer": "Par conséquent"
+  },
+  {
+    "numero": 5,
+    "question": "Lequel est un registre de langue familier ?",
+    "options": [
+      "S’éclipser",
+      "Se casser",
+      "S’absenter",
+      "Se retirer"
+    ],
+    "answer": "Se casser"
+  },
+  {
+    "numero": 6,
+    "question": "Laquelle de ces phrases conviendrait dans un rapport administratif ?",
+    "options": [
+      "Le chef a pété les plombs.",
+      "Le directeur est devenu fou.",
+      "Le supérieur a exprimé sa contrariété.",
+      "Ça l’a saoulé."
+    ],
+    "answer": "Le supérieur a exprimé sa contrariété."
+  },
+  {
+    "numero": 7,
+    "question": "Quelle phrase est claire et concise ?",
+    "options": [
+      "Il est évident que cela pourrait éventuellement potentiellement se produire.",
+      "Cela pourrait se produire.",
+      "C’est une chose que l’on ne peut pas prévoir si jamais cela survenait.",
+      "Si éventuellement cela devait arriver un jour, peut-être que…"
+    ],
+    "answer": "Cela pourrait se produire."
+  },
+  {
+    "numero": 8,
+    "question": "Laquelle est une phrase neutre et professionnelle ?",
+    "options": [
+      "Vous êtes priés de faire le boulot.",
+      "Merci de bien vouloir effectuer cette tâche.",
+      "Faites ce qu’on vous dit.",
+      "Faut le faire."
+    ],
+    "answer": "Merci de bien vouloir effectuer cette tâche."
+  },
+  {
+    "numero": 9,
+    "question": "Lequel est un connecteur logique de concession ?",
+    "options": [
+      "Toutefois",
+      "En effet",
+      "C’est pourquoi",
+      "D’abord"
+    ],
+    "answer": "Toutefois"
+  },
+  {
+    "numero": 10,
+    "question": "Complétez avec le bon ton formel : « Nous vous remercions de ___ votre attention. »",
+    "options": [
+      "nous avoir accordé",
+      "nous donner",
+      "nous accorder",
+      "avoir donné"
+    ],
+    "answer": "nous avoir accordé"
+  }
 ]
