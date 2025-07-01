@@ -1,4 +1,4 @@
- {
+ [ {
   "exercises": [
     {
       "title": "Observation des Baleines Bleues dans l'Océan Indien",
@@ -200,3 +200,4 @@
           "choices": ["Par des modèles mathématiques complexes", "Par des graphiques démontrant la hausse et la baisse du PIB au fil du temps", "Par des projections basées sur les données démographiques", "Par des simulations informatiques de l'activité économique"],
           "answer": "b"
         }
+]
