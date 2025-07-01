@@ -1,4 +1,4 @@
-[ {
+ {
   "exercises": [
     {
       "title": "Observation des Baleines Bleues dans l'Océan Indien",
@@ -10,14 +10,46 @@
       ],
       "localStorage": "score_observation-baleines-ocean-indien",
       "questions": [
-        {"question":"Quel est le sujet principal du texte ?","choices":["Les oiseaux migrateurs","Les baleines bleues dans l'océan Indien","Les baleines grises dans le Pacifique","Les requins dans l'Atlantique"],"answer":"b"},
-        {"question":"Quelle est la caractéristique principale des baleines bleues ?","choices":["Leur taille immense","Leur vitesse de nage","Leur couleur bleue vive","Leur migration annuelle"],"answer":"a"},
-        {"question":"Où naissent les petits de baleines, selon le texte ?","choices":["Au large des côtes de l'île Maurice","Dans les eaux riches en krill de l'océan Antarctique","Dans les eaux chaudes des Maldives","Dans les eaux froides du Groenland"],"answer":"a"},
-        {"question":"Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?","choices":["1 à 2 semaines","1 à 2 mois","4 à 5 mois","1 à 2 ans"],"answer":"c"},
-        {"question":"Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?","choices":["Les côtes du Brésil","Les côtes de l'Afrique du Sud et de Madagascar","Les côtes de l'Australie","Les côtes de la Californie"],"answer":"b"},
-        {"question":"Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?","choices":["Elles bondissent hors de l'eau.","Elles crachent de l'eau par leur évent.","Elles nagent en formation serrée.","Elles nagent rapidement vers la côte."],"answer":"b"},
-        {"question":"Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?","choices":["Pour éviter les collisions avec d'autres bateaux.","Pour repérer les jets d'eau annonçant leur émergence.","Pour observer les nageoires dorsales des baleines.","Pour surveiller les mouvements des poissons."],"answer":"b"},
-        {"question":"Quel terme qualifie le mieux les baleines bleues dans le texte ?","choices":["Gigantesques","Agiles","Timides","Chantantes"],"answer":"a"}
+        {
+          "question": "Quel est le sujet principal du texte ?",
+          "choices": ["Les oiseaux migrateurs", "Les baleines bleues dans l'océan Indien", "Les baleines grises dans le Pacifique", "Les requins dans l'Atlantique"],
+          "answer": "b"
+        },
+        {
+          "question": "Quelle est la caractéristique principale des baleines bleues ?",
+          "choices": ["Leur taille immense", "Leur vitesse de nage", "Leur couleur bleue vive", "Leur migration annuelle"],
+          "answer": "a"
+        },
+        {
+          "question": "Où naissent les petits de baleines, selon le texte ?",
+          "choices": ["Au large des côtes de l'île Maurice", "Dans les eaux riches en krill de l'océan Antarctique", "Dans les eaux chaudes des Maldives", "Dans les eaux froides du Groenland"],
+          "answer": "a"
+        },
+        {
+          "question": "Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?",
+          "choices": ["1 à 2 semaines", "1 à 2 mois", "4 à 5 mois", "1 à 2 ans"],
+          "answer": "c"
+        },
+        {
+          "question": "Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?",
+          "choices": ["Les côtes du Brésil", "Les côtes de l'Afrique du Sud et de Madagascar", "Les côtes de l'Australie", "Les côtes de la Californie"],
+          "answer": "b"
+        },
+        {
+          "question": "Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?",
+          "choices": ["Elles bondissent hors de l'eau.", "Elles crachent de l'eau par leur évent.", "Elles nagent en formation serrée.", "Elles nagent rapidement vers la côte."],
+          "answer": "b"
+        },
+        {
+          "question": "Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?",
+          "choices": ["Pour éviter les collisions avec d'autres bateaux.", "Pour repérer les jets d'eau annonçant leur émergence.", "Pour observer les nageoires dorsales des baleines.", "Pour surveiller les mouvements des poissons."],
+          "answer": "b"
+        },
+        {
+          "question": "Quel terme qualifie le mieux les baleines bleues dans le texte ?",
+          "choices": ["Gigantesques", "Agiles", "Timides", "Chantantes"],
+          "answer": "a"
+        }
       ]
     },
     {
@@ -29,15 +61,48 @@
       ],
       "localStorage": "score_parc-national-himalaya",
       "questions": [
-        {"question":"Où se situe le parc national de l'Himalaya ?","choices":["En Chine","En Inde, au Népal et au Bhoutan","Au Japon","En Russie"],"answer":"b"},
-        {"question":"Quelle est la superficie approximative du parc national de l'Himalaya ?","choices":["500 kilomètres carrés","5 000 kilomètres carrés","50 000 kilomètres carrés","500 000 kilomètres carrés"],"answer":"b"},
-        {"question":"Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?","choices":["Moins de 50 espèces","Environ 100 espèces","Plus de 100 espèces","Plus de 500 espèces"],"answer":"c"},
-        {"question":"Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?","choices":["Le tigre du Bengale","Le lion","Le kangourou","L'éléphant africain"],"answer":"a"},
-        {"question":"Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?","choices":["Des montagnes uniquement","Des lacs, des sentiers de randonnée et des cascades","Des déserts et des canyons","Des forêts uniquement"],"answer":"b"},
-        {"question":"Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?","choices":["Aucun impact","Des tremblements de terre fréquents et des sources chaudes thermales","Un climat très stable","Une faune et une flore très variées"],"answer":"b"},
-        {"question":"Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?","choices":["Des programmes de chasse","Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème","Des activités industrielles","L'urbanisation du parc"],"answer":"b"},
-        {"question":"Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?","choices":["Un trésor naturel","Un désert aride","Une zone industrielle","Un terrain vague"],"answer":"a"}
-      ] },
+        {
+          "question": "Où se situe le parc national de l'Himalaya ?",
+          "choices": ["En Chine", "En Inde, au Népal et au Bhoutan", "Au Japon", "En Russie"],
+          "answer": "b"
+        },
+        {
+          "question": "Quelle est la superficie approximative du parc national de l'Himalaya ?",
+          "choices": ["500 kilomètres carrés", "5 000 kilomètres carrés", "50 000 kilomètres carrés", "500 000 kilomètres carrés"],
+          "answer": "b"
+        },
+        {
+          "question": "Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?",
+          "choices": ["Moins de 50 espèces", "Environ 100 espèces", "Plus de 100 espèces", "Plus de 500 espèces"],
+          "answer": "c"
+        },
+        {
+          "question": "Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?",
+          "choices": ["Le tigre du Bengale", "Le lion", "Le kangourou", "L'éléphant africain"],
+          "answer": "a"
+        },
+        {
+          "question": "Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?",
+          "choices": ["Des montagnes uniquement", "Des lacs, des sentiers de randonnée et des cascades", "Des déserts et des canyons", "Des forêts uniquement"],
+          "answer": "b"
+        },
+        {
+          "question": "Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?",
+          "choices": ["Aucun impact", "Des tremblements de terre fréquents et des sources chaudes thermales", "Un climat très stable", "Une faune et une flore très variées"],
+          "answer": "b"
+        },
+        {
+          "question": "Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?",
+          "choices": ["Des programmes de chasse", "Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème", "Des activités industrielles", "L'urbanisation du parc"],
+          "answer": "b"
+        },
+        {
+          "question": "Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?",
+          "choices": ["Un trésor naturel", "Un désert aride", "Une zone industrielle", "Un terrain vague"],
+          "answer": "a"
+        }
+      ]
+    },
     {
       "title": "Routine Quotidienne dans un Village de Montagne",
       "slug": "routine-village-montagne",
@@ -48,14 +113,46 @@
       ],
       "localStorage": "score_routine-village-montagne",
       "questions": [
-        {"question":"Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?","choices":["Prendre son petit déjeuner","Se laver le visage","Allumer le feu de bois","Faire son lit"],"answer":"b"},
-        {"question":"Que fait Émilie après s'être lavé le visage dans la salle de bain ?","choices":["Elle prend une douche","Elle s'habille","Elle se brosse les cheveux","Elle se brosse les dents"],"answer":"a"},
-        {"question":"Quel aliment compose le petit déjeuner d'Émilie ?","choices":["Des œufs brouillés","Du pain frais et du fromage local","Des céréales avec du lait","Des fruits et du yaourt"],"answer":"b"},
-        {"question":"Où se rend Émilie après avoir pris son petit déjeuner ?","choices":["À l'école","Au travail","Chez sa grand-mère","Au marché"],"answer":"a"},
-        {"question":"Comment se rend Émilie à l'école ?","choices":["En voiture","En bus scolaire","À pied","À vélo"],"answer":"c"},
-        {"question":"Quelle est l'activité d'Émilie après l'école ?","choices":["Elle fait ses devoirs","Elle joue avec ses frères et sœurs","Elle va chez le voisin","Elle prend une douche"],"answer":"a"},
-        {"question":"Quel est le repas du soir d'Émilie avec sa famille ?","choices":["Des pâtes avec de la sauce tomate","De la soupe chaude et du pain frais","Des pizzas maison","Des légumes grillés avec du riz"],"answer":"b"},
-        {"question":"Que fait Émilie juste avant de se coucher ?","choices":["Elle lit un livre","Elle regarde la télévision","Elle se brosse les dents","Elle écrit dans son journal intime"],"answer":"c"}
+        {
+          "question": "Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?",
+          "choices": ["Prendre son petit déjeuner", "Se laver le visage", "Allumer le feu de bois", "Faire son lit"],
+          "answer": "b"
+        },
+        {
+          "question": "Que fait Émilie après s'être lavé le visage dans la salle de bain ?",
+          "choices": ["Elle prend une douche", "Elle s'habille", "Elle se brosse les cheveux", "Elle se brosse les dents"],
+          "answer": "a"
+        },
+        {
+          "question": "Quel aliment compose le petit déjeuner d'Émilie ?",
+          "choices": ["Des œufs brouillés", "Du pain frais et du fromage local", "Des céréales avec du lait", "Des fruits et du yaourt"],
+          "answer": "b"
+        },
+        {
+          "question": "Où se rend Émilie après avoir pris son petit déjeuner ?",
+          "choices": ["À l'école", "Au travail", "Chez sa grand-mère", "Au marché"],
+          "answer": "a"
+        },
+        {
+          "question": "Comment se rend Émilie à l'école ?",
+          "choices": ["En voiture", "En bus scolaire", "À pied", "À vélo"],
+          "answer": "c"
+        },
+        {
+          "question": "Quelle est l'activité d'Émilie après l'école ?",
+          "choices": ["Elle fait ses devoirs", "Elle joue avec ses frères et sœurs", "Elle va chez le voisin", "Elle prend une douche"],
+          "answer": "a"
+        },
+        {
+          "question": "Quel est le repas du soir d'Émilie avec sa famille ?",
+          "choices": ["Des pâtes avec de la sauce tomate", "De la soupe chaude et du pain frais", "Des pizzas maison", "Des légumes grillés avec du riz"],
+          "answer": "b"
+        },
+        {
+          "question": "Que fait Émilie juste avant de se coucher ?",
+          "choices": ["Elle lit un livre", "Elle regarde la télévision", "Elle se brosse les dents", "Elle écrit dans son journal intime"],
+          "answer": "c"
+        }
       ]
     },
     {
@@ -68,11 +165,38 @@
       ],
       "localStorage": "score_analyse-economique",
       "questions": [
-        {"question":"Qu'est-ce que le PIB représente ?","choices":["La production totale de biens et de services dans un pays","La population totale d'un pays","Le budget total du gouvernement","Le nombre total de chômeurs dans un pays"],"answer":"a"},
-        {"question":"Comment est généralement exprimée la croissance économique lorsque l'économie se porte bien ?","choices":["Par une valeur négative en pourcentage","Par une valeur positive en pourcentage","Par une valeur nulle en pourcentage","Par un nombre entier sans pourcentage"],"answer":"b"},
-        {"question":"Quelle est l'une des principales méthodes utilisées par les économistes pour évaluer le cycle économique ?","choices":["L'évaluation de la population totale","L'analyse des données démographiques","La représentation graphique des fluctuations du PIB","L'étude des dépenses personnelles des citoyens"],"answer":"c"},
-        {"question":"Quels sont les deux facteurs que les économistes évaluent pour créer une économie productive ?","choices":["L'offre et la demande","La consommation et l'épargne","La production et la distribution","Les recettes et les dépenses"],"answer":"a"},
-        {"question":"Comment est généralement caractérisée une dépression économique par rapport à une récession ?","choices":["Elle dure plus longtemps qu'une récession","Elle implique une croissance économique significative","Elle est moins grave qu'une récession","Elle est attendue dans un cycle économique normal"],"answer":"a"},
-        {"question":"Quelle condition doit remplir une récession selon le texte ?","choices":["Une croissance économique stable","Une croissance économique négative pendant au moins deux ans","Une croissance économique positive pendant au moins deux ans","Une stagnation économique pendant deux trimestres consécutifs"],"answer":"d"},
-        {"question":"Comment les économistes représentent-ils généralement le cycle économique ?","choices":["Par des modèles mathématiques complexes","Par des graphiques démontrant la hausse et la baisse du PIB au fil du temps","Par des projections basées sur les données démographiques","Par des simulations informatiques de l'activité économique"],"answer":"b"}
-      ]
+        {
+          "question": "Qu'est-ce que le PIB représente ?",
+          "choices": ["La production totale de biens et de services dans un pays", "La population totale d'un pays", "Le budget total du gouvernement", "Le nombre total de chômeurs dans un pays"],
+          "answer": "a"
+        },
+        {
+          "question": "Comment est généralement exprimée la croissance économique lorsque l'économie se porte bien ?",
+          "choices": ["Par une valeur négative en pourcentage", "Par une valeur positive en pourcentage", "Par une valeur nulle en pourcentage", "Par un nombre entier sans pourcentage"],
+          "answer": "b"
+        },
+        {
+          "question": "Quelle est l'une des principales méthodes utilisées par les économistes pour évaluer le cycle économique ?",
+          "choices": ["L'évaluation de la population totale", "L'analyse des données démographiques", "La représentation graphique des fluctuations du PIB", "L'étude des dépenses personnelles des citoyens"],
+          "answer": "c"
+        },
+        {
+          "question": "Quels sont les deux facteurs que les économistes évaluent pour créer une économie productive ?",
+          "choices": ["L'offre et la demande", "La consommation et l'épargne", "La production et la distribution", "Les recettes et les dépenses"],
+          "answer": "a"
+        },
+        {
+          "question": "Comment est généralement caractérisée une dépression économique par rapport à une récession ?",
+          "choices": ["Elle dure plus longtemps qu'une récession", "Elle implique une croissance économique significative", "Elle est moins grave qu'une récession", "Elle est attendue dans un cycle économique normal"],
+          "answer": "a"
+        },
+        {
+          "question": "Quelle condition doit remplir une récession selon le texte ?",
+          "choices": ["Une croissance économique stable", "Une croissance économique négative pendant au moins deux ans", "Une croissance économique positive pendant au moins deux ans", "Une stagnation économique pendant deux trimestres consécutifs"],
+          "answer": "d"
+        },
+        {
+          "question": "Comment les économistes représentent-ils généralement le cycle économique ?",
+          "choices": ["Par des modèles mathématiques complexes", "Par des graphiques démontrant la hausse et la baisse du PIB au fil du temps", "Par des projections basées sur les données démographiques", "Par des simulations informatiques de l'activité économique"],
+          "answer": "b"
+        }
