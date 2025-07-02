@@ -1,121 +1,121 @@
 [ 
 {
-    "id": "parc-national-de-lhimalaya",
+    "slug": "parc-national-de-lhimalaya",
     "titre": "Parc National de l'Himalaya",
     "url": "exercice.html?slug=parc-national-de-lhimalaya"
   },
   {
-    "id": "observation-des-baleines-bleues-dans-locean-indien",
+    "slug": "observation-des-baleines-bleues-dans-locean-indien",
     "titre": "Observation des Baleines Bleues dans l'Océan Indien",
     "url": "exercice.html?slug=observation-des-baleines-bleues-dans-locean-indien"
   },
   {
-    "id": "routine-quotidienne-dans-un-village-de-montagne",
+    "slug": "routine-quotidienne-dans-un-village-de-montagne",
     "titre": "Routine Quotidienne dans un Village de Montagne",
     "url": "exercice.html?slug=routine-quotidienne-dans-un-village-de-montagne"
   },
   {
-    "id": "analyse-economique",
+    "slug": "analyse-economique",
     "titre": "Analyse Économique",
     "url": "exercice.html?slug=analyse-economique"
   },
   {
-    "id": "architecte-paysagiste",
+    "slug": "architecte-paysagiste",
     "titre": "Architecte Paysagiste",
     "url": "exercice.html?slug=architecte-paysagiste"
   },
   {
-    "id": "conception-de-parcs",
+    "slug": "conception-de-parcs",
     "titre": "Conception de Parcs",
     "url": "exercice.html?slug=conception-de-parcs"
   },
   {
-    "id": "paysagiste-urbain",
+    "slug": "paysagiste-urbain",
     "titre": "Paysagiste Urbain",
     "url": "exercice.html?slug=paysagiste-urbain"
   },
   {
-    "id": "modes-de-deplacement",
+    "slug": "modes-de-deplacement",
     "titre": "Modes de Déplacement",
     "url": "exercice.html?slug=modes-de-deplacement"
   },
   {
-    "id": "exploration-en-plein-air",
+    "slug": "exploration-en-plein-air",
     "titre": "Exploration en Plein Air",
     "url": "exercice.html?slug=exploration-en-plein-air"
   },
   {
-    "id": "diner-au-restaurant",
+    "slug": "diner-au-restaurant",
     "titre": "Dîner au Restaurant",
     "url": "exercice.html?slug=diner-au-restaurant"
   },
   {
-    "id": "experience-de-somnambulisme",
+    "slug": "experience-de-somnambulisme",
     "titre": "Expérience de somnambulisme",
     "url": "exercice.html?slug=experience-de-somnambulisme"
   },
   {
-    "id": "apercu-des-sports",
+    "slug": "apercu-des-sports",
     "titre": "Aperçu des sports",
     "url": "exercice.html?slug=apercu-des-sports"
   },
   {
-    "id": "le-voyage-des-pionniers",
+    "slug": "le-voyage-des-pionniers",
     "titre": "Le Voyage des Pionniers",
     "url": "exercice.html?slug=le-voyage-des-pionniers"
   },
   {
-    "id": "la-saga-de-survie-dans-les-andes",
+    "slug": "la-saga-de-survie-dans-les-andes",
     "titre": "La Saga de Survie dans les Andes",
     "url": "exercice.html?slug=la-saga-de-survie-dans-les-andes"
   },
   {
-    "id": "voyage",
+    "slug": "voyage",
     "titre": "Voyage",
     "url": "exercice.html?slug=voyage"
   },
   {
-    "id": "varietes-de-sauce-barbecue",
+    "slug": "varietes-de-sauce-barbecue",
     "titre": "Variétés de Sauce Barbecue",
     "url": "exercice.html?slug=varietes-de-sauce-barbecue"
   },
   {
-    "id": "meteo",
+    "slug": "meteo",
     "titre": "Météo",
     "url": "exercice.html?slug=meteo"
   },
   {
-    "id": "climat",
+    "slug": "climat",
     "titre": "Climat",
     "url": "exercice.html?slug=climat"
   },
   {
-    "id": "le-sol",
+    "slug": "le-sol",
     "titre": "Le sol",
     "url": "exercice.html?slug=le-sol"
   },
   {
-    "id": "la-faune",
+    "slug": "la-faune",
     "titre": "La faune",
     "url": "exercice.html?slug=la-faune"
   },
   {
-    "id": "la-flore",
+    "slug": "la-flore",
     "titre": "La flore",
     "url": "exercice.html?slug=la-flore"
   },
   {
-    "id": "latmosphere",
+    "slug": "latmosphere",
     "titre": "L'atmosphère",
     "url": "exercice.html?slug=latmosphere"
   },
   {
-    "id": "lunivers",
+    "slug": "lunivers",
     "titre": "L'univers",
     "url": "exercice.html?slug=lunivers"
   },
   {
-    "id": "la-feuille-de-bilan-cosmique",
+    "slug": "la-feuille-de-bilan-cosmique",
     "titre": "La Feuille de Bilan Cosmique",
     "url": "exercice.html?slug=la-feuille-de-bilan-cosmique"
   }
