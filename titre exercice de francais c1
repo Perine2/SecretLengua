@@ -48,5 +48,74 @@
     "titre": "Le Voyage des Pionniers",
     "id": "voyage-pionniers",
     "url": "https://secretlengua1.com/Reading-C1/voyage-pionniers"
+  };{
+    "titre": "La Saga de Survie dans les Andes",
+    "id": "la-saga-de-survie-dans-les-andes",
+    "url": "https://secretlengua1.com/Reading-C1/Saga-de-Survie"
+  },
+  {
+    "titre": "Voyage",
+    "id": "voyage",
+    "url": "https://secretlengua1.com/Reading-C1/Voyage"
+  },
+  {
+    "titre": "Variétés de Sauce Barbecue",
+    "id": "varietes-de-sauce-barbecue",
+    "url": "https://secretlengua1.com/Reading-C1/Varietes-Barbecue"
+  },
+  {
+    "titre": "Météo",
+    "id": "meteo",
+    "url": "https://secretlengua1.com/Reading-C1/Meteo"
+  },
+  {
+    "titre": "Climat",
+    "id": "climat",
+    "url": "https://secretlengua1.com/Reading-C1/Climat"
+  },
+  {
+    "titre": "Le sol",
+    "id": "le-sol",
+    "url": "https://secretlengua1.com/Reading-C1/Le-sol"
+  },
+  {
+    "titre": "La faune",
+    "id": "la-faune",
+    "url": "https://secretlengua1.com/Reading-C1/La-faune"
+  },
+  {
+    "titre": "La flore",
+    "id": "la-flore",
+    "url": "https://secretlengua1.com/Reading-C1/La-flore"
+  },
+  {
+    "titre": "L'atmosphère",
+    "id": "latmosphere",
+    "url": "https://secretlengua1.com/Reading-C1/Latmosphere"
+  },
+  {
+    "titre": "Observation des Baleines Bleues dans l'Océan Indien",
+    "id": "observation-des-baleines-bleues",
+    "url": "https://secretlengua1.com/Reading-C1/Observation-des-Baleines-Bleues"
+  },
+  {
+    "titre": "Routine Quotidienne dans un Village de Montagne",
+    "id": "routine-quotidienne-village-montagne",
+    "url": "https://secretlengua1.com/Reading-C1/Routine-Quotidienne"
+  },
+  {
+    "titre": "Analyse Économique",
+    "id": "analyse-economique",
+    "url": "https://secretlengua1.com/Reading-C1/Analyse-Economique"
+  },
+  {
+    "titre": "L'univers",
+    "id": "lunivers",
+    "url": "https://secretlengua1.com/Reading-C1/Lunivers"
+  },
+  {
+    "titre": "La Feuille de Bilan Cosmique",
+    "id": "la-feuille-de-bilan-cosmique",
+    "url": "https://secretlengua1.com/Reading-C1/La-Feuille-de-Bilan-Cosmique"
   }
 ]
