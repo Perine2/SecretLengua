@@ -1,122 +1,52 @@
 [ 
-{
-    "slug": "parc-national-de-lhimalaya",
+ {
     "titre": "Parc National de l'Himalaya",
-    "url": "exercice.html?slug=parc-national-de-lhimalaya"
+    "id": "parc-national-lHimalaya",
+    "url": "https://secretlengua1.com/Reading-C1/parc-national-lHimalaya"
   },
   {
-    "slug": "observation-des-baleines-bleues-dans-locean-indien",
-    "titre": "Observation des Baleines Bleues dans l'Océan Indien",
-    "url": "exercice.html?slug=observation-des-baleines-bleues-dans-locean-indien"
-  },
-  {
-    "slug": "routine-quotidienne-dans-un-village-de-montagne",
-    "titre": "Routine Quotidienne dans un Village de Montagne",
-    "url": "exercice.html?slug=routine-quotidienne-dans-un-village-de-montagne"
-  },
-  {
-    "slug": "analyse-economique",
-    "titre": "Analyse Économique",
-    "url": "exercice.html?slug=analyse-economique"
-  },
-  {
-    "slug": "architecte-paysagiste",
     "titre": "Architecte Paysagiste",
-    "url": "exercice.html?slug=architecte-paysagiste"
+    "id": "architecte-paysagiste",
+    "url": "https://secretlengua1.com/Reading-C1/architecte-paysagiste"
   },
   {
-    "slug": "conception-de-parcs",
     "titre": "Conception de Parcs",
-    "url": "exercice.html?slug=conception-de-parcs"
+    "id": "conception-parcs",
+    "url": "https://secretlengua1.com/Reading-C1/Conception-parcs"
   },
   {
-    "slug": "paysagiste-urbain",
     "titre": "Paysagiste Urbain",
-    "url": "exercice.html?slug=paysagiste-urbain"
+    "id": "paysagiste-urbain",
+    "url": "https://secretlengua1.com/Reading-C1/paysagiste-urbain"
   },
   {
-    "slug": "modes-de-deplacement",
     "titre": "Modes de Déplacement",
-    "url": "exercice.html?slug=modes-de-deplacement"
+    "id": "modes-deplacement",
+    "url": "https://secretlengua1.com/Reading-C1/Modes-deplacement"
   },
   {
-    "slug": "exploration-en-plein-air",
     "titre": "Exploration en Plein Air",
-    "url": "exercice.html?slug=exploration-en-plein-air"
+    "id": "exploration-plein",
+    "url": "https://secretlengua1.com/Reading-C1/Exploration-plein"
   },
   {
-    "slug": "diner-au-restaurant",
     "titre": "Dîner au Restaurant",
-    "url": "exercice.html?slug=diner-au-restaurant"
+    "id": "diner-restaurant",
+    "url": "https://secretlengua1.com/Reading-C1/Diner-Restaurant"
   },
   {
-    "slug": "experience-de-somnambulisme",
     "titre": "Expérience de somnambulisme",
-    "url": "exercice.html?slug=experience-de-somnambulisme"
+    "id": "experience-somnambulisme",
+    "url": "https://secretlengua1.com/Reading-C1/experience-somnambulisme"
   },
   {
-    "slug": "apercu-des-sports",
     "titre": "Aperçu des sports",
-    "url": "exercice.html?slug=apercu-des-sports"
+    "id": "apercu-sports",
+    "url": "https://secretlengua1.com/Reading-C1/Apercu-sports"
   },
   {
-    "slug": "le-voyage-des-pionniers",
     "titre": "Le Voyage des Pionniers",
-    "url": "exercice.html?slug=le-voyage-des-pionniers"
-  },
-  {
-    "slug": "la-saga-de-survie-dans-les-andes",
-    "titre": "La Saga de Survie dans les Andes",
-    "url": "exercice.html?slug=la-saga-de-survie-dans-les-andes"
-  },
-  {
-    "slug": "voyage",
-    "titre": "Voyage",
-    "url": "exercice.html?slug=voyage"
-  },
-  {
-    "slug": "varietes-de-sauce-barbecue",
-    "titre": "Variétés de Sauce Barbecue",
-    "url": "exercice.html?slug=varietes-de-sauce-barbecue"
-  },
-  {
-    "slug": "meteo",
-    "titre": "Météo",
-    "url": "exercice.html?slug=meteo"
-  },
-  {
-    "slug": "climat",
-    "titre": "Climat",
-    "url": "exercice.html?slug=climat"
-  },
-  {
-    "slug": "le-sol",
-    "titre": "Le sol",
-    "url": "exercice.html?slug=le-sol"
-  },
-  {
-    "slug": "la-faune",
-    "titre": "La faune",
-    "url": "exercice.html?slug=la-faune"
-  },
-  {
-    "slug": "la-flore",
-    "titre": "La flore",
-    "url": "exercice.html?slug=la-flore"
-  },
-  {
-    "slug": "latmosphere",
-    "titre": "L'atmosphère",
-    "url": "exercice.html?slug=latmosphere"
-  },
-  {
-    "slug": "lunivers",
-    "titre": "L'univers",
-    "url": "exercice.html?slug=lunivers"
-  },
-  {
-    "slug": "la-feuille-de-bilan-cosmique",
-    "titre": "La Feuille de Bilan Cosmique",
-    "url": "exercice.html?slug=la-feuille-de-bilan-cosmique"
+    "id": "voyage-pionniers",
+    "url": "https://secretlengua1.com/Reading-C1/voyage-pionniers"
   }
 ]
