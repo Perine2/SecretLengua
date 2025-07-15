@@ -1,101 +1,121 @@
 [ {
     "titre": "Letter to my best friend",
     "id": "letter-to-my-best-friend",
+    "slug": "letter-to-my-best-friend",
     "url": "https://secretlengua1.com/EnglishB1/letter-to-my-best-friend"
   },
   {
     "titre": "A phone conversation",
     "id": "a-phone-conversation",
+    "slug": "A-phone-conversation",
     "url": "https://secretlengua1.com/EnglishB1/A-phone-conversation"
   },
   {
     "titre": "Discovering Berlin",
     "id": "discovering-berlin",
+    "slug": "Discovering-Berlin",
     "url": "https://secretlengua1.com/EnglishB1/Discovering-Berlin"
   },
   {
     "titre": "Letter to My Best Friend",
     "id": "letter-to-my-best-friend-2",
+    "slug": "to-My-Best-Friend",
     "url": "https://secretlengua1.com/EnglishB1/to-My-Best-Friend"
   },
   {
     "titre": "Sophies-house",
     "id": "sophies-house",
+    "slug": "Sophies-house",
     "url": "https://secretlengua1.com/EnglishB1/Sophies-house"
   },
   {
     "titre": "Lucas's House",
     "id": "lucass-house",
+    "slug": "Lucass-House",
     "url": "https://secretlengua1.com/EnglishB1/Lucass-House"
   },
   {
     "titre": "Discover Nice in one day",
     "id": "discover-nice-in-one-day",
+    "slug": "Discover-Nice-in-one-day",
     "url": "https://secretlengua1.com/EnglishB1/Discover-Nice-in-one-day"
   },
   {
     "titre": "Weather forecast",
     "id": "weather-forecast",
+    "slug": "Weather-forecast",
     "url": "https://secretlengua1.com/EnglishB1/Weather-forecast"
   },
   {
     "titre": "Christmas in London",
     "id": "christmas-in-london",
+    "slug": "Christmas-in-London",
     "url": "https://secretlengua1.com/EnglishB1/Christmas-in-London"
   },
   {
     "titre": "Discovering Rome in One Day",
     "id": "discovering-rome-in-one-day",
+    "slug": "Discovering-Rome-in-One-Day",
     "url": "https://secretlengua1.com/EnglishB1/Discovering-Rome-in-One-Day"
   },
   {
     "titre": "Congratulations!",
     "id": "congratulations",
+    "slug": "Congratulations",
     "url": "https://secretlengua1.com/EnglishB1/Congratulations"
   },
   {
     "titre": "Weather Forecast",
     "id": "weather-forecast-2",
+    "slug": "Weather-Forecast",
     "url": "https://secretlengua1.com/EnglishB1/Weather-Forecast"
   },
   {
     "titre": "A meeting",
     "id": "a-meeting",
+    "slug": "A-meeting",
     "url": "https://secretlengua1.com/EnglishB1/A-meeting"
   },
   {
     "titre": "Dear Amelie,",
     "id": "dear-amelie",
+    "slug": "Dear-Amelie",
     "url": "https://secretlengua1.com/EnglishB1/Dear-Amelie"
   },
   {
     "titre": "The City of Doges",
     "id": "the-city-of-doges",
+    "slug": "The-City-of-Doges",
     "url": "https://secretlengua1.com/EnglishB1/The-City-of-Doges"
   },
   {
     "titre": "At the bus station",
     "id": "at-the-bus-station",
+    "slug": "At-the-bus-station",
     "url": "https://secretlengua1.com/EnglishB1/At-the-bus-station"
   },
   {
     "titre": "Preparation for a job interview",
     "id": "preparation-for-a-job-interview",
+    "slug": "Preparation-for-a-job-interview",
     "url": "https://secretlengua1.com/EnglishB1/Preparation-for-a-job-interview"
   },
   {
     "titre": "Allergies",
     "id": "allergies",
+    "slug": "allergies",
     "url": "https://secretlengua1.com/EnglishB1/allergies"
   },
   {
     "titre": "Take a break",
     "id": "take-a-break",
+    "slug": "Take-a-break",
     "url": "https://secretlengua1.com/EnglishB1/Take-a-break"
   },
   {
     "titre": "personalized activities",
     "id": "personalized-activities",
+    "slug": "personalized-activities",
     "url": "https://secretlengua1.com/EnglishB1/personalized-activities"
   }
 ]
