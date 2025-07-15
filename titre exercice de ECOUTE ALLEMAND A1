@@ -1,86 +1,103 @@
 [ {
-      "titre": "Übung 1",
-      "id": "uebung-1",
-      "url": "https://secretlengua1.com/German-A1/FCKIDVOXLIX-SG"
-    },
-    {
-      "titre": "Übung 2",
-      "id": "uebung-2",
-      "url": "https://secretlengua1.com/German-A1/GVGRCFCFMFVBQJM"
-    },
-    {
-      "titre": "Übung 3",
-      "id": "uebung-3",
-      "url": "https://secretlengua1.com/German-A1/EHUHLLNGLSIHVMW"
-    },
-    {
-      "titre": "Übung 4",
-      "id": "uebung-4",
-      "url": "https://secretlengua1.com/German-A1/BUJWPGLADDUERXP"
-    },
-    {
-      "titre": "Übung 5",
-      "id": "uebung-5",
-      "url": "https://secretlengua1.com/German-A1/MMTBKWWZPP-DXGJ"
-    },
-    {
-      "titre": "Übung 6",
-      "id": "uebung-6",
-      "url": "https://secretlengua1.com/German-A1/EUKZRCGJWQDLN-G"
-    },
-    {
-      "titre": "Übung 7",
-      "id": "uebung-7",
-      "url": "https://secretlengua1.com/German-A1/BIOEDJTJJQKCEGT"
-    },
-    {
-      "titre": "Übung 8",
-      "id": "uebung-8",
-      "url": "https://secretlengua1.com/German-A1/BIOEDJTJJQKCEGT"
-    },
-    {
-      "titre": "Übung 9",
-      "id": "uebung-9",
-      "url": "https://secretlengua1.com/German-A1/QBTABMBHCJZAQIQ"
-    },
-    {
-      "titre": "Übung 10",
-      "id": "uebung-10",
-      "url": "https://secretlengua1.com/German-A1/GLSENPXBDSGDHG"
-    },
-    {
-      "titre": "Übung 11",
-      "id": "uebung-11",
-      "url": "https://secretlengua1.com/German-A1/KNPKJQKHIECCQGP"
-    },
-    {
-      "titre": "Übung 12",
-      "id": "uebung-12",
-      "url": "https://secretlengua1.com/German-A1/GAIVKFMVLEIFOJK"
-    },
-    {
-      "titre": "Übung 13",
-      "id": "uebung-13",
-      "url": "https://secretlengua1.com/German-A1/VVJBBXNBYWMYQNN"
-    },
-    {
-      "titre": "Übung 14",
-      "id": "uebung-14",
-      "url": "https://secretlengua1.com/German-A1/VLQNDQPTQVWRWEX"
-    },
-    {
-      "titre": "Übung 15",
-      "id": "uebung-15",
-      "url": "https://secretlengua1.com/German-A1/RYG-NXQWJIM"
-    },
-    {
-      "titre": "Übung 16",
-      "id": "uebung-16",
-      "url": "https://secretlengua1.com/German-A1/OSHEQMRSOFABCTL"
-    },
-    {
-      "titre": "Übung 17",
-      "id": "uebung-17",
-      "url": "https://secretlengua1.com/German-A1/BDEDIUZSMMQ-END"
-    }
+    "titre": "Übung 1",
+    "id": "uebung-1",
+    "slug": "FCKIDVOXLIX-SG",
+    "url": "https://secretlengua1.com/German-A1/FCKIDVOXLIX-SG"
+  },
+  {
+    "titre": "Übung 2",
+    "id": "uebung-2",
+    "slug": "GVGRCFCFMFVBQJM",
+    "url": "https://secretlengua1.com/German-A1/GVGRCFCFMFVBQJM"
+  },
+  {
+    "titre": "Übung 3",
+    "id": "uebung-3",
+    "slug": "EHUHLLNGLSIHVMW",
+    "url": "https://secretlengua1.com/German-A1/EHUHLLNGLSIHVMW"
+  },
+  {
+    "titre": "Übung 4",
+    "id": "uebung-4",
+    "slug": "BUJWPGLADDUERXP",
+    "url": "https://secretlengua1.com/German-A1/BUJWPGLADDUERXP"
+  },
+  {
+    "titre": "Übung 5",
+    "id": "uebung-5",
+    "slug": "MMTBKWWZPP-DXGJ",
+    "url": "https://secretlengua1.com/German-A1/MMTBKWWZPP-DXGJ"
+  },
+  {
+    "titre": "Übung 6",
+    "id": "uebung-6",
+    "slug": "EUKZRCGJWQDLN-G",
+    "url": "https://secretlengua1.com/German-A1/EUKZRCGJWQDLN-G"
+  },
+  {
+    "titre": "Übung 7",
+    "id": "uebung-7",
+    "slug": "BIOEDJTJJQKCEGT",
+    "url": "https://secretlengua1.com/German-A1/BIOEDJTJJQKCEGT"
+  },
+  {
+    "titre": "Übung 8",
+    "id": "uebung-8",
+    "slug": "BIOEDJTJJQKCEGT",
+    "url": "https://secretlengua1.com/German-A1/BIOEDJTJJQKCEGT"
+  },
+  {
+    "titre": "Übung 9",
+    "id": "uebung-9",
+    "slug": "QBTABMBHCJZAQIQ",
+    "url": "https://secretlengua1.com/German-A1/QBTABMBHCJZAQIQ"
+  },
+  {
+    "titre": "Übung 10",
+    "id": "uebung-10",
+    "slug": "GLSENPXBDSGDHG",
+    "url": "https://secretlengua1.com/German-A1/GLSENPXBDSGDHG"
+  },
+  {
+    "titre": "Übung 11",
+    "id": "uebung-11",
+    "slug": "KNPKJQKHIECCQGP",
+    "url": "https://secretlengua1.com/German-A1/KNPKJQKHIECCQGP"
+  },
+  {
+    "titre": "Übung 12",
+    "id": "uebung-12",
+    "slug": "GAIVKFMVLEIFOJK",
+    "url": "https://secretlengua1.com/German-A1/GAIVKFMVLEIFOJK"
+  },
+  {
+    "titre": "Übung 13",
+    "id": "uebung-13",
+    "slug": "VVJBBXNBYWMYQNN",
+    "url": "https://secretlengua1.com/German-A1/VVJBBXNBYWMYQNN"
+  },
+  {
+    "titre": "Übung 14",
+    "id": "uebung-14",
+    "slug": "VLQNDQPTQVWRWEX",
+    "url": "https://secretlengua1.com/German-A1/VLQNDQPTQVWRWEX"
+  },
+  {
+    "titre": "Übung 15",
+    "id": "uebung-15",
+    "slug": "RYG-NXQWJIM",
+    "url": "https://secretlengua1.com/German-A1/RYG-NXQWJIM"
+  },
+  {
+    "titre": "Übung 16",
+    "id": "uebung-16",
+    "slug": "OSHEQMRSOFABCTL",
+    "url": "https://secretlengua1.com/German-A1/OSHEQMRSOFABCTL"
+  },
+  {
+    "titre": "Übung 17",
+    "id": "uebung-17",
+    "slug": "BDEDIUZSMMQ-END",
+    "url": "https://secretlengua1.com/German-A1/BDEDIUZSMMQ-END"
+  }
 ]
