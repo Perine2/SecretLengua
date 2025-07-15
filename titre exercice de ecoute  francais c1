@@ -1,121 +1,145 @@
 [ {
     "titre": "Exercice 1",
     "id": "Listening-C1/Indien",
+    "slug": "Indien",
     "url": "https://secretlengua1.com/Listening-C1/Indien"
   },
   {
     "titre": "Exercice 2",
     "id": "Listening-C1/nalc-onom",
+    "slug": "nalc-onom",
     "url": "https://secretlengua1.com/Listening-C1/nalc-onom"
   },
   {
     "titre": "Exercice 3",
     "id": "Listening-C1/parc-national-de-lhimalaya",
+    "slug": "parc-national-de-lhimalaya",
     "url": "https://secretlengua1.com/Listening-C1/parc-national-de-lhimalaya"
   },
   {
     "titre": "Exercice 4",
     "id": "Listening-C1/ecte-Paysagis",
+    "slug": "ecte-Paysagis",
     "url": "https://secretlengua1.com/Listening-C1/ecte-Paysagis"
   },
   {
     "titre": "Exercice 5",
     "id": "Listening-C1/de-arcs",
+    "slug": "de-arcs",
     "url": "https://secretlengua1.com/Listening-C1/de-arcs"
   },
   {
     "titre": "Exercice 6",
     "id": "Listening-C1/aysagist",
+    "slug": "aysagist",
     "url": "https://secretlengua1.com/Listening-C1/aysagist"
   },
   {
     "titre": "Exercice 7",
     "id": "Listening-C1/acement",
+    "slug": "acement",
     "url": "https://secretlengua1.com/Listening-C1/acement"
   },
   {
     "titre": "Exercice 8",
     "id": "Listening-C1/ration-enir",
+    "slug": "ration-enir",
     "url": "https://secretlengua1.com/Listening-C1/ration-enir"
   },
   {
     "titre": "Exercice 9",
     "id": "Listening-C1/Ditaurant",
+    "slug": "Ditaurant",
     "url": "https://secretlengua1.com/Listening-C1/Ditaurant"
   },
   {
     "titre": "Exercice 10",
     "id": "Listening-C1/desomnam",
+    "slug": "desomnam",
     "url": "https://secretlengua1.com/Listening-C1/desomnam"
   },
   {
     "titre": "Exercice 11",
     "id": "Listening-C1/des-sp",
+    "slug": "des-sp",
     "url": "https://secretlengua1.com/Listening-C1/des-sp"
   },
   {
     "titre": "Exercice 12",
     "id": "Listening-C1/urvie-d",
+    "slug": "urvie-d",
     "url": "https://secretlengua1.com/Listening-C1/urvie-d"
   },
   {
     "titre": "Exercice 13",
     "id": "Listening-C1/oyage-da",
+    "slug": "oyage-da",
     "url": "https://secretlengua1.com/Listening-C1/oyage-da"
   },
   {
     "titre": "Exercice 14",
     "id": "Listening-C1/e-auce-B",
+    "slug": "e-auce-B",
     "url": "https://secretlengua1.com/Listening-C1/e-auce-B"
   },
   {
     "titre": "Exercice 15",
     "id": "Listening-C1/dgddn-unves",
+    "slug": "dgddn-unves",
     "url": "https://secretlengua1.com/Listening-C1/dgddn-unves"
   },
   {
     "titre": "Exercice 16",
     "id": "Listening-C1/euill-osmiqu",
+    "slug": "euill-osmiqu",
     "url": "https://secretlengua1.com/Listening-C1/euill-osmiqu"
   },
   {
     "titre": "Exercice 17",
     "id": "Listening-C1/hkketo",
+    "slug": "hkketo",
     "url": "https://secretlengua1.com/Listening-C1/hkketo"
   },
   {
     "titre": "Exercice 18",
     "id": "Listening-C1/fhhj-limat",
+    "slug": "fhhj-limat",
     "url": "https://secretlengua1.com/Listening-C1/fhhj-limat"
   },
   {
     "titre": "Exercice 19",
     "id": "Listening-C1/effg-sol",
+    "slug": "effg-sol",
     "url": "https://secretlengua1.com/Listening-C1/effg-sol"
   },
   {
     "titre": "Exercice 20",
     "id": "Listening-C1/Quotid",
+    "slug": "Quotid",
     "url": "https://secretlengua1.com/Listening-C1/Quotid"
   },
   {
     "titre": "Exercice 21",
     "id": "Listening-C1/ge-des-P",
+    "slug": "ge-des-P",
     "url": "https://secretlengua1.com/Listening-C1/ge-des-P"
   },
   {
     "titre": "Exercice 22",
     "id": "Listening-C1/Laggfh-une",
+    "slug": "Laggfh-une",
     "url": "https://secretlengua1.com/Listening-C1/Laggfh-une"
   },
   {
     "titre": "Exercice 23",
     "id": "Listening-C1/hfgb-a-flre",
+    "slug": "hfgb-a-flre",
     "url": "https://secretlengua1.com/Listening-C1/hfgb-a-flre"
   },
   {
     "titre": "Exercice 24",
     "id": "Listening-C1/atmoghh-sphre",
+    "slug": "atmoghh-sphre",
     "url": "https://secretlengua1.com/Listening-C1/atmoghh-sphre"
   }
 ]
