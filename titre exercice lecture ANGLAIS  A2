@@ -1,230 +1,47 @@
-[ {
-    "titre": "colors",
-    "id": "colors",
-    "url": "https://secretlengua1.com/EnglishA2/colors"
-  },
-  {
-    "titre": "Traditions in China",
-    "id": "traditions-in-china",
-    "url": "https://secretlengua1.com/EnglishA2/traditions-in-china"
-  },
-  {
-    "titre": "The seasons of the year",
-    "id": "the-seasons-of-the-year",
-    "url": "https://secretlengua1.com/EnglishA2/the-seasons-of-the-year"
-  },
-  {
-    "titre": "The seasons of the year",
-    "id": "means-of-transportation",
-    "url": "https://secretlengua1.com/EnglishA2/means-of-transportation"
-  },
-  {
-    "titre": "A day in the countryside",
-    "id": "a-day-in-the-countryside",
-    "url": "https://secretlengua1.com/EnglishA2/A-day-in-the-countryside"
-  },
-  {
-    "titre": "Family meals",
-    "id": "family-meals",
-    "url": "https://secretlengua1.com/EnglishA2/Family-meals"
-  },
-  {
-    "titre": "My day in the mountains",
-    "id": "my-day-in-the-mountains",
-    "url": "https://secretlengua1.com/EnglishA2/my-day-in-the-mountains"
-  },
-  {
-    "titre": "At the supermarket.",
-    "id": "at-the-supermarket",
-    "url": "https://secretlengua1.com/EnglishA2/At-the-supermarket"
-  },
-  {
-    "titre": "Théo's activities",
-    "id": "theos-activities",
-    "url": "https://secretlengua1.com/EnglishA2/Theos-activities"
-  },
-  {
-    "titre": "Antoines-discoveries",
-    "id": "antoines-discoveries",
-    "url": "https://secretlengua1.com/EnglishA2/Antoines-discoveries"
-  },
-  {
-    "titre": "A Surprise for the Wedding Anniversary",
-    "id": "a-surprise-for-the-wedding",
-    "url": "https://secretlengua1.com/EnglishA2/A-Surprise-for-the-Wedding"
-  },
-  {
-    "titre": "Dilemma in front of the TV program.",
-    "id": "dilemma",
-    "url": "https://secretlengua1.com/EnglishA2/Dilemma"
-  },
-  {
-    "titre": "A Delicious Meeting Among Friends",
-    "id": "a-delicious-meeting",
-    "url": "https://secretlengua1.com/EnglishA2/A-Delicious-Meeting"
-  },
-  {
-    "titre": "Letter exchange between cousins.",
-    "id": "letter-exchange",
-    "url": "https://secretlengua1.com/EnglishA2/Letter-exchange"
-  },
-  {
-    "titre": "Preparations for a party with friends",
-    "id": "preparations",
-    "url": "https://secretlengua1.com/EnglishA2/Preparations"
-  },
-  {
-    "titre": "In search of a pen pal.",
-    "id": "in-search-of-a-pen-pal",
-    "url": "https://secretlengua1.com/EnglishA2/In-search-of-a-pen-pal"
-  },
-  {
-    "titre": "Preparation of a friendly lunch",
-    "id": "friendly-lunch",
-    "url": "https://secretlengua1.com/EnglishA2/friendly-lunch"
-  },
-  {
-    "titre": "Correspondence from Spain",
-    "id": "correspondence",
-    "url": "https://secretlengua1.com/EnglishA2/Correspondence"
-  },
-  {
-    "titre": "Moments of celebration with family",
-    "id": "moments",
-    "url": "https://secretlengua1.com/EnglishA2/Moments"
-  },
-  {
-    "titre": "The routine of a London couple",
-    "id": "the-routine",
-    "url": "https://secretlengua1.com/EnglishA2/The-routine"
-  },
-  {
-    "titre": "An evening at the restaurant",
-    "id": "an-evening",
-    "url": "https://secretlengua1.com/EnglishA2/An-evening"
-  },
-  {
-    "titre": "A Memorable Birthday",
-    "id": "a-memorable",
-    "url": "https://secretlengua1.com/EnglishA2/A-Memorable"
-  },
-  {
-    "titre": "My Discovery of My Hometown",
-    "id": "my-discovery",
-    "url": "https://secretlengua1.com/EnglishA2/My-Discovery"
-  },
-  {
-    "titre": "Memories of an unforgettable wedding day",
-    "id": "memories-of-an-unforgettable",
-    "url": "https://secretlengua1.com/EnglishA2/Memories-of-an-unforgettable"
-  },
-  {
-    "titre": "A day of introduction at work.",
-    "id": "a-day-of-introduction",
-    "url": "https://secretlengua1.com/EnglishA2/A-day-of-introduction"
-  },
-  {
-    "titre": "A farewell filled with nostalgia",
-    "id": "a-farewell-filled",
-    "url": "https://secretlengua1.com/EnglishA2/A-farewell-filled"
-  },
-  {
-    "titre": "A memorable feast",
-    "id": "a-memorable-feast",
-    "url": "https://secretlengua1.com/EnglishA2/A-memorable-feast"
-  },
-  {
-    "titre": "A Helping Hand",
-    "id": "a-helping-hand",
-    "url": "https://secretlengua1.com/EnglishA2/A-Helping-Hand"
-  },
-  {
-    "titre": "A Relaxing Day in the Countryside",
-    "id": "a-relaxing-day",
-    "url": "https://secretlengua1.com/EnglishA2/A-Relaxing-Day"
-  },
-  {
-    "titre": "A busy day",
-    "id": "a-busy-day",
-    "url": "https://secretlengua1.com/EnglishA2/A-busy-day"
-  },
-  {
-    "titre": "A studious afternoon at the library",
-    "id": "a-studious-afternoon-at-the-library",
-    "url": "https://secretlengua1.com/EnglishA2/A-studious-afternoon-at-the-library"
-  },
-  {
-    "titre": "A romantic date",
-    "id": "a-romantic-date",
-    "url": "https://secretlengua1.com/EnglishA2/A-romantic-date"
-  },
-  {
-    "titre": "An enriching visit to the museum",
-    "id": "an-enriching-visit",
-    "url": "https://secretlengua1.com/EnglishA2/An-enriching-visit"
-  },
-  {
-    "titre": "A day at the airport",
-    "id": "a-day-at",
-    "url": "https://secretlengua1.com/EnglishA2/A-day-at"
-  },
-  {
-    "titre": "The search for a rental apartment",
-    "id": "the-search",
-    "url": "https://secretlengua1.com/EnglishA2/The-search"
-  },
-  {
-    "titre": "Shapes",
-    "id": "shapes",
-    "url": "https://secretlengua1.com/EnglishA2/Shapes"
-  },
-  {
-    "titre": "Celebrations in India",
-    "id": "celebrations-in-india",
-    "url": "https://secretlengua1.com/EnglishA2/Celebrations-in-India"
-  },
-  {
-    "titre": "The Days of the Week",
-    "id": "the-days-of",
-    "url": "https://secretlengua1.com/EnglishA2/The-Days-of"
-  },
-  {
-    "titre": "Pet Animals",
-    "id": "pet-animals",
-    "url": "https://secretlengua1.com/EnglishA2/Pet-Animals"
-  },
-  {
-    "titre": "A Day of Discovery in History",
-    "id": "a-day-of-discovery",
-    "url": "https://secretlengua1.com/EnglishA2/A-Day-of-Discovery"
-  },
-  {
-    "titre": "A Day at the Train Station",
-    "id": "a-day-at-the-train-station",
-    "url": "https://secretlengua1.com/EnglishA2/A-Day-at-the-Train-Station"
-  },
-  {
-    "titre": "In Search of a Used Car",
-    "id": "in-search-of-a-used-car",
-    "url": "https://secretlengua1.com/EnglishA2/In-Search-of-a-Used-Car"
-  },
-  {
-    "titre": "A Day of Adventure in Rome",
-    "id": "a-day-of-adventure",
-    "url": "https://secretlengua1.com/EnglishA2/A-Day-of-Adventure"
-  },
-  {
-    "titre": "A Day at the Farm",
-    "id": "a-day-at-the-farm",
-    "url": "https://secretlengua1.com/EnglishA2/A-Day-at-the-Farm"
-  },
-  {
-    "titre": "An Evening of Cooking at Home",
-    "id": "an-evening-of-cooking",
-    "url": "https://secretlengua1.com/EnglishA2/An-Evening-of-Cooking"
-  },
-  {
-    "titre": "A Day in the Mountains",
-    "id": "a-day-in-the-mountains",
-    "url": "https://secretlengua1.com/EnglishA2/A-Day-in-the-Mountains"
-  }]
+[ {"titre":"colors","id":"colors","slug":"colors","url":"https://secretlengua1.com/EnglishA2/colors"},
+  {"titre":"Traditions in China","id":"traditions-in-china","slug":"traditions-in-china","url":"https://secretlengua1.com/EnglishA2/traditions-in-china"},
+  {"titre":"The seasons of the year","id":"the-seasons-of-the-year","slug":"the-seasons-of-the-year","url":"https://secretlengua1.com/EnglishA2/the-seasons-of-the-year"},
+  {"titre":"The seasons of the year","id":"means-of-transportation","slug":"means-of-transportation","url":"https://secretlengua1.com/EnglishA2/means-of-transportation"},
+  {"titre":"A day in the countryside","id":"a-day-in-the-countryside","slug":"A-day-in-the-countryside","url":"https://secretlengua1.com/EnglishA2/A-day-in-the-countryside"},
+  {"titre":"Family meals","id":"family-meals","slug":"Family-meals","url":"https://secretlengua1.com/EnglishA2/Family-meals"},
+  {"titre":"My day in the mountains","id":"my-day-in-the-mountains","slug":"my-day-in-the-mountains","url":"https://secretlengua1.com/EnglishA2/my-day-in-the-mountains"},
+  {"titre":"At the supermarket.","id":"at-the-supermarket","slug":"At-the-supermarket","url":"https://secretlengua1.com/EnglishA2/At-the-supermarket"},
+  {"titre":"Théo's activities","id":"theos-activities","slug":"Theos-activities","url":"https://secretlengua1.com/EnglishA2/Theos-activities"},
+  {"titre":"Antoines-discoveries","id":"antoines-discoveries","slug":"Antoines-discoveries","url":"https://secretlengua1.com/EnglishA2/Antoines-discoveries"},
+  {"titre":"A Surprise for the Wedding Anniversary","id":"a-surprise-for-the-wedding","slug":"A-Surprise-for-the-Wedding","url":"https://secretlengua1.com/EnglishA2/A-Surprise-for-the-Wedding"},
+  {"titre":"Dilemma in front of the TV program.","id":"dilemma","slug":"Dilemma","url":"https://secretlengua1.com/EnglishA2/Dilemma"},
+  {"titre":"A Delicious Meeting Among Friends","id":"a-delicious-meeting","slug":"A-Delicious-Meeting","url":"https://secretlengua1.com/EnglishA2/A-Delicious-Meeting"},
+  {"titre":"Letter exchange between cousins.","id":"letter-exchange","slug":"Letter-exchange","url":"https://secretlengua1.com/EnglishA2/Letter-exchange"},
+  {"titre":"Preparations for a party with friends","id":"preparations","slug":"Preparations","url":"https://secretlengua1.com/EnglishA2/Preparations"},
+  {"titre":"In search of a pen pal.","id":"in-search-of-a-pen-pal","slug":"In-search-of-a-pen-pal","url":"https://secretlengua1.com/EnglishA2/In-search-of-a-pen-pal"},
+  {"titre":"Preparation of a friendly lunch","id":"friendly-lunch","slug":"friendly-lunch","url":"https://secretlengua1.com/EnglishA2/friendly-lunch"},
+  {"titre":"Correspondence from Spain","id":"correspondence","slug":"Correspondence","url":"https://secretlengua1.com/EnglishA2/Correspondence"},
+  {"titre":"Moments of celebration with family","id":"moments","slug":"Moments","url":"https://secretlengua1.com/EnglishA2/Moments"},
+  {"titre":"The routine of a London couple","id":"the-routine","slug":"The-routine","url":"https://secretlengua1.com/EnglishA2/The-routine"},
+  {"titre":"An evening at the restaurant","id":"an-evening","slug":"An-evening","url":"https://secretlengua1.com/EnglishA2/An-evening"},
+  {"titre":"A Memorable Birthday","id":"a-memorable","slug":"A-Memorable","url":"https://secretlengua1.com/EnglishA2/A-Memorable"},
+  {"titre":"My Discovery of My Hometown","id":"my-discovery","slug":"My-Discovery","url":"https://secretlengua1.com/EnglishA2/My-Discovery"},
+  {"titre":"Memories of an unforgettable wedding day","id":"memories-of-an-unforgettable","slug":"Memories-of-an-unforgettable","url":"https://secretlengua1.com/EnglishA2/Memories-of-an-unforgettable"},
+  {"titre":"A day of introduction at work.","id":"a-day-of-introduction","slug":"A-day-of-introduction","url":"https://secretlengua1.com/EnglishA2/A-day-of-introduction"},
+  {"titre":"A farewell filled with nostalgia","id":"a-farewell-filled","slug":"A-farewell-filled","url":"https://secretlengua1.com/EnglishA2/A-farewell-filled"},
+  {"titre":"A memorable feast","id":"a-memorable-feast","slug":"A-memorable-feast","url":"https://secretlengua1.com/EnglishA2/A-memorable-feast"},
+  {"titre":"A Helping Hand","id":"a-helping-hand","slug":"A-Helping-Hand","url":"https://secretlengua1.com/EnglishA2/A-Helping-Hand"},
+  {"titre":"A Relaxing Day in the Countryside","id":"a-relaxing-day","slug":"A-Relaxing-Day","url":"https://secretlengua1.com/EnglishA2/A-Relaxing-Day"},
+  {"titre":"A busy day","id":"a-busy-day","slug":"A-busy-day","url":"https://secretlengua1.com/EnglishA2/A-busy-day"},
+  {"titre":"A studious afternoon at the library","id":"a-studious-afternoon-at-the-library","slug":"A-studious-afternoon-at-the-library","url":"https://secretlengua1.com/EnglishA2/A-studious-afternoon-at-the-library"},
+  {"titre":"A romantic date","id":"a-romantic-date","slug":"A-romantic-date","url":"https://secretlengua1.com/EnglishA2/A-romantic-date"},
+  {"titre":"An enriching visit to the museum","id":"an-enriching-visit","slug":"An-enriching-visit","url":"https://secretlengua1.com/EnglishA2/An-enriching-visit"},
+  {"titre":"A day at the airport","id":"a-day-at","slug":"A-day-at","url":"https://secretlengua1.com/EnglishA2/A-day-at"},
+  {"titre":"The search for a rental apartment","id":"the-search","slug":"The-search","url":"https://secretlengua1.com/EnglishA2/The-search"},
+  {"titre":"Shapes","id":"shapes","slug":"Shapes","url":"https://secretlengua1.com/EnglishA2/Shapes"},
+  {"titre":"Celebrations in India","id":"celebrations-in-india","slug":"Celebrations-in-India","url":"https://secretlengua1.com/EnglishA2/Celebrations-in-India"},
+  {"titre":"The Days of the Week","id":"the-days-of","slug":"The-Days-of","url":"https://secretlengua1.com/EnglishA2/The-Days-of"},
+  {"titre":"Pet Animals","id":"pet-animals","slug":"Pet-Animals","url":"https://secretlengua1.com/EnglishA2/Pet-Animals"},
+  {"titre":"A Day of Discovery in History","id":"a-day-of-discovery","slug":"A-Day-of-Discovery","url":"https://secretlengua1.com/EnglishA2/A-Day-of-Discovery"},
+  {"titre":"A Day at the Train Station","id":"a-day-at-the-train-station","slug":"A-Day-at-the-Train-Station","url":"https://secretlengua1.com/EnglishA2/A-Day-at-the-Train-Station"},
+  {"titre":"In Search of a Used Car","id":"in-search-of-a-used-car","slug":"In-Search-of-a-Used-Car","url":"https://secretlengua1.com/EnglishA2/In-Search-of-a-Used-Car"},
+  {"titre":"A Day of Adventure in Rome","id":"a-day-of-adventure","slug":"A-Day-of-Adventure","url":"https://secretlengua1.com/EnglishA2/A-Day-of-Adventure"},
+  {"titre":"A Day at the Farm","id":"a-day-at-the-farm","slug":"A-Day-at-the-Farm","url":"https://secretlengua1.com/EnglishA2/A-Day-at-the-Farm"},
+  {"titre":"An Evening of Cooking at Home","id":"an-evening-of-cooking","slug":"An-Evening-of-Cooking","url":"https://secretlengua1.com/EnglishA2/An-Evening-of-Cooking"},
+  {"titre":"A Day in the Mountains","id":"a-day-in-the-mountains","slug":"A-Day-in-the-Mountains","url":"https://secretlengua1.com/EnglishA2/A-Day-in-the-Mountains"}
+]
