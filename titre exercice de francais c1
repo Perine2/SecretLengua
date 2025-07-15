@@ -2,120 +2,145 @@
  {
     "titre": "Parc National de l'Himalaya",
     "id": "parc-national-lHimalaya",
+    "slug": "parc-national-lHimalaya",
     "url": "https://secretlengua1.com/Reading-C1/parc-national-lHimalaya"
   },
   {
     "titre": "Architecte Paysagiste",
     "id": "architecte-paysagiste",
+    "slug": "architecte-paysagiste",
     "url": "https://secretlengua1.com/Reading-C1/architecte-paysagiste"
   },
   {
     "titre": "Conception de Parcs",
     "id": "conception-parcs",
+    "slug": "Conception-parcs",
     "url": "https://secretlengua1.com/Reading-C1/Conception-parcs"
   },
   {
     "titre": "Paysagiste Urbain",
     "id": "paysagiste-urbain",
+    "slug": "paysagiste-urbain",
     "url": "https://secretlengua1.com/Reading-C1/paysagiste-urbain"
   },
   {
     "titre": "Modes de Déplacement",
     "id": "modes-deplacement",
+    "slug": "Modes-deplacement",
     "url": "https://secretlengua1.com/Reading-C1/Modes-deplacement"
   },
   {
     "titre": "Exploration en Plein Air",
     "id": "exploration-plein",
+    "slug": "Exploration-plein",
     "url": "https://secretlengua1.com/Reading-C1/Exploration-plein"
   },
   {
     "titre": "Dîner au Restaurant",
     "id": "diner-restaurant",
+    "slug": "Diner-Restaurant",
     "url": "https://secretlengua1.com/Reading-C1/Diner-Restaurant"
   },
   {
     "titre": "Expérience de somnambulisme",
     "id": "experience-somnambulisme",
+    "slug": "experience-somnambulisme",
     "url": "https://secretlengua1.com/Reading-C1/experience-somnambulisme"
   },
   {
     "titre": "Aperçu des sports",
     "id": "apercu-sports",
+    "slug": "Apercu-sports",
     "url": "https://secretlengua1.com/Reading-C1/Apercu-sports"
   },
   {
     "titre": "Le Voyage des Pionniers",
     "id": "voyage-pionniers",
+    "slug": "voyage-pionniers",
     "url": "https://secretlengua1.com/Reading-C1/voyage-pionniers"
-  },{
+  },
+  {
     "titre": "La Saga de Survie dans les Andes",
     "id": "la-saga-de-survie-dans-les-andes",
+    "slug": "Saga-de-Survie",
     "url": "https://secretlengua1.com/Reading-C1/Saga-de-Survie"
   },
   {
     "titre": "Voyage",
     "id": "voyage",
+    "slug": "Voyage",
     "url": "https://secretlengua1.com/Reading-C1/Voyage"
   },
   {
     "titre": "Variétés de Sauce Barbecue",
     "id": "varietes-de-sauce-barbecue",
+    "slug": "Varietes-Barbecue",
     "url": "https://secretlengua1.com/Reading-C1/Varietes-Barbecue"
   },
   {
     "titre": "Météo",
     "id": "meteo",
+    "slug": "Meteo",
     "url": "https://secretlengua1.com/Reading-C1/Meteo"
   },
   {
     "titre": "Climat",
     "id": "climat",
+    "slug": "Climat",
     "url": "https://secretlengua1.com/Reading-C1/Climat"
   },
   {
     "titre": "Le sol",
     "id": "le-sol",
+    "slug": "Le-sol",
     "url": "https://secretlengua1.com/Reading-C1/Le-sol"
   },
   {
     "titre": "La faune",
     "id": "la-faune",
+    "slug": "La-faune",
     "url": "https://secretlengua1.com/Reading-C1/La-faune"
   },
   {
     "titre": "La flore",
     "id": "la-flore",
+    "slug": "La-flore",
     "url": "https://secretlengua1.com/Reading-C1/La-flore"
   },
   {
     "titre": "L'atmosphère",
     "id": "latmosphere",
+    "slug": "Latmosphere",
     "url": "https://secretlengua1.com/Reading-C1/Latmosphere"
   },
   {
     "titre": "Observation des Baleines Bleues dans l'Océan Indien",
     "id": "observation-des-baleines-bleues",
+    "slug": "Observation-des-Baleines-Bleues",
     "url": "https://secretlengua1.com/Reading-C1/Observation-des-Baleines-Bleues"
   },
   {
     "titre": "Routine Quotidienne dans un Village de Montagne",
     "id": "routine-quotidienne-village-montagne",
+    "slug": "Routine-Quotidienne",
     "url": "https://secretlengua1.com/Reading-C1/Routine-Quotidienne"
   },
   {
     "titre": "Analyse Économique",
     "id": "analyse-economique",
+    "slug": "Analyse-Economique",
     "url": "https://secretlengua1.com/Reading-C1/Analyse-Economique"
   },
   {
     "titre": "L'univers",
     "id": "lunivers",
+    "slug": "Lunivers",
     "url": "https://secretlengua1.com/Reading-C1/Lunivers"
   },
   {
     "titre": "La Feuille de Bilan Cosmique",
     "id": "la-feuille-de-bilan-cosmique",
+    "slug": "La-Feuille-de-Bilan-Cosmique",
     "url": "https://secretlengua1.com/Reading-C1/La-Feuille-de-Bilan-Cosmique"
   }
 ]
