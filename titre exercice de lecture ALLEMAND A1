@@ -1,76 +1,91 @@
 [ {
-      "titre": "Wie geht es dir?",
-      "id": "wie-geht-es-dir",
-      "url": "https://secretlengua1.com/German-A1/Wie-geht-es-dir"
-    },
-    {
-      "titre": "Ich heiße Sophie.",
-      "id": "ich-heisse-sophie",
-      "url": "https://secretlengua1.com/German-A1/Ich-heisse-Sophie"
-    },
-    {
-      "titre": "Ein Tag am Strand",
-      "id": "ein-tag-am-strand",
-      "url": "https://secretlengua1.com/German-A1/Ein-Tag-am-Strand"
-    },
-    {
-      "titre": "Die Postkarte",
-      "id": "die-postkarte",
-      "url": "https://secretlengua1.com/German-A1/Die-Postkarte"
-    },
-    {
-      "titre": "Ein Brief aus Paris",
-      "id": "ein-brief-aus-paris",
-      "url": "https://secretlengua1.com/German-A1/Ein-Brief-aus-Paris"
-    },
-    {
-      "titre": "Meine liebe Familie",
-      "id": "meine-liebe-familie",
-      "url": "https://secretlengua1.com/German-A1/Meine-liebe-Familie"
-    },
-    {
-      "titre": "Ein Tag mit Lucie",
-      "id": "ein-tag-mit-lucie",
-      "url": "https://secretlengua1.com/German-A1/Ein-Tag-mit-Lucie"
-    },
-    {
-      "titre": "Eine Neue Begegnung",
-      "id": "eine-neue-begegnung",
-      "url": "https://secretlengua1.com/German-A1/Eine-Neue-Begegnung"
-    },
-    {
-      "titre": "Ein Neues Leben in Frankreich",
-      "id": "ein-neues-leben-in-frankreich",
-      "url": "https://secretlengua1.com/German-A1/Ein-Neues-Leben-in-Frankreich"
-    },
-    {
-      "titre": "Eine charmante Stadt",
-      "id": "eine-charmante-stadt",
-      "url": "https://secretlengua1.com/German-A1/Eine-charmante-Stadt"
-    },
-    {
-      "titre": "Meine Familie und ich",
-      "id": "meine-familie-und-ich",
-      "url": "https://secretlengua1.com/German-A1/Meine-Familie-und-ich"
-    },
-    {
-      "titre": "Planung eines Abends",
-      "id": "planung-eines-abends",
-      "url": "https://secretlengua1.com/German-A1/Planung-eines-Abends"
-    },
-    {
-      "titre": "Entdeckung eines Hauses",
-      "id": "entdeckung-eines-hauses",
-      "url": "https://secretlengua1.com/German-A1/Entdeckung-eines-Hauses"
-    },
-    {
-      "titre": "Zimmerreservierung",
-      "id": "zimmerreservierung",
-      "url": "https://secretlengua1.com/German-A1/Zimmerreservierung"
-    },
-    {
-      "titre": "Anpassung an das Stadtleben",
-      "id": "anpassung-an-das-stadtleben",
-      "url": "https://secretlengua1.com/German-A1/Anpassung-an-das-Stadtleben"
-    }
+    "titre": "Wie geht es dir?",
+    "id": "wie-geht-es-dir",
+    "slug": "Wie-geht-es-dir",
+    "url": "https://secretlengua1.com/German-A1/Wie-geht-es-dir"
+  },
+  {
+    "titre": "Ich heiße Sophie.",
+    "id": "ich-heisse-sophie",
+    "slug": "Ich-heisse-Sophie",
+    "url": "https://secretlengua1.com/German-A1/Ich-heisse-Sophie"
+  },
+  {
+    "titre": "Ein Tag am Strand",
+    "id": "ein-tag-am-strand",
+    "slug": "Ein-Tag-am-Strand",
+    "url": "https://secretlengua1.com/German-A1/Ein-Tag-am-Strand"
+  },
+  {
+    "titre": "Die Postkarte",
+    "id": "die-postkarte",
+    "slug": "Die-Postkarte",
+    "url": "https://secretlengua1.com/German-A1/Die-Postkarte"
+  },
+  {
+    "titre": "Ein Brief aus Paris",
+    "id": "ein-brief-aus-paris",
+    "slug": "Ein-Brief-aus-Paris",
+    "url": "https://secretlengua1.com/German-A1/Ein-Brief-aus-Paris"
+  },
+  {
+    "titre": "Meine liebe Familie",
+    "id": "meine-liebe-familie",
+    "slug": "Meine-liebe-Familie",
+    "url": "https://secretlengua1.com/German-A1/Meine-liebe-Familie"
+  },
+  {
+    "titre": "Ein Tag mit Lucie",
+    "id": "ein-tag-mit-lucie",
+    "slug": "Ein-Tag-mit-Lucie",
+    "url": "https://secretlengua1.com/German-A1/Ein-Tag-mit-Lucie"
+  },
+  {
+    "titre": "Eine Neue Begegnung",
+    "id": "eine-neue-begegnung",
+    "slug": "Eine-Neue-Begegnung",
+    "url": "https://secretlengua1.com/German-A1/Eine-Neue-Begegnung"
+  },
+  {
+    "titre": "Ein Neues Leben in Frankreich",
+    "id": "ein-neues-leben-in-frankreich",
+    "slug": "Ein-Neues-Leben-in-Frankreich",
+    "url": "https://secretlengua1.com/German-A1/Ein-Neues-Leben-in-Frankreich"
+  },
+  {
+    "titre": "Eine charmante Stadt",
+    "id": "eine-charmante-stadt",
+    "slug": "Eine-charmante-Stadt",
+    "url": "https://secretlengua1.com/German-A1/Eine-charmante-Stadt"
+  },
+  {
+    "titre": "Meine Familie und ich",
+    "id": "meine-familie-und-ich",
+    "slug": "Meine-Familie-und-ich",
+    "url": "https://secretlengua1.com/German-A1/Meine-Familie-und-ich"
+  },
+  {
+    "titre": "Planung eines Abends",
+    "id": "planung-eines-abends",
+    "slug": "Planung-eines-Abends",
+    "url": "https://secretlengua1.com/German-A1/Planung-eines-Abends"
+  },
+  {
+    "titre": "Entdeckung eines Hauses",
+    "id": "entdeckung-eines-hauses",
+    "slug": "Entdeckung-eines-Hauses",
+    "url": "https://secretlengua1.com/German-A1/Entdeckung-eines-Hauses"
+  },
+  {
+    "titre": "Zimmerreservierung",
+    "id": "zimmerreservierung",
+    "slug": "Zimmerreservierung",
+    "url": "https://secretlengua1.com/German-A1/Zimmerreservierung"
+  },
+  {
+    "titre": "Anpassung an das Stadtleben",
+    "id": "anpassung-an-das-stadtleben",
+    "slug": "Anpassung-an-das-Stadtleben",
+    "url": "https://secretlengua1.com/German-A1/Anpassung-an-das-Stadtleben"
+  }
 ]
