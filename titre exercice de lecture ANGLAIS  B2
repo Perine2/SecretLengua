@@ -1,101 +1,121 @@
 [ {
     "titre": "I have acquired expertise",
     "id": "i-have-acquired-expertise",
+    "slug": "I-have-acquired-expertise",
     "url": "https://secretlengua1.com/English-B2/I-have-acquired-expertise"
   },
   {
     "titre": "I have acquired expertise",
     "id": "i-have-acquired-expertise-2",
+    "slug": "Basic-education-what-about-it",
     "url": "https://secretlengua1.com/English-B2/Basic-education-what-about-it"
   },
   {
     "titre": "The Rise of Cultural Tourism",
     "id": "the-rise-of-cultural-tourism",
+    "slug": "The-Rise-of-Cultural-Tourism",
     "url": "https://secretlengua1.com/English-B2/The-Rise-of-Cultural-Tourism"
   },
   {
     "titre": "The Commemoration of Thanksgiving",
     "id": "the-commemoration-of-thanksgiving",
+    "slug": "the-Commemoration-of-thanksgiving",
     "url": "https://secretlengua1.com/English-B2/the-Commemoration-of-thanksgiving"
   },
   {
     "titre": "The Echo of the Mountains",
     "id": "the-echo-of-the-mountains",
+    "slug": "the-Echo-of-the-Mountains",
     "url": "https://secretlengua1.com/English-B2/the-Echo-of-the-Mountains"
   },
   {
     "titre": "Francophonie around the world",
     "id": "francophonie-around-the-world",
+    "slug": "francophonie-around-the-world",
     "url": "https://secretlengua1.com/English-B2/francophonie-around-the-world"
   },
   {
     "titre": "The Life of a Musician",
     "id": "the-life-of-a-musician",
+    "slug": "the-Life-of-a-Musician",
     "url": "https://secretlengua1.com/English-B2/the-Life-of-a-Musician"
   },
   {
     "titre": "The Red Braid",
     "id": "the-red-braid",
+    "slug": "The-Red-Braid",
     "url": "https://secretlengua1.com/English-B2/The-Red-Braid"
   },
   {
     "titre": "Dear [Best Friend's First Name],",
     "id": "dear-best-friends-first-name",
+    "slug": "Dear-Best-Friends-First-Name",
     "url": "https://secretlengua1.com/English-B2/Dear-Best-Friends-First-Name"
   },
   {
     "titre": "The Life of a Sculptor",
     "id": "the-life-of-a-sculptor",
+    "slug": "The-Life-of-a-Sculptor",
     "url": "https://secretlengua1.com/English-B2/The-Life-of-a-Sculptor"
   },
   {
     "titre": "The Life of a Botanist.",
     "id": "the-life-of-a-botanist",
+    "slug": "the-Life-of-a-botanist",
     "url": "https://secretlengua1.com/English-B2/the-Life-of-a-botanist"
   },
   {
     "titre": "The Valley Cottage",
     "id": "the-valley-cottage",
+    "slug": "the-Valley-Cottage",
     "url": "https://secretlengua1.com/English-B2/the-Valley-Cottage"
   },
   {
     "titre": "The Life of a Tea Merchant",
     "id": "the-life-of-a-tea-merchant",
+    "slug": "The-life-of-a-Tea-Merchant",
     "url": "https://secretlengua1.com/English-B2/The-life-of-a-Tea-Merchant"
   },
   {
     "titre": "Toulouse, a city to explore in one day",
     "id": "toulouse-a-city-to-explore-in-one-day",
+    "slug": "Toulouse-a-city-to-explore-in-one-day",
     "url": "https://secretlengua1.com/English-B2/Toulouse-a-city-to-explore-in-one-day"
   },
   {
     "titre": "The Private Detective",
     "id": "the-private-detective",
+    "slug": "the-Private-Detective",
     "url": "https://secretlengua1.com/English-B2/the-Private-Detective"
   },
   {
     "titre": "Public Transport - A Practical and Eco-Friendly Option",
     "id": "public-transport-a-practical-and-eco-friendly-option",
+    "slug": "Public-Transport-A-Practical-and-Eco-Friendly-Option",
     "url": "https://secretlengua1.com/English-B2/Public-Transport-A-Practical-and-Eco-Friendly-Option"
   },
   {
     "titre": "The profession of Dietitian",
     "id": "the-profession-of-dietitian",
+    "slug": "The-profession-of-Dietitian",
     "url": "https://secretlengua1.com/English-B2/The-profession-of-Dietitian"
   },
   {
     "titre": "The Dream of a Navigator",
     "id": "the-dream-of-a-navigator",
+    "slug": "The-Dream-of-a-Navigator",
     "url": "https://secretlengua1.com/English-B2/The-Dream-of-a-Navigator"
   },
   {
     "titre": "The Passion for Sports",
     "id": "the-passion-for-sports",
+    "slug": "The-Passion-for-Sports",
     "url": "https://secretlengua1.com/English-B2/The-Passion-for-Sports"
   },
   {
     "titre": "Exploring Florence",
     "id": "exploring-florence",
+    "slug": "Exploring-Florence",
     "url": "https://secretlengua1.com/English-B2/Exploring-Florence"
   }
 ]
