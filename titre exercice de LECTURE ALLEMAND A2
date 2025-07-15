@@ -1,80 +1,96 @@
 [ {
-      "titre": "Die Farben",
-      "id": "die-farben",
-      "url": "https://secretlengua1.com/German-A2/Die-Farben"
-    },
-    {
-      "titre": "Die Traditionen in China",
-      "id": "die-traditionen-in-china",
-      "url": "https://secretlengua1.com/German-A2/Die-Traditionen-in-China"
-    },
-    {
-      "titre": "Die Jahreszeiten",
-      "id": "die-jahreszeiten",
-      "url": "https://secretlengua1.com/German-A2/Die-Jahreszeiten"
-    },
-    {
-      "titre": "Die Verkehrsmittel",
-      "id": "die-verkehrsmittel",
-      "url": "https://secretlengua1.com/German-A2/Die-Verkehrsmittel"
-    },
-    {
-      "titre": "Ein Tag auf dem Land",
-      "id": "ein-tag-auf-dem-land",
-      "url": "https://secretlengua1.com/German-A2/Ein-Tag-auf-dem-Land"
-    },
-    {
-      "titre": "Mein Ta  in den Bergen",
-      "id": "mein-ta-in-den-bergen",
-      "url": "https://secretlengua1.com/German-A2/Mein-Tag-in-den-Bergen"
-    },
-    {
-      "titre": "Im Supermarkt",
-      "id": "im-supermarkt",
-      "url": "https://secretlengua1.com/German-A2/Im-Supermarkt"
-    },
-    {
-      "titre": "Die Mahlzeiten in der Familie",
-      "id": "die-mahlzeiten-in-der-familie",
-      "url": "https://secretlengua1.com/German-A2/Die-Mahlzeiten-in-der-Familie"
-    },
-    {
-      "titre": "Theos Aktivitaten",
-      "id": "theos-aktivitaten",
-      "url": "https://secretlengua1.com/German-A2/Theos-Aktivitaten"
-    },
-    {
-      "titre": "Antoines Entdeckungen",
-      "id": "antoines-entdeckungen",
-      "url": "https://secretlengua1.com/German-A2/Antoines-Entdeckungen"
-    },
-    {
-      "titre": "Eine Überraschung zum Hochzeitstag",
-      "id": "eine-uberraschung-zum-hochzeitstag",
-      "url": "https://secretlengua1.com/German-A2/Eine-Uberraschung-zum-Hochzeitstag"
-    },
-    {
-      "titre": "Dilemma vor dem Fernsehprogramm.",
-      "id": "dilemma-vor-dem-fernsehprogramm",
-      "url": "https://secretlengua1.com/German-A2/Dilemma-vor-dem-Fernsehprogramm"
-    },
-    {
-      "titre": "Leckeres Treffen mit Freunden",
-      "id": "leckeres-treffen-mit-freunden",
-      "url": "https://secretlengua1.com/German-A2/Leckeres-Treffen-mit-Freunden"
-    },
-    {
-      "titre": "Briefaustausch zwischen Cousins",
-      "id": "briefaustausch-zwischen-cousins",
-      "url": "https://secretlengua1.com/German-A2/Briefaustausch-zwischen-Cousins"
-    },
-    {
-      "titre": "Vorbereitungen für einen Abend mit Freunden",
-      "id": "vorbereitungen-fur-einen-abend-mit-freunden",
-      "url": "https://secretlengua1.com/German-A2/Vorbereitungen-fur-einen-Abend-mit-Freunden"
-    },
-   {
-      "titre": "Planung eines Familientages",
-      "id": "Planung eines Familientages",
-      "url": "https://secretlengua1.com/German-A2/Planung-eines-Familientages"
-    }]
+    "titre": "Die Farben",
+    "id": "die-farben",
+    "slug": "Die-Farben",
+    "url": "https://secretlengua1.com/German-A2/Die-Farben"
+  },
+  {
+    "titre": "Die Traditionen in China",
+    "id": "die-traditionen-in-china",
+    "slug": "Die-Traditionen-in-China",
+    "url": "https://secretlengua1.com/German-A2/Die-Traditionen-in-China"
+  },
+  {
+    "titre": "Die Jahreszeiten",
+    "id": "die-jahreszeiten",
+    "slug": "Die-Jahreszeiten",
+    "url": "https://secretlengua1.com/German-A2/Die-Jahreszeiten"
+  },
+  {
+    "titre": "Die Verkehrsmittel",
+    "id": "die-verkehrsmittel",
+    "slug": "Die-Verkehrsmittel",
+    "url": "https://secretlengua1.com/German-A2/Die-Verkehrsmittel"
+  },
+  {
+    "titre": "Ein Tag auf dem Land",
+    "id": "ein-tag-auf-dem-land",
+    "slug": "Ein-Tag-auf-dem-Land",
+    "url": "https://secretlengua1.com/German-A2/Ein-Tag-auf-dem-Land"
+  },
+  {
+    "titre": "Mein Ta  in den Bergen",
+    "id": "mein-ta-in-den-bergen",
+    "slug": "Mein-Tag-in-den-Bergen",
+    "url": "https://secretlengua1.com/German-A2/Mein-Tag-in-den-Bergen"
+  },
+  {
+    "titre": "Im Supermarkt",
+    "id": "im-supermarkt",
+    "slug": "Im-Supermarkt",
+    "url": "https://secretlengua1.com/German-A2/Im-Supermarkt"
+  },
+  {
+    "titre": "Die Mahlzeiten in der Familie",
+    "id": "die-mahlzeiten-in-der-familie",
+    "slug": "Die-Mahlzeiten-in-der-Familie",
+    "url": "https://secretlengua1.com/German-A2/Die-Mahlzeiten-in-der-Familie"
+  },
+  {
+    "titre": "Theos Aktivitaten",
+    "id": "theos-aktivitaten",
+    "slug": "Theos-Aktivitaten",
+    "url": "https://secretlengua1.com/German-A2/Theos-Aktivitaten"
+  },
+  {
+    "titre": "Antoines Entdeckungen",
+    "id": "antoines-entdeckungen",
+    "slug": "Antoines-Entdeckungen",
+    "url": "https://secretlengua1.com/German-A2/Antoines-Entdeckungen"
+  },
+  {
+    "titre": "Eine Überraschung zum Hochzeitstag",
+    "id": "eine-uberraschung-zum-hochzeitstag",
+    "slug": "Eine-Uberraschung-zum-Hochzeitstag",
+    "url": "https://secretlengua1.com/German-A2/Eine-Uberraschung-zum-Hochzeitstag"
+  },
+  {
+    "titre": "Dilemma vor dem Fernsehprogramm.",
+    "id": "dilemma-vor-dem-fernsehprogramm",
+    "slug": "Dilemma-vor-dem-Fernsehprogramm",
+    "url": "https://secretlengua1.com/German-A2/Dilemma-vor-dem-Fernsehprogramm"
+  },
+  {
+    "titre": "Leckeres Treffen mit Freunden",
+    "id": "leckeres-treffen-mit-freunden",
+    "slug": "Leckeres-Treffen-mit-Freunden",
+    "url": "https://secretlengua1.com/German-A2/Leckeres-Treffen-mit-Freunden"
+  },
+  {
+    "titre": "Briefaustausch zwischen Cousins",
+    "id": "briefaustausch-zwischen-cousins",
+    "slug": "Briefaustausch-zwischen-Cousins",
+    "url": "https://secretlengua1.com/German-A2/Briefaustausch-zwischen-Cousins"
+  },
+  {
+    "titre": "Vorbereitungen für einen Abend mit Freunden",
+    "id": "vorbereitungen-fur-einen-abend-mit-freunden",
+    "slug": "Vorbereitungen-fur-einen-Abend-mit-Freunden",
+    "url": "https://secretlengua1.com/German-A2/Vorbereitungen-fur-einen-Abend-mit-Freunden"
+  },
+  {
+    "titre": "Planung eines Familientages",
+    "id": "planung-eines-familientages",
+    "slug": "Planung-eines-Familientages",
+    "url": "https://secretlengua1.com/German-A2/Planung-eines-Familientages"
+  }]
