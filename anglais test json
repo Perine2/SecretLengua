@@ -653,5 +653,469 @@
       "A mistake in early language acquisition"
     ],
     "answer": "A recurring, uncorrected error in fluent speech"
+  }, {
+    "numero": 1,
+    "question": "Which sentence correctly uses the subjunctive mood?",
+    "options": [
+      "If I was you, I would apply for the job.",
+      "If I were you, I would apply for the job.",
+      "If I am you, I would apply for the job.",
+      "If I will be you, I would apply for the job."
+    ],
+    "answer": "If I were you, I would apply for the job."
+  },
+  {
+    "numero": 2,
+    "question": "Which of the following sentences contains a dangling modifier?",
+    "options": [
+      "Running to catch the bus, the rain started pouring.",
+      "While running to catch the bus, I dropped my phone.",
+      "The boy, running to catch the bus, tripped.",
+      "I was running to catch the bus and it rained."
+    ],
+    "answer": "Running to catch the bus, the rain started pouring."
+  },
+  {
+    "numero": 3,
+    "question": "Which word is an example of a gerund?",
+    "options": ["Swimming", "Swim", "Swam", "Swum"],
+    "answer": "Swimming"
+  },
+  {
+    "numero": 4,
+    "question": "Which sentence correctly uses a restrictive clause?",
+    "options": [
+      "The students, who studied hard, passed the test.",
+      "The students who studied hard passed the test.",
+      "The students, that studied hard, passed the test.",
+      "The students, which studied hard, passed the test."
+    ],
+    "answer": "The students who studied hard passed the test."
+  },
+  {
+    "numero": 5,
+    "question": "Which of the following uses “whom” correctly?",
+    "options": [
+      "Whom is coming to the meeting?",
+      "Whom should I speak to?",
+      "Whom is in charge?",
+      "Whom called you?"
+    ],
+    "answer": "Whom should I speak to?"
+  },
+  {
+    "numero": 6,
+    "question": "Which sentence contains a split infinitive?",
+    "options": [
+      "She decided to quickly leave.",
+      "She decided quickly to leave.",
+      "She decided to leave quickly.",
+      "She quickly decided to leave."
+    ],
+    "answer": "She decided to quickly leave."
+  },
+  {
+    "numero": 7,
+    "question": "Which phrasal verb means “to cancel”?",
+    "options": ["Take over", "Put up with", "Call off", "Break into"],
+    "answer": "Call off"
+  },
+  {
+    "numero": 8,
+    "question": "Which sentence correctly uses the past perfect tense?",
+    "options": [
+      "By the time he arrived, we had already left.",
+      "By the time he arrived, we already left.",
+      "By the time he arrived, we leave already.",
+      "By the time he arrived, we have left already."
+    ],
+    "answer": "By the time he arrived, we had already left."
+  },
+  {
+    "numero": 9,
+    "question": "Which word is an example of a countable noun?",
+    "options": ["Advice", "Information", "Chairs", "Furniture"],
+    "answer": "Chairs"
+  },
+  {
+    "numero": 10,
+    "question": "Which idiom means “to reveal a secret”?",
+    "options": [
+      "Hit the sack",
+      "Let the cat out of the bag",
+      "Kick the bucket",
+      "Break the ice"
+    ],
+    "answer": "Let the cat out of the bag"
+  },
+  {
+    "numero": 11,
+    "question": "Which sentence contains correct subject-verb agreement?",
+    "options": [
+      "Neither the teacher nor the students knows the answer.",
+      "Neither the teacher nor the students know the answer.",
+      "Neither the teacher nor the students is knowing the answer.",
+      "Neither the teacher nor the students was knowing the answer."
+    ],
+    "answer": "Neither the teacher nor the students know the answer."
+  },
+  {
+    "numero": 12,
+    "question": "Which sentence uses “fewer” correctly?",
+    "options": [
+      "There are fewer people here than yesterday.",
+      "There are fewer water in the bottle.",
+      "There is fewer noise now.",
+      "There are fewer happiness."
+    ],
+    "answer": "There are fewer people here than yesterday."
+  },
+  {
+    "numero": 13,
+    "question": "Which of the following is a homophone of “principal”?",
+    "options": ["Principle", "Printable", "Prince", "Precedent"],
+    "answer": "Principle"
+  },
+  {
+    "numero": 14,
+    "question": "Which sentence contains parallel structure?",
+    "options": [
+      "She likes reading, writing, and to jog.",
+      "She likes reading, writing, and jogging.",
+      "She likes reading, to write, and jogging.",
+      "She likes to read, writing, and jogging."
+    ],
+    "answer": "She likes reading, writing, and jogging."
+  },
+  {
+    "numero": 15,
+    "question": "Which is a synonym for “meticulous”?",
+    "options": ["Careless", "Precise", "Hasty", "Sloppy"],
+    "answer": "Precise"
+  },
+  {
+    "numero": 16,
+    "question": "Which sentence is written in passive voice?",
+    "options": [
+      "The manager approved the request.",
+      "The request was approved by the manager.",
+      "The manager is approving the request.",
+      "The manager has approved the request."
+    ],
+    "answer": "The request was approved by the manager."
+  },
+  {
+    "numero": 17,
+    "question": "Which sentence uses the future perfect continuous correctly?",
+    "options": [
+      "By next June, she will have been working here for five years.",
+      "By next June, she will have worked here for five years.",
+      "By next June, she will be working here for five years.",
+      "By next June, she works here for five years."
+    ],
+    "answer": "By next June, she will have been working here for five years."
+  },
+  {
+    "numero": 18,
+    "question": "Which of these is an oxymoron?",
+    "options": ["Deafening silence", "Heavy rain", "Loud music", "Gentle breeze"],
+    "answer": "Deafening silence"
+  },
+  {
+    "numero": 19,
+    "question": "Which conditional sentence is correct (third conditional)?",
+    "options": [
+      "If I studied, I would pass the exam.",
+      "If I had studied, I would have passed the exam.",
+      "If I study, I will pass the exam.",
+      "If I would have studied, I would have passed."
+    ],
+    "answer": "If I had studied, I would have passed the exam."
+  },
+  {
+    "numero": 20,
+    "question": "Which prefix gives the opposite meaning of “approve”?",
+    "options": ["Re-", "Dis-", "Mis-", "Un-"],
+    "answer": "Dis-"
+  },
+  {
+    "numero": 21,
+    "question": "Which sentence contains a misplaced modifier?",
+    "options": [
+      "She almost drove her kids to school every day.",
+      "She drove her kids to school almost every day.",
+      "She served sandwiches to the children on paper plates.",
+      "She gave the sandwiches to the children on paper plates."
+    ],
+    "answer": "She drove her kids to school almost every day."
+  },
+  {
+    "numero": 22,
+    "question": "Which word is the past participle of “sink”?",
+    "options": ["Sanked", "Sunk", "Sinked", "Sank"],
+    "answer": "Sunk"
+  },
+  {
+    "numero": 23,
+    "question": "Which expression means “to be in trouble”?",
+    "options": [
+      "In the red",
+      "In the green",
+      "On cloud nine",
+      "In the clear"
+    ],
+    "answer": "In the red"
+  },
+  {
+    "numero": 24,
+    "question": "Which of these sentences uses an ellipsis correctly?",
+    "options": [
+      "“I was thinking… maybe we could try again,” she said.",
+      "I was thinking… maybe we could try again.",
+      "“I was… thinking maybe we could try again.”",
+      "“I… was thinking maybe… we could try again.”"
+    ],
+    "answer": "“I was thinking… maybe we could try again,” she said."
+  },
+  {
+    "numero": 25,
+    "question": "Which of these words is a false cognate with French?",
+    "options": ["Library", "Important", "Intelligent", "Restaurant"],
+    "answer": "Library"
+  },
+  {
+    "numero": 26,
+    "question": "Which sentence is in reported speech?",
+    "options": [
+      "She said, “I’m tired.”",
+      "She said that she was tired.",
+      "She said she is tired.",
+      "She says, “I’m tired.”"
+    ],
+    "answer": "She said that she was tired."
+  },
+  {
+    "numero": 27,
+    "question": "Which suffix forms adjectives?",
+    "options": ["-ness", "-ly", "-ful", "-tion"],
+    "answer": "-ful"
+  },
+  {
+    "numero": 28,
+    "question": "Which word is an example of an irregular plural?",
+    "options": ["Apples", "Mice", "Chairs", "Houses"],
+    "answer": "Mice"
+  },
+  {
+    "numero": 29,
+    "question": "Which sentence uses “affect” as a verb correctly?",
+    "options": [
+      "The weather will greatly affect our plans.",
+      "The affect of the storm was huge.",
+      "The weather will effect our plans.",
+      "The weather will have a big affect."
+    ],
+    "answer": "The weather will greatly affect our plans."
+  },
+  {
+    "numero": 30,
+    "question": "Which expression is a metaphor?",
+    "options": [
+      "Time is a thief.",
+      "Time passes quickly.",
+      "Time runs out.",
+      "Time flies."
+    ],
+    "answer": "Time is a thief."
+  },
+  {
+    "numero": 31,
+    "question": "Which sentence contains correct punctuation for a non-restrictive clause?",
+    "options": [
+      "My brother who lives in London is visiting.",
+      "My brother, who lives in London, is visiting.",
+      "My brother, who lives in London is visiting.",
+      "My brother who lives in London, is visiting."
+    ],
+    "answer": "My brother, who lives in London, is visiting."
+  },
+  {
+    "numero": 32,
+    "question": "Which of these is a collocation?",
+    "options": [
+      "Make a decision",
+      "Do a decision",
+      "Create a decision",
+      "Build a decision"
+    ],
+    "answer": "Make a decision"
+  },
+  {
+    "numero": 33,
+    "question": "Which word is a synonym of “ubiquitous”?",
+    "options": ["Rare", "Present everywhere", "Secret", "Hidden"],
+    "answer": "Present everywhere"
+  },
+  {
+    "numero": 34,
+    "question": "Which sentence correctly uses “lay” (verb)?",
+    "options": [
+      "Please lay the book on the table.",
+      "I will lay down for a nap.",
+      "She lays on the couch.",
+      "He is laying there yesterday."
+    ],
+    "answer": "Please lay the book on the table."
+  },
+  {
+    "numero": 35,
+    "question": "Which tense is used in: “I have been reading for two hours”?",
+    "options": [
+      "Present perfect",
+      "Present perfect continuous",
+      "Past continuous",
+      "Past perfect"
+    ],
+    "answer": "Present perfect continuous"
+  },
+  {
+    "numero": 36,
+    "question": "Which idiom means “to agree with someone”?",
+    "options": [
+      "See eye to eye",
+      "See red",
+      "Give the cold shoulder",
+      "Take with a grain of salt"
+    ],
+    "answer": "See eye to eye"
+  },
+  {
+    "numero": 37,
+    "question": "Which sentence uses “who’s” correctly?",
+    "options": [
+      "Who’s book is this?",
+      "Who’s coming to the party?",
+      "Who’s house is that?",
+      "Who’s car is broken?"
+    ],
+    "answer": "Who’s coming to the party?"
+  },
+  {
+    "numero": 38,
+    "question": "Which sentence contains inversion?",
+    "options": [
+      "I have never seen such a mess.",
+      "Never have I seen such a mess.",
+      "I saw such a mess never.",
+      "I never saw such a mess."
+    ],
+    "answer": "Never have I seen such a mess."
+  },
+  {
+    "numero": 39,
+    "question": "Which expression is a euphemism for “to die”?",
+    "options": ["Pass away", "Fall asleep", "Fall over", "Pass by"],
+    "answer": "Pass away"
+  },
+  {
+    "numero": 40,
+    "question": "Which of these is a phrasal verb meaning “to tolerate”?",
+    "options": ["Put up with", "Put down", "Put away", "Put in"],
+    "answer": "Put up with"
+  },
+  {
+    "numero": 41,
+    "question": "Which sentence correctly uses the word “whose”?",
+    "options": [
+      "Whose car is parked outside?",
+      "Who’s car is parked outside?",
+      "Whose going outside?",
+      "Who’s going outside?"
+    ],
+    "answer": "Whose car is parked outside?"
+  },
+  {
+    "numero": 42,
+    "question": "Which word is a collective noun?",
+    "options": ["Team", "Teams", "Players", "Grouped"],
+    "answer": "Team"
+  },
+  {
+    "numero": 43,
+    "question": "Which sentence is conditional type 1?",
+    "options": [
+      "If it rains, we will cancel the picnic.",
+      "If it rained, we would cancel the picnic.",
+      "If it had rained, we would have canceled the picnic.",
+      "If it rains, we would cancel the picnic."
+    ],
+    "answer": "If it rains, we will cancel the picnic."
+  },
+  {
+    "numero": 44,
+    "question": "Which is an example of alliteration?",
+    "options": [
+      "Peter Piper picked a peck of pickled peppers.",
+      "The cat chased the mouse.",
+      "She sells sea shells.",
+      "The wind blew hard."
+    ],
+    "answer": "Peter Piper picked a peck of pickled peppers."
+  },
+  {
+    "numero": 45,
+    "question": "Which expression means “to stop trying”?",
+    "options": ["Give up", "Give in", "Give out", "Give off"],
+    "answer": "Give up"
+  },
+  {
+    "numero": 46,
+    "question": "Which word is the past participle of “go”?",
+    "options": ["Went", "Gone", "Goes", "Going"],
+    "answer": "Gone"
+  },
+  {
+    "numero": 47,
+    "question": "Which sentence contains a double negative?",
+    "options": [
+      "I don’t know nothing.",
+      "I don’t know anything.",
+      "I know nothing.",
+      "I know something."
+    ],
+    "answer": "I don’t know nothing."
+  },
+  {
+    "numero": 48,
+    "question": "Which of these is an example of a heteronym?",
+    "options": [
+      "Lead (metal) / lead (to guide)",
+      "Bear / bare",
+      "There / their",
+      "Write / right"
+    ],
+    "answer": "Lead (metal) / lead (to guide)"
+  },
+  {
+    "numero": 49,
+    "question": "Which sentence correctly uses the semi-colon?",
+    "options": [
+      "I have a meeting tomorrow; however, I will try to attend.",
+      "I have a meeting tomorrow; and I will attend.",
+      "I have a meeting tomorrow; but I will attend.",
+      "I have a meeting; tomorrow, I will attend."
+    ],
+    "answer": "I have a meeting tomorrow; however, I will try to attend."
+  },
+  {
+    "numero": 50,
+    "question": "Which expression is an idiom meaning “to be very happy”?",
+    "options": [
+      "On cloud nine",
+      "In hot water",
+      "Under the weather",
+      "In the doghouse"
+    ],
+    "answer": "On cloud nine"
   }
 ]
