@@ -1,1121 +1,511 @@
-[
-   {
-    "numero": 1,
-    "question": "Which of the following sentences contains a cleft sentence?",
-    "options": [
-      "I saw the man who lives next door.",
-      "It was John who broke the window.",
-      "John broke the window yesterday.",
-      "Who broke the window?"
+[ {
+    "nummer": 1,
+    "frage": "Welcher Satz verwendet den Konjunktiv I korrekt für indirekte Rede?",
+    "optionen": [
+      "Er sagte, er wäre krank.",
+      "Er sagte, er sei krank.",
+      "Er sagte, er wäre krank gewesen.",
+      "Er sagte, er ist krank."
     ],
-    "answer": "It was John who broke the window."
+    "antwort": "Er sagte, er sei krank."
   },
   {
-    "numero": 2,
-    "question": "Identify the function of the word 'that' in this sentence: “The book that I read was excellent.”",
-    "options": [
-      "Conjunction",
-      "Preposition",
-      "Relative pronoun",
-      "Determiner"
+    "nummer": 2,
+    "frage": "Welche Formulierung entspricht stilistisch gehobenem Deutsch?",
+    "optionen": [
+      "Ich habe keinen Bock darauf.",
+      "Ich habe keine Lust darauf.",
+      "Ich verspüre keine Neigung dazu.",
+      "Ich will das nicht."
     ],
-    "answer": "Relative pronoun"
+    "antwort": "Ich verspüre keine Neigung dazu."
   },
   {
-    "numero": 3,
-    "question": "Choose the sentence with correct subject-verb agreement:",
-    "options": [
-      "Neither the boy nor the girls was present.",
-      "Each of the students have submitted the form.",
-      "The data is inaccurate.",
-      "A number of students are late."
+    "nummer": 3,
+    "frage": "Welche Wortart ist deren im Satz „Das Mädchen, deren Mutter Lehrerin ist, …“?",
+    "optionen": [
+      "Relativpronomen",
+      "Demonstrativpronomen",
+      "Possessivpronomen",
+      "Artikel"
     ],
-    "answer": "A number of students are late."
+    "antwort": "Relativpronomen"
   },
   {
-    "numero": 4,
-    "question": "Identify the grammatical voice used in: 'The house was being painted.'",
-    "options": [
-      "Active",
-      "Middle",
-      "Passive",
-      "Reflexive"
+    "nummer": 4,
+    "frage": "Welcher Satz enthält einen Fehler in der Kasusrektion?",
+    "optionen": [
+      "Er erinnerte sich an den Vorfall.",
+      "Er bat ihn um Hilfe.",
+      "Er half ihm bei der Arbeit.",
+      "Er vertraute an seinen Freund."
     ],
-    "answer": "Passive"
+    "antwort": "Er vertraute an seinen Freund."
   },
   {
-    "numero": 5,
-    "question": "Which structure represents the past perfect continuous tense?",
-    "options": [
-      "Had been eating",
-      "Was eating",
-      "Has eaten",
-      "Had eaten"
+    "nummer": 5,
+    "frage": "Welcher Satz verwendet die Infinitivkonstruktion mit zu korrekt?",
+    "optionen": [
+      "Er beschloss, nach Hause zu gehen.",
+      "Er beschloss, gehen nach Hause.",
+      "Er beschloss zu nach Hause gehen.",
+      "Er beschloss, nach Hause gehend."
     ],
-    "answer": "Had been eating"
+    "antwort": "Er beschloss, nach Hause zu gehen."
   },
   {
-    "numero": 6,
-    "question": "What type of conditional is this: “If I had known, I would have helped.”",
-    "options": [
-      "First",
-      "Second",
-      "Third",
-      "Mixed"
+    "nummer": 6,
+    "frage": "Was bezeichnet man im Deutschen als Ablaut?",
+    "optionen": [
+      "Umlautbildung bei Pluralen",
+      "Stammvokalwechsel in starken Verben",
+      "Verschiebung von Endungen im Perfekt",
+      "Lautveränderung durch Präfixe"
     ],
-    "answer": "Third"
+    "antwort": "Stammvokalwechsel in starken Verben"
   },
   {
-    "numero": 7,
-    "question": "Which sentence contains a reduced relative clause?",
-    "options": [
-      "The man who is talking to Mary is my brother.",
-      "The man talking to Mary is my brother.",
-      "The man that talks to Mary is my brother.",
-      "Mary talks to the man who is my brother."
+    "nummer": 7,
+    "frage": "Welche Redewendung bedeutet „jemanden täuschen“?",
+    "optionen": [
+      "jemandem Sand in die Augen streuen",
+      "jemandem den Rücken stärken",
+      "jemandem ins Wort fallen",
+      "jemandem einen Strich durch die Rechnung machen"
     ],
-    "answer": "The man talking to Mary is my brother."
+    "antwort": "jemandem Sand in die Augen streuen"
   },
   {
-    "numero": 8,
-    "question": "What type of noun clause is in the sentence: “I don’t know what he wants.”",
-    "options": [
-      "Subject",
-      "Object",
-      "Complement",
-      "Adverbial"
+    "nummer": 8,
+    "frage": "Welcher Satz zeigt die korrekte Verbklammer mit Modalverb und Infinitiv?",
+    "optionen": [
+      "Er kann sich erinnern zu haben.",
+      "Er kann sich daran erinnern.",
+      "Er sich erinnern kann daran.",
+      "Er kann daran sich erinnern."
     ],
-    "answer": "Object"
+    "antwort": "Er kann sich daran erinnern."
   },
   {
-    "numero": 9,
-    "question": "What grammatical role does the word “quickly” play in this sentence: “She runs quickly.”",
-    "options": [
-      "Adjective",
-      "Adverb",
-      "Verb",
-      "Preposition"
-    ],
-    "answer": "Adverb"
-  },
-  {
-    "numero": 10,
-    "question": "Which of the following is an example of a stative verb?",
-    "options": [
-      "Sleep",
-      "Run",
-      "Know",
-      "Eat"
-    ],
-    "answer": "Know"
-  },
-  {
-    "numero": 11,
-    "question": "Choose the correct use of a modal verb expressing deduction:",
-    "options": [
-      "She can be at home.",
-      "She might to be at home.",
-      "She must be at home.",
-      "She should goes home."
-    ],
-    "answer": "She must be at home."
-  },
-  {
-    "numero": 12,
-    "question": "Which is an example of an inversion after a negative adverbial?",
-    "options": [
-      "Not only he went to Paris.",
-      "Not only did he go to Paris.",
-      "He did not only go to Paris.",
-      "He not only went to Paris."
-    ],
-    "answer": "Not only did he go to Paris."
-  },
-  {
-    "numero": 13,
-    "question": "Choose the sentence with a dangling participle:",
-    "options": [
-      "Running to the bus, my phone rang.",
-      "I ran to the bus while my phone rang.",
-      "As I ran, my phone rang.",
-      "Running to the bus, I dropped my phone."
-    ],
-    "answer": "Running to the bus, my phone rang."
-  },
-  {
-    "numero": 14,
-    "question": "Identify the correct indirect question:",
-    "options": [
-      "Tell me what is he doing.",
-      "Tell me what he is doing.",
-      "Tell me what is he doing?",
-      "Tell me what he is doing?"
-    ],
-    "answer": "Tell me what he is doing."
-  },
-  {
-    "numero": 15,
-    "question": "Which sentence demonstrates ellipsis?",
-    "options": [
-      "I wanted to go, but I didn’t.",
-      "I wanted to go but I stayed.",
-      "I wanted to go, however I didn’t go.",
-      "I wanted to go and I did go."
-    ],
-    "answer": "I wanted to go, but I didn’t."
-  },{
-    "numero": 16,
-    "question": "In RP (Received Pronunciation), the final sound in “judge” is:",
-    "options": [
-      "/ʃ/",
-      "/tʃ/",
-      "/dʒ/",
-      "/z/"
-    ],
-    "answer": "/dʒ/"
-  },
-  {
-    "numero": 17,
-    "question": "What is the IPA transcription of “thought”?",
-    "options": [
-      "/θɔːt/",
-      "/tɔːt/",
-      "/ðɔːt/",
-      "/θuːt/"
-    ],
-    "answer": "/θɔːt/"
-  },
-  {
-    "numero": 18,
-    "question": "Which of these is an example of consonant elision?",
-    "options": [
-      "Sandwich → sanwich",
-      "Go on → goon",
-      "Comfortable → comf-ter-ble",
-      "Chocolate → chok-lit"
-    ],
-    "answer": "Sandwich → sanwich"
-  },
-  {
-    "numero": 19,
-    "question": "Identify the minimal pair:",
-    "options": [
-      "Ship – Sheep",
-      "Go – Went",
-      "Sit – Sit",
-      "Book – Books"
-    ],
-    "answer": "Ship – Sheep"
-  },
-  {
-    "numero": 20,
-    "question": "In connected speech, “I want to eat” becomes:",
-    "options": [
-      "/aɪ wɒnt tu iːt/",
-      "/aɪ wɒnə iːt/",
-      "/aɪ wɒntə tuː iːt/",
-      "/aɪ wɒnt iːt/"
-    ],
-    "answer": "/aɪ wɒnə iːt/"
-  },
-  {
-    "numero": 21,
-    "question": "What is schwa in phonetics?",
-    "options": [
-      "A stressed central vowel",
-      "An unstressed central vowel /ə/",
-      "A nasal vowel",
-      "A voiced consonant"
-    ],
-    "answer": "An unstressed central vowel /ə/"
-  },
-  {
-    "numero": 22,
-    "question": "Which word contains a diphthong?",
-    "options": [
-      "Cat",
-      "Boat",
-      "Sit",
-      "Cut"
-    ],
-    "answer": "Boat"
-  },
-  {
-    "numero": 23,
-    "question": "The intonation of yes/no questions in English is usually:",
-    "options": [
-      "Falling",
-      "Rising",
-      "Flat",
-      "Broken"
-    ],
-    "answer": "Rising"
-  },
-  {
-    "numero": 24,
-    "question": "In the word \"unbelievable\", the primary stress is on:",
-    "options": [
-      "un-",
-      "-be-",
-      "-liev-",
-      "-able"
-    ],
-    "answer": "-liev-"
-  },
-  {
-    "numero": 25,
-    "question": "Which word is pronounced with a silent consonant?",
-    "options": [
-      "Know",
-      "Goat",
-      "Knife",
-      "Both a and c"
-    ],
-    "answer": "Both a and c"
-  },{
-    "numero": 26,
-    "question": "Which approach promotes learning through meaningful interaction?",
-    "options": [
-      "Grammar-translation",
-      "Audio-lingual",
-      "Communicative Language Teaching (CLT)",
-      "Total Physical Response"
-    ],
-    "answer": "Communicative Language Teaching (CLT)"
-  },
-  {
-    "numero": 27,
-    "question": "What does TPR stand for in teaching?",
-    "options": [
-      "Total Pronunciation Reinforcement",
-      "Task-based Reading",
-      "Total Physical Response",
-      "Teaching Pronunciation and Rhythm"
-    ],
-    "answer": "Total Physical Response"
-  },
-  {
-    "numero": 28,
-    "question": "The CEFR level most associated with 'Can write a simple email' is:",
-    "options": [
-      "A1",
-      "A2",
-      "B1",
-      "C1"
-    ],
-    "answer": "A2"
-  },
-  {
-    "numero": 29,
-    "question": "In task-based learning, the focus is on:",
-    "options": [
-      "Grammar drills",
-      "Vocabulary tests",
-      "Real-world communication tasks",
-      "Translation accuracy"
-    ],
-    "answer": "Real-world communication tasks"
-  },
-  {
-    "numero": 30,
-    "question": "Which is a formative assessment?",
-    "options": [
-      "End-of-term test",
-      "National exam",
-      "Class discussion feedback",
-      "Final grade report"
-    ],
-    "answer": "Class discussion feedback"
-  },
-  {
-    "numero": 31,
-    "question": "The term scaffolding refers to:",
-    "options": [
-      "Punishing students",
-      "Giving students the test early",
-      "Gradual removal of teacher support",
-      "Assigning homework"
-    ],
-    "answer": "Gradual removal of teacher support"
-  },
-  {
-    "numero": 32,
-    "question": "Which of the following is a receptive skill?",
-    "options": [
-      "Writing",
-      "Speaking",
-      "Reading",
-      "Spelling"
-    ],
-    "answer": "Reading"
-  },
-  {
-    "numero": 33,
-    "question": "Which is an authentic material for teaching?",
-    "options": [
-      "Exercise from a textbook",
-      "Grammar worksheet",
-      "News article",
-      "Vocabulary list"
-    ],
-    "answer": "News article"
-  },
-  {
-    "numero": 34,
-    "question": "Differentiation in language teaching refers to:",
-    "options": [
-      "Teaching only high-performing students",
-      "Using multiple methods to address diverse learners",
-      "Teaching the same way for all",
-      "Testing every day"
-    ],
-    "answer": "Using multiple methods to address diverse learners"
-  },
-  {
-    "numero": 35,
-    "question": "Which feedback style promotes learner autonomy?",
-    "options": [
-      "Explicit correction only",
-      "Error highlighting with self-correction",
-      "Teacher-only correction",
-      "Repeating the correct answer"
-    ],
-    "answer": "Error highlighting with self-correction"
-  }, {
-    "numero": 36,
-    "question": "What is a morpheme?",
-    "options": [
-      "A part of speech",
-      "The smallest unit of meaning",
-      "A phonetic symbol",
-      "A type of clause"
-    ],
-    "answer": "The smallest unit of meaning"
-  },
-  {
-    "numero": 37,
-    "question": "“Unhappiness” contains how many morphemes?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "3"
+    "nummer": 9,
+    "frage": "Welche Präposition verlangt den Genitiv?",
+    "optionen": ["wegen", "durch", "bei", "mit"],
+    "antwort": "wegen"
   },
   {
-    "numero": 38,
-    "question": "Which is an inflectional morpheme?",
-    "options": [
-      "-ing",
-      "un-",
-      "re-",
-      "-ness"
+    "nummer": 10,
+    "frage": "Welcher Satz ist stilistisch fehlerhaft (Pleonasmus)?",
+    "optionen": [
+      "Er ging mit langsamen Schritten.",
+      "Er wiederholte es noch einmal erneut.",
+      "Sie sprach mit leiser Stimme.",
+      "Das Ergebnis war vollkommen klar."
     ],
-    "answer": "-ing"
+    "antwort": "Er wiederholte es noch einmal erneut."
   },
   {
-    "numero": 39,
-    "question": "In the sentence “They made him president”, what is “president”?",
-    "options": [
-      "Subject complement",
-      "Object complement",
-      "Appositive",
-      "Direct object"
+    "nummer": 11,
+    "frage": "Wie nennt man die Verschiebung des Verbs in Nebensätzen im Deutschen?",
+    "optionen": [
+      "Verbalstellung",
+      "Verbzweitstellung",
+      "Verbletztstellung",
+      "Inversion"
     ],
-    "answer": "Object complement"
+    "antwort": "Verbletztstellung"
   },
   {
-    "numero": 40,
-    "question": "The syntagmatic relationship is:",
-    "options": [
-      "Vertical",
-      "Hierarchical",
-      "Linear and sequential",
-      "Random"
+    "nummer": 12,
+    "frage": "Welche Lautbeschreibung ist korrekt für den Laut „ch“ in ich?",
+    "optionen": [
+      "stimmloser velarer Plosiv",
+      "stimmloser palataler Frikativ",
+      "stimmloser glottaler Frikativ",
+      "stimmhafter alveolarer Frikativ"
     ],
-    "answer": "Linear and sequential"
+    "antwort": "stimmloser palataler Frikativ"
   },
   {
-    "numero": 41,
-    "question": "In corpus linguistics, collocations are:",
-    "options": [
-      "Mistakes in speech",
-      "Frequent word combinations",
-      "Irregular verbs",
-      "Synonyms"
+    "nummer": 13,
+    "frage": "Welcher Satz enthält eine Apposition?",
+    "optionen": [
+      "Frau Müller, unsere Nachbarin, ist Lehrerin.",
+      "Frau Müller geht einkaufen.",
+      "Frau Müller hilft uns.",
+      "Frau Müller wird angerufen."
     ],
-    "answer": "Frequent word combinations"
+    "antwort": "Frau Müller, unsere Nachbarin, ist Lehrerin."
   },
   {
-    "numero": 42,
-    "question": "What is metalanguage?",
-    "options": [
-      "A language for programming",
-      "Language about language",
-      "Literary figurative language",
-      "Sign language"
+    "nummer": 14,
+    "frage": "Welche Form ist korrekt für den Konjunktiv II Plusquamperfekt?",
+    "optionen": [
+      "ich hätte gegangen",
+      "ich wäre gegangen",
+      "ich habe gegangen",
+      "ich wäre gehe"
     ],
-    "answer": "Language about language"
+    "antwort": "ich wäre gegangen"
   },
   {
-    "numero": 43,
-    "question": "What’s the main function of a conjunction?",
-    "options": [
-      "To modify a noun",
-      "To connect clauses",
-      "To express mood",
-      "To negate a verb"
+    "nummer": 15,
+    "frage": "Welcher Satz verwendet eine Konjunktionaladverbial korrekt?",
+    "optionen": [
+      "Ich hatte Hunger, dennoch aß ich nichts.",
+      "Ich hatte Hunger, dass ich nichts aß.",
+      "Ich hatte Hunger, trotzdem ich aß nichts.",
+      "Ich hatte Hunger, obgleich ich nichts aß."
     ],
-    "answer": "To connect clauses"
+    "antwort": "Ich hatte Hunger, dennoch aß ich nichts."
   },
   {
-    "numero": 44,
-    "question": "“He’s not just clever – he’s a genius.” What rhetorical device is this?",
-    "options": [
-      "Simile",
-      "Hyperbole",
-      "Understatement",
-      "Antithesis"
+    "nummer": 16,
+    "frage": "Was bezeichnet man als Partizipialattribut?",
+    "optionen": [
+      "Ein Adjektiv, das ein Substantiv beschreibt",
+      "Ein Partizip, das ein Substantiv beschreibt",
+      "Ein Verb im Infinitiv, das ein Substantiv beschreibt",
+      "Ein Pronominalattribut"
     ],
-    "answer": "Antithesis"
+    "antwort": "Ein Partizip, das ein Substantiv beschreibt"
   },
   {
-    "numero": 45,
-    "question": "“Time is a thief.” is an example of:",
-    "options": [
-      "Personification",
-      "Simile",
-      "Irony",
-      "Euphemism"
+    "nummer": 17,
+    "frage": "Welcher Satz enthält einen Prädikatsnomen?",
+    "optionen": [
+      "Er ist Arzt.",
+      "Er liest ein Buch.",
+      "Er kocht eine Suppe.",
+      "Er arbeitet fleißig."
     ],
-    "answer": "Personification"
-  },{
-    "numero": 46,
-    "question": "The Silent Way is characterized by:",
-    "options": [
-      "Teacher talking time",
-      "Grammar translation",
-      "Minimal teacher intervention",
-      "Repetition drills"
-    ],
-    "answer": "Minimal teacher intervention"
-  },
-  {
-    "numero": 47,
-    "question": "In English-speaking cultures, eye contact usually signifies:",
-    "options": [
-      "Aggression",
-      "Honesty and attention",
-      "Disrespect",
-      "Boredom"
-    ],
-    "answer": "Honesty and attention"
-  },
-  {
-    "numero": 48,
-    "question": "Which classroom technique reduces teacher talking time?",
-    "options": [
-      "Lecturing",
-      "Think-pair-share",
-      "Dictation",
-      "Reading aloud"
-    ],
-    "answer": "Think-pair-share"
-  },
-  {
-    "numero": 49,
-    "question": "Which language skill is usually emphasized in immersion programs?",
-    "options": [
-      "Listening",
-      "Writing",
-      "Translation",
-      "Reading"
-    ],
-    "answer": "Listening"
-  },
-  {
-    "numero": 50,
-    "question": "In lesson planning, a “warmer” is:",
-    "options": [
-      "A final activity",
-      "A grammatical explanation",
-      "An opening interactive activity",
-      "A review test"
-    ],
-    "answer": "An opening interactive activity"
-  },{
-    "numero": 1,
-    "question": "Which of the following is a non-finite verb?",
-    "options": [
-      "Runs",
-      "Is",
-      "Running",
-      "Was"
-    ],
-    "answer": "Running"
-  },
-  {
-    "numero": 2,
-    "question": "Identify the correct sentence with parallel structure.",
-    "options": [
-      "She likes reading, to swim, and biking.",
-      "She likes reading, swimming, and biking.",
-      "She likes to read, to swim, and biking.",
-      "She likes to read, swimming, and bike."
-    ],
-    "answer": "She likes reading, swimming, and biking."
-  },
-  {
-    "numero": 3,
-    "question": "Which of the following is an example of a phrasal verb?",
-    "options": [
-      "Discover",
-      "Run",
-      "Take off",
-      "Suggest"
-    ],
-    "answer": "Take off"
-  },
-  {
-    "numero": 4,
-    "question": "In English, the schwa /ə/ sound typically occurs in:",
-    "options": [
-      "Stressed syllables",
-      "Open syllables only",
-      "Unstressed syllables",
-      "Word-final position only"
-    ],
-    "answer": "Unstressed syllables"
-  },
-  {
-    "numero": 5,
-    "question": "Which is NOT a communicative approach principle?",
-    "options": [
-      "Use of authentic material",
-      "Emphasis on grammar drills",
-      "Focus on meaning",
-      "Interaction in the target language"
-    ],
-    "answer": "Emphasis on grammar drills"
-  },
-  {
-    "numero": 6,
-    "question": "The sentence “Neither the teacher nor the students ____ late.” requires which verb?",
-    "options": [
-      "Was",
-      "Is",
-      "Are",
-      "Has been"
-    ],
-    "answer": "Are"
-  },
-  {
-    "numero": 7,
-    "question": "Which of the following best defines “backchaining”?",
-    "options": [
-      "Teaching vocabulary backwards",
-      "Repeating a sentence in reverse order",
-      "Practicing pronunciation from the end of a phrase backward",
-      "Correcting students after they speak"
-    ],
-    "answer": "Practicing pronunciation from the end of a phrase backward"
-  },
-  {
-    "numero": 8,
-    "question": "What is the function of the word “however” in the sentence: “He was tired. However, he kept working”?",
-    "options": [
-      "Conjunction",
-      "Determiner",
-      "Discourse marker",
-      "Interjection"
-    ],
-    "answer": "Discourse marker"
-  },
-  {
-    "numero": 9,
-    "question": "Identify the cleft sentence:",
-    "options": [
-      "It was John who broke the vase.",
-      "John broke the vase.",
-      "The vase was broken by John.",
-      "John is the one that broke the vase."
-    ],
-    "answer": "It was John who broke the vase."
-  },
-  {
-    "numero": 10,
-    "question": "Which is an example of a fossilized error?",
-    "options": [
-      "Mispronouncing a word occasionally",
-      "Forgetting irregular verb forms",
-      "A recurring, uncorrected error in fluent speech",
-      "A mistake in early language acquisition"
-    ],
-    "answer": "A recurring, uncorrected error in fluent speech"
-  }, {
-    "numero": 1,
-    "question": "Which sentence correctly uses the subjunctive mood?",
-    "options": [
-      "If I was you, I would apply for the job.",
-      "If I were you, I would apply for the job.",
-      "If I am you, I would apply for the job.",
-      "If I will be you, I would apply for the job."
-    ],
-    "answer": "If I were you, I would apply for the job."
-  },
-  {
-    "numero": 2,
-    "question": "Which of the following sentences contains a dangling modifier?",
-    "options": [
-      "Running to catch the bus, the rain started pouring.",
-      "While running to catch the bus, I dropped my phone.",
-      "The boy, running to catch the bus, tripped.",
-      "I was running to catch the bus and it rained."
-    ],
-    "answer": "Running to catch the bus, the rain started pouring."
-  },
-  {
-    "numero": 3,
-    "question": "Which word is an example of a gerund?",
-    "options": ["Swimming", "Swim", "Swam", "Swum"],
-    "answer": "Swimming"
-  },
-  {
-    "numero": 4,
-    "question": "Which sentence correctly uses a restrictive clause?",
-    "options": [
-      "The students, who studied hard, passed the test.",
-      "The students who studied hard passed the test.",
-      "The students, that studied hard, passed the test.",
-      "The students, which studied hard, passed the test."
-    ],
-    "answer": "The students who studied hard passed the test."
+    "antwort": "Er ist Arzt."
   },
   {
-    "numero": 5,
-    "question": "Which of the following uses “whom” correctly?",
-    "options": [
-      "Whom is coming to the meeting?",
-      "Whom should I speak to?",
-      "Whom is in charge?",
-      "Whom called you?"
+    "nummer": 18,
+    "frage": "Was versteht man unter Verschiebeprobe?",
+    "optionen": [
+      "Man verschiebt Satzglieder, um deren Funktion zu erkennen.",
+      "Man ersetzt Satzglieder durch Pronomen.",
+      "Man streicht Satzglieder.",
+      "Man fügt Adjektive ein."
     ],
-    "answer": "Whom should I speak to?"
+    "antwort": "Man verschiebt Satzglieder, um deren Funktion zu erkennen."
   },
   {
-    "numero": 6,
-    "question": "Which sentence contains a split infinitive?",
-    "options": [
-      "She decided to quickly leave.",
-      "She decided quickly to leave.",
-      "She decided to leave quickly.",
-      "She quickly decided to leave."
+    "nummer": 19,
+    "frage": "Welche Form des Artikels ist korrekt?",
+    "optionen": [
+      "des guten Weines",
+      "des guten Wein",
+      "des guter Weines",
+      "des guten Weinses"
     ],
-    "answer": "She decided to quickly leave."
+    "antwort": "des guten Weines"
   },
   {
-    "numero": 7,
-    "question": "Which phrasal verb means “to cancel”?",
-    "options": ["Take over", "Put up with", "Call off", "Break into"],
-    "answer": "Call off"
-  },
-  {
-    "numero": 8,
-    "question": "Which sentence correctly uses the past perfect tense?",
-    "options": [
-      "By the time he arrived, we had already left.",
-      "By the time he arrived, we already left.",
-      "By the time he arrived, we leave already.",
-      "By the time he arrived, we have left already."
-    ],
-    "answer": "By the time he arrived, we had already left."
-  },
-  {
-    "numero": 9,
-    "question": "Which word is an example of a countable noun?",
-    "options": ["Advice", "Information", "Chairs", "Furniture"],
-    "answer": "Chairs"
-  },
-  {
-    "numero": 10,
-    "question": "Which idiom means “to reveal a secret”?",
-    "options": [
-      "Hit the sack",
-      "Let the cat out of the bag",
-      "Kick the bucket",
-      "Break the ice"
+    "nummer": 20,
+    "frage": "Welcher Satz verwendet eine historische Konnotation?",
+    "optionen": [
+      "Er ist sehr pünktlich.",
+      "Er verhielt sich wie ein Hanswurst.",
+      "Er ist sehr fleißig.",
+      "Er läuft schnell."
     ],
-    "answer": "Let the cat out of the bag"
+    "antwort": "Er verhielt sich wie ein Hanswurst."
   },
   {
-    "numero": 11,
-    "question": "Which sentence contains correct subject-verb agreement?",
-    "options": [
-      "Neither the teacher nor the students knows the answer.",
-      "Neither the teacher nor the students know the answer.",
-      "Neither the teacher nor the students is knowing the answer.",
-      "Neither the teacher nor the students was knowing the answer."
+    "nummer": 21,
+    "frage": "Welcher Satz steht im Futur II?",
+    "optionen": [
+      "Ich werde nach Hause gehen.",
+      "Ich werde nach Hause gegangen sein.",
+      "Ich gehe nach Hause.",
+      "Ich werde nach Hause gegangen."
     ],
-    "answer": "Neither the teacher nor the students know the answer."
+    "antwort": "Ich werde nach Hause gegangen sein."
   },
   {
-    "numero": 12,
-    "question": "Which sentence uses “fewer” correctly?",
-    "options": [
-      "There are fewer people here than yesterday.",
-      "There are fewer water in the bottle.",
-      "There is fewer noise now.",
-      "There are fewer happiness."
-    ],
-    "answer": "There are fewer people here than yesterday."
+    "nummer": 22,
+    "frage": "Welche Wortart ist „hin“ in „Er ging hin“?",
+    "optionen": ["Präposition", "Adverb", "Partikel", "Konjunktion"],
+    "antwort": "Adverb"
   },
   {
-    "numero": 13,
-    "question": "Which of the following is a homophone of “principal”?",
-    "options": ["Principle", "Printable", "Prince", "Precedent"],
-    "answer": "Principle"
+    "nummer": 23,
+    "frage": "Welche Stilfigur liegt in „bittersüß“ vor?",
+    "optionen": ["Hyperbel", "Oxymoron", "Alliteration", "Metapher"],
+    "antwort": "Oxymoron"
   },
   {
-    "numero": 14,
-    "question": "Which sentence contains parallel structure?",
-    "options": [
-      "She likes reading, writing, and to jog.",
-      "She likes reading, writing, and jogging.",
-      "She likes reading, to write, and jogging.",
-      "She likes to read, writing, and jogging."
+    "nummer": 24,
+    "frage": "Welcher Satz zeigt korrekt die Subjunktor-Nebensatzstellung?",
+    "optionen": [
+      "Ich bleibe hier, weil es regnet.",
+      "Ich bleibe hier, es regnet weil.",
+      "Ich bleibe hier, weil regnet es.",
+      "Ich bleibe hier, weil es regnet es."
     ],
-    "answer": "She likes reading, writing, and jogging."
+    "antwort": "Ich bleibe hier, weil es regnet."
   },
   {
-    "numero": 15,
-    "question": "Which is a synonym for “meticulous”?",
-    "options": ["Careless", "Precise", "Hasty", "Sloppy"],
-    "answer": "Precise"
+    "nummer": 25,
+    "frage": "Welche Form ist ein archaisches Pronomen?",
+    "optionen": ["euer", "ihr", "derjenige", "deinethalben"],
+    "antwort": "deinethalben"
   },
   {
-    "numero": 16,
-    "question": "Which sentence is written in passive voice?",
-    "options": [
-      "The manager approved the request.",
-      "The request was approved by the manager.",
-      "The manager is approving the request.",
-      "The manager has approved the request."
+    "nummer": 26,
+    "frage": "Welcher Satz zeigt eine Alliteration?",
+    "optionen": [
+      "Milch macht müde Männer munter.",
+      "Er läuft schnell und flink.",
+      "Ich bin wie du.",
+      "Die Sonne scheint."
     ],
-    "answer": "The request was approved by the manager."
+    "antwort": "Milch macht müde Männer munter."
   },
   {
-    "numero": 17,
-    "question": "Which sentence uses the future perfect continuous correctly?",
-    "options": [
-      "By next June, she will have been working here for five years.",
-      "By next June, she will have worked here for five years.",
-      "By next June, she will be working here for five years.",
-      "By next June, she works here for five years."
+    "nummer": 27,
+    "frage": "Welche Negation ist doppelt und deshalb falsch?",
+    "optionen": [
+      "Niemand hat etwas gesagt.",
+      "Keiner hat nichts gesagt.",
+      "Er sagte nichts.",
+      "Sie hat niemanden gesehen."
     ],
-    "answer": "By next June, she will have been working here for five years."
-  },
-  {
-    "numero": 18,
-    "question": "Which of these is an oxymoron?",
-    "options": ["Deafening silence", "Heavy rain", "Loud music", "Gentle breeze"],
-    "answer": "Deafening silence"
+    "antwort": "Keiner hat nichts gesagt."
   },
   {
-    "numero": 19,
-    "question": "Which conditional sentence is correct (third conditional)?",
-    "options": [
-      "If I studied, I would pass the exam.",
-      "If I had studied, I would have passed the exam.",
-      "If I study, I will pass the exam.",
-      "If I would have studied, I would have passed."
-    ],
-    "answer": "If I had studied, I would have passed the exam."
+    "nummer": 28,
+    "frage": "Welche Präposition verlangt zwingend den Dativ?",
+    "optionen": ["entgegen", "um", "durch", "für"],
+    "antwort": "entgegen"
   },
   {
-    "numero": 20,
-    "question": "Which prefix gives the opposite meaning of “approve”?",
-    "options": ["Re-", "Dis-", "Mis-", "Un-"],
-    "answer": "Dis-"
+    "nummer": 29,
+    "frage": "Welche Form ist typisch für Fachsprache?",
+    "optionen": ["im Hinblick auf", "voll krass", "eh klar", "mega cool"],
+    "antwort": "im Hinblick auf"
   },
   {
-    "numero": 21,
-    "question": "Which sentence contains a misplaced modifier?",
-    "options": [
-      "She almost drove her kids to school every day.",
-      "She drove her kids to school almost every day.",
-      "She served sandwiches to the children on paper plates.",
-      "She gave the sandwiches to the children on paper plates."
+    "nummer": 30,
+    "frage": "Welche Formulierung entspricht der Nominalstil?",
+    "optionen": [
+      "Wir haben beschlossen zu handeln.",
+      "Wir kamen zu einem Beschluss.",
+      "Wir wollen jetzt handeln.",
+      "Wir handeln sofort."
     ],
-    "answer": "She drove her kids to school almost every day."
-  },
-  {
-    "numero": 22,
-    "question": "Which word is the past participle of “sink”?",
-    "options": ["Sanked", "Sunk", "Sinked", "Sank"],
-    "answer": "Sunk"
+    "antwort": "Wir kamen zu einem Beschluss."
   },
   {
-    "numero": 23,
-    "question": "Which expression means “to be in trouble”?",
-    "options": [
-      "In the red",
-      "In the green",
-      "On cloud nine",
-      "In the clear"
+    "nummer": 31,
+    "frage": "Welcher Satz zeigt einen Finalsatz?",
+    "optionen": [
+      "Er lernt, damit er die Prüfung besteht.",
+      "Er lernt, weil er die Prüfung bestehen will.",
+      "Er lernt, obwohl er müde ist.",
+      "Er lernt, als ob er alles wüsste."
     ],
-    "answer": "In the red"
+    "antwort": "Er lernt, damit er die Prüfung besteht."
   },
   {
-    "numero": 24,
-    "question": "Which of these sentences uses an ellipsis correctly?",
-    "options": [
-      "“I was thinking… maybe we could try again,” she said.",
-      "I was thinking… maybe we could try again.",
-      "“I was… thinking maybe we could try again.”",
-      "“I… was thinking maybe… we could try again.”"
+    "nummer": 32,
+    "frage": "Welche Lautentwicklung beschreibt die 2. Lautverschiebung?",
+    "optionen": [
+      "P → F, T → S, K → CH",
+      "A → Ä, O → Ö, U → Ü",
+      "D → T, B → P, G → K",
+      "Vokallängenwechsel"
     ],
-    "answer": "“I was thinking… maybe we could try again,” she said."
-  },
-  {
-    "numero": 25,
-    "question": "Which of these words is a false cognate with French?",
-    "options": ["Library", "Important", "Intelligent", "Restaurant"],
-    "answer": "Library"
+    "antwort": "P → F, T → S, K → CH"
   },
   {
-    "numero": 26,
-    "question": "Which sentence is in reported speech?",
-    "options": [
-      "She said, “I’m tired.”",
-      "She said that she was tired.",
-      "She said she is tired.",
-      "She says, “I’m tired.”"
+    "nummer": 33,
+    "frage": "Welche Variante ist standardsprachlich korrekt?",
+    "optionen": [
+      "Ich habe die Arbeit getan.",
+      "Ich habe die Arbeit gemacht.",
+      "Ich habe die Arbeit gemacht gehabt.",
+      "Ich habe die Arbeit getätigt gehabt."
     ],
-    "answer": "She said that she was tired."
+    "antwort": "Ich habe die Arbeit getan."
   },
   {
-    "numero": 27,
-    "question": "Which suffix forms adjectives?",
-    "options": ["-ness", "-ly", "-ful", "-tion"],
-    "answer": "-ful"
-  },
-  {
-    "numero": 28,
-    "question": "Which word is an example of an irregular plural?",
-    "options": ["Apples", "Mice", "Chairs", "Houses"],
-    "answer": "Mice"
-  },
-  {
-    "numero": 29,
-    "question": "Which sentence uses “affect” as a verb correctly?",
-    "options": [
-      "The weather will greatly affect our plans.",
-      "The affect of the storm was huge.",
-      "The weather will effect our plans.",
-      "The weather will have a big affect."
+    "nummer": 34,
+    "frage": "Welcher Satz enthält einen Chiasmus?",
+    "optionen": [
+      "Die Kunst ist lang, und kurz ist unser Leben.",
+      "Ich kam, sah und siegte.",
+      "Der Himmel lacht, die Erde weint.",
+      "Das war der schönste Tag meines Lebens."
     ],
-    "answer": "The weather will greatly affect our plans."
+    "antwort": "Die Kunst ist lang, und kurz ist unser Leben."
   },
   {
-    "numero": 30,
-    "question": "Which expression is a metaphor?",
-    "options": [
-      "Time is a thief.",
-      "Time passes quickly.",
-      "Time runs out.",
-      "Time flies."
+    "nummer": 35,
+    "frage": "Welche Konstruktion entspricht einem Attributsatz?",
+    "optionen": [
+      "Das Buch, das ich gestern gekauft habe, ist spannend.",
+      "Ich habe ein Buch gekauft.",
+      "Ich lese gern Bücher.",
+      "Bücher sind spannend."
     ],
-    "answer": "Time is a thief."
+    "antwort": "Das Buch, das ich gestern gekauft habe, ist spannend."
   },
   {
-    "numero": 31,
-    "question": "Which sentence contains correct punctuation for a non-restrictive clause?",
-    "options": [
-      "My brother who lives in London is visiting.",
-      "My brother, who lives in London, is visiting.",
-      "My brother, who lives in London is visiting.",
-      "My brother who lives in London, is visiting."
+    "nummer": 36,
+    "frage": "Welche Form des Plurals ist fehlerhaft?",
+    "optionen": [
+      "die Atlanten",
+      "die Museen",
+      "die Genies",
+      "die Tempuses"
     ],
-    "answer": "My brother, who lives in London, is visiting."
+    "antwort": "die Tempuses"
   },
   {
-    "numero": 32,
-    "question": "Which of these is a collocation?",
-    "options": [
-      "Make a decision",
-      "Do a decision",
-      "Create a decision",
-      "Build a decision"
+    "nummer": 37,
+    "frage": "Welcher Satz verwendet korrekt die indirekte Rede mit Konjunktiv I?",
+    "optionen": [
+      "Er sagte, er komme später.",
+      "Er sagte, er kommt später.",
+      "Er sagte, er käme später.",
+      "Er sagte, er ist später gekommen."
     ],
-    "answer": "Make a decision"
+    "antwort": "Er sagte, er komme später."
   },
   {
-    "numero": 33,
-    "question": "Which word is a synonym of “ubiquitous”?",
-    "options": ["Rare", "Present everywhere", "Secret", "Hidden"],
-    "answer": "Present everywhere"
+    "nummer": 38,
+    "frage": "Welches Wort ist ein Homonym?",
+    "optionen": ["Bank", "Auto", "Freund", "Buch"],
+    "antwort": "Bank"
   },
   {
-    "numero": 34,
-    "question": "Which sentence correctly uses “lay” (verb)?",
-    "options": [
-      "Please lay the book on the table.",
-      "I will lay down for a nap.",
-      "She lays on the couch.",
-      "He is laying there yesterday."
+    "nummer": 39,
+    "frage": "Welche Phrase ist ein Beispiel für ein Partizipialkonstrukt?",
+    "optionen": [
+      "Die Tür öffnend, trat er ein.",
+      "Er öffnete die Tür und trat ein.",
+      "Er trat ein, als er die Tür öffnete.",
+      "Er öffnete die Tür, dann trat er ein."
     ],
-    "answer": "Please lay the book on the table."
+    "antwort": "Die Tür öffnend, trat er ein."
   },
   {
-    "numero": 35,
-    "question": "Which tense is used in: “I have been reading for two hours”?",
-    "options": [
-      "Present perfect",
-      "Present perfect continuous",
-      "Past continuous",
-      "Past perfect"
+    "nummer": 40,
+    "frage": "Welche Konstruktion ist typisch für gehobenes Deutsch?",
+    "optionen": [
+      "Ich habe das gesehen.",
+      "Ich habe dessen innegeworden.",
+      "Ich habe es mitbekommen.",
+      "Ich habe es bemerkt."
     ],
-    "answer": "Present perfect continuous"
+    "antwort": "Ich habe dessen innegeworden."
   },
   {
-    "numero": 36,
-    "question": "Which idiom means “to agree with someone”?",
-    "options": [
-      "See eye to eye",
-      "See red",
-      "Give the cold shoulder",
-      "Take with a grain of salt"
+    "nummer": 41,
+    "frage": "Welche Satzart ist „Komm sofort!“?",
+    "optionen": [
+      "Deklarativsatz",
+      "Interrogativsatz",
+      "Imperativsatz",
+      "Exklamativsatz"
     ],
-    "answer": "See eye to eye"
+    "antwort": "Imperativsatz"
   },
   {
-    "numero": 37,
-    "question": "Which sentence uses “who’s” correctly?",
-    "options": [
-      "Who’s book is this?",
-      "Who’s coming to the party?",
-      "Who’s house is that?",
-      "Who’s car is broken?"
-    ],
-    "answer": "Who’s coming to the party?"
+    "nummer": 42,
+    "frage": "Welche Endung ist typisch für schwache Maskulina im Genitiv Singular?",
+    "optionen": ["-s", "-es", "-en", "-n"],
+    "antwort": "-en"
   },
   {
-    "numero": 38,
-    "question": "Which sentence contains inversion?",
-    "options": [
-      "I have never seen such a mess.",
-      "Never have I seen such a mess.",
-      "I saw such a mess never.",
-      "I never saw such a mess."
+    "nummer": 43,
+    "frage": "Welche Formulierung entspricht einem Pleonasmus?",
+    "optionen": [
+      "Der weiße Schimmel",
+      "Die schwarze Katze",
+      "Der blaue Himmel",
+      "Das rote Auto"
     ],
-    "answer": "Never have I seen such a mess."
+    "antwort": "Der weiße Schimmel"
   },
   {
-    "numero": 39,
-    "question": "Which expression is a euphemism for “to die”?",
-    "options": ["Pass away", "Fall asleep", "Fall over", "Pass by"],
-    "answer": "Pass away"
-  },
-  {
-    "numero": 40,
-    "question": "Which of these is a phrasal verb meaning “to tolerate”?",
-    "options": ["Put up with", "Put down", "Put away", "Put in"],
-    "answer": "Put up with"
-  },
-  {
-    "numero": 41,
-    "question": "Which sentence correctly uses the word “whose”?",
-    "options": [
-      "Whose car is parked outside?",
-      "Who’s car is parked outside?",
-      "Whose going outside?",
-      "Who’s going outside?"
+    "nummer": 44,
+    "frage": "Welche Stilfigur ist „der König der Löwen“?",
+    "optionen": [
+      "Hyperbel",
+      "Metapher",
+      "Genitivus subiektivus",
+      "Genitivus possessivus"
     ],
-    "answer": "Whose car is parked outside?"
-  },
-  {
-    "numero": 42,
-    "question": "Which word is a collective noun?",
-    "options": ["Team", "Teams", "Players", "Grouped"],
-    "answer": "Team"
+    "antwort": "Genitivus possessivus"
   },
   {
-    "numero": 43,
-    "question": "Which sentence is conditional type 1?",
-    "options": [
-      "If it rains, we will cancel the picnic.",
-      "If it rained, we would cancel the picnic.",
-      "If it had rained, we would have canceled the picnic.",
-      "If it rains, we would cancel the picnic."
+    "nummer": 45,
+    "frage": "Welche Konstruktion entspricht dem AcI (Accusativus cum Infinitivo)?",
+    "optionen": [
+      "Ich hörte ihn singen.",
+      "Ich hörte, dass er singt.",
+      "Ich hörte, wie er singt.",
+      "Ich hörte, er singt."
     ],
-    "answer": "If it rains, we will cancel the picnic."
+    "antwort": "Ich hörte ihn singen."
   },
   {
-    "numero": 44,
-    "question": "Which is an example of alliteration?",
-    "options": [
-      "Peter Piper picked a peck of pickled peppers.",
-      "The cat chased the mouse.",
-      "She sells sea shells.",
-      "The wind blew hard."
+    "nummer": 46,
+    "frage": "Welche Konstruktion verwendet eine Konjunktionaladverbiale?",
+    "optionen": [
+      "Ich hatte Hunger, trotzdem aß ich nicht.",
+      "Ich hatte Hunger, dass ich nicht aß.",
+      "Ich hatte Hunger, weil ich nicht aß.",
+      "Ich hatte Hunger, obgleich ich nicht aß."
     ],
-    "answer": "Peter Piper picked a peck of pickled peppers."
-  },
-  {
-    "numero": 45,
-    "question": "Which expression means “to stop trying”?",
-    "options": ["Give up", "Give in", "Give out", "Give off"],
-    "answer": "Give up"
-  },
-  {
-    "numero": 46,
-    "question": "Which word is the past participle of “go”?",
-    "options": ["Went", "Gone", "Goes", "Going"],
-    "answer": "Gone"
+    "antwort": "Ich hatte Hunger, trotzdem aß ich nicht."
   },
   {
-    "numero": 47,
-    "question": "Which sentence contains a double negative?",
-    "options": [
-      "I don’t know nothing.",
-      "I don’t know anything.",
-      "I know nothing.",
-      "I know something."
+    "nummer": 47,
+    "frage": "Welche Variante ist typisch für gesprochene Umgangssprache?",
+    "optionen": [
+      "Ich werde gleich kommen.",
+      "Ich komm gleich.",
+      "Ich werde sofort erscheinen.",
+      "Ich erscheine gleich."
     ],
-    "answer": "I don’t know nothing."
+    "antwort": "Ich komm gleich."
   },
   {
-    "numero": 48,
-    "question": "Which of these is an example of a heteronym?",
-    "options": [
-      "Lead (metal) / lead (to guide)",
-      "Bear / bare",
-      "There / their",
-      "Write / right"
+    "nummer": 48,
+    "frage": "Welche Form zeigt den Dativ Plural?",
+    "optionen": [
+      "den Kindern",
+      "die Kinder",
+      "der Kinder",
+      "des Kinder"
     ],
-    "answer": "Lead (metal) / lead (to guide)"
+    "antwort": "den Kindern"
   },
   {
-    "numero": 49,
-    "question": "Which sentence correctly uses the semi-colon?",
-    "options": [
-      "I have a meeting tomorrow; however, I will try to attend.",
-      "I have a meeting tomorrow; and I will attend.",
-      "I have a meeting tomorrow; but I will attend.",
-      "I have a meeting; tomorrow, I will attend."
+    "nummer": 49,
+    "frage": "Welche Formulierung enthält eine Ellipse?",
+    "optionen": [
+      "Je früher, desto besser.",
+      "Ich gehe, weil ich müde bin.",
+      "Er kam und blieb.",
+      "Er ist Lehrer."
     ],
-    "answer": "I have a meeting tomorrow; however, I will try to attend."
+    "antwort": "Je früher, desto besser."
   },
   {
-    "numero": 50,
-    "question": "Which expression is an idiom meaning “to be very happy”?",
-    "options": [
-      "On cloud nine",
-      "In hot water",
-      "Under the weather",
-      "In the doghouse"
+    "nummer": 50,
+    "frage": "Welcher Satz verwendet die Satzklammer korrekt in einer mehrteiligen Infinitivkonstruktion?",
+    "optionen": [
+      "Er scheint, den Termin vergessen zu haben.",
+      "Er scheint, zu haben den Termin vergessen.",
+      "Er scheint, vergessen den Termin zu haben.",
+      "Er scheint, den Termin zu haben vergessen."
     ],
-    "answer": "On cloud nine"
+    "antwort": "Er scheint, den Termin vergessen zu haben."
   }
 ]
