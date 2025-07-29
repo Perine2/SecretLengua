@@ -491,5 +491,494 @@
       "avoir donné"
     ],
     "answer": "nous avoir accordé"
+  },{
+    "numero": 1,
+    "question": "Quel est le mode du verbe dans : “Je veux qu’il vienne demain” ?",
+    "options": ["Indicatif", "Subjonctif", "Conditionnel", "Impératif"],
+    "answer": "Subjonctif"
+  },
+  {
+    "numero": 2,
+    "question": "Quelle phrase contient un pléonasme fautif ?",
+    "options": ["Monter en haut", "Descendre l’escalier", "Avancer vers la sortie", "Prévoir à l’avance"],
+    "answer": "Monter en haut"
+  },
+  {
+    "numero": 3,
+    "question": "Quelle phrase utilise correctement le participe passé ?",
+    "options": [
+      "Les lettres que j’ai écrites sont sur la table.",
+      "Les lettres que j’ai écrit sont sur la table.",
+      "Les lettres que j’ai écrites sont sur la table, mais Paul les a lu.",
+      "Les lettres que j’ai écritent sont sur la table."
+    ],
+    "answer": "Les lettres que j’ai écrites sont sur la table."
+  },
+  {
+    "numero": 4,
+    "question": "Dans quelle phrase y a-t-il une faute de concordance des temps ?",
+    "options": [
+      "Je pensais qu’il viendrait.",
+      "Je croyais qu’il vienne.",
+      "Je savais qu’il arriverait.",
+      "Je doutais qu’il fût parti."
+    ],
+    "answer": "Je croyais qu’il vienne."
+  },
+  {
+    "numero": 5,
+    "question": "Quelle proposition présente un complément d’agent ?",
+    "options": [
+      "Le gâteau a été mangé par les enfants.",
+      "Les enfants mangent le gâteau.",
+      "Le gâteau mangé était délicieux.",
+      "Les enfants mangent souvent des gâteaux."
+    ],
+    "answer": "Le gâteau a été mangé par les enfants."
+  },
+  {
+    "numero": 6,
+    "question": "Quelle phrase contient une apposition ?",
+    "options": [
+      "Paul, mon frère, viendra ce soir.",
+      "Paul viendra ce soir.",
+      "Paul viendra, et il sera accompagné.",
+      "Mon frère Paul viendra."
+    ],
+    "answer": "Paul, mon frère, viendra ce soir."
+  },
+  {
+    "numero": 7,
+    "question": "Quel est le sens correct de l’expression “tirer les marrons du feu” ?",
+    "options": [
+      "Sauver une situation",
+      "Agir pour que quelqu’un d’autre profite du résultat",
+      "Éteindre un incendie",
+      "Obtenir un bénéfice sans effort"
+    ],
+    "answer": "Agir pour que quelqu’un d’autre profite du résultat"
+  },
+  {
+    "numero": 8,
+    "question": "Quelle phrase utilise correctement le subjonctif passé ?",
+    "options": [
+      "Je regrette qu’il ait parlé ainsi.",
+      "Je regrette qu’il a parlé ainsi.",
+      "Je regrette qu’il parlera ainsi.",
+      "Je regrette qu’il parle ainsi."
+    ],
+    "answer": "Je regrette qu’il ait parlé ainsi."
+  },
+  {
+    "numero": 9,
+    "question": "Quel est le type de phrase : “Ne pars pas !” ?",
+    "options": ["Interrogative", "Impérative", "Déclarative", "Exclamative"],
+    "answer": "Impérative"
+  },
+  {
+    "numero": 10,
+    "question": "Quelle est la figure de style dans : “Le soleil se couche, la mer s’endort” ?",
+    "options": ["Métaphore", "Personnification", "Hyperbole", "Métonymie"],
+    "answer": "Personnification"
+  },
+  {
+    "numero": 11,
+    "question": "Quelle phrase contient une ellipse ?",
+    "options": [
+      "Pierre mange beaucoup ; Paul, peu.",
+      "Pierre mange beaucoup.",
+      "Paul mange peu.",
+      "Pierre mange beaucoup et Paul mange peu."
+    ],
+    "answer": "Pierre mange beaucoup ; Paul, peu."
+  },
+  {
+    "numero": 12,
+    "question": "Quelle est la bonne orthographe ?",
+    "options": [
+      "Des évènements",
+      "Des événements",
+      "Des évènements ou événements (indifférent)",
+      "Des évennements"
+    ],
+    "answer": "Des événements"
+  },
+  {
+    "numero": 13,
+    "question": "Quel mot est un archaïsme ?",
+    "options": ["Orfèvre", "Naguère", "Sincère", "Chaque"],
+    "answer": "Naguère"
+  },
+  {
+    "numero": 14,
+    "question": "Quel est l’accord correct du participe passé : “Les fleurs que j’ai …” ?",
+    "options": ["cueilli", "cueillies", "cueillie", "cueillit"],
+    "answer": "cueillies"
+  },
+  {
+    "numero": 15,
+    "question": "Quelle phrase contient une subordonnée relative explicative ?",
+    "options": [
+      "Mon frère, qui est médecin, est en voyage.",
+      "Mon frère qui est médecin est en voyage.",
+      "Mon frère travaille beaucoup.",
+      "Mon frère est médecin et voyage."
+    ],
+    "answer": "Mon frère, qui est médecin, est en voyage."
+  },
+  {
+    "numero": 16,
+    "question": "Quelle est la valeur du conditionnel dans : “Il viendrait s’il pouvait” ?",
+    "options": ["Futur dans le passé", "Hypothèse", "Politesse", "Atténuation"],
+    "answer": "Hypothèse"
+  },
+  {
+    "numero": 17,
+    "question": "Quelle phrase contient une métonymie ?",
+    "options": ["Boire un verre", "Boire de l’eau", "Boire rapidement", "Boire à grandes gorgées"],
+    "answer": "Boire un verre"
+  },
+  {
+    "numero": 18,
+    "question": "Quel est le bon usage de l’accord du verbe avec un sujet collectif ?",
+    "options": [
+      "La plupart des élèves est partis.",
+      "La plupart des élèves sont partis.",
+      "La plupart des élèves sont parti.",
+      "La plupart des élèves est parti."
+    ],
+    "answer": "La plupart des élèves sont partis."
+  },
+  {
+    "numero": 19,
+    "question": "Quelle phrase contient une hyperbole ?",
+    "options": ["Il est mort de rire.", "Il rit doucement.", "Il rit parfois.", "Il a ri un peu."],
+    "answer": "Il est mort de rire."
+  },
+  {
+    "numero": 20,
+    "question": "Quel mot est un néologisme ?",
+    "options": ["Blogueur", "Journal", "Poète", "Bureau"],
+    "answer": "Blogueur"
+  },
+  {
+    "numero": 21,
+    "question": "Quelle phrase contient un parallélisme syntaxique ?",
+    "options": [
+      "Je me lève, je me brosse, je m’habille.",
+      "Je me lève et je mange.",
+      "Je me lève, puis m’habille.",
+      "Je me lève, je mange et habiller."
+    ],
+    "answer": "Je me lève, je me brosse, je m’habille."
+  },
+  {
+    "numero": 22,
+    "question": "Quel est le registre de langue de : “Je vais t’extirper de cette situation délicate” ?",
+    "options": ["Familier", "Soutenu", "Neutre", "Argotique"],
+    "answer": "Soutenu"
+  },
+  {
+    "numero": 23,
+    "question": "Quelle phrase contient une anaphore ?",
+    "options": [
+      "J’accuse… J’accuse…",
+      "Il est grand et fort.",
+      "Il accuse souvent.",
+      "J’accuse mais je pardonne."
+    ],
+    "answer": "J’accuse… J’accuse…"
+  },
+  {
+    "numero": 24,
+    "question": "Quelle phrase contient un barbarisme ?",
+    "options": [
+      "Il m’a certifié la véracité.",
+      "Il m’a certifié de la véracité.",
+      "Il m’a assuré de la véracité.",
+      "Il m’a confirmé la véracité."
+    ],
+    "answer": "Il m’a certifié de la véracité."
+  },
+  {
+    "numero": 25,
+    "question": "Quelle phrase est à la voix passive ?",
+    "options": [
+      "Le chien a mordu le facteur.",
+      "Le facteur a été mordu par le chien.",
+      "Le chien mord le facteur.",
+      "Le facteur mord le chien."
+    ],
+    "answer": "Le facteur a été mordu par le chien."
+  },
+  {
+    "numero": 26,
+    "question": "Quelle est la bonne construction avec “après que” ?",
+    "options": [
+      "Après qu’il sera parti",
+      "Après qu’il soit parti",
+      "Après qu’il soit part",
+      "Après qu’il partira"
+    ],
+    "answer": "Après qu’il sera parti"
+  },
+  {
+    "numero": 27,
+    "question": "Quelle phrase utilise correctement le plus-que-parfait ?",
+    "options": [
+      "J’étais arrivé avant qu’il ne vienne.",
+      "J’étais arrivé avant qu’il vînt.",
+      "Je suis arrivé avant qu’il vienne.",
+      "J’arrivais avant qu’il vient."
+    ],
+    "answer": "J’étais arrivé avant qu’il ne vienne."
+  },
+  {
+    "numero": 28,
+    "question": "Quelle phrase contient une antithèse ?",
+    "options": [
+      "Je vis, je meurs ; je me brûle et me noie.",
+      "Je vis, je meurs.",
+      "Je meurs de vivre.",
+      "Je meurs à petit feu."
+    ],
+    "answer": "Je vis, je meurs ; je me brûle et me noie."
+  },
+  {
+    "numero": 29,
+    "question": "Quelle phrase est un exemple de style indirect ?",
+    "options": [
+      "Il a dit : “Je viendrai demain.”",
+      "Il a dit qu’il viendrait demain.",
+      "Il viendra demain.",
+      "Il disait : “Je viendrais demain.”"
+    ],
+    "answer": "Il a dit qu’il viendrait demain."
+  },
+  {
+    "numero": 30,
+    "question": "Quelle phrase contient un zeugma ?",
+    "options": [
+      "Il prit du ventre et de l’importance.",
+      "Il prit du ventre.",
+      "Il prit de l’importance.",
+      "Il prit des vacances."
+    ],
+    "answer": "Il prit du ventre et de l’importance."
+  },
+  {
+    "numero": 31,
+    "question": "Quelle est la règle d’accord avec “demi” ?",
+    "options": [
+      "Demi s’accorde toujours.",
+      "Demi s’accorde s’il est après le nom.",
+      "Demi ne s’accorde jamais.",
+      "Demi s’accorde seulement au pluriel."
+    ],
+    "answer": "Demi s’accorde s’il est après le nom."
+  },
+  {
+    "numero": 32,
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Il faut que vous soyez prudents.",
+      "Il faut que vous soyez prudent.",
+      "Il faut que vous êtes prudents.",
+      "Il faut que vous êtes prudent."
+    ],
+    "answer": "Il faut que vous soyez prudents."
+  },
+  {
+    "numero": 33,
+    "question": "Quelle phrase contient un chiasme ?",
+    "options": [
+      "Il faut manger pour vivre et non vivre pour manger.",
+      "Il faut vivre pour manger.",
+      "Il faut manger et boire.",
+      "Il faut vivre et aimer."
+    ],
+    "answer": "Il faut manger pour vivre et non vivre pour manger."
+  },
+  {
+    "numero": 34,
+    "question": "Quelle phrase contient une asyndète ?",
+    "options": [
+      "Je suis venu, j’ai vu, j’ai vaincu.",
+      "Je suis venu et j’ai vu et j’ai vaincu.",
+      "Je suis venu mais j’ai vu.",
+      "Je suis venu puis j’ai vu."
+    ],
+    "answer": "Je suis venu, j’ai vu, j’ai vaincu."
+  },
+  {
+    "numero": 35,
+    "question": "Quelle phrase contient un oxymore ?",
+    "options": [
+      "Cette obscure clarté qui tombe des étoiles.",
+      "Cette clarté tombe des étoiles.",
+      "Cette lumière est obscure.",
+      "Cette clarté tombe."
+    ],
+    "answer": "Cette obscure clarté qui tombe des étoiles."
+  },
+  {
+    "numero": 36,
+    "question": "Quelle phrase est correcte avec “tout” ?",
+    "options": [
+      "Elles sont toutes heureuses.",
+      "Elles sont tout heureuses.",
+      "Elles sont touts heureuses.",
+      "Elles sont tout heureuses (invariable)."
+    ],
+    "answer": "Elles sont toutes heureuses."
+  },
+  {
+    "numero": 37,
+    "question": "Quelle phrase utilise correctement “quelque” ?",
+    "options": [
+      "Quelque efforts qu’il fasse, il échouera.",
+      "Quelques efforts qu’il fasse, il échouera.",
+      "Quelque efforts qu’il fait, il échouera.",
+      "Quelque efforts qu’il fera, il échouera."
+    ],
+    "answer": "Quelque efforts qu’il fasse, il échouera."
+  },
+  {
+    "numero": 38,
+    "question": "Quelle phrase est un exemple d’hypallage ?",
+    "options": [
+      "Ce marchand accoudé sur son comptoir avide.",
+      "Ce marchand avide accoudé sur son comptoir.",
+      "Ce marchand accoudé sur son comptoir.",
+      "Ce marchand accoudé et avide."
+    ],
+    "answer": "Ce marchand accoudé sur son comptoir avide."
+  },
+  {
+    "numero": 39,
+    "question": "Quelle phrase utilise correctement le futur antérieur ?",
+    "options": [
+      "Quand tu auras fini, tu pourras partir.",
+      "Quand tu as fini, tu pourras partir.",
+      "Quand tu finis, tu peux partir.",
+      "Quand tu finiras, tu partiras."
+    ],
+    "answer": "Quand tu auras fini, tu pourras partir."
+  },
+  {
+    "numero": 40,
+    "question": "Quelle phrase contient une paronomase ?",
+    "options": [
+      "Qui se ressemble s’assemble.",
+      "Qui dort dîne.",
+      "Qui dort mange.",
+      "Qui s’assemble se ressemble."
+    ],
+    "answer": "Qui se ressemble s’assemble."
+  },
+  {
+    "numero": 41,
+    "question": "Quel mot est un barbarisme lexical ?",
+    "options": ["Anglicisme", "Un break pour une pause", "Polyglotte", "Palindrome"],
+    "answer": "Un break pour une pause"
+  },
+  {
+    "numero": 42,
+    "question": "Quelle phrase contient un complément circonstanciel de concession ?",
+    "options": [
+      "Bien qu’il soit malade, il est venu.",
+      "Parce qu’il est malade, il est venu.",
+      "S’il est malade, il viendra.",
+      "Il viendra, qu’il soit malade ou non."
+    ],
+    "answer": "Bien qu’il soit malade, il est venu."
+  },
+  {
+    "numero": 43,
+    "question": "Quelle phrase est un exemple de discours indirect libre ?",
+    "options": [
+      "Il pensait : “Je suis perdu.”",
+      "Il était perdu. Qu’allait-il faire maintenant ?",
+      "Il pensa qu’il était perdu.",
+      "Il était perdu, il ne savait quoi faire."
+    ],
+    "answer": "Il était perdu. Qu’allait-il faire maintenant ?"
+  },
+  {
+    "numero": 44,
+    "question": "Quelle phrase utilise correctement “leur/leurs” ?",
+    "options": [
+      "Ils ont perdu leur clés.",
+      "Ils ont perdu leurs clés.",
+      "Ils ont perdu leurs clé.",
+      "Ils ont perdu leur clé (pluriel)."
+    ],
+    "answer": "Ils ont perdu leurs clés."
+  },
+  {
+    "numero": 45,
+    "question": "Quelle phrase est une anacoluthe ?",
+    "options": [
+      "Le nez de Cléopâtre, s’il eût été plus court…",
+      "Si Cléopâtre avait eu le nez plus court…",
+      "Cléopâtre avait un long nez.",
+      "Le nez de Cléopâtre était long."
+    ],
+    "answer": "Le nez de Cléopâtre, s’il eût été plus court…"
+  },
+  {
+    "numero": 46,
+    "question": "Quelle phrase contient un pléonasme acceptable (rhétorique) ?",
+    "options": [
+      "Je l’ai vu de mes propres yeux.",
+      "Je l’ai vu avec mes yeux.",
+      "Je l’ai vu.",
+      "Je l’ai vu tout seul."
+    ],
+    "answer": "Je l’ai vu de mes propres yeux."
+  },
+  {
+    "numero": 47,
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Il faut qu’il ait réussi.",
+      "Il faut qu’il a réussi.",
+      "Il faut qu’il réussit.",
+      "Il faut qu’il réussira."
+    ],
+    "answer": "Il faut qu’il ait réussi."
+  },
+  {
+    "numero": 48,
+    "question": "Quelle phrase contient une épiphore ?",
+    "options": [
+      "Il est parti, elle est partie, tout le monde est parti.",
+      "Il est parti et elle aussi.",
+      "Tout le monde est parti.",
+      "Il est parti, elle aussi, et les autres."
+    ],
+    "answer": "Il est parti, elle est partie, tout le monde est parti."
+  },
+  {
+    "numero": 49,
+    "question": "Quelle phrase contient une litote ?",
+    "options": [
+      "Ce n’est pas mauvais.",
+      "C’est excellent.",
+      "C’est horrible.",
+      "C’est très bien."
+    ],
+    "answer": "Ce n’est pas mauvais."
+  },
+  {
+    "numero": 50,
+    "question": "Quelle phrase est correcte ?",
+    "options": [
+      "Nous nous en souvenons.",
+      "Nous nous souvenons de.",
+      "Nous souvenons en.",
+      "Nous nous souvenons de ça."
+    ],
+    "answer": "Nous nous en souvenons."
   }
 ]
