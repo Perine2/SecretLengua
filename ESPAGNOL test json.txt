@@ -1,507 +1,502 @@
 [
-   {
+    {
     "numero": 1,
-    "pregunta": "¿Qué oración emplea correctamente el subjuntivo en una oración condicional irreal?",
-    "opciones": [
+    "question": "¿Qué oración emplea correctamente el subjuntivo en una oración condicional irreal?",
+    "options": [
       "Si tendría tiempo, iría al cine.",
       "Si tuviera tiempo, iría al cine.",
       "Si tengo tiempo, iré al cine.",
       "Si tuviese tiempo, voy al cine."
     ],
-    "respuesta": "Si tuviera tiempo, iría al cine."
+    "answer": "Si tuviera tiempo, iría al cine."
   },
   {
     "numero": 2,
-    "pregunta": "¿Qué oración usa el pretérito anterior correctamente?",
-    "opciones": [
+    "question": "¿Qué oración usa el pretérito anterior correctamente?",
+    "options": [
       "Apenas hubo terminado el examen, salió.",
       "Apenas había terminado el examen, salió.",
       "Apenas había terminado el examen, salía.",
       "Apenas ha terminado el examen, salió."
     ],
-    "respuesta": "Apenas hubo terminado el examen, salió."
+    "answer": "Apenas hubo terminado el examen, salió."
   },
   {
     "numero": 3,
-    "pregunta": "¿Cuál de los siguientes verbos es irregular en el futuro?",
-    "opciones": ["correr", "caber", "temer", "vivir"],
-    "respuesta": "caber"
+    "question": "¿Cuál de los siguientes verbos es irregular en el futuro?",
+    "options": ["correr", "caber", "temer", "vivir"],
+    "answer": "caber"
   },
   {
     "numero": 4,
-    "pregunta": "¿Qué oración presenta un dequeísmo?",
-    "opciones": [
+    "question": "¿Qué oración presenta un dequeísmo?",
+    "options": [
       "Me alegro de que hayas venido.",
       "Pienso de que es tarde.",
       "Creo que es tarde.",
       "Dijo que vendría."
     ],
-    "respuesta": "Pienso de que es tarde."
+    "answer": "Pienso de que es tarde."
   },
   {
     "numero": 5,
-    "pregunta": "¿Cuál de estas oraciones presenta un leísmo aceptado por la RAE?",
-    "opciones": [
+    "question": "¿Cuál de estas oraciones presenta un leísmo aceptado por la RAE?",
+    "options": [
       "Le vi ayer en la plaza.",
       "Lo vi ayer en la plaza.",
       "Le encontré el libro.",
       "Le di un golpe a la puerta."
     ],
-    "respuesta": "Le vi ayer en la plaza."
+    "answer": "Le vi ayer en la plaza."
   },
   {
     "numero": 6,
-    "pregunta": "¿Qué oración contiene un pleonasmo?",
-    "opciones": [
+    "question": "¿Qué oración contiene un pleonasmo?",
+    "options": [
       "Sal afuera que te necesito.",
       "Sal que te necesito.",
       "Baja que te espero.",
       "Ven aquí."
     ],
-    "respuesta": "Sal afuera que te necesito."
+    "answer": "Sal afuera que te necesito."
   },
   {
     "numero": 7,
-    "pregunta": "¿Qué tipo de palabra es cuya en “La profesora, cuya hija es médica, llegó tarde”?",
-    "opciones": [
+    "question": "¿Qué tipo de palabra es cuya en “La profesora, cuya hija es médica, llegó tarde”?",
+    "options": [
       "Adjetivo posesivo",
       "Pronombre relativo",
       "Pronombre demostrativo",
       "Determinante interrogativo"
     ],
-    "respuesta": "Pronombre relativo"
+    "answer": "Pronombre relativo"
   },
   {
     "numero": 8,
-    "pregunta": "¿Cuál oración contiene correctamente una perífrasis de obligación?",
-    "opciones": [
+    "question": "¿Cuál oración contiene correctamente una perífrasis de obligación?",
+    "options": [
       "Tengo que ir al médico.",
       "Tengo yendo al médico.",
       "Debo de ir al médico.",
       "Fui a ir al médico."
     ],
-    "respuesta": "Tengo que ir al médico."
+    "answer": "Tengo que ir al médico."
   },
   {
     "numero": 9,
-    "pregunta": "¿Qué oración está en estilo indirecto correcto?",
-    "opciones": [
+    "question": "¿Qué oración está en estilo indirecto correcto?",
+    "options": [
       "Me dijo que viene mañana.",
       "Me dijo que vendría mañana.",
       "Me dijo que veniría mañana.",
       "Me dijo que va a venir mañana."
     ],
-    "respuesta": "Me dijo que vendría mañana."
+    "answer": "Me dijo que vendría mañana."
   },
   {
     "numero": 10,
-    "pregunta": "¿Qué oración contiene un error de concordancia de número?",
-    "opciones": [
+    "question": "¿Qué oración contiene un error de concordancia de número?",
+    "options": [
       "Había muchos niños jugando.",
       "Habían muchos niños jugando.",
       "Había un niño jugando.",
       "Había risas en el parque."
     ],
-    "respuesta": "Habían muchos niños jugando."
+    "answer": "Habían muchos niños jugando."
   },
   {
     "numero": 11,
-    "pregunta": "¿Qué figura literaria es “río de recuerdos”?",
-    "opciones": ["Metáfora", "Hipérbole", "Aliteración", "Pleonasmo"],
-    "respuesta": "Metáfora"
+    "question": "¿Qué figura literaria es “río de recuerdos”?",
+    "options": ["Metáfora", "Hipérbole", "Aliteración", "Pleonasmo"],
+    "answer": "Metáfora"
   },
   {
     "numero": 12,
-    "pregunta": "¿Qué oración presenta correctamente el uso del “queísmo”?",
-    "opciones": [
+    "question": "¿Qué oración presenta correctamente el uso del “queísmo”?",
+    "options": [
       "Me alegro de que vengas.",
       "Me alegro que vengas.",
       "Me alegro de vengas.",
       "Me alegro vengas."
     ],
-    "respuesta": "Me alegro que vengas."
+    "answer": "Me alegro que vengas."
   },
   {
     "numero": 13,
-    "pregunta": "¿Qué oración usa correctamente el infinitivo compuesto?",
-    "opciones": [
+    "question": "¿Qué oración usa correctamente el infinitivo compuesto?",
+    "options": [
       "De haber sabido, habría venido.",
       "De haber sabiendo, habría venido.",
       "De saber, habría venido.",
       "De haber saber, habría venido."
     ],
-    "respuesta": "De haber sabido, habría venido."
+    "answer": "De haber sabido, habría venido."
   },
   {
     "numero": 14,
-    "pregunta": "¿Cuál oración es un ejemplo de concordancia ad sensum?",
-    "opciones": [
+    "question": "¿Cuál oración es un ejemplo de concordancia ad sensum?",
+    "options": [
       "La mayoría de los alumnos aprobaron.",
       "La mayoría de los alumnos aprobó.",
       "Los alumnos aprobó.",
       "La mayoría aprobó."
     ],
-    "respuesta": "La mayoría de los alumnos aprobaron."
+    "answer": "La mayoría de los alumnos aprobaron."
   },
   {
     "numero": 15,
-    "pregunta": "¿Cuál es un arcaísmo léxico?",
-    "opciones": ["agora", "hoy", "ahora", "entonces"],
-    "respuesta": "agora"
+    "question": "¿Cuál es un arcaísmo léxico?",
+    "options": ["agora", "hoy", "ahora", "entonces"],
+    "answer": "agora"
   },
   {
     "numero": 16,
-    "pregunta": "¿Qué oración emplea correctamente una oración de relativo explicativa?",
-    "opciones": [
+    "question": "¿Qué oración emplea correctamente una oración de relativo explicativa?",
+    "options": [
       "Mi hermano que vive en Madrid vino.",
       "Mi hermano, que vive en Madrid, vino.",
       "Mi hermano que vive en Madrid, vino.",
       "Mi hermano, que vive en Madrid vino."
     ],
-    "respuesta": "Mi hermano, que vive en Madrid, vino."
+    "answer": "Mi hermano, que vive en Madrid, vino."
   },
   {
     "numero": 17,
-    "pregunta": "¿Qué oración contiene un laísmo?",
-    "opciones": [
+    "question": "¿Qué oración contiene un laísmo?",
+    "options": [
       "La dije la verdad.",
       "Le dije la verdad.",
       "Le conté la verdad.",
       "Le expliqué la verdad."
     ],
-    "respuesta": "La dije la verdad."
+    "answer": "La dije la verdad."
   },
   {
     "numero": 18,
-    "pregunta": "¿Qué oración está en pluscuamperfecto de subjuntivo?",
-    "opciones": [
+    "question": "¿Qué oración está en pluscuamperfecto de subjuntivo?",
+    "options": [
       "Si hubiera estudiado más, habría aprobado.",
       "Si estudiara más, aprobaría.",
       "Si estudiaba más, aprobaría.",
       "Si he estudiado más, habría aprobado."
     ],
-    "respuesta": "Si hubiera estudiado más, habría aprobado."
+    "answer": "Si hubiera estudiado más, habría aprobado."
   },
   {
     "numero": 19,
-    "pregunta": "¿Cuál es un ejemplo de voz pasiva refleja?",
-    "opciones": [
+    "question": "¿Cuál es un ejemplo de voz pasiva refleja?",
+    "options": [
       "Se vendieron todas las entradas.",
       "Todas las entradas fueron vendidas.",
       "Vendieron todas las entradas.",
       "Se venden entradas."
     ],
-    "respuesta": "Se vendieron todas las entradas."
+    "answer": "Se vendieron todas las entradas."
   },
   {
     "numero": 20,
-    "pregunta": "¿Qué oración tiene un error de régimen preposicional?",
-    "opciones": [
+    "question": "¿Qué oración tiene un error de régimen preposicional?",
+    "options": [
       "Insistieron en que asistiera.",
       "Me acuerdo de ti.",
       "Me olvidé de las llaves.",
       "Me olvidé las llaves."
     ],
-    "respuesta": "Me olvidé las llaves."
+    "answer": "Me olvidé las llaves."
   },
   {
     "numero": 21,
-    "pregunta": "¿Qué oración usa correctamente el adverbio “apenas”?",
-    "opciones": [
+    "question": "¿Qué oración usa correctamente el adverbio “apenas”?",
+    "options": [
       "Apenas llego, me fui.",
       "Apenas llegué, me fui.",
       "Apenas llegado, me fui.",
       "Apenas llegue, me fui."
     ],
-    "respuesta": "Apenas llegué, me fui."
+    "answer": "Apenas llegué, me fui."
   },
   {
     "numero": 22,
-    "pregunta": "¿Cuál es el valor semántico de la conjunción en “No sólo estudia, sino que también trabaja”?",
-    "opciones": ["Condicional", "Causal", "Adversativo", "Consecutivo"],
-    "respuesta": "Adversativo"
+    "question": "¿Cuál es el valor semántico de la conjunción en “No sólo estudia, sino que también trabaja”?",
+    "options": ["Condicional", "Causal", "Adversativo", "Consecutivo"],
+    "answer": "Adversativo"
   },
   {
     "numero": 23,
-    "pregunta": "¿Qué oración emplea una perífrasis incoativa?",
-    "opciones": [
+    "question": "¿Qué oración emplea una perífrasis incoativa?",
+    "options": [
       "Está por salir.",
       "Tiene que salir.",
       "Debe salir.",
       "Acaba de salir."
     ],
-    "respuesta": "Está por salir."
+    "answer": "Está por salir."
   },
   {
     "numero": 24,
-    "pregunta": "¿Cuál oración presenta un adverbio de duda?",
-    "opciones": [
+    "question": "¿Cuál oración presenta un adverbio de duda?",
+    "options": [
       "Probablemente venga mañana.",
       "Viene mañana.",
       "A lo mejor vino ayer.",
       "Quizá vino ayer."
     ],
-    "respuesta": "Probablemente venga mañana."
+    "answer": "Probablemente venga mañana."
   },
   {
     "numero": 25,
-    "pregunta": "¿Qué oración presenta un uso arcaico del futuro de subjuntivo?",
-    "opciones": [
+    "question": "¿Qué oración presenta un uso arcaico del futuro de subjuntivo?",
+    "options": [
       "Cuando llegares, me avisas.",
       "Cuando llegues, me avisas.",
       "Cuando llegabas, me avisabas.",
       "Cuando llegues, me avisarás."
     ],
-    "respuesta": "Cuando llegares, me avisas."
+    "answer": "Cuando llegares, me avisas."
   },
   {
     "numero": 26,
-    "pregunta": "¿Qué oración contiene un error de dequeísmo?",
-    "opciones": [
+    "question": "¿Qué oración contiene un error de dequeísmo?",
+    "options": [
       "Me dijo de que viniera.",
       "Me dijo que viniera.",
       "Me alegro de que vinieras.",
       "Me alegro que vinieras."
     ],
-    "respuesta": "Me dijo de que viniera."
+    "answer": "Me dijo de que viniera."
   },
   {
     "numero": 27,
-    "pregunta": "¿Qué palabra es un cultismo?",
-    "opciones": ["órbita", "rueda", "camino", "senda"],
-    "respuesta": "órbita"
+    "question": "¿Qué palabra es un cultismo?",
+    "options": ["órbita", "rueda", "camino", "senda"],
+    "answer": "órbita"
   },
   {
     "numero": 28,
-    "pregunta": "¿Cuál oración es incorrecta por leísmo?",
-    "opciones": ["Le vi ayer.", "Lo vi ayer.", "Les vi ayer.", "Los vi ayer."],
-    "respuesta": "Le vi ayer."
+    "question": "¿Cuál oración es incorrecta por leísmo?",
+    "options": ["Le vi ayer.", "Lo vi ayer.", "Les vi ayer.", "Los vi ayer."],
+    "answer": "Le vi ayer."
   },
   {
     "numero": 29,
-    "pregunta": "¿Qué oración contiene un hipérbaton?",
-    "opciones": [
+    "question": "¿Qué oración contiene un hipérbaton?",
+    "options": [
       "De verdes sauces hay una espesura.",
       "Hay una espesura de verdes sauces.",
       "Los sauces son verdes.",
       "La espesura es de sauces verdes."
     ],
-    "respuesta": "De verdes sauces hay una espesura."
+    "answer": "De verdes sauces hay una espesura."
   },
   {
     "numero": 30,
-    "pregunta": "¿Qué oración usa el infinitivo impersonal correctamente?",
-    "opciones": [
+    "question": "¿Qué oración usa el infinitivo impersonal correctamente?",
+    "options": [
       "Es mejor estudiar ahora.",
       "Es mejor que estudiar ahora.",
       "Es mejor estudia ahora.",
       "Es mejor de estudiar ahora."
     ],
-    "respuesta": "Es mejor estudiar ahora."
+    "answer": "Es mejor estudiar ahora."
   },
   {
     "numero": 31,
-    "pregunta": "¿Qué oración está en pasiva perifrástica?",
-    "opciones": [
+    "question": "¿Qué oración está en pasiva perifrástica?",
+    "options": [
       "Fue escrito por Cervantes.",
       "Se escribió por Cervantes.",
       "Escribir por Cervantes.",
       "Lo escribió Cervantes."
     ],
-    "respuesta": "Fue escrito por Cervantes."
+    "answer": "Fue escrito por Cervantes."
   },
   {
     "numero": 32,
-    "pregunta": "¿Qué oración presenta un error en el uso del subjuntivo?",
-    "opciones": [
+    "question": "¿Qué oración presenta un error en el uso del subjuntivo?",
+    "options": [
       "Espero que vengas mañana.",
       "Dudo que venga.",
       "Es probable que viene mañana.",
       "Busco a alguien que sepa alemán."
     ],
-    "respuesta": "Es probable que viene mañana."
+    "answer": "Es probable que viene mañana."
   },
   {
     "numero": 33,
-    "pregunta": "¿Qué oración presenta un adverbio en -mente?",
-    "opciones": [
-      "Habló pausadamente.",
-      "Habló despacio.",
-      "Habló lento.",
-      "Habló claro."
-    ],
-    "respuesta": "Habló pausadamente."
+    "question": "¿Qué oración presenta un adverbio en -mente?",
+    "options": ["Habló pausadamente.", "Habló despacio.", "Habló lento.", "Habló claro."],
+    "answer": "Habló pausadamente."
   },
   {
     "numero": 34,
-    "pregunta": "¿Cuál es un arcaísmo morfológico?",
-    "opciones": ["dijistes", "dijiste", "dijeron", "dirás"],
-    "respuesta": "dijistes"
+    "question": "¿Cuál es un arcaísmo morfológico?",
+    "options": ["dijistes", "dijiste", "dijeron", "dirás"],
+    "answer": "dijistes"
   },
   {
     "numero": 35,
-    "pregunta": "¿Qué oración está en estilo directo?",
-    "opciones": [
+    "question": "¿Qué oración está en estilo directo?",
+    "options": [
       "Dijo que vendría mañana.",
       "Dijo: “Vendré mañana”.",
       "Dijo que vendría.",
       "Dijo que vino."
     ],
-    "respuesta": "Dijo: “Vendré mañana”."
+    "answer": "Dijo: “Vendré mañana”."
   },
   {
     "numero": 36,
-    "pregunta": "¿Cuál oración presenta un anacoluto?",
-    "opciones": [
+    "question": "¿Cuál oración presenta un anacoluto?",
+    "options": [
       "Yo, el examen, no lo aprobé.",
       "El examen no lo aprobé.",
       "No aprobé el examen.",
       "El examen, no lo aprobé."
     ],
-    "respuesta": "Yo, el examen, no lo aprobé."
+    "answer": "Yo, el examen, no lo aprobé."
   },
   {
     "numero": 37,
-    "pregunta": "¿Cuál oración tiene un error de colocación pronominal?",
-    "opciones": [
+    "question": "¿Cuál oración tiene un error de colocación pronominal?",
+    "options": [
       "Se lo di a Pedro.",
       "Díselo a Ana.",
       "Dámelo ya.",
       "Me lo dijiste tú lo."
     ],
-    "respuesta": "Me lo dijiste tú lo."
+    "answer": "Me lo dijiste tú lo."
   },
   {
     "numero": 38,
-    "pregunta": "¿Cuál oración presenta una perífrasis aspectual ingresiva?",
-    "opciones": [
+    "question": "¿Cuál oración presenta una perífrasis aspectual ingresiva?",
+    "options": [
       "Estuvo a punto de caerse.",
       "Ha terminado de caerse.",
       "Debe caerse.",
       "Iba a caerse."
     ],
-    "respuesta": "Estuvo a punto de caerse."
+    "answer": "Estuvo a punto de caerse."
   },
   {
     "numero": 39,
-    "pregunta": "¿Qué oración es un ejemplo de metonimia?",
-    "opciones": [
+    "question": "¿Qué oración es un ejemplo de metonimia?",
+    "options": [
       "Se bebió un Rioja.",
       "Se bebió vino.",
       "Se bebió todo.",
       "Bebió con sed."
     ],
-    "respuesta": "Se bebió un Rioja."
+    "answer": "Se bebió un Rioja."
   },
   {
     "numero": 40,
-    "pregunta": "¿Qué oración presenta correctamente una oración concesiva?",
-    "opciones": [
+    "question": "¿Qué oración presenta correctamente una oración concesiva?",
+    "options": [
       "Aunque llueva, iremos.",
       "A pesar de llueve, iremos.",
       "Porque llueva, iremos.",
       "Que llueva, iremos."
     ],
-    "respuesta": "Aunque llueva, iremos."
+    "answer": "Aunque llueva, iremos."
   },
   {
     "numero": 41,
-    "pregunta": "¿Cuál oración es un arcaísmo de tratamiento?",
-    "opciones": ["Vuestra merced", "Usted", "Tú", "Vosotros"],
-    "respuesta": "Vuestra merced"
+    "question": "¿Cuál oración es un arcaísmo de tratamiento?",
+    "options": ["Vuestra merced", "Usted", "Tú", "Vosotros"],
+    "answer": "Vuestra merced"
   },
   {
     "numero": 42,
-    "pregunta": "¿Qué oración está en condicional compuesto?",
-    "opciones": [
+    "question": "¿Qué oración está en condicional compuesto?",
+    "options": [
       "Habría ido si me hubieras llamado.",
       "Hubiera ido si me llamabas.",
       "Iría si me llamas.",
       "Habría ido si me llamas."
     ],
-    "respuesta": "Habría ido si me hubieras llamado."
+    "answer": "Habría ido si me hubieras llamado."
   },
   {
     "numero": 43,
-    "pregunta": "¿Qué oración presenta un error de tilde diacrítica?",
-    "opciones": [
+    "question": "¿Qué oración presenta un error de tilde diacrítica?",
+    "options": [
       "Tú lo sabes.",
       "El coche está aquí.",
       "Él vino ayer.",
       "Mas no vino ayer."
     ],
-    "respuesta": "Mas no vino ayer."
+    "answer": "Mas no vino ayer."
   },
   {
     "numero": 44,
-    "pregunta": "¿Qué oración usa el verbo haber impersonal correctamente?",
-    "opciones": [
+    "question": "¿Qué oración usa el verbo haber impersonal correctamente?",
+    "options": [
       "Hubieron muchos problemas.",
       "Hubo muchos problemas.",
       "Habían muchos problemas.",
       "Han habido muchos problemas."
     ],
-    "respuesta": "Hubo muchos problemas."
+    "answer": "Hubo muchos problemas."
   },
   {
     "numero": 45,
-    "pregunta": "¿Qué palabra es un extranjerismo crudo?",
-    "opciones": ["software", "fútbol", "coche", "hotel"],
-    "respuesta": "software"
+    "question": "¿Qué palabra es un extranjerismo crudo?",
+    "options": ["software", "fútbol", "coche", "hotel"],
+    "answer": "software"
   },
   {
     "numero": 46,
-    "pregunta": "¿Qué oración está en estilo indirecto libre?",
-    "opciones": [
+    "question": "¿Qué oración está en estilo indirecto libre?",
+    "options": [
       "No quería verlo. ¿Y si lo reconocía?",
       "Dijo que no quería verlo.",
       "Pensó que lo reconocería.",
       "¿Y si lo reconocía?, pensó."
     ],
-    "respuesta": "No quería verlo. ¿Y si lo reconocía?"
+    "answer": "No quería verlo. ¿Y si lo reconocía?"
   },
   {
     "numero": 47,
-    "pregunta": "¿Qué oración presenta un error en la colocación de solo/sólo según la normativa actual?",
-    "opciones": [
+    "question": "¿Qué oración presenta un error en la colocación de solo/sólo según la normativa actual?",
+    "options": [
       "Solo quiero verte.",
       "Sólo quiero verte.",
       "Quiero verte solo.",
       "Quiero verte a solas."
     ],
-    "respuesta": "Sólo quiero verte."
+    "answer": "Sólo quiero verte."
   },
   {
     "numero": 48,
-    "pregunta": "¿Cuál oración contiene un error de dequeísmo?",
-    "opciones": [
+    "question": "¿Cuál oración contiene un error de dequeísmo?",
+    "options": [
       "Me alegro de que vinieras.",
       "Me alegro que vinieras.",
       "Me dijo de que vinieras.",
       "Me dijo que vinieras."
     ],
-    "respuesta": "Me dijo de que vinieras."
+    "answer": "Me dijo de que vinieras."
   },
   {
     "numero": 49,
-    "pregunta": "¿Qué oración usa una perífrasis perfectiva?",
-    "opciones": [
+    "question": "¿Qué oración usa una perífrasis perfectiva?",
+    "options": [
       "Ha terminado de llover.",
       "Está por llover.",
       "Va a llover.",
       "Comenzó a llover."
     ],
-    "respuesta": "Ha terminado de llover."
+    "answer": "Ha terminado de llover."
   },
   {
     "numero": 50,
-    "pregunta": "¿Qué oración presenta correctamente un relativo con antecedente implícito?",
-    "opciones": [
+    "question": "¿Qué oración presenta correctamente un relativo con antecedente implícito?",
+    "options": [
       "Quien madruga, Dios le ayuda.",
       "El que madruga, Dios le ayuda.",
       "Madrugar quien, Dios le ayuda.",
       "Quien madruga Dios le ayuda."
     ],
-    "respuesta": "Quien madruga, Dios le ayuda."
+    "answer": "Quien madruga, Dios le ayuda."
   }
 ]
