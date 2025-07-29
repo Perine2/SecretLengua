@@ -1,52 +1,527 @@
 [
-   { "numero": 1, "domanda": "Quale frase usa correttamente il congiuntivo trapassato?", "opzioni": ["Se avrei saputo, sarei venuto.", "Se avessi saputo, sarei venuto.", "Se sapevo, sarei venuto.", "Se avrei saputo, venivo."], "risposta": "Se avessi saputo, sarei venuto." },
-  { "numero": 2, "domanda": "Quale frase contiene un pleonasmo?", "opzioni": ["Scendi giù subito.", "Scendi subito.", "Vieni qui.", "Esci immediatamente."], "risposta": "Scendi giù subito." },
-  { "numero": 3, "domanda": "Quale parola è un latinismo ancora in uso?", "opzioni": ["Avvocato", "Curriculum", "Auto", "Telefono"], "risposta": "Curriculum" },
-  { "numero": 4, "domanda": "Quale frase contiene un errore di consecutio temporum?", "opzioni": ["Credevo che lui fosse già partito.", "Pensavo che tu verrai domani.", "Speravo che arrivasse in tempo.", "Mi sembrava che tu sapessi tutto."], "risposta": "Pensavo che tu verrai domani." },
-  { "numero": 5, "domanda": "Quale frase presenta un uso corretto del condizionale composto?", "opzioni": ["Avrei voluto venire alla festa.", "Avrei voluto vengo alla festa.", "Avrei voluto venuto alla festa.", "Ho voluto venire alla festa."], "risposta": "Avrei voluto venire alla festa." },
-  { "numero": 6, "domanda": "Quale frase contiene un anacoluto?", "opzioni": ["Io, questa cosa, non la capisco.", "Non capisco questa cosa.", "Non la capisco questa cosa.", "Capisco questa cosa."], "risposta": "Io, questa cosa, non la capisco." },
-  { "numero": 7, "domanda": "Quale parola è un arcaismo lessicale?", "opzioni": ["Imperocché", "Però", "Tuttavia", "Poiché"], "risposta": "Imperocché" },
-  { "numero": 8, "domanda": "Quale frase mostra una costruzione impersonale corretta?", "opzioni": ["Si è parlato molto dell’argomento.", "Si sono parlato molto dell’argomento.", "Si parlò molto dell’argomento.", "Si parlando dell’argomento."], "risposta": "Si è parlato molto dell’argomento." },
-  { "numero": 9, "domanda": "Quale frase contiene un errore di cacofonia?", "opzioni": ["Andammo a Amalfi.", "Andammo a Roma.", "Siamo andati a Bologna.", "Vado a scuola."], "risposta": "Andammo a Amalfi." },
-  { "numero": 10, "domanda": "Quale frase contiene un iperbato?", "opzioni": ["Alla sua patria, devoto sempre rimase.", "Rimase sempre devoto alla sua patria.", "Rimase devoto sempre alla sua patria.", "Sempre rimase devoto alla sua patria."], "risposta": "Alla sua patria, devoto sempre rimase." },
-  { "numero": 11, "domanda": "Quale frase usa correttamente il futuro anteriore?", "opzioni": ["Quando sarai arrivato, chiamami.", "Quando arrivi, chiamami.", "Quando arrivavi, chiamami.", "Quando arriverai, chiamami."], "risposta": "Quando sarai arrivato, chiamami." },
-  { "numero": 12, "domanda": "Quale parola è un esempio di regionalismo?", "opzioni": ["Balcone", "Caciocavallo", "Tavolo", "Porta"], "risposta": "Caciocavallo" },
-  { "numero": 13, "domanda": "Quale frase contiene un uso scorretto del congiuntivo?", "opzioni": ["Spero che tu stia bene.", "Credo che tu venga presto.", "Penso che tu verresti domani.", "È possibile che piova."], "risposta": "Penso che tu verresti domani." },
-  { "numero": 14, "domanda": "Quale frase contiene un'ellissi?", "opzioni": ["Meglio tardi che mai.", "È meglio arrivare tardi che mai.", "Arrivare tardi non è meglio che mai.", "Meglio che mai arrivare tardi."], "risposta": "Meglio tardi che mai." },
-  { "numero": 15, "domanda": "Quale frase mostra un uso scorretto della preposizione?", "opzioni": ["Vado a scuola.", "Vado in città.", "Vado a il supermercato.", "Vado al supermercato."], "risposta": "Vado a il supermercato." },
-  { "numero": 16, "domanda": "Quale frase contiene una metafora?", "opzioni": ["È un leone in battaglia.", "È coraggioso.", "È un uomo forte.", "Combatte bene."], "risposta": "È un leone in battaglia." },
-  { "numero": 17, "domanda": "Quale frase mostra il corretto uso del periodo ipotetico della realtà?", "opzioni": ["Se piove, non esco.", "Se piovesse, non uscirei.", "Se avesse piovuto, non sarei uscito.", "Se pioveva, non uscivo."], "risposta": "Se piove, non esco." },
-  { "numero": 18, "domanda": "Quale frase contiene un chiasmo?", "opzioni": ["Amo la vita e la vita amo.", "Amo la vita e la vita mi ama.", "Amo la vita e amo vivere.", "Amo vivere la vita."], "risposta": "Amo la vita e la vita amo." },
-  { "numero": 19, "domanda": "Quale frase contiene una costruzione impersonale con 'essere'?", "opzioni": ["È stato deciso di chiudere la scuola.", "Sono deciso di chiudere la scuola.", "È deciso chiudere la scuola.", "Si è deciso chiudere la scuola."], "risposta": "È stato deciso di chiudere la scuola." },
-  { "numero": 20, "domanda": "Quale frase usa il participio passato come aggettivo?", "opzioni": ["La porta chiusa era vecchia.", "Ho chiuso la porta.", "Chiudo la porta.", "La porta chiudo era vecchia."], "risposta": "La porta chiusa era vecchia." },
-  { "numero": 21, "domanda": "Quale frase mostra un uso scorretto del pronome combinato?", "opzioni": ["Te lo dico subito.", "Glielo dico subito.", "Me lo dico subito.", "Ce lo dico subito."], "risposta": "Me lo dico subito." },
-  { "numero": 22, "domanda": "Quale frase è un esempio di iperbole?", "opzioni": ["Ho fame da morire.", "Ho fame.", "Ho molta fame.", "Ho fame davvero."], "risposta": "Ho fame da morire." },
-  { "numero": 23, "domanda": "Quale frase presenta una dislocazione a sinistra?", "opzioni": ["Il libro, l’ho letto ieri.", "Ho letto il libro ieri.", "Ho letto ieri il libro.", "Ho ieri letto il libro."], "risposta": "Il libro, l’ho letto ieri." },
-  { "numero": 24, "domanda": "Quale frase contiene un latinismo sintattico?", "opzioni": ["Era necessario che venisse.", "Era necessario venisse.", "È necessario che venga.", "È necessario venga."], "risposta": "Era necessario venisse." },
-  { "numero": 25, "domanda": "Quale frase usa il congiuntivo imperfetto dopo una espressione di dubbio?", "opzioni": ["Dubitavo che arrivasse in tempo.", "Dubitavo che arriva in tempo.", "Dubito che arriva in tempo.", "Dubitavo che è arrivato in tempo."], "risposta": "Dubitavo che arrivasse in tempo." },
-  { "numero": 26, "domanda": "Quale frase è un esempio di nominalizzazione?", "opzioni": ["La realizzazione del progetto è stata complessa.", "Realizzare il progetto è stato complesso.", "Hanno realizzato il progetto con fatica.", "Realizzarono il progetto con fatica."], "risposta": "La realizzazione del progetto è stata complessa." },
-  { "numero": 27, "domanda": "Quale frase presenta un'anafonesi?", "opzioni": ["Andammo a Amalfi.", "Andammo ad Amalfi.", "Siamo andati a Amalfi.", "Siamo andati ad Amalfi."], "risposta": "Andammo a Amalfi." },
-  { "numero": 28, "domanda": "Quale frase mostra l'uso corretto di 'piuttosto che'?", "opzioni": ["Preferisco il tè piuttosto che il caffè.", "Preferisco il tè o piuttosto il caffè.", "Preferisco il tè piuttosto che.", "Piuttosto che preferisco il tè."], "risposta": "Preferisco il tè piuttosto che il caffè." },
-  { "numero": 29, "domanda": "Quale frase contiene un errore di cacofonia evitabile?", "opzioni": ["Vado da Dario.", "Vado a Aosta.", "Vado ad Aosta.", "Vado a Roma."], "risposta": "Vado a Aosta." },
-  { "numero": 30, "domanda": "Quale frase contiene un barbarismo?", "opzioni": ["Ho fatto un meeting ieri.", "Ho fatto una riunione ieri.", "Ho partecipato a una conferenza.", "Ho assistito a una lezione."], "risposta": "Ho fatto un meeting ieri." },
-  { "numero": 31, "domanda": "Quale frase è un esempio di subordinata causale?", "opzioni": ["Non sono venuto perché ero malato.", "Non sono venuto benché fossi malato.", "Non sono venuto, sebbene fossi malato.", "Non sono venuto affinché tu fossi felice."], "risposta": "Non sono venuto perché ero malato." },
-  { "numero": 32, "domanda": "Quale frase usa correttamente 'qualunque'?", "opzioni": ["Qualunque cosa tu dica, non cambierò idea.", "Qualunque dici, non cambierò idea.", "Qualunque cosa dici, non cambierò idea.", "Qualunque cosa dici, cambierò idea."], "risposta": "Qualunque cosa tu dica, non cambierò idea." },
-  { "numero": 33, "domanda": "Quale frase contiene una costruzione scorretta con 'si passivante'?", "opzioni": ["Si vendono case.", "Si è venduta una casa.", "Si sono venduti case.", "Si venderanno case."], "risposta": "Si sono venduti case." },
-  { "numero": 34, "domanda": "Quale frase contiene un iperbaton?", "opzioni": ["Alla mente mia, confusa era la memoria.", "La mia mente confusa aveva la memoria.", "La mia mente aveva la memoria confusa.", "La memoria era confusa nella mia mente."], "risposta": "Alla mente mia, confusa era la memoria." },
-  { "numero": 35, "domanda": "Quale frase presenta un'antonomasia?", "opzioni": ["Un vero Nerone.", "Un uomo crudele.", "Un dittatore sanguinario.", "Un uomo malvagio."], "risposta": "Un vero Nerone." },
-  { "numero": 36, "domanda": "Quale frase contiene un errore di accordo verbo-soggetto?", "opzioni": ["La maggior parte degli studenti hanno superato l’esame.", "La maggior parte degli studenti ha superato l’esame.", "Gli studenti hanno superato l’esame.", "La maggioranza ha superato l’esame."], "risposta": "La maggior parte degli studenti hanno superato l’esame." },
-  { "numero": 37, "domanda": "Quale frase mostra una proposizione finale?", "opzioni": ["Ti parlo affinché tu capisca.", "Ti parlo perché tu capisca.", "Ti parlo benché tu capisca.", "Ti parlo mentre tu capisci."], "risposta": "Ti parlo affinché tu capisca." },
-  { "numero": 38, "domanda": "Quale frase è un esempio di metonimia?", "opzioni": ["Ho bevuto un bicchiere.", "Ho bevuto acqua.", "Ho bevuto molto.", "Ho bevuto velocemente."], "risposta": "Ho bevuto un bicchiere." },
-  { "numero": 39, "domanda": "Quale frase presenta un uso scorretto dell’imperfetto narrativo?", "opzioni": ["Arrivava il re, quando la folla esplose.", "Arrivava il re, la folla lo acclamava.", "Arrivava il re e salutava.", "Arrivava il re e parlava."], "risposta": "Arrivava il re, quando la folla esplose." },
-  { "numero": 40, "domanda": "Quale frase contiene un'antitesi?", "opzioni": ["Era il migliore dei tempi, era il peggiore dei tempi.", "Era un bel tempo.", "Era un brutto tempo.", "Era il migliore dei tempi."], "risposta": "Era il migliore dei tempi, era il peggiore dei tempi." },
-  { "numero": 41, "domanda": "Quale frase è un esempio di allocuzione formale?", "opzioni": ["Signori e Signore, vi ringrazio.", "Ragazzi, grazie mille.", "Ehi voi, ascoltate.", "Ciao a tutti."], "risposta": "Signori e Signore, vi ringrazio." },
-  { "numero": 42, "domanda": "Quale frase contiene un uso scorretto della particella “ci”?", "opzioni": ["Non ci vado.", "Ci penso io.", "Ci ho il libro.", "Ci sono stato."], "risposta": "Ci ho il libro." },
-  { "numero": 43, "domanda": "Quale frase mostra un uso arcaico del futuro anteriore?", "opzioni": ["Quando sarai venuto, partiremo.", "Quando vieni, partiremo.", "Quando venivi, partiremo.", "Quando verrai, partiremo."], "risposta": "Quando sarai venuto, partiremo." },
-  { "numero": 44, "domanda": "Quale frase contiene un neologismo?", "opzioni": ["Ho mandato un messaggino su WhatsApp.", "Ho inviato una lettera.", "Ho spedito un pacco.", "Ho scritto una cartolina."], "risposta": "Ho mandato un messaggino su WhatsApp." },
-  { "numero": 45, "domanda": "Quale frase mostra una dislocazione a destra?", "opzioni": ["L’ho comprato, il libro.", "Il libro l’ho comprato.", "Ho comprato il libro.", "Il libro, l’ho comprato."], "risposta": "L’ho comprato, il libro." },
-  { "numero": 46, "domanda": "Quale frase contiene un uso scorretto di 'piuttosto che'?", "opzioni": ["Preferisco il gelato piuttosto che la torta.", "Preferisco uscire piuttosto che restare a casa.", "Preferisco il gelato piuttosto che.", "Preferisco il gelato o piuttosto la torta."], "risposta": "Preferisco il gelato o piuttosto la torta." },
-  { "numero": 47, "domanda": "Quale frase mostra una perifrasi aspettuale ingressiva?", "opzioni": ["Stava per piovere.", "Stava piovendo.", "Aveva piovuto.", "Ha piovuto."], "risposta": "Stava per piovere." },
-  { "numero": 48, "domanda": "Quale frase è un esempio di litote?", "opzioni": ["Non è poco intelligente.", "È molto intelligente.", "È intelligente.", "È un genio."], "risposta": "Non è poco intelligente." },
-  { "numero": 49, "domanda": "Quale frase contiene un arcaismo morfologico?", "opzioni": ["Egli dicea la verità.", "Egli diceva la verità.", "Egli ha detto la verità.", "Egli dice la verità."], "risposta": "Egli dicea la verità." },
-  { "numero": 50, "domanda": "Quale frase mostra l’uso corretto del gerundio composto?", "opzioni": ["Avendo studiato molto, superò l’esame.", "Ha studiato molto, superò l’esame.", "Studiando molto, superò l’esame.", "Ha studiato, avendo superato l’esame."], "risposta": "Avendo studiato molto, superò l’esame." }
+  {
+    "numero": 1,
+    "question": "Quale frase usa correttamente il congiuntivo trapassato?",
+    "options": [
+      "Se avrei saputo, sarei venuto.",
+      "Se avessi saputo, sarei venuto.",
+      "Se sapevo, sarei venuto.",
+      "Se avrei saputo, venivo."
+    ],
+    "answer": "Se avessi saputo, sarei venuto."
+  },
+  {
+    "numero": 2,
+    "question": "Quale frase contiene un pleonasmo?",
+    "options": ["Scendi giù subito.", "Scendi subito.", "Vieni qui.", "Esci immediatamente."],
+    "answer": "Scendi giù subito."
+  },
+  {
+    "numero": 3,
+    "question": "Quale parola è un latinismo ancora in uso?",
+    "options": ["Avvocato", "Curriculum", "Auto", "Telefono"],
+    "answer": "Curriculum"
+  },
+  {
+    "numero": 4,
+    "question": "Quale frase contiene un errore di consecutio temporum?",
+    "options": [
+      "Credevo che lui fosse già partito.",
+      "Pensavo che tu verrai domani.",
+      "Speravo che arrivasse in tempo.",
+      "Mi sembrava che tu sapessi tutto."
+    ],
+    "answer": "Pensavo che tu verrai domani."
+  },
+  {
+    "numero": 5,
+    "question": "Quale frase presenta un uso corretto del condizionale composto?",
+    "options": [
+      "Avrei voluto venire alla festa.",
+      "Avrei voluto vengo alla festa.",
+      "Avrei voluto venuto alla festa.",
+      "Ho voluto venire alla festa."
+    ],
+    "answer": "Avrei voluto venire alla festa."
+  },
+  {
+    "numero": 6,
+    "question": "Quale frase contiene un anacoluto?",
+    "options": [
+      "Io, questa cosa, non la capisco.",
+      "Non capisco questa cosa.",
+      "Non la capisco questa cosa.",
+      "Capisco questa cosa."
+    ],
+    "answer": "Io, questa cosa, non la capisco."
+  },
+  {
+    "numero": 7,
+    "question": "Quale parola è un arcaismo lessicale?",
+    "options": ["Imperocché", "Però", "Tuttavia", "Poiché"],
+    "answer": "Imperocché"
+  },
+  {
+    "numero": 8,
+    "question": "Quale frase mostra una costruzione impersonale corretta?",
+    "options": [
+      "Si è parlato molto dell’argomento.",
+      "Si sono parlato molto dell’argomento.",
+      "Si parlò molto dell’argomento.",
+      "Si parlando dell’argomento."
+    ],
+    "answer": "Si è parlato molto dell’argomento."
+  },
+  {
+    "numero": 9,
+    "question": "Quale frase contiene un errore di cacofonia?",
+    "options": [
+      "Andammo a Amalfi.",
+      "Andammo a Roma.",
+      "Siamo andati a Bologna.",
+      "Vado a scuola."
+    ],
+    "answer": "Andammo a Amalfi."
+  },
+  {
+    "numero": 10,
+    "question": "Quale frase contiene un iperbato?",
+    "options": [
+      "Alla sua patria, devoto sempre rimase.",
+      "Rimase sempre devoto alla sua patria.",
+      "Rimase devoto sempre alla sua patria.",
+      "Sempre rimase devoto alla sua patria."
+    ],
+    "answer": "Alla sua patria, devoto sempre rimase."
+  },
+  {
+    "numero": 11,
+    "question": "Quale frase usa correttamente il futuro anteriore?",
+    "options": [
+      "Quando sarai arrivato, chiamami.",
+      "Quando arrivi, chiamami.",
+      "Quando arrivavi, chiamami.",
+      "Quando arriverai, chiamami."
+    ],
+    "answer": "Quando sarai arrivato, chiamami."
+  },
+  {
+    "numero": 12,
+    "question": "Quale parola è un esempio di regionalismo?",
+    "options": ["Balcone", "Caciocavallo", "Tavolo", "Porta"],
+    "answer": "Caciocavallo"
+  },
+  {
+    "numero": 13,
+    "question": "Quale frase contiene un uso scorretto del congiuntivo?",
+    "options": [
+      "Spero che tu stia bene.",
+      "Credo che tu venga presto.",
+      "Penso che tu verresti domani.",
+      "È possibile che piova."
+    ],
+    "answer": "Penso che tu verresti domani."
+  },
+  {
+    "numero": 14,
+    "question": "Quale frase contiene un'ellissi?",
+    "options": [
+      "Meglio tardi che mai.",
+      "È meglio arrivare tardi che mai.",
+      "Arrivare tardi non è meglio che mai.",
+      "Meglio che mai arrivare tardi."
+    ],
+    "answer": "Meglio tardi che mai."
+  },
+  {
+    "numero": 15,
+    "question": "Quale frase mostra un uso scorretto della preposizione?",
+    "options": [
+      "Vado a scuola.",
+      "Vado in città.",
+      "Vado a il supermercato.",
+      "Vado al supermercato."
+    ],
+    "answer": "Vado a il supermercato."
+  },
+  {
+    "numero": 16,
+    "question": "Quale frase contiene una metafora?",
+    "options": ["È un leone in battaglia.", "È coraggioso.", "È un uomo forte.", "Combatte bene."],
+    "answer": "È un leone in battaglia."
+  },
+  {
+    "numero": 17,
+    "question": "Quale frase mostra il corretto uso del periodo ipotetico della realtà?",
+    "options": [
+      "Se piove, non esco.",
+      "Se piovesse, non uscirei.",
+      "Se avesse piovuto, non sarei uscito.",
+      "Se pioveva, non uscivo."
+    ],
+    "answer": "Se piove, non esco."
+  },
+  {
+    "numero": 18,
+    "question": "Quale frase contiene un chiasmo?",
+    "options": [
+      "Amo la vita e la vita amo.",
+      "Amo la vita e la vita mi ama.",
+      "Amo la vita e amo vivere.",
+      "Amo vivere la vita."
+    ],
+    "answer": "Amo la vita e la vita amo."
+  },
+  {
+    "numero": 19,
+    "question": "Quale frase contiene una costruzione impersonale con 'essere'?",
+    "options": [
+      "È stato deciso di chiudere la scuola.",
+      "Sono deciso di chiudere la scuola.",
+      "È deciso chiudere la scuola.",
+      "Si è deciso chiudere la scuola."
+    ],
+    "answer": "È stato deciso di chiudere la scuola."
+  },
+  {
+    "numero": 20,
+    "question": "Quale frase usa il participio passato come aggettivo?",
+    "options": [
+      "La porta chiusa era vecchia.",
+      "Ho chiuso la porta.",
+      "Chiudo la porta.",
+      "La porta chiudo era vecchia."
+    ],
+    "answer": "La porta chiusa era vecchia."
+  },{
+    "numero": 21,
+    "question": "Quale frase mostra un uso scorretto del pronome combinato?",
+    "options": [
+      "Te lo dico subito.",
+      "Glielo dico subito.",
+      "Me lo dico subito.",
+      "Ce lo dico subito."
+    ],
+    "answer": "Me lo dico subito."
+  },
+  {
+    "numero": 22,
+    "question": "Quale frase è un esempio di iperbole?",
+    "options": [
+      "Ho fame da morire.",
+      "Ho fame.",
+      "Ho molta fame.",
+      "Ho fame davvero."
+    ],
+    "answer": "Ho fame da morire."
+  },
+  {
+    "numero": 23,
+    "question": "Quale frase presenta una dislocazione a sinistra?",
+    "options": [
+      "Il libro, l’ho letto ieri.",
+      "Ho letto il libro ieri.",
+      "Ho letto ieri il libro.",
+      "Ho ieri letto il libro."
+    ],
+    "answer": "Il libro, l’ho letto ieri."
+  },
+  {
+    "numero": 24,
+    "question": "Quale frase contiene un latinismo sintattico?",
+    "options": [
+      "Era necessario che venisse.",
+      "Era necessario venisse.",
+      "È necessario che venga.",
+      "È necessario venga."
+    ],
+    "answer": "Era necessario venisse."
+  },
+  {
+    "numero": 25,
+    "question": "Quale frase usa il congiuntivo imperfetto dopo una espressione di dubbio?",
+    "options": [
+      "Dubitavo che arrivasse in tempo.",
+      "Dubitavo che arriva in tempo.",
+      "Dubito che arriva in tempo.",
+      "Dubitavo che è arrivato in tempo."
+    ],
+    "answer": "Dubitavo che arrivasse in tempo."
+  },
+  {
+    "numero": 26,
+    "question": "Quale frase è un esempio di nominalizzazione?",
+    "options": [
+      "La realizzazione del progetto è stata complessa.",
+      "Realizzare il progetto è stato complesso.",
+      "Hanno realizzato il progetto con fatica.",
+      "Realizzarono il progetto con fatica."
+    ],
+    "answer": "La realizzazione del progetto è stata complessa."
+  },
+  {
+    "numero": 27,
+    "question": "Quale frase presenta un'anafonesi?",
+    "options": [
+      "Andammo a Amalfi.",
+      "Andammo ad Amalfi.",
+      "Siamo andati a Amalfi.",
+      "Siamo andati ad Amalfi."
+    ],
+    "answer": "Andammo a Amalfi."
+  },
+  {
+    "numero": 28,
+    "question": "Quale frase mostra l'uso corretto di 'piuttosto che'?",
+    "options": [
+      "Preferisco il tè piuttosto che il caffè.",
+      "Preferisco il tè o piuttosto il caffè.",
+      "Preferisco il tè piuttosto che.",
+      "Piuttosto che preferisco il tè."
+    ],
+    "answer": "Preferisco il tè piuttosto che il caffè."
+  },
+  {
+    "numero": 29,
+    "question": "Quale frase contiene un errore di cacofonia evitabile?",
+    "options": [
+      "Vado da Dario.",
+      "Vado a Aosta.",
+      "Vado ad Aosta.",
+      "Vado a Roma."
+    ],
+    "answer": "Vado a Aosta."
+  },
+  {
+    "numero": 30,
+    "question": "Quale frase contiene un barbarismo?",
+    "options": [
+      "Ho fatto un meeting ieri.",
+      "Ho fatto una riunione ieri.",
+      "Ho partecipato a una conferenza.",
+      "Ho assistito a una lezione."
+    ],
+    "answer": "Ho fatto un meeting ieri."
+  },
+  {
+    "numero": 31,
+    "question": "Quale frase è un esempio di subordinata causale?",
+    "options": [
+      "Non sono venuto perché ero malato.",
+      "Non sono venuto benché fossi malato.",
+      "Non sono venuto, sebbene fossi malato.",
+      "Non sono venuto affinché tu fossi felice."
+    ],
+    "answer": "Non sono venuto perché ero malato."
+  },
+  {
+    "numero": 32,
+    "question": "Quale frase usa correttamente 'qualunque'?",
+    "options": [
+      "Qualunque cosa tu dica, non cambierò idea.",
+      "Qualunque dici, non cambierò idea.",
+      "Qualunque cosa dici, non cambierò idea.",
+      "Qualunque cosa dici, cambierò idea."
+    ],
+    "answer": "Qualunque cosa tu dica, non cambierò idea."
+  },
+  {
+    "numero": 33,
+    "question": "Quale frase contiene una costruzione scorretta con 'si passivante'?",
+    "options": [
+      "Si vendono case.",
+      "Si è venduta una casa.",
+      "Si sono venduti case.",
+      "Si venderanno case."
+    ],
+    "answer": "Si sono venduti case."
+  },
+  {
+    "numero": 34,
+    "question": "Quale frase contiene un iperbaton?",
+    "options": [
+      "Alla mente mia, confusa era la memoria.",
+      "La mia mente confusa aveva la memoria.",
+      "La mia mente aveva la memoria confusa.",
+      "La memoria era confusa nella mia mente."
+    ],
+    "answer": "Alla mente mia, confusa era la memoria."
+  },
+  {
+    "numero": 35,
+    "question": "Quale frase presenta un'antonomasia?",
+    "options": [
+      "Un vero Nerone.",
+      "Un uomo crudele.",
+      "Un dittatore sanguinario.",
+      "Un uomo malvagio."
+    ],
+    "answer": "Un vero Nerone."
+  },
+  {
+    "numero": 36,
+    "question": "Quale frase contiene un errore di accordo verbo-soggetto?",
+    "options": [
+      "La maggior parte degli studenti hanno superato l’esame.",
+      "La maggior parte degli studenti ha superato l’esame.",
+      "Gli studenti hanno superato l’esame.",
+      "La maggioranza ha superato l’esame."
+    ],
+    "answer": "La maggior parte degli studenti hanno superato l’esame."
+  },
+  {
+    "numero": 37,
+    "question": "Quale frase mostra una proposizione finale?",
+    "options": [
+      "Ti parlo affinché tu capisca.",
+      "Ti parlo perché tu capisca.",
+      "Ti parlo benché tu capisca.",
+      "Ti parlo mentre tu capisci."
+    ],
+    "answer": "Ti parlo affinché tu capisca."
+  },
+  {
+    "numero": 38,
+    "question": "Quale frase è un esempio di metonimia?",
+    "options": [
+      "Ho bevuto un bicchiere.",
+      "Ho bevuto acqua.",
+      "Ho bevuto molto.",
+      "Ho bevuto velocemente."
+    ],
+    "answer": "Ho bevuto un bicchiere."
+  },
+  {
+    "numero": 39,
+    "question": "Quale frase presenta un uso scorretto dell’imperfetto narrativo?",
+    "options": [
+      "Arrivava il re, quando la folla esplose.",
+      "Arrivava il re, la folla lo acclamava.",
+      "Arrivava il re e salutava.",
+      "Arrivava il re e parlava."
+    ],
+    "answer": "Arrivava il re, quando la folla esplose."
+  },
+  {
+    "numero": 40,
+    "question": "Quale frase contiene un'antitesi?",
+    "options": [
+      "Era il migliore dei tempi, era il peggiore dei tempi.",
+      "Era un bel tempo.",
+      "Era un brutto tempo.",
+      "Era il migliore dei tempi."
+    ],
+    "answer": "Era il migliore dei tempi, era il peggiore dei tempi."
+  },
+  {
+    "numero": 41,
+    "question": "Quale frase è un esempio di allocuzione formale?",
+    "options": [
+      "Signori e Signore, vi ringrazio.",
+      "Ragazzi, grazie mille.",
+      "Ehi voi, ascoltate.",
+      "Ciao a tutti."
+    ],
+    "answer": "Signori e Signore, vi ringrazio."
+  },
+  {
+    "numero": 42,
+    "question": "Quale frase contiene un uso scorretto della particella “ci”?",
+    "options": [
+      "Non ci vado.",
+      "Ci penso io.",
+      "Ci ho il libro.",
+      "Ci sono stato."
+    ],
+    "answer": "Ci ho il libro."
+  },
+  {
+    "numero": 43,
+    "question": "Quale frase mostra un uso arcaico del futuro anteriore?",
+    "options": [
+      "Quando sarai venuto, partiremo.",
+      "Quando vieni, partiremo.",
+      "Quando venivi, partiremo.",
+      "Quando verrai, partiremo."
+    ],
+    "answer": "Quando sarai venuto, partiremo."
+  },
+  {
+    "numero": 44,
+    "question": "Quale frase contiene un neologismo?",
+    "options": [
+      "Ho mandato un messaggino su WhatsApp.",
+      "Ho inviato una lettera.",
+      "Ho spedito un pacco.",
+      "Ho scritto una cartolina."
+    ],
+    "answer": "Ho mandato un messaggino su WhatsApp."
+  },
+  {
+    "numero": 45,
+    "question": "Quale frase mostra una dislocazione a destra?",
+    "options": [
+      "L’ho comprato, il libro.",
+      "Il libro l’ho comprato.",
+      "Ho comprato il libro.",
+      "Il libro, l’ho comprato."
+    ],
+    "answer": "L’ho comprato, il libro."
+  },
+  {
+    "numero": 46,
+    "question": "Quale frase contiene un uso scorretto di 'piuttosto che'?",
+    "options": [
+      "Preferisco il gelato piuttosto che la torta.",
+      "Preferisco uscire piuttosto che restare a casa.",
+      "Preferisco il gelato piuttosto che.",
+      "Preferisco il gelato o piuttosto la torta."
+    ],
+    "answer": "Preferisco il gelato o piuttosto la torta."
+  },
+  {
+    "numero": 47,
+    "question": "Quale frase mostra una perifrasi aspettuale ingressiva?",
+    "options": [
+      "Stava per piovere.",
+      "Stava piovendo.",
+      "Aveva piovuto.",
+      "Ha piovuto."
+    ],
+    "answer": "Stava per piovere."
+  },
+  {
+    "numero": 48,
+    "question": "Quale frase è un esempio di litote?",
+    "options": [
+      "Non è poco intelligente.",
+      "È molto intelligente.",
+      "È intelligente.",
+      "È un genio."
+    ],
+    "answer": "Non è poco intelligente."
+  },
+  {
+    "numero": 49,
+    "question": "Quale frase contiene un arcaismo morfologico?",
+    "options": [
+      "Egli dicea la verità.",
+      "Egli diceva la verità.",
+      "Egli ha detto la verità.",
+      "Egli dice la verità."
+    ],
+    "answer": "Egli dicea la verità."
+  },
+  {
+    "numero": 50,
+    "question": "Quale frase mostra l’uso corretto del gerundio composto?",
+    "options": [
+      "Avendo studiato molto, superò l’esame.",
+      "Ha studiato molto, superò l’esame.",
+      "Studiando molto, superò l’esame.",
+      "Ha studiato, avendo superato l’esame."
+    ],
+    "answer": "Avendo studiato molto, superò l’esame."
+  }
+
 ]
