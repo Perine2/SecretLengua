@@ -1,1121 +1,347 @@
 [
    {
     "numero": 1,
-    "question": "Which of the following sentences contains a cleft sentence?",
+    "question": "下列句子中，哪个是“把”字句？",
     "options": [
-      "I saw the man who lives next door.",
-      "It was John who broke the window.",
-      "John broke the window yesterday.",
-      "Who broke the window?"
+      "我把书放在桌子上。",
+      "我书放在桌子上。",
+      "我放书在桌子上。",
+      "书被我放在桌子上。"
     ],
-    "answer": "It was John who broke the window."
+    "answer": "我把书放在桌子上。"
   },
   {
     "numero": 2,
-    "question": "Identify the function of the word 'that' in this sentence: “The book that I read was excellent.”",
-    "options": [
-      "Conjunction",
-      "Preposition",
-      "Relative pronoun",
-      "Determiner"
-    ],
-    "answer": "Relative pronoun"
+    "question": "“虽然……但是……”是下列哪一种复句结构？",
+    "options": ["因果复句", "转折复句", "条件复句", "并列复句"],
+    "answer": "转折复句"
   },
   {
     "numero": 3,
-    "question": "Choose the sentence with correct subject-verb agreement:",
-    "options": [
-      "Neither the boy nor the girls was present.",
-      "Each of the students have submitted the form.",
-      "The data is inaccurate.",
-      "A number of students are late."
-    ],
-    "answer": "A number of students are late."
+    "question": "下列哪个成语表示“表面和气，内心暗藏敌意”？",
+    "options": ["同舟共济", "笑里藏刀", "胸有成竹", "三心二意"],
+    "answer": "笑里藏刀"
   },
   {
     "numero": 4,
-    "question": "Identify the grammatical voice used in: 'The house was being painted.'",
-    "options": [
-      "Active",
-      "Middle",
-      "Passive",
-      "Reflexive"
-    ],
-    "answer": "Passive"
+    "question": "选择正确的量词：一___画",
+    "options": ["本", "幅", "条", "件"],
+    "answer": "幅"
   },
   {
     "numero": 5,
-    "question": "Which structure represents the past perfect continuous tense?",
-    "options": [
-      "Had been eating",
-      "Was eating",
-      "Has eaten",
-      "Had eaten"
-    ],
-    "answer": "Had been eating"
+    "question": "下列哪一个是“使动用法”的例子？",
+    "options": ["他死了。", "他使马跑起来。", "他跑了。", "马跑得快。"],
+    "answer": "他使马跑起来。"
   },
   {
     "numero": 6,
-    "question": "What type of conditional is this: “If I had known, I would have helped.”",
-    "options": [
-      "First",
-      "Second",
-      "Third",
-      "Mixed"
-    ],
-    "answer": "Third"
+    "question": "下列哪个词语不含贬义？",
+    "options": ["狡猾", "阴险", "谦虚", "狂妄"],
+    "answer": "谦虚"
   },
   {
     "numero": 7,
-    "question": "Which sentence contains a reduced relative clause?",
-    "options": [
-      "The man who is talking to Mary is my brother.",
-      "The man talking to Mary is my brother.",
-      "The man that talks to Mary is my brother.",
-      "Mary talks to the man who is my brother."
-    ],
-    "answer": "The man talking to Mary is my brother."
+    "question": "下列句子哪个是“被”字句？",
+    "options": ["我把书放在桌子上。", "书被我放在桌子上。", "我书放在桌子上。", "书我放在桌子上。"],
+    "answer": "书被我放在桌子上。"
   },
   {
     "numero": 8,
-    "question": "What type of noun clause is in the sentence: “I don’t know what he wants.”",
+    "question": "下列哪个句子语序错误？",
     "options": [
-      "Subject",
-      "Object",
-      "Complement",
-      "Adverbial"
+      "他昨天在学校见到老师。",
+      "昨天他在学校见到老师。",
+      "他在学校昨天见到老师。",
+      "他在学校见到老师昨天。"
     ],
-    "answer": "Object"
+    "answer": "他在学校昨天见到老师。"
   },
   {
     "numero": 9,
-    "question": "What grammatical role does the word “quickly” play in this sentence: “She runs quickly.”",
+    "question": "“画蛇添足”这个成语的意思是？",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Verb",
-      "Preposition"
+      "比喻办事过分，反而坏事。",
+      "比喻做事认真细致。",
+      "比喻帮助别人。",
+      "比喻画画的技巧高超。"
     ],
-    "answer": "Adverb"
+    "answer": "比喻办事过分，反而坏事。"
   },
   {
     "numero": 10,
-    "question": "Which of the following is an example of a stative verb?",
-    "options": [
-      "Sleep",
-      "Run",
-      "Know",
-      "Eat"
-    ],
-    "answer": "Know"
+    "question": "下列哪个是“兼语句”？",
+    "options": ["我请他帮忙。", "我帮忙他。", "他帮忙我。", "我帮他。"],
+    "answer": "我请他帮忙。"
   },
   {
     "numero": 11,
-    "question": "Choose the correct use of a modal verb expressing deduction:",
-    "options": [
-      "She can be at home.",
-      "She might to be at home.",
-      "She must be at home.",
-      "She should goes home."
-    ],
-    "answer": "She must be at home."
+    "question": "选择正确的近义词组合：快乐 – ___",
+    "options": ["悲伤", "高兴", "忧愁", "苦恼"],
+    "answer": "高兴"
   },
   {
     "numero": 12,
-    "question": "Which is an example of an inversion after a negative adverbial?",
-    "options": [
-      "Not only he went to Paris.",
-      "Not only did he go to Paris.",
-      "He did not only go to Paris.",
-      "He not only went to Paris."
-    ],
-    "answer": "Not only did he go to Paris."
+    "question": "下列哪句话语气最委婉？",
+    "options": ["你必须马上做！", "你现在做吧。", "你能不能现在做呢？", "你快做！"],
+    "answer": "你能不能现在做呢？"
   },
   {
     "numero": 13,
-    "question": "Choose the sentence with a dangling participle:",
-    "options": [
-      "Running to the bus, my phone rang.",
-      "I ran to the bus while my phone rang.",
-      "As I ran, my phone rang.",
-      "Running to the bus, I dropped my phone."
-    ],
-    "answer": "Running to the bus, my phone rang."
+    "question": "下列哪个是“疑问代词”？",
+    "options": ["什么", "很", "吗", "已经"],
+    "answer": "什么"
   },
   {
     "numero": 14,
-    "question": "Identify the correct indirect question:",
-    "options": [
-      "Tell me what is he doing.",
-      "Tell me what he is doing.",
-      "Tell me what is he doing?",
-      "Tell me what he is doing?"
-    ],
-    "answer": "Tell me what he is doing."
+    "question": "下列哪个句子是连动句？",
+    "options": ["他去学校上课。", "他去上课学校。", "他上课去学校。", "他学校去上课。"],
+    "answer": "他去学校上课。"
   },
   {
     "numero": 15,
-    "question": "Which sentence demonstrates ellipsis?",
-    "options": [
-      "I wanted to go, but I didn’t.",
-      "I wanted to go but I stayed.",
-      "I wanted to go, however I didn’t go.",
-      "I wanted to go and I did go."
-    ],
-    "answer": "I wanted to go, but I didn’t."
-  },{
-    "numero": 16,
-    "question": "In RP (Received Pronunciation), the final sound in “judge” is:",
-    "options": [
-      "/ʃ/",
-      "/tʃ/",
-      "/dʒ/",
-      "/z/"
-    ],
-    "answer": "/dʒ/"
-  },
-  {
-    "numero": 17,
-    "question": "What is the IPA transcription of “thought”?",
-    "options": [
-      "/θɔːt/",
-      "/tɔːt/",
-      "/ðɔːt/",
-      "/θuːt/"
-    ],
-    "answer": "/θɔːt/"
-  },
-  {
-    "numero": 18,
-    "question": "Which of these is an example of consonant elision?",
-    "options": [
-      "Sandwich → sanwich",
-      "Go on → goon",
-      "Comfortable → comf-ter-ble",
-      "Chocolate → chok-lit"
-    ],
-    "answer": "Sandwich → sanwich"
-  },
-  {
-    "numero": 19,
-    "question": "Identify the minimal pair:",
-    "options": [
-      "Ship – Sheep",
-      "Go – Went",
-      "Sit – Sit",
-      "Book – Books"
-    ],
-    "answer": "Ship – Sheep"
-  },
-  {
-    "numero": 20,
-    "question": "In connected speech, “I want to eat” becomes:",
-    "options": [
-      "/aɪ wɒnt tu iːt/",
-      "/aɪ wɒnə iːt/",
-      "/aɪ wɒntə tuː iːt/",
-      "/aɪ wɒnt iːt/"
-    ],
-    "answer": "/aɪ wɒnə iːt/"
-  },
-  {
-    "numero": 21,
-    "question": "What is schwa in phonetics?",
-    "options": [
-      "A stressed central vowel",
-      "An unstressed central vowel /ə/",
-      "A nasal vowel",
-      "A voiced consonant"
-    ],
-    "answer": "An unstressed central vowel /ə/"
-  },
-  {
-    "numero": 22,
-    "question": "Which word contains a diphthong?",
-    "options": [
-      "Cat",
-      "Boat",
-      "Sit",
-      "Cut"
-    ],
-    "answer": "Boat"
-  },
-  {
-    "numero": 23,
-    "question": "The intonation of yes/no questions in English is usually:",
-    "options": [
-      "Falling",
-      "Rising",
-      "Flat",
-      "Broken"
-    ],
-    "answer": "Rising"
-  },
-  {
-    "numero": 24,
-    "question": "In the word \"unbelievable\", the primary stress is on:",
-    "options": [
-      "un-",
-      "-be-",
-      "-liev-",
-      "-able"
-    ],
-    "answer": "-liev-"
-  },
-  {
-    "numero": 25,
-    "question": "Which word is pronounced with a silent consonant?",
-    "options": [
-      "Know",
-      "Goat",
-      "Knife",
-      "Both a and c"
-    ],
-    "answer": "Both a and c"
-  },{
-    "numero": 26,
-    "question": "Which approach promotes learning through meaningful interaction?",
-    "options": [
-      "Grammar-translation",
-      "Audio-lingual",
-      "Communicative Language Teaching (CLT)",
-      "Total Physical Response"
-    ],
-    "answer": "Communicative Language Teaching (CLT)"
-  },
-  {
-    "numero": 27,
-    "question": "What does TPR stand for in teaching?",
-    "options": [
-      "Total Pronunciation Reinforcement",
-      "Task-based Reading",
-      "Total Physical Response",
-      "Teaching Pronunciation and Rhythm"
-    ],
-    "answer": "Total Physical Response"
-  },
-  {
-    "numero": 28,
-    "question": "The CEFR level most associated with 'Can write a simple email' is:",
-    "options": [
-      "A1",
-      "A2",
-      "B1",
-      "C1"
-    ],
-    "answer": "A2"
-  },
-  {
-    "numero": 29,
-    "question": "In task-based learning, the focus is on:",
-    "options": [
-      "Grammar drills",
-      "Vocabulary tests",
-      "Real-world communication tasks",
-      "Translation accuracy"
-    ],
-    "answer": "Real-world communication tasks"
-  },
-  {
-    "numero": 30,
-    "question": "Which is a formative assessment?",
-    "options": [
-      "End-of-term test",
-      "National exam",
-      "Class discussion feedback",
-      "Final grade report"
-    ],
-    "answer": "Class discussion feedback"
-  },
-  {
-    "numero": 31,
-    "question": "The term scaffolding refers to:",
-    "options": [
-      "Punishing students",
-      "Giving students the test early",
-      "Gradual removal of teacher support",
-      "Assigning homework"
-    ],
-    "answer": "Gradual removal of teacher support"
-  },
-  {
-    "numero": 32,
-    "question": "Which of the following is a receptive skill?",
-    "options": [
-      "Writing",
-      "Speaking",
-      "Reading",
-      "Spelling"
-    ],
-    "answer": "Reading"
-  },
-  {
-    "numero": 33,
-    "question": "Which is an authentic material for teaching?",
-    "options": [
-      "Exercise from a textbook",
-      "Grammar worksheet",
-      "News article",
-      "Vocabulary list"
-    ],
-    "answer": "News article"
-  },
-  {
-    "numero": 34,
-    "question": "Differentiation in language teaching refers to:",
-    "options": [
-      "Teaching only high-performing students",
-      "Using multiple methods to address diverse learners",
-      "Teaching the same way for all",
-      "Testing every day"
-    ],
-    "answer": "Using multiple methods to address diverse learners"
-  },
-  {
-    "numero": 35,
-    "question": "Which feedback style promotes learner autonomy?",
-    "options": [
-      "Explicit correction only",
-      "Error highlighting with self-correction",
-      "Teacher-only correction",
-      "Repeating the correct answer"
-    ],
-    "answer": "Error highlighting with self-correction"
-  }, {
-    "numero": 36,
-    "question": "What is a morpheme?",
-    "options": [
-      "A part of speech",
-      "The smallest unit of meaning",
-      "A phonetic symbol",
-      "A type of clause"
-    ],
-    "answer": "The smallest unit of meaning"
-  },
-  {
-    "numero": 37,
-    "question": "“Unhappiness” contains how many morphemes?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "3"
-  },
-  {
-    "numero": 38,
-    "question": "Which is an inflectional morpheme?",
-    "options": [
-      "-ing",
-      "un-",
-      "re-",
-      "-ness"
-    ],
-    "answer": "-ing"
-  },
-  {
-    "numero": 39,
-    "question": "In the sentence “They made him president”, what is “president”?",
-    "options": [
-      "Subject complement",
-      "Object complement",
-      "Appositive",
-      "Direct object"
-    ],
-    "answer": "Object complement"
-  },
-  {
-    "numero": 40,
-    "question": "The syntagmatic relationship is:",
-    "options": [
-      "Vertical",
-      "Hierarchical",
-      "Linear and sequential",
-      "Random"
-    ],
-    "answer": "Linear and sequential"
-  },
-  {
-    "numero": 41,
-    "question": "In corpus linguistics, collocations are:",
-    "options": [
-      "Mistakes in speech",
-      "Frequent word combinations",
-      "Irregular verbs",
-      "Synonyms"
-    ],
-    "answer": "Frequent word combinations"
-  },
-  {
-    "numero": 42,
-    "question": "What is metalanguage?",
-    "options": [
-      "A language for programming",
-      "Language about language",
-      "Literary figurative language",
-      "Sign language"
-    ],
-    "answer": "Language about language"
-  },
-  {
-    "numero": 43,
-    "question": "What’s the main function of a conjunction?",
-    "options": [
-      "To modify a noun",
-      "To connect clauses",
-      "To express mood",
-      "To negate a verb"
-    ],
-    "answer": "To connect clauses"
-  },
-  {
-    "numero": 44,
-    "question": "“He’s not just clever – he’s a genius.” What rhetorical device is this?",
-    "options": [
-      "Simile",
-      "Hyperbole",
-      "Understatement",
-      "Antithesis"
-    ],
-    "answer": "Antithesis"
-  },
-  {
-    "numero": 45,
-    "question": "“Time is a thief.” is an example of:",
-    "options": [
-      "Personification",
-      "Simile",
-      "Irony",
-      "Euphemism"
-    ],
-    "answer": "Personification"
-  },{
-    "numero": 46,
-    "question": "The Silent Way is characterized by:",
-    "options": [
-      "Teacher talking time",
-      "Grammar translation",
-      "Minimal teacher intervention",
-      "Repetition drills"
-    ],
-    "answer": "Minimal teacher intervention"
-  },
-  {
-    "numero": 47,
-    "question": "In English-speaking cultures, eye contact usually signifies:",
-    "options": [
-      "Aggression",
-      "Honesty and attention",
-      "Disrespect",
-      "Boredom"
-    ],
-    "answer": "Honesty and attention"
-  },
-  {
-    "numero": 48,
-    "question": "Which classroom technique reduces teacher talking time?",
-    "options": [
-      "Lecturing",
-      "Think-pair-share",
-      "Dictation",
-      "Reading aloud"
-    ],
-    "answer": "Think-pair-share"
-  },
-  {
-    "numero": 49,
-    "question": "Which language skill is usually emphasized in immersion programs?",
-    "options": [
-      "Listening",
-      "Writing",
-      "Translation",
-      "Reading"
-    ],
-    "answer": "Listening"
-  },
-  {
-    "numero": 50,
-    "question": "In lesson planning, a “warmer” is:",
-    "options": [
-      "A final activity",
-      "A grammatical explanation",
-      "An opening interactive activity",
-      "A review test"
-    ],
-    "answer": "An opening interactive activity"
-  },{
-    "numero": 1,
-    "question": "Which of the following is a non-finite verb?",
-    "options": [
-      "Runs",
-      "Is",
-      "Running",
-      "Was"
-    ],
-    "answer": "Running"
-  },
-  {
-    "numero": 2,
-    "question": "Identify the correct sentence with parallel structure.",
-    "options": [
-      "She likes reading, to swim, and biking.",
-      "She likes reading, swimming, and biking.",
-      "She likes to read, to swim, and biking.",
-      "She likes to read, swimming, and bike."
-    ],
-    "answer": "She likes reading, swimming, and biking."
-  },
-  {
-    "numero": 3,
-    "question": "Which of the following is an example of a phrasal verb?",
-    "options": [
-      "Discover",
-      "Run",
-      "Take off",
-      "Suggest"
-    ],
-    "answer": "Take off"
-  },
-  {
-    "numero": 4,
-    "question": "In English, the schwa /ə/ sound typically occurs in:",
-    "options": [
-      "Stressed syllables",
-      "Open syllables only",
-      "Unstressed syllables",
-      "Word-final position only"
-    ],
-    "answer": "Unstressed syllables"
-  },
-  {
-    "numero": 5,
-    "question": "Which is NOT a communicative approach principle?",
-    "options": [
-      "Use of authentic material",
-      "Emphasis on grammar drills",
-      "Focus on meaning",
-      "Interaction in the target language"
-    ],
-    "answer": "Emphasis on grammar drills"
-  },
-  {
-    "numero": 6,
-    "question": "The sentence “Neither the teacher nor the students ____ late.” requires which verb?",
-    "options": [
-      "Was",
-      "Is",
-      "Are",
-      "Has been"
-    ],
-    "answer": "Are"
-  },
-  {
-    "numero": 7,
-    "question": "Which of the following best defines “backchaining”?",
-    "options": [
-      "Teaching vocabulary backwards",
-      "Repeating a sentence in reverse order",
-      "Practicing pronunciation from the end of a phrase backward",
-      "Correcting students after they speak"
-    ],
-    "answer": "Practicing pronunciation from the end of a phrase backward"
-  },
-  {
-    "numero": 8,
-    "question": "What is the function of the word “however” in the sentence: “He was tired. However, he kept working”?",
-    "options": [
-      "Conjunction",
-      "Determiner",
-      "Discourse marker",
-      "Interjection"
-    ],
-    "answer": "Discourse marker"
-  },
-  {
-    "numero": 9,
-    "question": "Identify the cleft sentence:",
-    "options": [
-      "It was John who broke the vase.",
-      "John broke the vase.",
-      "The vase was broken by John.",
-      "John is the one that broke the vase."
-    ],
-    "answer": "It was John who broke the vase."
-  },
-  {
-    "numero": 10,
-    "question": "Which is an example of a fossilized error?",
-    "options": [
-      "Mispronouncing a word occasionally",
-      "Forgetting irregular verb forms",
-      "A recurring, uncorrected error in fluent speech",
-      "A mistake in early language acquisition"
-    ],
-    "answer": "A recurring, uncorrected error in fluent speech"
-  }, {
-    "numero": 1,
-    "question": "Which sentence correctly uses the subjunctive mood?",
-    "options": [
-      "If I was you, I would apply for the job.",
-      "If I were you, I would apply for the job.",
-      "If I am you, I would apply for the job.",
-      "If I will be you, I would apply for the job."
-    ],
-    "answer": "If I were you, I would apply for the job."
-  },
-  {
-    "numero": 2,
-    "question": "Which of the following sentences contains a dangling modifier?",
-    "options": [
-      "Running to catch the bus, the rain started pouring.",
-      "While running to catch the bus, I dropped my phone.",
-      "The boy, running to catch the bus, tripped.",
-      "I was running to catch the bus and it rained."
-    ],
-    "answer": "Running to catch the bus, the rain started pouring."
-  },
-  {
-    "numero": 3,
-    "question": "Which word is an example of a gerund?",
-    "options": ["Swimming", "Swim", "Swam", "Swum"],
-    "answer": "Swimming"
-  },
-  {
-    "numero": 4,
-    "question": "Which sentence correctly uses a restrictive clause?",
-    "options": [
-      "The students, who studied hard, passed the test.",
-      "The students who studied hard passed the test.",
-      "The students, that studied hard, passed the test.",
-      "The students, which studied hard, passed the test."
-    ],
-    "answer": "The students who studied hard passed the test."
-  },
-  {
-    "numero": 5,
-    "question": "Which of the following uses “whom” correctly?",
-    "options": [
-      "Whom is coming to the meeting?",
-      "Whom should I speak to?",
-      "Whom is in charge?",
-      "Whom called you?"
-    ],
-    "answer": "Whom should I speak to?"
-  },
-  {
-    "numero": 6,
-    "question": "Which sentence contains a split infinitive?",
-    "options": [
-      "She decided to quickly leave.",
-      "She decided quickly to leave.",
-      "She decided to leave quickly.",
-      "She quickly decided to leave."
-    ],
-    "answer": "She decided to quickly leave."
-  },
-  {
-    "numero": 7,
-    "question": "Which phrasal verb means “to cancel”?",
-    "options": ["Take over", "Put up with", "Call off", "Break into"],
-    "answer": "Call off"
-  },
-  {
-    "numero": 8,
-    "question": "Which sentence correctly uses the past perfect tense?",
-    "options": [
-      "By the time he arrived, we had already left.",
-      "By the time he arrived, we already left.",
-      "By the time he arrived, we leave already.",
-      "By the time he arrived, we have left already."
-    ],
-    "answer": "By the time he arrived, we had already left."
-  },
-  {
-    "numero": 9,
-    "question": "Which word is an example of a countable noun?",
-    "options": ["Advice", "Information", "Chairs", "Furniture"],
-    "answer": "Chairs"
-  },
-  {
-    "numero": 10,
-    "question": "Which idiom means “to reveal a secret”?",
-    "options": [
-      "Hit the sack",
-      "Let the cat out of the bag",
-      "Kick the bucket",
-      "Break the ice"
-    ],
-    "answer": "Let the cat out of the bag"
-  },
-  {
-    "numero": 11,
-    "question": "Which sentence contains correct subject-verb agreement?",
-    "options": [
-      "Neither the teacher nor the students knows the answer.",
-      "Neither the teacher nor the students know the answer.",
-      "Neither the teacher nor the students is knowing the answer.",
-      "Neither the teacher nor the students was knowing the answer."
-    ],
-    "answer": "Neither the teacher nor the students know the answer."
-  },
-  {
-    "numero": 12,
-    "question": "Which sentence uses “fewer” correctly?",
-    "options": [
-      "There are fewer people here than yesterday.",
-      "There are fewer water in the bottle.",
-      "There is fewer noise now.",
-      "There are fewer happiness."
-    ],
-    "answer": "There are fewer people here than yesterday."
-  },
-  {
-    "numero": 13,
-    "question": "Which of the following is a homophone of “principal”?",
-    "options": ["Principle", "Printable", "Prince", "Precedent"],
-    "answer": "Principle"
-  },
-  {
-    "numero": 14,
-    "question": "Which sentence contains parallel structure?",
-    "options": [
-      "She likes reading, writing, and to jog.",
-      "She likes reading, writing, and jogging.",
-      "She likes reading, to write, and jogging.",
-      "She likes to read, writing, and jogging."
-    ],
-    "answer": "She likes reading, writing, and jogging."
-  },
-  {
-    "numero": 15,
-    "question": "Which is a synonym for “meticulous”?",
-    "options": ["Careless", "Precise", "Hasty", "Sloppy"],
-    "answer": "Precise"
+    "question": "“亡羊补牢”这个成语的含义是？",
+    "options": ["出现问题后及时补救。", "对问题视而不见。", "抓住机会。", "追悔莫及。"],
+    "answer": "出现问题后及时补救。"
   },
   {
     "numero": 16,
-    "question": "Which sentence is written in passive voice?",
-    "options": [
-      "The manager approved the request.",
-      "The request was approved by the manager.",
-      "The manager is approving the request.",
-      "The manager has approved the request."
-    ],
-    "answer": "The request was approved by the manager."
+    "question": "下列哪个句子使用了倒装句？",
+    "options": ["他昨天去了北京。", "去了北京的，是他昨天。", "他昨天北京去了。", "他去了昨天北京。"],
+    "answer": "去了北京的，是他昨天。"
   },
   {
     "numero": 17,
-    "question": "Which sentence uses the future perfect continuous correctly?",
-    "options": [
-      "By next June, she will have been working here for five years.",
-      "By next June, she will have worked here for five years.",
-      "By next June, she will be working here for five years.",
-      "By next June, she works here for five years."
-    ],
-    "answer": "By next June, she will have been working here for five years."
+    "question": "下列哪个短语是偏正结构？",
+    "options": ["红苹果", "爸爸妈妈", "上下左右", "吃喝玩乐"],
+    "answer": "红苹果"
   },
   {
     "numero": 18,
-    "question": "Which of these is an oxymoron?",
-    "options": ["Deafening silence", "Heavy rain", "Loud music", "Gentle breeze"],
-    "answer": "Deafening silence"
+    "question": "“三顾茅庐”这个成语用来形容什么？",
+    "options": [
+      "热情好客",
+      "礼贤下士，诚心邀请人才",
+      "粗心大意",
+      "勤奋好学"
+    ],
+    "answer": "礼贤下士，诚心邀请人才"
   },
   {
     "numero": 19,
-    "question": "Which conditional sentence is correct (third conditional)?",
-    "options": [
-      "If I studied, I would pass the exam.",
-      "If I had studied, I would have passed the exam.",
-      "If I study, I will pass the exam.",
-      "If I would have studied, I would have passed."
-    ],
-    "answer": "If I had studied, I would have passed the exam."
+    "question": "下列哪个成语含有褒义？",
+    "options": ["背信弃义", "脱颖而出", "目中无人", "狼狈不堪"],
+    "answer": "脱颖而出"
   },
   {
     "numero": 20,
-    "question": "Which prefix gives the opposite meaning of “approve”?",
-    "options": ["Re-", "Dis-", "Mis-", "Un-"],
-    "answer": "Dis-"
+    "question": "“把书放在桌子上”中，“桌子上”是什么成分？",
+    "options": ["宾语", "定语", "状语", "补语"],
+    "answer": "补语"
   },
   {
     "numero": 21,
-    "question": "Which sentence contains a misplaced modifier?",
-    "options": [
-      "She almost drove her kids to school every day.",
-      "She drove her kids to school almost every day.",
-      "She served sandwiches to the children on paper plates.",
-      "She gave the sandwiches to the children on paper plates."
-    ],
-    "answer": "She drove her kids to school almost every day."
+    "question": "下列哪个是“形容词重叠式”？",
+    "options": ["高高兴兴", "跑跑跳跳", "哭哭啼啼", "说说笑笑"],
+    "answer": "高高兴兴"
   },
   {
     "numero": 22,
-    "question": "Which word is the past participle of “sink”?",
-    "options": ["Sanked", "Sunk", "Sinked", "Sank"],
-    "answer": "Sunk"
+    "question": "下列句子哪个使用了比喻修辞？",
+    "options": ["他跑得很快。", "她的眼睛像星星一样亮。", "我们去学校上课。", "他喜欢音乐。"],
+    "answer": "她的眼睛像星星一样亮。"
   },
   {
     "numero": 23,
-    "question": "Which expression means “to be in trouble”?",
-    "options": [
-      "In the red",
-      "In the green",
-      "On cloud nine",
-      "In the clear"
-    ],
-    "answer": "In the red"
+    "question": "下列哪个成语用来形容学习勤奋？",
+    "options": ["废寝忘食", "自相矛盾", "夜郎自大", "杀鸡取卵"],
+    "answer": "废寝忘食"
   },
   {
     "numero": 24,
-    "question": "Which of these sentences uses an ellipsis correctly?",
-    "options": [
-      "“I was thinking… maybe we could try again,” she said.",
-      "I was thinking… maybe we could try again.",
-      "“I was… thinking maybe we could try again.”",
-      "“I… was thinking maybe… we could try again.”"
-    ],
-    "answer": "“I was thinking… maybe we could try again,” she said."
+    "question": "下列哪个词语属于书面语？",
+    "options": ["东西", "给予", "给", "买东西"],
+    "answer": "给予"
   },
   {
     "numero": 25,
-    "question": "Which of these words is a false cognate with French?",
-    "options": ["Library", "Important", "Intelligent", "Restaurant"],
-    "answer": "Library"
+    "question": "下列哪个句子含有宾语前置现象？",
+    "options": ["谁你看见了？", "你看见谁了？", "我看见他了。", "他看见我了。"],
+    "answer": "谁你看见了？"
   },
   {
     "numero": 26,
-    "question": "Which sentence is in reported speech?",
-    "options": [
-      "She said, “I’m tired.”",
-      "She said that she was tired.",
-      "She said she is tired.",
-      "She says, “I’m tired.”"
-    ],
-    "answer": "She said that she was tired."
+    "question": "下列哪个词语的反义词是“复杂”？",
+    "options": ["困难", "简单", "困惑", "混乱"],
+    "answer": "简单"
   },
   {
     "numero": 27,
-    "question": "Which suffix forms adjectives?",
-    "options": ["-ness", "-ly", "-ful", "-tion"],
-    "answer": "-ful"
+    "question": "“对牛弹琴”这个成语的意思是？",
+    "options": [
+      "做事不合对象，白费力气。",
+      "对别人演奏音乐。",
+      "给牛弹琴。",
+      "向对手示弱。"
+    ],
+    "answer": "做事不合对象，白费力气。"
   },
   {
     "numero": 28,
-    "question": "Which word is an example of an irregular plural?",
-    "options": ["Apples", "Mice", "Chairs", "Houses"],
-    "answer": "Mice"
+    "question": "下列哪句话使用了省略句？",
+    "options": [
+      "我去了学校，他也去了（学校）。",
+      "我去了学校。",
+      "我去了学校，他去了家。",
+      "他去上课了。"
+    ],
+    "answer": "我去了学校，他也去了（学校）。"
   },
   {
     "numero": 29,
-    "question": "Which sentence uses “affect” as a verb correctly?",
-    "options": [
-      "The weather will greatly affect our plans.",
-      "The affect of the storm was huge.",
-      "The weather will effect our plans.",
-      "The weather will have a big affect."
-    ],
-    "answer": "The weather will greatly affect our plans."
+    "question": "下列哪个是“趋向补语”？",
+    "options": ["拿出来", "看见", "听懂", "写好"],
+    "answer": "拿出来"
   },
   {
     "numero": 30,
-    "question": "Which expression is a metaphor?",
-    "options": [
-      "Time is a thief.",
-      "Time passes quickly.",
-      "Time runs out.",
-      "Time flies."
-    ],
-    "answer": "Time is a thief."
+    "question": "下列哪个成语表示“自相矛盾”？",
+    "options": ["鹬蚌相争", "自相矛盾", "杀鸡取卵", "杞人忧天"],
+    "answer": "自相矛盾"
   },
   {
     "numero": 31,
-    "question": "Which sentence contains correct punctuation for a non-restrictive clause?",
-    "options": [
-      "My brother who lives in London is visiting.",
-      "My brother, who lives in London, is visiting.",
-      "My brother, who lives in London is visiting.",
-      "My brother who lives in London, is visiting."
-    ],
-    "answer": "My brother, who lives in London, is visiting."
+    "question": "下列哪个是“离合词”？",
+    "options": ["跳舞", "踢足球", "吃饭", "读书"],
+    "answer": "跳舞"
   },
   {
     "numero": 32,
-    "question": "Which of these is a collocation?",
-    "options": [
-      "Make a decision",
-      "Do a decision",
-      "Create a decision",
-      "Build a decision"
-    ],
-    "answer": "Make a decision"
+    "question": "下列哪个句子是宾语省略句？",
+    "options": ["我吃过了。", "我吃过饭了。", "我吃饭了。", "我吃了饭。"],
+    "answer": "我吃过了。"
   },
   {
     "numero": 33,
-    "question": "Which word is a synonym of “ubiquitous”?",
-    "options": ["Rare", "Present everywhere", "Secret", "Hidden"],
-    "answer": "Present everywhere"
+    "question": "下列哪个成语的近义词是“精益求精”？",
+    "options": ["锲而不舍", "尽善尽美", "大公无私", "亡羊补牢"],
+    "answer": "尽善尽美"
   },
   {
     "numero": 34,
-    "question": "Which sentence correctly uses “lay” (verb)?",
+    "question": "“一丝不苟”这个成语用来形容什么？",
     "options": [
-      "Please lay the book on the table.",
-      "I will lay down for a nap.",
-      "She lays on the couch.",
-      "He is laying there yesterday."
+      "做事非常认真细致。",
+      "做事粗心大意。",
+      "做事快速有效。",
+      "做事懒散拖拉。"
     ],
-    "answer": "Please lay the book on the table."
+    "answer": "做事非常认真细致。"
   },
   {
     "numero": 35,
-    "question": "Which tense is used in: “I have been reading for two hours”?",
-    "options": [
-      "Present perfect",
-      "Present perfect continuous",
-      "Past continuous",
-      "Past perfect"
-    ],
-    "answer": "Present perfect continuous"
+    "question": "下列哪个句子是双宾语句？",
+    "options": ["我给他一本书。", "我写书。", "我送书。", "他读书。"],
+    "answer": "我给他一本书。"
   },
   {
     "numero": 36,
-    "question": "Which idiom means “to agree with someone”?",
-    "options": [
-      "See eye to eye",
-      "See red",
-      "Give the cold shoulder",
-      "Take with a grain of salt"
-    ],
-    "answer": "See eye to eye"
+    "question": "下列哪个成语用来形容人非常少？",
+    "options": ["人山人海", "寥寥无几", "成千上万", "摩肩接踵"],
+    "answer": "寥寥无几"
   },
   {
     "numero": 37,
-    "question": "Which sentence uses “who’s” correctly?",
-    "options": [
-      "Who’s book is this?",
-      "Who’s coming to the party?",
-      "Who’s house is that?",
-      "Who’s car is broken?"
-    ],
-    "answer": "Who’s coming to the party?"
+    "question": "下列哪个短语是动宾结构？",
+    "options": ["吃饭", "高兴", "很漂亮", "爸爸妈妈"],
+    "answer": "吃饭"
   },
   {
     "numero": 38,
-    "question": "Which sentence contains inversion?",
-    "options": [
-      "I have never seen such a mess.",
-      "Never have I seen such a mess.",
-      "I saw such a mess never.",
-      "I never saw such a mess."
-    ],
-    "answer": "Never have I seen such a mess."
+    "question": "下列哪个是偏正结构的成语？",
+    "options": ["一清二楚", "鸡飞狗跳", "风和日丽", "自言自语"],
+    "answer": "一清二楚"
   },
   {
     "numero": 39,
-    "question": "Which expression is a euphemism for “to die”?",
-    "options": ["Pass away", "Fall asleep", "Fall over", "Pass by"],
-    "answer": "Pass away"
+    "question": "下列哪个句子是连谓句？",
+    "options": ["他回家吃饭。", "他吃饭回家。", "他回家了。", "他吃饭了。"],
+    "answer": "他回家吃饭。"
   },
   {
     "numero": 40,
-    "question": "Which of these is a phrasal verb meaning “to tolerate”?",
-    "options": ["Put up with", "Put down", "Put away", "Put in"],
-    "answer": "Put up with"
+    "question": "下列哪个成语表示“互不相容”？",
+    "options": ["水火不容", "唇亡齿寒", "同舟共济", "风雨同舟"],
+    "answer": "水火不容"
   },
   {
     "numero": 41,
-    "question": "Which sentence correctly uses the word “whose”?",
-    "options": [
-      "Whose car is parked outside?",
-      "Who’s car is parked outside?",
-      "Whose going outside?",
-      "Who’s going outside?"
-    ],
-    "answer": "Whose car is parked outside?"
+    "question": "下列哪个句子是“是……的”句式？",
+    "options": ["他是昨天来的。", "他昨天来。", "他昨天来了。", "昨天他来。"],
+    "answer": "他是昨天来的。"
   },
   {
     "numero": 42,
-    "question": "Which word is a collective noun?",
-    "options": ["Team", "Teams", "Players", "Grouped"],
-    "answer": "Team"
+    "question": "下列哪个成语用来形容人心情很紧张？",
+    "options": ["心急如焚", "不辞而别", "安然无恙", "自作自受"],
+    "answer": "心急如焚"
   },
   {
     "numero": 43,
-    "question": "Which sentence is conditional type 1?",
-    "options": [
-      "If it rains, we will cancel the picnic.",
-      "If it rained, we would cancel the picnic.",
-      "If it had rained, we would have canceled the picnic.",
-      "If it rains, we would cancel the picnic."
-    ],
-    "answer": "If it rains, we will cancel the picnic."
+    "question": "下列哪个句子含有宾语后置？",
+    "options": ["我认识的人很多。", "我认识很多人。", "我人认识很多。", "我很多人认识。"],
+    "answer": "我认识的人很多。"
   },
   {
     "numero": 44,
-    "question": "Which is an example of alliteration?",
-    "options": [
-      "Peter Piper picked a peck of pickled peppers.",
-      "The cat chased the mouse.",
-      "She sells sea shells.",
-      "The wind blew hard."
-    ],
-    "answer": "Peter Piper picked a peck of pickled peppers."
+    "question": "下列哪个成语形容“表面上热闹，实际没内容”？",
+    "options": ["虚张声势", "热闹非凡", "哗众取宠", "雷声大，雨点小"],
+    "answer": "雷声大，雨点小"
   },
   {
     "numero": 45,
-    "question": "Which expression means “to stop trying”?",
-    "options": ["Give up", "Give in", "Give out", "Give off"],
-    "answer": "Give up"
+    "question": "下列哪个句子属于并列复句？",
+    "options": [
+      "天气冷，我穿得多。",
+      "因为天气冷，所以穿得多。",
+      "虽然天气冷，但是穿得少。",
+      "如果天气冷，就多穿衣服。"
+    ],
+    "answer": "天气冷，我穿得多。"
   },
   {
     "numero": 46,
-    "question": "Which word is the past participle of “go”?",
-    "options": ["Went", "Gone", "Goes", "Going"],
-    "answer": "Gone"
+    "question": "下列哪个词语属于古汉语词汇？",
+    "options": ["昔日", "今天", "明天", "现在"],
+    "answer": "昔日"
   },
   {
     "numero": 47,
-    "question": "Which sentence contains a double negative?",
-    "options": [
-      "I don’t know nothing.",
-      "I don’t know anything.",
-      "I know nothing.",
-      "I know something."
-    ],
-    "answer": "I don’t know nothing."
+    "question": "下列哪个成语表示“情况非常危险”？",
+    "options": ["危在旦夕", "安然无恙", "心平气和", "步步为营"],
+    "answer": "危在旦夕"
   },
   {
     "numero": 48,
-    "question": "Which of these is an example of a heteronym?",
-    "options": [
-      "Lead (metal) / lead (to guide)",
-      "Bear / bare",
-      "There / their",
-      "Write / right"
-    ],
-    "answer": "Lead (metal) / lead (to guide)"
+    "question": "下列哪个句子是“被”字句？",
+    "options": ["书被他看完了。", "他看完了书。", "他书看完了。", "看完书了他。"],
+    "answer": "书被他看完了。"
   },
   {
     "numero": 49,
-    "question": "Which sentence correctly uses the semi-colon?",
+    "question": "下列哪个句子使用了“连……都……”结构？",
     "options": [
-      "I have a meeting tomorrow; however, I will try to attend.",
-      "I have a meeting tomorrow; and I will attend.",
-      "I have a meeting tomorrow; but I will attend.",
-      "I have a meeting; tomorrow, I will attend."
+      "连老师都不知道答案。",
+      "老师不知道答案。",
+      "老师连答案不知道。",
+      "都老师不知道答案。"
     ],
-    "answer": "I have a meeting tomorrow; however, I will try to attend."
+    "answer": "连老师都不知道答案。"
   },
   {
     "numero": 50,
-    "question": "Which expression is an idiom meaning “to be very happy”?",
-    "options": [
-      "On cloud nine",
-      "In hot water",
-      "Under the weather",
-      "In the doghouse"
-    ],
-    "answer": "On cloud nine"
+    "question": "下列哪个成语形容“努力学习”？",
+    "options": ["悬梁刺股", "指鹿为马", "掩耳盗铃", "破釜沉舟"],
+    "answer": "悬梁刺股"
   }
 ]
