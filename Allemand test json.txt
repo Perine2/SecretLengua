@@ -1,511 +1,511 @@
 [ {
-    "nummer": 1,
-    "frage": "Welcher Satz verwendet den Konjunktiv I korrekt für indirekte Rede?",
-    "optionen": [
+    "number": 1,
+    "question": "Welcher Satz verwendet den Konjunktiv I korrekt für indirekte Rede?",
+    "options": [
       "Er sagte, er wäre krank.",
       "Er sagte, er sei krank.",
       "Er sagte, er wäre krank gewesen.",
       "Er sagte, er ist krank."
     ],
-    "antwort": "Er sagte, er sei krank."
+    "answer": "Er sagte, er sei krank."
   },
   {
-    "nummer": 2,
-    "frage": "Welche Formulierung entspricht stilistisch gehobenem Deutsch?",
-    "optionen": [
+    "number": 2,
+    "question": "Welche Formulierung entspricht stilistisch gehobenem Deutsch?",
+    "options": [
       "Ich habe keinen Bock darauf.",
       "Ich habe keine Lust darauf.",
       "Ich verspüre keine Neigung dazu.",
       "Ich will das nicht."
     ],
-    "antwort": "Ich verspüre keine Neigung dazu."
+    "answer": "Ich verspüre keine Neigung dazu."
   },
   {
-    "nummer": 3,
-    "frage": "Welche Wortart ist deren im Satz „Das Mädchen, deren Mutter Lehrerin ist, …“?",
-    "optionen": [
+    "number": 3,
+    "question": "Welche Wortart ist deren im Satz „Das Mädchen, deren Mutter Lehrerin ist, …“?",
+    "options": [
       "Relativpronomen",
       "Demonstrativpronomen",
       "Possessivpronomen",
       "Artikel"
     ],
-    "antwort": "Relativpronomen"
+    "answer": "Relativpronomen"
   },
   {
-    "nummer": 4,
-    "frage": "Welcher Satz enthält einen Fehler in der Kasusrektion?",
-    "optionen": [
+    "number": 4,
+    "question": "Welcher Satz enthält einen Fehler in der Kasusrektion?",
+    "options": [
       "Er erinnerte sich an den Vorfall.",
       "Er bat ihn um Hilfe.",
       "Er half ihm bei der Arbeit.",
       "Er vertraute an seinen Freund."
     ],
-    "antwort": "Er vertraute an seinen Freund."
+    "answer": "Er vertraute an seinen Freund."
   },
   {
-    "nummer": 5,
-    "frage": "Welcher Satz verwendet die Infinitivkonstruktion mit zu korrekt?",
-    "optionen": [
+    "number": 5,
+    "question": "Welcher Satz verwendet die Infinitivkonstruktion mit zu korrekt?",
+    "options": [
       "Er beschloss, nach Hause zu gehen.",
       "Er beschloss, gehen nach Hause.",
       "Er beschloss zu nach Hause gehen.",
       "Er beschloss, nach Hause gehend."
     ],
-    "antwort": "Er beschloss, nach Hause zu gehen."
+    "answer": "Er beschloss, nach Hause zu gehen."
   },
   {
-    "nummer": 6,
-    "frage": "Was bezeichnet man im Deutschen als Ablaut?",
-    "optionen": [
+    "number": 6,
+    "question": "Was bezeichnet man im Deutschen als Ablaut?",
+    "options": [
       "Umlautbildung bei Pluralen",
       "Stammvokalwechsel in starken Verben",
       "Verschiebung von Endungen im Perfekt",
       "Lautveränderung durch Präfixe"
     ],
-    "antwort": "Stammvokalwechsel in starken Verben"
+    "answer": "Stammvokalwechsel in starken Verben"
   },
   {
-    "nummer": 7,
-    "frage": "Welche Redewendung bedeutet „jemanden täuschen“?",
-    "optionen": [
+    "number": 7,
+    "question": "Welche Redewendung bedeutet „jemanden täuschen“?",
+    "options": [
       "jemandem Sand in die Augen streuen",
       "jemandem den Rücken stärken",
       "jemandem ins Wort fallen",
       "jemandem einen Strich durch die Rechnung machen"
     ],
-    "antwort": "jemandem Sand in die Augen streuen"
+    "answer": "jemandem Sand in die Augen streuen"
   },
   {
-    "nummer": 8,
-    "frage": "Welcher Satz zeigt die korrekte Verbklammer mit Modalverb und Infinitiv?",
-    "optionen": [
+    "number": 8,
+    "question": "Welcher Satz zeigt die korrekte Verbklammer mit Modalverb und Infinitiv?",
+    "options": [
       "Er kann sich erinnern zu haben.",
       "Er kann sich daran erinnern.",
       "Er sich erinnern kann daran.",
       "Er kann daran sich erinnern."
     ],
-    "antwort": "Er kann sich daran erinnern."
+    "answer": "Er kann sich daran erinnern."
   },
   {
-    "nummer": 9,
-    "frage": "Welche Präposition verlangt den Genitiv?",
-    "optionen": ["wegen", "durch", "bei", "mit"],
-    "antwort": "wegen"
+    "number": 9,
+    "question": "Welche Präposition verlangt den Genitiv?",
+    "options": ["wegen", "durch", "bei", "mit"],
+    "answer": "wegen"
   },
   {
-    "nummer": 10,
-    "frage": "Welcher Satz ist stilistisch fehlerhaft (Pleonasmus)?",
-    "optionen": [
+    "number": 10,
+    "question": "Welcher Satz ist stilistisch fehlerhaft (Pleonasmus)?",
+    "options": [
       "Er ging mit langsamen Schritten.",
       "Er wiederholte es noch einmal erneut.",
       "Sie sprach mit leiser Stimme.",
       "Das Ergebnis war vollkommen klar."
     ],
-    "antwort": "Er wiederholte es noch einmal erneut."
+    "answer": "Er wiederholte es noch einmal erneut."
   },
   {
-    "nummer": 11,
-    "frage": "Wie nennt man die Verschiebung des Verbs in Nebensätzen im Deutschen?",
-    "optionen": [
+    "number": 11,
+    "question": "Wie nennt man die Verschiebung des Verbs in Nebensätzen im Deutschen?",
+    "options": [
       "Verbalstellung",
       "Verbzweitstellung",
       "Verbletztstellung",
       "Inversion"
     ],
-    "antwort": "Verbletztstellung"
+    "answer": "Verbletztstellung"
   },
   {
-    "nummer": 12,
-    "frage": "Welche Lautbeschreibung ist korrekt für den Laut „ch“ in ich?",
-    "optionen": [
+    "number": 12,
+    "question": "Welche Lautbeschreibung ist korrekt für den Laut „ch“ in ich?",
+    "options": [
       "stimmloser velarer Plosiv",
       "stimmloser palataler Frikativ",
       "stimmloser glottaler Frikativ",
       "stimmhafter alveolarer Frikativ"
     ],
-    "antwort": "stimmloser palataler Frikativ"
+    "answer": "stimmloser palataler Frikativ"
   },
   {
-    "nummer": 13,
-    "frage": "Welcher Satz enthält eine Apposition?",
-    "optionen": [
+    "number": 13,
+    "question": "Welcher Satz enthält eine Apposition?",
+    "options": [
       "Frau Müller, unsere Nachbarin, ist Lehrerin.",
       "Frau Müller geht einkaufen.",
       "Frau Müller hilft uns.",
       "Frau Müller wird angerufen."
     ],
-    "antwort": "Frau Müller, unsere Nachbarin, ist Lehrerin."
+    "answer": "Frau Müller, unsere Nachbarin, ist Lehrerin."
   },
   {
-    "nummer": 14,
-    "frage": "Welche Form ist korrekt für den Konjunktiv II Plusquamperfekt?",
-    "optionen": [
+    "number": 14,
+    "question": "Welche Form ist korrekt für den Konjunktiv II Plusquamperfekt?",
+    "options": [
       "ich hätte gegangen",
       "ich wäre gegangen",
       "ich habe gegangen",
       "ich wäre gehe"
     ],
-    "antwort": "ich wäre gegangen"
+    "answer": "ich wäre gegangen"
   },
   {
-    "nummer": 15,
-    "frage": "Welcher Satz verwendet eine Konjunktionaladverbial korrekt?",
-    "optionen": [
+    "number": 15,
+    "question": "Welcher Satz verwendet eine Konjunktionaladverbial korrekt?",
+    "options": [
       "Ich hatte Hunger, dennoch aß ich nichts.",
       "Ich hatte Hunger, dass ich nichts aß.",
       "Ich hatte Hunger, trotzdem ich aß nichts.",
       "Ich hatte Hunger, obgleich ich nichts aß."
     ],
-    "antwort": "Ich hatte Hunger, dennoch aß ich nichts."
+    "answer": "Ich hatte Hunger, dennoch aß ich nichts."
   },
   {
-    "nummer": 16,
-    "frage": "Was bezeichnet man als Partizipialattribut?",
-    "optionen": [
+    "number": 16,
+    "question": "Was bezeichnet man als Partizipialattribut?",
+    "options": [
       "Ein Adjektiv, das ein Substantiv beschreibt",
       "Ein Partizip, das ein Substantiv beschreibt",
       "Ein Verb im Infinitiv, das ein Substantiv beschreibt",
       "Ein Pronominalattribut"
     ],
-    "antwort": "Ein Partizip, das ein Substantiv beschreibt"
+    "answer": "Ein Partizip, das ein Substantiv beschreibt"
   },
   {
-    "nummer": 17,
-    "frage": "Welcher Satz enthält einen Prädikatsnomen?",
-    "optionen": [
+    "number": 17,
+    "question": "Welcher Satz enthält einen Prädikatsnomen?",
+    "options": [
       "Er ist Arzt.",
       "Er liest ein Buch.",
       "Er kocht eine Suppe.",
       "Er arbeitet fleißig."
     ],
-    "antwort": "Er ist Arzt."
+    "answer": "Er ist Arzt."
   },
   {
-    "nummer": 18,
-    "frage": "Was versteht man unter Verschiebeprobe?",
-    "optionen": [
+    "number": 18,
+    "question": "Was versteht man unter Verschiebeprobe?",
+    "options": [
       "Man verschiebt Satzglieder, um deren Funktion zu erkennen.",
       "Man ersetzt Satzglieder durch Pronomen.",
       "Man streicht Satzglieder.",
       "Man fügt Adjektive ein."
     ],
-    "antwort": "Man verschiebt Satzglieder, um deren Funktion zu erkennen."
+    "answer": "Man verschiebt Satzglieder, um deren Funktion zu erkennen."
   },
   {
-    "nummer": 19,
-    "frage": "Welche Form des Artikels ist korrekt?",
-    "optionen": [
+    "number": 19,
+    "question": "Welche Form des Artikels ist korrekt?",
+    "options": [
       "des guten Weines",
       "des guten Wein",
       "des guter Weines",
       "des guten Weinses"
     ],
-    "antwort": "des guten Weines"
+    "answer": "des guten Weines"
   },
   {
-    "nummer": 20,
-    "frage": "Welcher Satz verwendet eine historische Konnotation?",
-    "optionen": [
+    "number": 20,
+    "question": "Welcher Satz verwendet eine historische Konnotation?",
+    "options": [
       "Er ist sehr pünktlich.",
       "Er verhielt sich wie ein Hanswurst.",
       "Er ist sehr fleißig.",
       "Er läuft schnell."
     ],
-    "antwort": "Er verhielt sich wie ein Hanswurst."
+    "answer": "Er verhielt sich wie ein Hanswurst."
   },
   {
-    "nummer": 21,
-    "frage": "Welcher Satz steht im Futur II?",
-    "optionen": [
+    "number": 21,
+    "question": "Welcher Satz steht im Futur II?",
+    "options": [
       "Ich werde nach Hause gehen.",
       "Ich werde nach Hause gegangen sein.",
       "Ich gehe nach Hause.",
       "Ich werde nach Hause gegangen."
     ],
-    "antwort": "Ich werde nach Hause gegangen sein."
+    "answer": "Ich werde nach Hause gegangen sein."
   },
   {
-    "nummer": 22,
-    "frage": "Welche Wortart ist „hin“ in „Er ging hin“?",
-    "optionen": ["Präposition", "Adverb", "Partikel", "Konjunktion"],
-    "antwort": "Adverb"
+    "number": 22,
+    "question": "Welche Wortart ist „hin“ in „Er ging hin“?",
+    "options": ["Präposition", "Adverb", "Partikel", "Konjunktion"],
+    "answer": "Adverb"
   },
   {
-    "nummer": 23,
-    "frage": "Welche Stilfigur liegt in „bittersüß“ vor?",
-    "optionen": ["Hyperbel", "Oxymoron", "Alliteration", "Metapher"],
-    "antwort": "Oxymoron"
+    "number": 23,
+    "question": "Welche Stilfigur liegt in „bittersüß“ vor?",
+    "options": ["Hyperbel", "Oxymoron", "Alliteration", "Metapher"],
+    "answer": "Oxymoron"
   },
   {
-    "nummer": 24,
-    "frage": "Welcher Satz zeigt korrekt die Subjunktor-Nebensatzstellung?",
-    "optionen": [
+    "number": 24,
+    "question": "Welcher Satz zeigt korrekt die Subjunktor-Nebensatzstellung?",
+    "options": [
       "Ich bleibe hier, weil es regnet.",
       "Ich bleibe hier, es regnet weil.",
       "Ich bleibe hier, weil regnet es.",
       "Ich bleibe hier, weil es regnet es."
     ],
-    "antwort": "Ich bleibe hier, weil es regnet."
+    "answer": "Ich bleibe hier, weil es regnet."
   },
   {
-    "nummer": 25,
-    "frage": "Welche Form ist ein archaisches Pronomen?",
-    "optionen": ["euer", "ihr", "derjenige", "deinethalben"],
-    "antwort": "deinethalben"
+    "number": 25,
+    "question": "Welche Form ist ein archaisches Pronomen?",
+    "options": ["euer", "ihr", "derjenige", "deinethalben"],
+    "answer": "deinethalben"
   },
   {
-    "nummer": 26,
-    "frage": "Welcher Satz zeigt eine Alliteration?",
-    "optionen": [
+    "number": 26,
+    "question": "Welcher Satz zeigt eine Alliteration?",
+    "options": [
       "Milch macht müde Männer munter.",
       "Er läuft schnell und flink.",
       "Ich bin wie du.",
       "Die Sonne scheint."
     ],
-    "antwort": "Milch macht müde Männer munter."
+    "answer": "Milch macht müde Männer munter."
   },
   {
-    "nummer": 27,
-    "frage": "Welche Negation ist doppelt und deshalb falsch?",
-    "optionen": [
+    "number": 27,
+    "question": "Welche Negation ist doppelt und deshalb falsch?",
+    "options": [
       "Niemand hat etwas gesagt.",
       "Keiner hat nichts gesagt.",
       "Er sagte nichts.",
       "Sie hat niemanden gesehen."
     ],
-    "antwort": "Keiner hat nichts gesagt."
+    "answer": "Keiner hat nichts gesagt."
   },
   {
-    "nummer": 28,
-    "frage": "Welche Präposition verlangt zwingend den Dativ?",
-    "optionen": ["entgegen", "um", "durch", "für"],
-    "antwort": "entgegen"
+    "number": 28,
+    "question": "Welche Präposition verlangt zwingend den Dativ?",
+    "options": ["entgegen", "um", "durch", "für"],
+    "answer": "entgegen"
   },
   {
-    "nummer": 29,
-    "frage": "Welche Form ist typisch für Fachsprache?",
-    "optionen": ["im Hinblick auf", "voll krass", "eh klar", "mega cool"],
-    "antwort": "im Hinblick auf"
+    "number": 29,
+    "question": "Welche Form ist typisch für Fachsprache?",
+    "options": ["im Hinblick auf", "voll krass", "eh klar", "mega cool"],
+    "answer": "im Hinblick auf"
   },
   {
-    "nummer": 30,
-    "frage": "Welche Formulierung entspricht der Nominalstil?",
-    "optionen": [
+    "number": 30,
+    "question": "Welche Formulierung entspricht der Nominalstil?",
+    "options": [
       "Wir haben beschlossen zu handeln.",
       "Wir kamen zu einem Beschluss.",
       "Wir wollen jetzt handeln.",
       "Wir handeln sofort."
     ],
-    "antwort": "Wir kamen zu einem Beschluss."
+    "answer": "Wir kamen zu einem Beschluss."
   },
   {
-    "nummer": 31,
-    "frage": "Welcher Satz zeigt einen Finalsatz?",
-    "optionen": [
+    "number": 31,
+    "question": "Welcher Satz zeigt einen Finalsatz?",
+    "options": [
       "Er lernt, damit er die Prüfung besteht.",
       "Er lernt, weil er die Prüfung bestehen will.",
       "Er lernt, obwohl er müde ist.",
       "Er lernt, als ob er alles wüsste."
     ],
-    "antwort": "Er lernt, damit er die Prüfung besteht."
+    "answer": "Er lernt, damit er die Prüfung besteht."
   },
   {
-    "nummer": 32,
-    "frage": "Welche Lautentwicklung beschreibt die 2. Lautverschiebung?",
-    "optionen": [
+    "number": 32,
+    "question": "Welche Lautentwicklung beschreibt die 2. Lautverschiebung?",
+    "options": [
       "P → F, T → S, K → CH",
       "A → Ä, O → Ö, U → Ü",
       "D → T, B → P, G → K",
       "Vokallängenwechsel"
     ],
-    "antwort": "P → F, T → S, K → CH"
+    "answer": "P → F, T → S, K → CH"
   },
   {
-    "nummer": 33,
-    "frage": "Welche Variante ist standardsprachlich korrekt?",
-    "optionen": [
+    "number": 33,
+    "question": "Welche Variante ist standardsprachlich korrekt?",
+    "options": [
       "Ich habe die Arbeit getan.",
       "Ich habe die Arbeit gemacht.",
       "Ich habe die Arbeit gemacht gehabt.",
       "Ich habe die Arbeit getätigt gehabt."
     ],
-    "antwort": "Ich habe die Arbeit getan."
+    "answer": "Ich habe die Arbeit getan."
   },
   {
-    "nummer": 34,
-    "frage": "Welcher Satz enthält einen Chiasmus?",
-    "optionen": [
+    "number": 34,
+    "question": "Welcher Satz enthält einen Chiasmus?",
+    "options": [
       "Die Kunst ist lang, und kurz ist unser Leben.",
       "Ich kam, sah und siegte.",
       "Der Himmel lacht, die Erde weint.",
       "Das war der schönste Tag meines Lebens."
     ],
-    "antwort": "Die Kunst ist lang, und kurz ist unser Leben."
+    "answer": "Die Kunst ist lang, und kurz ist unser Leben."
   },
   {
-    "nummer": 35,
-    "frage": "Welche Konstruktion entspricht einem Attributsatz?",
-    "optionen": [
+    "number": 35,
+    "question": "Welche Konstruktion entspricht einem Attributsatz?",
+    "options": [
       "Das Buch, das ich gestern gekauft habe, ist spannend.",
       "Ich habe ein Buch gekauft.",
       "Ich lese gern Bücher.",
       "Bücher sind spannend."
     ],
-    "antwort": "Das Buch, das ich gestern gekauft habe, ist spannend."
+    "answer": "Das Buch, das ich gestern gekauft habe, ist spannend."
   },
   {
-    "nummer": 36,
-    "frage": "Welche Form des Plurals ist fehlerhaft?",
-    "optionen": [
+    "number": 36,
+    "question": "Welche Form des Plurals ist fehlerhaft?",
+    "options": [
       "die Atlanten",
       "die Museen",
       "die Genies",
       "die Tempuses"
     ],
-    "antwort": "die Tempuses"
+    "answer": "die Tempuses"
   },
   {
-    "nummer": 37,
-    "frage": "Welcher Satz verwendet korrekt die indirekte Rede mit Konjunktiv I?",
-    "optionen": [
+    "number": 37,
+    "question": "Welcher Satz verwendet korrekt die indirekte Rede mit Konjunktiv I?",
+    "options": [
       "Er sagte, er komme später.",
       "Er sagte, er kommt später.",
       "Er sagte, er käme später.",
       "Er sagte, er ist später gekommen."
     ],
-    "antwort": "Er sagte, er komme später."
+    "answer": "Er sagte, er komme später."
   },
   {
-    "nummer": 38,
-    "frage": "Welches Wort ist ein Homonym?",
-    "optionen": ["Bank", "Auto", "Freund", "Buch"],
-    "antwort": "Bank"
+    "number": 38,
+    "question": "Welches Wort ist ein Homonym?",
+    "options": ["Bank", "Auto", "Freund", "Buch"],
+    "answer": "Bank"
   },
   {
-    "nummer": 39,
-    "frage": "Welche Phrase ist ein Beispiel für ein Partizipialkonstrukt?",
-    "optionen": [
+    "number": 39,
+    "question": "Welche Phrase ist ein Beispiel für ein Partizipialkonstrukt?",
+    "options": [
       "Die Tür öffnend, trat er ein.",
       "Er öffnete die Tür und trat ein.",
       "Er trat ein, als er die Tür öffnete.",
       "Er öffnete die Tür, dann trat er ein."
     ],
-    "antwort": "Die Tür öffnend, trat er ein."
+    "answer": "Die Tür öffnend, trat er ein."
   },
   {
-    "nummer": 40,
-    "frage": "Welche Konstruktion ist typisch für gehobenes Deutsch?",
-    "optionen": [
+    "number": 40,
+    "question": "Welche Konstruktion ist typisch für gehobenes Deutsch?",
+    "options": [
       "Ich habe das gesehen.",
       "Ich habe dessen innegeworden.",
       "Ich habe es mitbekommen.",
       "Ich habe es bemerkt."
     ],
-    "antwort": "Ich habe dessen innegeworden."
+    "answer": "Ich habe dessen innegeworden."
   },
   {
-    "nummer": 41,
-    "frage": "Welche Satzart ist „Komm sofort!“?",
-    "optionen": [
+    "number": 41,
+    "question": "Welche Satzart ist „Komm sofort!“?",
+    "options": [
       "Deklarativsatz",
       "Interrogativsatz",
       "Imperativsatz",
       "Exklamativsatz"
     ],
-    "antwort": "Imperativsatz"
+    "answer": "Imperativsatz"
   },
   {
-    "nummer": 42,
-    "frage": "Welche Endung ist typisch für schwache Maskulina im Genitiv Singular?",
-    "optionen": ["-s", "-es", "-en", "-n"],
-    "antwort": "-en"
+    "number": 42,
+    "question": "Welche Endung ist typisch für schwache Maskulina im Genitiv Singular?",
+    "options": ["-s", "-es", "-en", "-n"],
+    "answer": "-en"
   },
   {
-    "nummer": 43,
-    "frage": "Welche Formulierung entspricht einem Pleonasmus?",
-    "optionen": [
+    "number": 43,
+    "question": "Welche Formulierung entspricht einem Pleonasmus?",
+    "options": [
       "Der weiße Schimmel",
       "Die schwarze Katze",
       "Der blaue Himmel",
       "Das rote Auto"
     ],
-    "antwort": "Der weiße Schimmel"
+    "answer": "Der weiße Schimmel"
   },
   {
-    "nummer": 44,
-    "frage": "Welche Stilfigur ist „der König der Löwen“?",
-    "optionen": [
+    "number": 44,
+    "question": "Welche Stilfigur ist „der König der Löwen“?",
+    "options": [
       "Hyperbel",
       "Metapher",
       "Genitivus subiektivus",
       "Genitivus possessivus"
     ],
-    "antwort": "Genitivus possessivus"
+    "answer": "Genitivus possessivus"
   },
   {
-    "nummer": 45,
-    "frage": "Welche Konstruktion entspricht dem AcI (Accusativus cum Infinitivo)?",
-    "optionen": [
+    "number": 45,
+    "question": "Welche Konstruktion entspricht dem AcI (Accusativus cum Infinitivo)?",
+    "options": [
       "Ich hörte ihn singen.",
       "Ich hörte, dass er singt.",
       "Ich hörte, wie er singt.",
       "Ich hörte, er singt."
     ],
-    "antwort": "Ich hörte ihn singen."
+    "answer": "Ich hörte ihn singen."
   },
   {
-    "nummer": 46,
-    "frage": "Welche Konstruktion verwendet eine Konjunktionaladverbiale?",
-    "optionen": [
+    "number": 46,
+    "question": "Welche Konstruktion verwendet eine Konjunktionaladverbiale?",
+    "options": [
       "Ich hatte Hunger, trotzdem aß ich nicht.",
       "Ich hatte Hunger, dass ich nicht aß.",
       "Ich hatte Hunger, weil ich nicht aß.",
       "Ich hatte Hunger, obgleich ich nicht aß."
     ],
-    "antwort": "Ich hatte Hunger, trotzdem aß ich nicht."
+    "answer": "Ich hatte Hunger, trotzdem aß ich nicht."
   },
   {
-    "nummer": 47,
-    "frage": "Welche Variante ist typisch für gesprochene Umgangssprache?",
-    "optionen": [
+    "number": 47,
+    "question": "Welche Variante ist typisch für gesprochene Umgangssprache?",
+    "options": [
       "Ich werde gleich kommen.",
       "Ich komm gleich.",
       "Ich werde sofort erscheinen.",
       "Ich erscheine gleich."
     ],
-    "antwort": "Ich komm gleich."
+    "answer": "Ich komm gleich."
   },
   {
-    "nummer": 48,
-    "frage": "Welche Form zeigt den Dativ Plural?",
-    "optionen": [
+    "number": 48,
+    "question": "Welche Form zeigt den Dativ Plural?",
+    "options": [
       "den Kindern",
       "die Kinder",
       "der Kinder",
       "des Kinder"
     ],
-    "antwort": "den Kindern"
+    "answer": "den Kindern"
   },
   {
-    "nummer": 49,
-    "frage": "Welche Formulierung enthält eine Ellipse?",
-    "optionen": [
+    "number": 49,
+    "question": "Welche Formulierung enthält eine Ellipse?",
+    "options": [
       "Je früher, desto besser.",
       "Ich gehe, weil ich müde bin.",
       "Er kam und blieb.",
       "Er ist Lehrer."
     ],
-    "antwort": "Je früher, desto besser."
+    "answer": "Je früher, desto besser."
   },
   {
-    "nummer": 50,
-    "frage": "Welcher Satz verwendet die Satzklammer korrekt in einer mehrteiligen Infinitivkonstruktion?",
-    "optionen": [
+    "number": 50,
+    "question": "Welcher Satz verwendet die Satzklammer korrekt in einer mehrteiligen Infinitivkonstruktion?",
+    "options": [
       "Er scheint, den Termin vergessen zu haben.",
       "Er scheint, zu haben den Termin vergessen.",
       "Er scheint, vergessen den Termin zu haben.",
       "Er scheint, den Termin zu haben vergessen."
     ],
-    "antwort": "Er scheint, den Termin vergessen zu haben."
+    "answer": "Er scheint, den Termin vergessen zu haben."
   }
 ]
