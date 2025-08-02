@@ -1,110 +1,110 @@
 [
-  {
+ {
     "titre": "الأضداد (الكلمات المتضادة)",
-    "id": "al-adhdad-al-kalimat-al-mutadada",
-    "slug": "al-adhdad-al-kalimat-al-mutadada",
+    "id": "antonymes",
+    "slug": "antonymes",
     "url": "https://secretlengua1.com/Arabic-Grammar/antonymes"
   },
   {
     "titre": "تكوين الصفات من الأسماء",
-    "id": "takwin-al-sifat-min-al-asma",
-    "slug": "takwin-al-sifat-min-al-asma",
+    "id": "partir-des-noms",
+    "slug": "partir-des-noms",
     "url": "https://secretlengua1.com/Arabic-Grammar/partir-des-noms"
   },
   {
     "titre": "تكوين الأسماء من الصفات",
-    "id": "takwin-al-asma-min-al-sifat",
-    "slug": "takwin-al-asma-min-al-sifat",
+    "id": "noms-a-partir-des-adjectifs",
+    "slug": "noms-a-partir-des-adjectifs",
     "url": "https://secretlengua1.com/Arabic-Grammar/noms-a-partir-des-adjectifs"
   },
   {
     "titre": "المرادفات (الكلمات المترادفة)",
-    "id": "al-muradifat-al-kalimat-al-mutaradifa",
-    "slug": "al-muradifat-al-kalimat-al-mutaradifa",
+    "id": "Synonyme",
+    "slug": "Synonyme",
     "url": "https://secretlengua1.com/Arabic-Grammar/Synonyme"
   },
   {
     "titre": "أداة التعريف (ال)",
-    "id": "adatu-al-taarif",
-    "slug": "adatu-al-taarif",
+    "id": "Articles-specifiques",
+    "slug": "Articles-specifiques",
     "url": "https://secretlengua1.com/Arabic-Grammar/Articles-specifiques"
   },
   {
     "titre": "أداة النكرة",
-    "id": "adatu-al-nakira",
-    "slug": "adatu-al-nakira",
+    "id": "les-articles-indefinis",
+    "slug": "les-articles-indefinis",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-articles-indefinis"
   },
   {
     "titre": "حروف الجرّ",
-    "id": "huruf-al-jarr",
-    "slug": "huruf-al-jarr",
+    "id": "les-prepositions",
+    "slug": "les-prepositions",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-prepositions"
   },
   {
     "titre": "الضمائر",
-    "id": "al-damaer",
-    "slug": "al-damaer",
+    "id": "les-pronoms",
+    "slug": "les-pronoms",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-pronoms"
   },
   {
     "titre": "التفضيل",
-    "id": "al-tafdhil",
-    "slug": "al-tafdhil",
+    "id": "comparatifs-et-superlatifs",
+    "slug": "comparatifs-et-superlatifs",
     "url": "https://secretlengua1.com/Arabic-Grammar/comparatifs-et-superlatifs"
   },
   {
     "titre": "الصفات",
-    "id": "al-sifat",
-    "slug": "al-sifat",
+    "id": "les-adjectifs",
+    "slug": "les-adjectifs",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-adjectifs"
   },
   {
     "titre": "الفعل المضارع",
-    "id": "al-fiil-al-mudari",
-    "slug": "al-fiil-al-mudari",
+    "id": "verbes-au-present",
+    "slug": "verbes-au-present",
     "url": "https://secretlengua1.com/Arabic-Grammar/verbes-au-present"
   },
   {
     "titre": "الفعل الماضي",
-    "id": "al-fiil-al-madi",
-    "slug": "al-fiil-al-madi",
+    "id": "les-verbes-au-passe",
+    "slug": "les-verbes-au-passe",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-verbes-au-passe"
   },
   {
     "titre": "الفعل المستقبل",
-    "id": "al-fiil-al-mustaqbal",
-    "slug": "al-fiil-al-mustaqbal",
+    "id": "les-verbes-au-futur",
+    "slug": "les-verbes-au-futur",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-verbes-au-futur"
   },
   {
     "titre": "الجمل الاسمية والفعلية",
-    "id": "al-jumal-al-ismiya-wa-al-fiiliya",
-    "slug": "al-jumal-al-ismiya-wa-al-fiiliya",
+    "id": "phrases-nominales-et-verbales",
+    "slug": "phrases-nominales-et-verbales",
     "url": "https://secretlengua1.com/Arabic-Grammar/phrases-nominales-et-verbales"
   },
   {
     "titre": "الجمل الاستفهامية",
-    "id": "al-jumal-al-istifhamiya",
-    "slug": "al-jumal-al-istifhamiya",
+    "id": "phrases-interrogatives",
+    "slug": "phrases-interrogatives",
     "url": "https://secretlengua1.com/Arabic-Grammar/phrases-interrogatives"
   },
   {
     "titre": "الجمل المنفية",
-    "id": "al-jumal-al-manfiyya",
-    "slug": "al-jumal-al-manfiyya",
+    "id": "phrases-negatives",
+    "slug": "phrases-negatives",
     "url": "https://secretlengua1.com/Arabic-Grammar/phrases-negatives"
   },
   {
     "titre": "ضمائر النكرة (الضمائر غير المحددة)",
-    "id": "damaaer-al-nakira",
-    "slug": "damaaer-al-nakira",
+    "id": "pronoms-indefinis",
+    "slug": "pronoms-indefinis",
     "url": "https://secretlengua1.com/Arabic-Grammar/pronoms-indefinis"
   },
   {
     "titre": "الجمل المثبتة",
-    "id": "al-jumal-al-muthbata",
-    "slug": "al-jumal-al-muthbata",
+    "id": "les-phrases-affirmatives",
+    "slug": "les-phrases-affirmatives",
     "url": "https://secretlengua1.com/Arabic-Grammar/les-phrases-affirmatives"
   }
       ]
