@@ -1,4 +1,5 @@
-[ { "german": "A ba", "translate": "ein Wort mit 'ba'" },
+[ { "german": "ALPHABET", "translate": "ALPHABET" },
+{ "german": "A ba", "translate": "ein Wort mit 'ba'" },
 { "german": "B ba", "translate": "ein Wort mit 'ba'" },
 { "german": "C ca", "translate": "ein Wort mit 'ca'" },
 { "german": "D da", "translate": "ein Wort mit 'da'" },
