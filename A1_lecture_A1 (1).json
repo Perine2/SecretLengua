@@ -1,92 +1,85 @@
 [
   {
-    "titre": "Comment tu vas ?",
-    "id": "uzSlpX",
-    "url": "https://secretlengua1.com/uzSlpX"
+    "titre": "Ma famille cherie",
+    "id": "Ma famille cherie",
+    "slug": "Ma famille cherie",
+    "url": "https://secretlengua1.com/reading-exercice/Ma-famille-cherie"
+  },{
+    "titre": "Des Vacances en Famille",
+    "id": "Des-Vacances-en-Famille",
+    "slug": "Des-Vacances-en-Famille",
+    "url": "https://secretlengua1.com/reading-exercice/Des-Vacances-en-Famille"
   },
   {
-    "titre": "Les vacances en familles",
-    "id": "uzSlpX-kFPwjY",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY"
+    "titre": "La carte postal",
+    "id": "carte-postale",
+    "slug": "carte-postale",
+    "url": "https://secretlengua1.com/reading-exercice/carte-postale"
   },
   {
-    "titre": "Adaptation à la vie urbaine",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc"
+    "titre": "Adaptation à la Vie Urbaine",
+    "id": "Adaptation-a-la-Vie-Urbaine",
+    "slug": "Adaptation-a-la-Vie-Urbaine",
+    "url": "https://secretlengua1.com/reading-exercice/Adaptation-a-la-Vie-Urbaine"
   },
   {
-    "titre": "Une journée a la plage",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki"
-  },
-  {
-    "titre": "La carte postale",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6"
-  },
-  {
-    "titre": "Chez le médecin",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-tDFouD",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-tDFouD"
-  },
-  {
-    "titre": "carte postal 2",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N"
+    "titre": "Une journée à la plage",
+    "id": "Une-journee-a-la-plage",
+    "slug": "Une-journee-a-la-plage",
+    "url": "https://secretlengua1.com/reading-exercice/Une-journee-a-la-plage"
   },
   {
     "titre": "Une lettre de Paris",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3"
+    "id": "Une-lettre-de-Paris",
+    "slug": "Une-lettre-de-Paris",
+    "url": "https://secretlengua1.com/reading-exercice/Une-lettre-de-Paris"
   },
   {
     "titre": "Les merveilles de la nature",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA"
+    "id": "Les-merveilles-de-la-nature",
+    "slug": "Les-merveilles-de-la-nature",
+    "url": "https://secretlengua1.com/reading-exercice/Les-merveilles-de-la-nature"
   },
   {
-    "titre": "Ma famille chérie",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD"
+    "titre": "Une Nouvelle Rencontre",
+    "id": "Une-Nouvelle-Rencontre",
+    "slug": "Une-Nouvelle-Rencontre",
+    "url": "https://secretlengua1.com/reading-exercice/Une-Nouvelle-Rencontre"
   },
   {
-    "titre": "Une nouvelle rencontre",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg"
-  },
-  {
-    "titre": "Une journée avec Lucie",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4"
+    "titre": "Une Nouvelle Vie en France",
+    "id": "Une-Nouvelle-Vie",
+    "slug": "Une-Nouvelle-Vie",
+    "url": "https://secretlengua1.com/reading-exercice/Une-Nouvelle-Vie"
   },
   {
     "titre": "Une Ville Charmante",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg"
+    "id": "Une-Ville-Charmante",
+    "slug": "Une-Ville-Charmante",
+    "url": "https://secretlengua1.com/reading-exercice/Une-Ville-Charmante"
   },
   {
-    "titre": "Une nouvelle vie en France",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW"
+    "titre": "Une journée avec Lucie",
+    "id": "Une-journee-avec-Lucie",
+    "slug": "Une-journee-avec-Lucie",
+    "url": "https://secretlengua1.com/reading-exercice/Une-journee-avec-Lucie"
   },
   {
     "titre": "Ma Famille et Moi",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ"
-  },
-  {
-    "titre": "Planification d'une soirée",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ-2Ai5lD-GjedUJ",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ-2Ai5lD-GjedUJ"
+    "id": "Ma-Famille-et-Moi",
+    "slug": "Ma-Famille-et-Moi",
+    "url": "https://secretlengua1.com/reading-exercice/Ma-Famille-et-Moi"
   },
   {
     "titre": "Découverte d'une Maison",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ-2Ai5lD-GjedUJ-GPcuR-mBwrAJ",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ-2Ai5lD-GjedUJ-GPcuR-mBwrAJ"
+    "id": "Decouverte-dune-Maison",
+    "slug": "Decouverte-dune-Maison",
+    "url": "https://secretlengua1.com/reading-exercice/Decouverte-dune-Maison"
   },
   {
     "titre": "Réservation d'une Chambre",
-    "id": "uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ-2Ai5lD-GjedUJ-GPcuR-mBwrAJ-kiAcZ1",
-    "url": "https://secretlengua1.com/uzSlpX-kFPwjY-NKYqV6-palnK9-Z-aKFc-6X6xaJ-LyP4Ki-dwmV-O-SekYJj-QsfOT6-GJuS7J-myYWeU-Xbx4tb-mIQD8N-yzJHhd-zSFa3-uc3rs6-BPAYSA-T8ZuGV-vjKVtD-hYvrbJ-t52Pmg-pU1ZZa-RLexX4-LUa2pH-pmr-Fg-EBfYbs-NRRmKW-2gX6f2-MNwRXZ-2Ai5lD-GjedUJ-GPcuR-mBwrAJ-kiAcZ1"
+    "id": "Reservation-dune-Chambre",
+    "slug": "Reservation-dune-Chambre",
+    "url": "https://secretlengua1.com/reading-exercice/Reservation-dune-Chambre"
   }
 ]
