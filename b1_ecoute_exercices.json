@@ -1,102 +1,116 @@
 [
-  {
+   {
     "titre": "Exercice 1",
-    "id": "ekYJj-QSQG-m8sdM4",
-    "url": "https://secretlengua1.com/ekYJj-QSQG-m8sdM4"
+    "id": "exercice-1",
+    "slug": "VHVAJGHHETVYFZV",
+    "url": "https://secretlengua1.com/Reading-Exercice/VHVAJGHHETVYFZV"
   },
   {
     "titre": "Exercice 2",
-    "id": "ekYOghrxf",
-    "url": "https://secretlengua1.com/ekYOghrxf"
+    "id": "exercice-2",
+    "slug": "SBYYQXNYLXVWUCD",
+    "url": "https://secretlengua1.com/Reading-Exercice/SBYYQXNYLXVWUCD"
   },
   {
     "titre": "Exercice 3",
-    "id": "ekYOg9P5QY",
-    "url": "https://secretlengua1.com/ekYOg9P5QY"
+    "id": "exercice-3",
+    "slug": "YRVMAOYRQCRWTL",
+    "url": "https://secretlengua1.com/Reading-Exercice/YRVMAOYRQCRWTL"
   },
   {
     "titre": "Exercice 4",
-    "id": "ekYOg9UTC0",
-    "url": "https://secretlengua1.com/ekYOg9UTC0"
+    "id": "exercice-4",
+    "slug": "OGC-QPOCWTLOSJC",
+    "url": "https://secretlengua1.com/Reading-Exercice/OGC-QPOCWTLOSJC"
   },
   {
     "titre": "Exercice 5",
-    "id": "ekYOg9URMtXs",
-    "url": "https://secretlengua1.com/ekYOg9URMtXs"
+    "id": "exercice-5",
+    "slug": "HNDIYLNZIWVRTJZ",
+    "url": "https://secretlengua1.com/Reading-Exercice/HNDIYLNZIWVRTJZ"
   },
   {
     "titre": "Exercice 6",
-    "id": "ekYvdGD",
-    "url": "https://secretlengua1.com/ekYvdGD"
+    "id": "exercice-6",
+    "slug": "C-OILREDSMTEFSM",
+    "url": "https://secretlengua1.com/Reading-Exercice/C-OILREDSMTEFSM"
   },
   {
     "titre": "Exercice 7",
-    "id": "ekYvdGD-WDxLXS",
-    "url": "https://secretlengua1.com/ekYvdGD-WDxLXS"
+    "id": "exercice-7",
+    "slug": "YCKKYGVXRPZYPMG",
+    "url": "https://secretlengua1.com/Reading-Exercice/YCKKYGVXRPZYPMG"
   },
   {
     "titre": "Exercice 8",
-    "id": "ekYvdGD9QIAil",
-    "url": "https://secretlengua1.com/ekYvdGD9QIAil"
+    "id": "exercice-8",
+    "slug": "GPPJKGVN-WXLDCO",
+    "url": "https://secretlengua1.com/Reading-Exercice/GPPJKGVN-WXLDCO"
   },
   {
     "titre": "Exercice 9",
-    "id": "ekYvdGD9QIAil-HSJ2eB",
-    "url": "https://secretlengua1.com/ekYvdGD9QIAil-HSJ2eB"
+    "id": "exercice-9",
+    "slug": "YSZTMRTRVDXJOWA",
+    "url": "https://secretlengua1.com/Reading-Exercice/YSZTMRTRVDXJOWA"
   },
   {
     "titre": "Exercice 10",
-    "id": "ekYvdGD9QITj4c8P",
-    "url": "https://secretlengua1.com/ekYvdGD9QITj4c8P"
+    "id": "exercice-10",
+    "slug": "OKLZQQGYPCH-WYA",
+    "url": "https://secretlengua1.com/Reading-Exercice/OKLZQQGYPCH-WYA"
   },
   {
     "titre": "Exercice 11",
-    "id": "ekYvdGD9QIYtHJK",
-    "url": "https://secretlengua1.com/ekYvdGD9QIYtHJK"
+    "id": "exercice-11",
+    "slug": "RUHKXFWMPDHKKE",
+    "url": "https://secretlengua1.com/Reading-Exercice/RUHKXFWMPDHKKE"
   },
   {
     "titre": "Exercice 12",
-    "id": "ekYvdGD9QIYtHJK-WJRhK",
-    "url": "https://secretlengua1.com/ekYvdGD9QIYtHJK-WJRhK"
+    "id": "exercice-12",
+    "slug": "CUQAJ-QFKAE-WWO",
+    "url": "https://secretlengua1.com/Reading-Exercice/CUQAJ-QFKAE-WWO"
   },
   {
     "titre": "Exercice 13",
-    "id": "ekYvdGDRhK-iUtCT0",
-    "url": "https://secretlengua1.com/ekYvdGDRhK-iUtCT0"
+    "id": "exercice-13",
+    "slug": "JCMUAKYHIYMNXSO",
+    "url": "https://secretlengua1.com/Reading-Exercice/JCMUAKYHIYMNXSO"
   },
   {
     "titre": "Exercice 14",
-    "id": "ekYvdGDRhK-i8ieB",
-    "url": "https://secretlengua1.com/ekYvdGDRhK-i8ieB"
+    "id": "exercice-14",
+    "slug": "RQMLKDJOYMIIMQC",
+    "url": "https://secretlengua1.com/Reading-Exercice/RQMLKDJOYMIIMQC"
   },
   {
     "titre": "Exercice 15",
-    "id": "ekY4zabDi",
-    "url": "https://secretlengua1.com/ekY4zabDi"
+    "id": "exercice-15",
+    "slug": "QYEPF-OFYXBQDPB",
+    "url": "https://secretlengua1.com/Reading-Exercice/QYEPF-OFYXBQDPB"
   },
   {
     "titre": "Exercice 16",
-    "id": "ekY4zabDi-n78te8",
-    "url": "https://secretlengua1.com/ekY4zabDi-n78te8"
+    "id": "exercice-16",
+    "slug": "ZYKGKJJLOLWVHBH",
+    "url": "https://secretlengua1.com/Reading-Exercice/ZYKGKJJLOLWVHBH"
   },
   {
     "titre": "Exercice 17",
-    "id": "ekY4zab4EwWX",
-    "url": "https://secretlengua1.com/ekY4zab4EwWX"
+    "id": "exercice-17",
+    "slug": "RADOKZFSUARAMBA",
+    "url": "https://secretlengua1.com/Reading-Exercice/RADOKZFSUARAMBA"
   },
   {
     "titre": "Exercice 18",
-    "id": "ekY4zab4EhhmC1",
-    "url": "https://secretlengua1.com/ekY4zab4EhhmC1"
+    "id": "exercice-18",
+    "slug": "BMIAXQNPMNVR-DP",
+    "url": "https://secretlengua1.com/Reading-Exercice/BMIAXQNPMNVR-DP"
   },
   {
     "titre": "Exercice 19",
-    "id": "b4EhhmC1-2PmzT1",
-    "url": "https://secretlengua1.com/b4EhhmC1-2PmzT1"
-  },
-  {
-    "titre": "Exercice 20",
-    "id": "b4EhhG4Okf0",
-    "url": "https://secretlengua1.com/b4EhhG4Okf0"
+    "id": "exercice-19",
+    "slug": "PUPJISRE-LGBVWX",
+    "url": "https://secretlengua1.com/Reading-Exercice/PUPJISRE-LGBVWX"
   }
 ]
