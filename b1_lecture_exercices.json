@@ -1,97 +1,122 @@
 [
-  {
+   {
     "titre": "Une conversation téléphonique",
-    "id": "LyPi-dwmV-O",
-    "url": "https://secretlengua1.com/LyPi-dwmV-O"
+    "id": "une-conversation-telephonique",
+    "slug": "Une-conversation-telephonique",
+    "url": "https://secretlengua1.com/Reading-Exercice/Une-conversation-telephonique"
   },
   {
     "titre": "Lettre à mon meilleur ami",
-    "id": "LyPiuOgF",
-    "url": "https://secretlengua1.com/LyPiuOgF"
+    "id": "lettre-a-mon-meilleur-ami",
+    "slug": "Lettre-a-mon-meilleur-ami",
+    "url": "https://secretlengua1.com/Reading-Exercice/Lettre-a-mon-meilleur-ami"
   },
   {
-    "titre": "Découvrir Berlin",
-    "id": "LyPiu0wyA",
-    "url": "https://secretlengua1.com/LyPiu0wyA"
+    "titre": "Decouvrir Berlin",
+    "id": "decouvrir-berlin",
+    "slug": "Decouvrir-Berlin",
+    "url": "https://secretlengua1.com/Reading-Exercice/Decouvrir-Berlin"
   },
   {
     "titre": "La maison de Sophie",
-    "id": "LyOgBBC",
-    "url": "https://secretlengua1.com/LyOgBBC"
+    "id": "la-maison-de-sophie",
+    "slug": "La-maison-de-Sophie",
+    "url": "https://secretlengua1.com/Reading-Exercice/La-maison-de-Sophie"
   },
   {
-    "titre": "Découvrir Nice en un jour",
-    "id": "LyPiu04p1nz2",
-    "url": "https://secretlengua1.com/LyPiu04p1nz2"
+    "titre": "Decouvrir-Nice-en-un-jour",
+    "id": "decouvrir-nice-en-un-jour",
+    "slug": "Decouvrir-Nice-en-un-jour",
+    "url": "https://secretlengua1.com/Reading-Exercice/Decouvrir-Nice-en-un-jour"
   },
   {
-    "titre": "Prévisions météo",
-    "id": "LyPiu04inGGO",
-    "url": "https://secretlengua1.com/LyPiu04inGGO"
+    "titre": "Previsions meteo",
+    "id": "previsions-meteo",
+    "slug": "Previsions-meteo",
+    "url": "https://secretlengua1.com/Reading-Exercice/Previsions-meteo"
   },
   {
     "titre": "La fête de Noël à Londres",
-    "id": "LyPiu04inGRF38S",
-    "url": "https://secretlengua1.com/LyPiu04inGRF38S"
+    "id": "la-fete-de-noel-a-londres",
+    "slug": "La-fete-de-Noel-a-Londres",
+    "url": "https://secretlengua1.com/Reading-Exercice/La-fete-de-Noel-a-Londres"
+  },
+  {
+    "titre": "Les festivités de Noël à Amsterdam",
+    "id": "les-festivites-de-noel-a-amsterdam",
+    "slug": "Les-festivites-de-Noel",
+    "url": "https://secretlengua1.com/Reading-Exercice/Les-festivites-de-Noel"
   },
   {
     "titre": "Les célébrations de Pâques à Berlin",
-    "id": "LyPiu04inGGOqE",
-    "url": "https://secretlengua1.com/LyPiu04inGGOqE"
+    "id": "les-celebrations-de-paques-a-berlin",
+    "slug": "Les-celebrations-de-Paques",
+    "url": "https://secretlengua1.com/Reading-Exercice/Les-celebrations-de-Paques"
   },
   {
     "titre": "Pâques en Italie",
-    "id": "LyPiu04inGRF38S-GPUcvH",
-    "url": "https://secretlengua1.com/LyPiu04inGRF38S-GPUcvH"
+    "id": "paques-en-italie",
+    "slug": "Paques-en-Italie",
+    "url": "https://secretlengua1.com/Reading-Exercice/Paques-en-Italie"
   },
   {
     "titre": "Une journée à Rome",
-    "id": "LyPiu04inGRF3pfpy",
-    "url": "https://secretlengua1.com/LyPiu04inGRF3pfpy"
+    "id": "une-journee-a-rome",
+    "slug": "Une-journee-a-Rome",
+    "url": "https://secretlengua1.com/Reading-Exercice/Une-journee-a-Rome"
   },
   {
     "titre": "Les parties du corps humain",
-    "id": "LyPiu04inGRF3pfpy-QU78xk",
-    "url": "https://secretlengua1.com/LyPiu04inGRF3pfpy-QU78xk"
+    "id": "les-parties-du-corps-humain",
+    "slug": "Les-parties-du-corps-humain",
+    "url": "https://secretlengua1.com/Reading-Exercice/Les-parties-du-corps-humain"
   },
   {
     "titre": "Projets pour les vacances",
-    "id": "LyPiu04inG78xk-cZNiTr",
-    "url": "https://secretlengua1.com/LyPiu04inG78xk-cZNiTr"
-  },
-  {
-    "titre": "Les vacances d'été",
-    "id": "LyPiu0fbdT6",
-    "url": "https://secretlengua1.com/LyPiu0fbdT6"
+    "id": "projets-pour-les-vacances",
+    "slug": "Projets-pour-les-vacances",
+    "url": "https://secretlengua1.com/Reading-Exercice/Projets-pour-les-vacances"
   },
   {
     "titre": "Les habits",
-    "id": "LyPiu0fbkOU",
-    "url": "https://secretlengua1.com/LyPiu0fbkOU"
+    "id": "les-habits",
+    "slug": "Les-habits",
+    "url": "https://secretlengua1.com/Reading-Exercice/Les-habits"
   },
   {
     "titre": "Cultiver son jardin",
-    "id": "LyPiu0fbkOU-tfuN90",
-    "url": "https://secretlengua1.com/LyPiu0fbkOU-tfuN90"
+    "id": "cultiver-son-jardin",
+    "slug": "Cultiver-son-jardin",
+    "url": "https://secretlengua1.com/Reading-Exercice/Cultiver-son-jardin"
   },
   {
     "titre": "Capitaine Tornegris",
-    "id": "LyPiu0fbkAuQQ",
-    "url": "https://secretlengua1.com/LyPiu0fbkAuQQ"
+    "id": "capitaine-tornegris",
+    "slug": "Capitaine-Tornegris",
+    "url": "https://secretlengua1.com/Reading-Exercice/Capitaine-Tornegris"
   },
   {
     "titre": "La magie de Noël approche",
-    "id": "LyPiu0fbkAmbX-J",
-    "url": "https://secretlengua1.com/LyPiu0fbkAmbX-J"
+    "id": "la-magie-de-noel-approche",
+    "slug": "La-magie-de-Noel-approche",
+    "url": "https://secretlengua1.com/Reading-Exercice/La-magie-de-Noel-approche"
   },
   {
     "titre": "Conseils pour les étudiants",
-    "id": "LyPiu0fbkAmbX-J-TB29Ug",
-    "url": "https://secretlengua1.com/LyPiu0fbkAmbX-J-TB29Ug"
+    "id": "conseils-pour-les-etudiants",
+    "slug": "Conseils-pour-les-etudiants",
+    "url": "https://secretlengua1.com/Reading-Exercice/Conseils-pour-les-etudiants"
   },
   {
-    "titre": "Un nouveau départ",
-    "id": "LyPiu0-xdBW3h",
-    "url": "https://secretlengua1.com/LyPiu0-xdBW3h"
+    "titre": "Préserver sa santé",
+    "id": "preserver-sa-sante",
+    "slug": "Preserver-sa-sante",
+    "url": "https://secretlengua1.com/Reading-Exercice/Preserver-sa-sante"
+  },
+  {
+    "titre": "Une escapade dans les Pyrénées",
+    "id": "une-escapade-dans-les-pyrenees",
+    "slug": "Une-escapade-dans",
+    "url": "https://secretlengua1.com/Reading-Exercice/Une-escapade-dans"
   }
 ]
