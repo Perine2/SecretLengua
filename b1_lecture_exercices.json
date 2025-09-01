@@ -1,5 +1,82 @@
 [
-   {
+    {
+    "titre": "Des vacances à la montagne",
+    "id": "des-vacances-a-la-montagne",
+    "slug": "Des-vacances-a-la-montagne",
+    "url": "https://secretlengua1.com/Reading-Exercice/Des-vacances-a-la-montagne"
+  },
+  {
+    "titre": "L'apprentissage en ligne : est-ce la meilleure alternative",
+    "id": "lapprentissage-en-ligne-est-ce-la-meilleure-alternative",
+    "slug": "Lapprentissage-en-ligne-est-ce-la-meilleure-alternative",
+    "url": "https://secretlengua1.com/Reading-Exercice/Lapprentissage-en-ligne"
+  },
+  {
+    "titre": "Sœur et frère",
+    "id": "soeur-et-frere",
+    "slug": "Soeur-et-frere",
+    "url": "https://secretlengua1.com/Reading-Exercice/Soeur-et-frere"
+  },
+  {
+    "titre": "Il est charmant",
+    "id": "il-est-charmant",
+    "slug": "Il-est-charmant",
+    "url": "https://secretlengua1.com/Reading-Exercice/Il-est-charmant"
+  },
+  {
+    "titre": "La boutique de chaussures",
+    "id": "la-boutique-de-chaussures",
+    "slug": "La-boutique-de-chaussures",
+    "url": "https://secretlengua1.com/Reading-Exercice/La-boutique-de-chaussures"
+  },
+  {
+    "titre": "La croisière sur l'Atlantique",
+    "id": "la-croisiere-sur-latlantique",
+    "slug": "La-croisiere-sur-lAtlantique",
+    "url": "https://secretlengua1.com/Reading-Exercice/La-croisiere-sur-lAtlantique"
+  },
+  {
+    "titre": "La-cuisine-italienne",
+    "id": "la-cuisine-italienne",
+    "slug": "La-cuisine-italienne",
+    "url": "https://secretlengua1.com/Reading-Exercice/La-cuisine-italienne"
+  },
+  {
+    "titre": "Un dîner en famille",
+    "id": "un-diner-en-famille",
+    "slug": "Un-diner-en-famille",
+    "url": "https://secretlengua1.com/Reading-Exercice/Un-diner-en-famille"
+  },
+  {
+    "titre": "Une journée à la campagne",
+    "id": "une-journee-a-la-campagne",
+    "slug": "Une-journee-a-la-campagne",
+    "url": "https://secretlengua1.com/Reading-Exercice/Une-journee-a-la-campagne"
+  },
+  {
+    "titre": "Le chalet dans les Alpes",
+    "id": "le-chalet-dans-les-alpes",
+    "slug": "Le-chalet-dans-les-Alpes",
+    "url": "https://secretlengua1.com/Reading-Exercice/Le-chalet-dans-les-Alpes"
+  },
+  {
+    "titre": "Une journée à la ferme",
+    "id": "une-journee-a-la-ferme",
+    "slug": "Une-journee-a-la-ferme",
+    "url": "https://secretlengua1.com/Reading-Exercice/Une-journee-a-la-ferme"
+  },
+  {
+    "titre": "Mes débuts dans le monde du football",
+    "id": "mes-debuts-dans-le-monde-du-football",
+    "slug": "Mes-debuts-dans-le-monde-du-football",
+    "url": "https://secretlengua1.com/Reading-Exercice/Mes-debuts-dans-le-monde-du-football"
+  },
+  {
+    "titre": "À la recherche d'un emploi",
+    "id": "a-la-recherche-dun-emploi",
+    "slug": "A-la-recherche-dun-emploi",
+    "url": "https://secretlengua1.com/Reading-Exercice/A-la-recherche-dun-emploi"
+  },{
     "titre": "Une conversation téléphonique",
     "id": "une-conversation-telephonique",
     "slug": "Une-conversation-telephonique",
