@@ -1,6 +1,13 @@
 {
-  "reading": 242,
-  "grammar": 49,
-  "listening": 11,
-  "dictation": 75
+  "English": 378,
+  "French": 369,
+  "German":357,
+  "Italian": 350,
+   "Spanish": 342,
+  " Chinese": 340,
+  "Portuguese": 40,
+  " Russian": 40,
+    " Arabic": 40,
+  "Turkish": 40,
+  "Hindi": 30,
 }
