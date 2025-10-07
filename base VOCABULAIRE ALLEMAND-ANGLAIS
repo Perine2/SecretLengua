@@ -1,4 +1,5 @@
-[{ "german": "Apfel", "translate": "apple" },
+[
+{ "german": "Apfel", "translate": "apple" },
 { "german": "Bahn", "translate": "train" },
 { "german": "Café", "translate": "coffee" },
 { "german": "Danke", "translate": "thank you" },
