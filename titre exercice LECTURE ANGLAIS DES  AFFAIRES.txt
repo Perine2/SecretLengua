@@ -1,4 +1,111 @@
 [{
+  "titre": "Merv Griffin: Business Icon",
+  "id": "merv-griffin-business-icon",
+  "slug": "Merv-Griffin-Business-Icon",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Merv-Griffin-Business-Icon"
+},
+{
+  "titre": "Steve Jobs: The Visionary Entrepreneur",
+  "id": "steve-jobs-the-visionary-entrepreneur",
+  "slug": "Steve-Jobs-The-Visionary-Entrepreneur",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Steve-Jobs-The-Visionary-Entrepreneur"
+},
+{
+  "titre": "Business Proposal Writing",
+  "id": "business-proposal-writing",
+  "slug": "Business-Proposal-Writing",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Business-Proposal-Writing"
+},
+{
+  "titre": "Business Meetings",
+  "id": "business-meetings",
+  "slug": "Business-Meetings",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Business-Meetings"
+},
+{
+  "titre": "Networking",
+  "id": "networking",
+  "slug": "NetworNetworkingking",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/NetworNetworkingking"
+},
+{
+  "titre": "Tips for an Effective Business Presentation",
+  "id": "tips-for-an-effective-business-presentation",
+  "slug": "Tips-for-an-Effective-Business-Presentation",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Tips-for-an-Effective-Business-Presentation"
+},
+{
+  "titre": "Canceling a Meeting",
+  "id": "canceling-a-meeting",
+  "slug": "Canceling-a-Meeting",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Canceling-a-Meeting"
+},
+{
+  "titre": "Leaving a Message",
+  "id": "leaving-a-message",
+  "slug": "Leaving-a-Message",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Leaving-a-Message"
+},
+{
+  "titre": "Returning a Phone Call",
+  "id": "returning-a-phone-call",
+  "slug": "Returning-a-Phone-Call",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Returning-a-Phone-Call"
+},
+{
+  "titre": "Arranging a Meeting",
+  "id": "arranging-a-meeting",
+  "slug": "Arranging-a-Meeting",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Arranging-a-Meeting"
+},
+{
+  "titre": "Environmental Sustainability in Business",
+  "id": "environmental-sustainability-in-business",
+  "slug": "Environmental-Sustainability-in-Business",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Environmental-Sustainability-in-Business"
+},
+{
+  "titre": "Financial Risk Assessment – Making Informed Decisions",
+  "id": "financial-risk-assessment-making-informed-decisions",
+  "slug": "Financial-Risk-Assessmens",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Financial-Risk-Assessmens"
+},
+{
+  "titre": "Apologizing for Service Disruption Due to Technical Issues",
+  "id": "apologizing-for-service-disruption",
+  "slug": "for-Service-Disruption",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/for-Service-Disruption"
+},
+{
+  "titre": "Addressing Customer Concerns and Complaints with Empathy and Solutions",
+  "id": "addressing-customer-concerns-with-empathy-and-solutions",
+  "slug": "Empathy-and-Solutions",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Empathy-and-Solutions"
+},
+{
+  "titre": "Handling Serious Customer Complaints with Patience and Solutions",
+  "id": "handling-serious-customer-complaints-with-patience-and-solutions",
+  "slug": "Patience-and-Solutions",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Patience-and-Solutions"
+},
+{
+  "titre": "Handling Customer Complaints in Business",
+  "id": "handling-customer-complaints-in-business",
+  "slug": "Handling-Customer-Complaints-in-Business",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Handling-Customer-Complaints-in-Business"
+},
+{
+  "titre": "Understanding Economic Fluctuations",
+  "id": "understanding-economic-fluctuations",
+  "slug": "Understanding-Economic-Fluctuations",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Understanding-Economic-Fluctuations"
+},
+{
+  "titre": "Understanding Market Competition",
+  "id": "understanding-market-competition",
+  "slug": "Understanding-Market-Competition",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Understanding-Market-Competition"
+},{
   "titre": "The Business Balance Sheet Chronicle",
   "id": "the-business-balance-sheet-chronicle",
   "slug": "Businss-BalanceM",
