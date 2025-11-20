@@ -1,139 +1,145 @@
 [{
-    "titre": "Hotel Room Reservation",
-    "id": "hotel-room-reservation",
-    "slug": "Hotel-Room",
-    "url": "https://secretlengua1.com/English/Hotel-Room"
-  },
-  {
-    "titre": "How are you?",
-    "id": "how-are-you",
-    "slug": "How-are-you",
-    "url": "https://secretlengua1.com/English/How-are-you"
-  },
-  {
-    "titre": "My name is Sophie",
-    "id": "my-name-is-sophie",
-    "slug": "My-name-is-Sophie",
-    "url": "https://secretlengua1.com/English/My-name-is-Sophie"
-  },
-  {
-    "titre": "A day at the beach",
-    "id": "a-day-at-the-beach",
-    "slug": "A-day-at-the-beach",
-    "url": "https://secretlengua1.com/English/A-day-at-the-beach"
-  },
-  {
-    "titre": "The postcard",
-    "id": "the-postcard",
-    "slug": "The-postcard",
-    "url": "https://secretlengua1.com/English/The-postcard"
-  },
-  {
-    "titre": "Fish Market Purchase",
-    "id": "fish-market-purchase",
-    "slug": "Fish-Market-Purchase",
-    "url": "https://secretlengua1.com/English/Fish-Market-Purchase"
-  },
-  {
-    "titre": "English/The-wonders-of-nature",
-    "id": "english-the-wonders-of-nature",
-    "slug": "The-wonders-of-nature",
-    "url": "https://secretlengua1.com/English/The-wonders-of-nature"
-  },
-  {
-    "titre": "My dear family.",
-    "id": "my-dear-family",
-    "slug": "My-dear-famil",
-    "url": "https://secretlengua1.com/English/My-dear-famil"
-  },
-  {
-    "titre": "Planning an Evening",
-    "id": "planning-an-evening",
-    "slug": "planning-an-evening",
-    "url": "https://secretlengua1.com/English/planning-an-evening"
-  },
-  {
-    "titre": "Discovering a House",
-    "id": "discovering-a-house",
-    "slug": "discovering-a-House",
-    "url": "https://secretlengua1.com/English/discovering-a-House"
-  },
-  {
-    "titre": "A New Encounter",
-    "id": "a-new-encounter",
-    "slug": "A-New-Encounter",
-    "url": "https://secretlengua1.com/English/A-New-Encounter"
-  },
-  {
-    "titre": "A New Life in France",
-    "id": "a-new-life-in-france",
-    "slug": "a-new-Life-in-france",
-    "url": "https://secretlengua1.com/English/a-new-Life-in-france"
-  },
-  {
-    "titre": "A Charming City",
-    "id": "a-charming-city",
-    "slug": "charming-city",
-    "url": "https://secretlengua1.com/English/charming-city"
-  },
-  {
-    "titre": "My Family and Me",
-    "id": "my-family-and-me",
-    "slug": "my-family-and-me",
-    "url": "https://secretlengua1.com/English/my-family-and-me"
-  },
-  {
-    "titre": "Planning an Evening",
-    "id": "planning-an-evening-2",
-    "slug": "Planning-an-evening",
-    "url": "https://secretlengua1.com/English/Planning-an-evening"
-  },
-  {
-    "titre": "Discovering a House",
-    "id": "discovering-a-house-2",
-    "slug": "discovering-house",
-    "url": "https://secretlengua1.com/English/discovering-house"
-  },
-  {
-    "titre": "Room Reservation",
-    "id": "room-reservation",
-    "slug": "room-reservation",
-    "url": "https://secretlengua1.com/English/room-reservation"
-  },
-  {
-    "titre": "Adaptation to Urban Life",
-    "id": "adaptation-to-urban-life",
-    "slug": "Adaptation-to-Urban-Life",
-    "url": "https://secretlengua1.com/English/Adaptation-to-Urban-Life"
-  },
-  {
-    "titre": "A Friendly Conversation",
-    "id": "a-friendly-conversation",
-    "slug": "a-Friendly-conversation",
-    "url": "https://secretlengua1.com/English/a-Friendly-conversation"
-  },
-  {
-    "titre": "A Day with Sophie",
-    "id": "a-day-with-sophie",
-    "slug": "A-Day-with-Sophie",
-    "url": "https://secretlengua1.com/English/A-Day-with-Sophie"
-  },
-  {
-    "titre": "Exploring a Farm",
-    "id": "exploring-a-farm",
-    "slug": "exploring-a-farm",
-    "url": "https://secretlengua1.com/English/exploring-a-farm"
-  },
-  {
-    "titre": "Booking a Room",
-    "id": "booking-a-room",
-    "slug": "booking-a-room",
-    "url": "https://secretlengua1.com/English/booking-a-room"
-  },
-  {
-    "titre": "Transition to city life",
-    "id": "transition-to-city-life",
-    "slug": "transition-to-city-life",
-    "url": "https://secretlengua1.com/English/transition-to-city-life"
-  }
+  "titre": "Exercise 1",
+  "id": "exercise-1",
+  "slug": "FWNESFYBNFCJOM",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/FWNESFYBNFCJOM"
+},
+{
+  "titre": "Exercise 2",
+  "id": "exercise-2",
+  "slug": "LYALLFKZLCSEGMW",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/LYALLFKZLCSEGMW"
+},
+{
+  "titre": "Exercise 3",
+  "id": "exercise-3",
+  "slug": "OFFZNTNQUZRCCQQ",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/OFFZNTNQUZRCCQQ"
+},
+{
+  "titre": "Exercise 4",
+  "id": "exercise-4",
+  "slug": "LEBAHRLJPHGYFHK",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/LEBAHRLJPHGYFHK"
+},
+{
+  "titre": "Exercise 5",
+  "id": "exercise-5",
+  "slug": "DPRTNOBRIKSTFO",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/DPRTNOBRIKSTFO"
+},
+{
+  "titre": "Exercise 6",
+  "id": "exercise-6",
+  "slug": "UVZIFDQWNUNMFQO",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/UVZIFDQWNUNMFQO"
+},
+{
+  "titre": "Exercise 7",
+  "id": "exercise-7",
+  "slug": "ADKVEXJQMNAUOQY",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/ADKVEXJQMNAUOQY"
+},
+{
+  "titre": "Exercise 8",
+  "id": "exercise-8",
+  "slug": "EC-QWOBPVZFPKAA",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/EC-QWOBPVZFPKAA"
+},
+{
+  "titre": "Exercise 9",
+  "id": "exercise-9",
+  "slug": "ORDLRKBUTKBE-XZ",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/ORDLRKBUTKBE-XZ"
+},
+{
+  "titre": "Exercise 10",
+  "id": "exercise-10",
+  "slug": "JLJMVGZKUDPGJCP",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/JLJMVGZKUDPGJCP"
+},
+{
+  "titre": "Exercise 11",
+  "id": "exercise-11",
+  "slug": "GJBAPQPAWGRHFPR",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/GJBAPQPAWGRHFPR"
+},
+{
+  "titre": "Exercise 12",
+  "id": "exercise-12",
+  "slug": "SQAYWCEGCANS-VY",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/SQAYWCEGCANS-VY"
+},
+{
+  "titre": "Exercise 13",
+  "id": "exercise-13",
+  "slug": "XYQ-DG-LCFIWDJ",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/XYQ-DG-LCFIWDJ"
+},
+{
+  "titre": "Exercise 14",
+  "id": "exercise-14",
+  "slug": "GDPTLVPND-UHAZR",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/GDPTLVPND-UHAZR"
+},
+{
+  "titre": "Exercise 15",
+  "id": "exercise-15",
+  "slug": "TAQLGQHROMWBGRC",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/TAQLGQHROMWBGRC"
+},
+{
+  "titre": "Exercise 16",
+  "id": "exercise-16",
+  "slug": "OJGAKRDIENMZSXR",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/OJGAKRDIENMZSXR"
+},
+{
+  "titre": "Exercise 17",
+  "id": "exercise-17",
+  "slug": "KJDEOJHEVQSIADM",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/KJDEOJHEVQSIADM"
+},
+{
+  "titre": "Exercise 18",
+  "id": "exercise-18",
+  "slug": "SWDVHHSAOSMYKR",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/SWDVHHSAOSMYKR"
+},
+{
+  "titre": "Exercise 19",
+  "id": "exercise-19",
+  "slug": "IHTAOOMRBWIDZB",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/IHTAOOMRBWIDZB"
+},
+{
+  "titre": "Exercise 20",
+  "id": "exercise-20",
+  "slug": "ERW-QT-M-ETZTRA",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/ERW-QT-M-ETZTRA"
+},
+{
+  "titre": "Exercise 21",
+  "id": "exercise-21",
+  "slug": "QJRIGPUITUJPQLO",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/QJRIGPUITUJPQLO"
+},
+{
+  "titre": "Exercise 22",
+  "id": "exercise-22",
+  "slug": "GLUIFLRSKOBSRQA",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/GLUIFLRSKOBSRQA"
+},
+{
+  "titre": "Exercise 23",
+  "id": "exercise-23",
+  "slug": "WTVZNBITOPQOVIE",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/WTVZNBITOPQOVIE"
+},
+{
+  "titre": "Exercise 24",
+  "id": "exercise-24",
+  "slug": "ZEZ-NP-WHNLVEOL",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/ZEZ-NP-WHNLVEOL"
+}
 ]
