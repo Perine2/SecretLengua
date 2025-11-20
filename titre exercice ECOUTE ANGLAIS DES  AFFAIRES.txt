@@ -141,5 +141,118 @@
   "id": "exercise-24",
   "slug": "ZEZ-NP-WHNLVEOL",
   "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/ZEZ-NP-WHNLVEOL"
+},{
+  "titre": "Exercise 25",
+  "id": "exercise-25",
+  "slug": "XWYCUHV-NSWZOVT",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/XWYCUHV-NSWZOVT"
+},
+{
+  "titre": "Exercise 26",
+  "id": "exercise-26",
+  "slug": "BNOTMCHBBULZLKB",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/BNOTMCHBBULZLKB"
+},
+{
+  "titre": "Exercise 27",
+  "id": "exercise-27",
+  "slug": "NTTWVLHABLZBNW",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/NTTWVLHABLZBNW"
+},
+{
+  "titre": "Exercise 28",
+  "id": "exercise-28",
+  "slug": "WGQHMQQUJS-KRQ",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/WGQHMQQUJS-KRQ"
+},
+{
+  "titre": "Exercise 29",
+  "id": "exercise-29",
+  "slug": "GMKMCKTVXHFKUJ",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/GMKMCKTVXHFKUJ"
+},
+{
+  "titre": "Exercise 30",
+  "id": "exercise-30",
+  "slug": "PJWIEQYJJCLWBY",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/PJWIEQYJJCLWBY"
+},
+{
+  "titre": "Exercise 31",
+  "id": "exercise-31",
+  "slug": "VTOCDDZDEQLHCS",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/VTOCDDZDEQLHCS"
+},
+{
+  "titre": "Exercise 32",
+  "id": "exercise-32",
+  "slug": "KXLRUEMJSPVUOZY",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/KXLRUEMJSPVUOZY"
+},
+{
+  "titre": "Exercise 33",
+  "id": "exercise-33",
+  "slug": "GIOGRZR-YQAUUQR",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/GIOGRZR-YQAUUQR"
+},
+{
+  "titre": "Exercise 34",
+  "id": "exercise-34",
+  "slug": "NLNB-TPCDUCHWL",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/NLNB-TPCDUCHWL"
+},
+{
+  "titre": "Exercise 35",
+  "id": "exercise-35",
+  "slug": "UFBZSJMYCT-KT-Z",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/UFBZSJMYCT-KT-Z"
+},
+{
+  "titre": "Exercise 36",
+  "id": "exercise-36",
+  "slug": "HZHWMZENIB-TTDA",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/HZHWMZENIB-TTDA"
+},
+{
+  "titre": "Exercise 37",
+  "id": "exercise-37",
+  "slug": "for-Service-Disruption",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/for-Service-Disruption"
+},
+{
+  "titre": "Exercise 38",
+  "id": "exercise-38",
+  "slug": "TQFDNLFDODDFBOH",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/TQFDNLFDODDFBOH"
+},
+{
+  "titre": "Exercise 39",
+  "id": "exercise-39",
+  "slug": "PCBDMJVX-FJISDM",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/PCBDMJVX-FJISDM"
+},
+{
+  "titre": "Exercise 40",
+  "id": "exercise-40",
+  "slug": "FHUVNLYVNCHCCZH",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/FHUVNLYVNCHCCZH"
+},
+{
+  "titre": "Exercise 41",
+  "id": "exercise-41",
+  "slug": "JLBAWXANLKXE-HF",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/JLBAWXANLKXE-HF"
+},
+{
+  "titre": "Exercise 42",
+  "id": "exercise-42",
+  "slug": "WHYDEGBMPDXHSPL",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/WHYDEGBMPDXHSPL"
+},
+{
+  "titre": "Exercise 43",
+  "id": "exercise-43",
+  "slug": "WJDYWWHKLTDSS-B",
+  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/WJDYWWHKLTDSS-B"
 }
 ]
