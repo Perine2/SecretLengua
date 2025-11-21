@@ -1,139 +1,169 @@
 [{
-    "titre": "Hotel Room Reservation",
-    "id": "hotel-room-reservation",
-    "slug": "Hotel-Room",
-    "url": "https://secretlengua1.com/English/Hotel-Room"
-  },
-  {
-    "titre": "How are you?",
-    "id": "how-are-you",
-    "slug": "How-are-you",
-    "url": "https://secretlengua1.com/English/How-are-you"
-  },
-  {
-    "titre": "My name is Sophie",
-    "id": "my-name-is-sophie",
-    "slug": "My-name-is-Sophie",
-    "url": "https://secretlengua1.com/English/My-name-is-Sophie"
-  },
-  {
-    "titre": "A day at the beach",
-    "id": "a-day-at-the-beach",
-    "slug": "A-day-at-the-beach",
-    "url": "https://secretlengua1.com/English/A-day-at-the-beach"
-  },
-  {
-    "titre": "The postcard",
-    "id": "the-postcard",
-    "slug": "The-postcard",
-    "url": "https://secretlengua1.com/English/The-postcard"
-  },
-  {
-    "titre": "Fish Market Purchase",
-    "id": "fish-market-purchase",
-    "slug": "Fish-Market-Purchase",
-    "url": "https://secretlengua1.com/English/Fish-Market-Purchase"
-  },
-  {
-    "titre": "English/The-wonders-of-nature",
-    "id": "english-the-wonders-of-nature",
-    "slug": "The-wonders-of-nature",
-    "url": "https://secretlengua1.com/English/The-wonders-of-nature"
-  },
-  {
-    "titre": "My dear family.",
-    "id": "my-dear-family",
-    "slug": "My-dear-famil",
-    "url": "https://secretlengua1.com/English/My-dear-famil"
-  },
-  {
-    "titre": "Planning an Evening",
-    "id": "planning-an-evening",
-    "slug": "planning-an-evening",
-    "url": "https://secretlengua1.com/English/planning-an-evening"
-  },
-  {
-    "titre": "Discovering a House",
-    "id": "discovering-a-house",
-    "slug": "discovering-a-House",
-    "url": "https://secretlengua1.com/English/discovering-a-House"
-  },
-  {
-    "titre": "A New Encounter",
-    "id": "a-new-encounter",
-    "slug": "A-New-Encounter",
-    "url": "https://secretlengua1.com/English/A-New-Encounter"
-  },
-  {
-    "titre": "A New Life in France",
-    "id": "a-new-life-in-france",
-    "slug": "a-new-Life-in-france",
-    "url": "https://secretlengua1.com/English/a-new-Life-in-france"
-  },
-  {
-    "titre": "A Charming City",
-    "id": "a-charming-city",
-    "slug": "charming-city",
-    "url": "https://secretlengua1.com/English/charming-city"
-  },
-  {
-    "titre": "My Family and Me",
-    "id": "my-family-and-me",
-    "slug": "my-family-and-me",
-    "url": "https://secretlengua1.com/English/my-family-and-me"
-  },
-  {
-    "titre": "Planning an Evening",
-    "id": "planning-an-evening-2",
-    "slug": "Planning-an-evening",
-    "url": "https://secretlengua1.com/English/Planning-an-evening"
-  },
-  {
-    "titre": "Discovering a House",
-    "id": "discovering-a-house-2",
-    "slug": "discovering-house",
-    "url": "https://secretlengua1.com/English/discovering-house"
-  },
-  {
-    "titre": "Room Reservation",
-    "id": "room-reservation",
-    "slug": "room-reservation",
-    "url": "https://secretlengua1.com/English/room-reservation"
-  },
-  {
-    "titre": "Adaptation to Urban Life",
-    "id": "adaptation-to-urban-life",
-    "slug": "Adaptation-to-Urban-Life",
-    "url": "https://secretlengua1.com/English/Adaptation-to-Urban-Life"
-  },
-  {
-    "titre": "A Friendly Conversation",
-    "id": "a-friendly-conversation",
-    "slug": "a-Friendly-conversation",
-    "url": "https://secretlengua1.com/English/a-Friendly-conversation"
-  },
-  {
-    "titre": "A Day with Sophie",
-    "id": "a-day-with-sophie",
-    "slug": "A-Day-with-Sophie",
-    "url": "https://secretlengua1.com/English/A-Day-with-Sophie"
-  },
-  {
-    "titre": "Exploring a Farm",
-    "id": "exploring-a-farm",
-    "slug": "exploring-a-farm",
-    "url": "https://secretlengua1.com/English/exploring-a-farm"
-  },
-  {
-    "titre": "Booking a Room",
-    "id": "booking-a-room",
-    "slug": "booking-a-room",
-    "url": "https://secretlengua1.com/English/booking-a-room"
-  },
-  {
-    "titre": "Transition to city life",
-    "id": "transition-to-city-life",
-    "slug": "transition-to-city-life",
-    "url": "https://secretlengua1.com/English/transition-to-city-life"
-  }
+  "titre": "J'ai acquis de l'expertise",
+  "id": "acquis-de-lexpertise",
+  "slug": "acquis-de-lexpertise",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/acquis-de-lexpertise"
+},
+{
+  "titre": "L'enseignement de base : qu'en est-il ?",
+  "id": "Lenseignement-de-base-quen-est-il",
+  "slug": "Lenseignement-de-base-quen-est-il",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Lenseignement-de-base-quen-est-il"
+},
+{
+  "titre": "La commémoration de la Reconnaissance",
+  "id": "La-commemoration-de-la-Reconnaissance",
+  "slug": "La-commemoration-de-la-Reconnaissance",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-commemoration-de-la-Reconnaissance"
+},
+{
+  "titre": "La francophonie dans le monde",
+  "id": "La-francophonie-dans-le-monde",
+  "slug": "La-francophonie-dans-le-monde",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-francophonie-dans-le-monde"
+},
+{
+  "titre": "La Tresse Rouge",
+  "id": "La-Tresse-Rouge",
+  "slug": "La-Tresse-Rouge",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-Tresse-Rouge"
+},
+{
+  "titre": "La vie d'un Sculpteur",
+  "id": "La-vie-dun-Sculpteur",
+  "slug": "La-vie-dun-Sculpteur",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-vie-dun-Sculpteur"
+},
+{
+  "titre": "La vie d'une Marchande de Thé",
+  "id": "La-vie-dune-Marchande-de-The",
+  "slug": "La-vie-dune-Marchande-de-The",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-vie-dune-Marchande-de-The"
+},
+{
+  "titre": "La Détective Privée",
+  "id": "La-Detective-Privee",
+  "slug": "La-Detective-Privee",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-Detective-Privee"
+},
+{
+  "titre": "Le métier de Diététicien",
+  "id": "Le-metier-de-Dieteticien",
+  "slug": "Le-metier-de-Dieteticien",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Le-metier-de-Dieteticien"
+},
+{
+  "titre": "Le rêve d'un Navigateur",
+  "id": "Le-reve-dun-Navigateur",
+  "slug": "Le-reve-dun-Navigateur",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Le-reve-dun-Navigateur"
+},
+{
+  "titre": "La Passion du Sport",
+  "id": "La-Passion-du-Sport",
+  "slug": "La-Passion-du-Sport",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-Passion-du-Sport"
+},
+{
+  "titre": "Les îles Galápagos",
+  "id": "Les-iles-Galapagos",
+  "slug": "Les-iles-Galapagos",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Les-iles-Galapagos"
+},
+{
+  "titre": "Les puzzles",
+  "id": "Les-puzzles",
+  "slug": "Les-puzzles",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Les-puzzles"
+},
+{
+  "titre": "Les Déplacés Climatiques",
+  "id": "Les-Deplaces-Climatiques",
+  "slug": "Les-Deplaces-Climatiques",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Les-Deplaces-Climatiques"
+},
+{
+  "titre": "L’association Nouveau Départ",
+  "id": "Lassociation-Nouveau-Depart",
+  "slug": "Lassociation-Nouveau-Depart",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Lassociation-Nouveau-Depart"
+},
+{
+  "titre": "Privilégier le Leadership au Succès",
+  "id": "Leadership-au-Succes",
+  "slug": "Leadership-au-Succes",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Leadership-au-Succes"
+},
+{
+  "titre": "Problème Technique",
+  "id": "Probleme-Technique",
+  "slug": "Probleme-Technique",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Probleme-Technique"
+},
+{
+  "titre": "Sauvons notre Planète !",
+  "id": "Sauvons-notre-Planete",
+  "slug": "Sauvons-notre-Planete",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Sauvons-notre-Planete"
+},
+{
+  "titre": "Recette de la pâte à galette",
+  "id": "Recette-de-la-pate-a-galette",
+  "slug": "Recette-de-la-pate-a-galette",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Recette-de-la-pate-a-galette"
+},
+{
+  "titre": "Decouverte de Londres",
+  "id": "Decouverte-de-Londres",
+  "slug": "Decouverte-de-Londres",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Decouverte-de-Londres"
+},
+{
+  "titre": "Une famille aux professions variées",
+  "id": "Une-famille-aux-professions-variees",
+  "slug": "Une-famille-aux-professions-variees",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Une-famille-aux-professions-variees"
+},
+{
+  "titre": "Le climat et les habitants de Stockholm (Rayan)",
+  "id": "Le-climat-et-les-habitants-de-Stockholm-Rayan",
+  "slug": "Le-climat-et-les-habitants-de-Stockholm-Rayan",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Le-climat-et-les-habitants-de-Stockholm-Rayan"
+},
+{
+  "titre": "Une conversation téléphonique",
+  "id": "Une-conversation-telephonique",
+  "slug": "Une-conversation-telephonique",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Une-conversation-telephonique"
+},
+{
+  "titre": "Lettre à ma meilleure amie",
+  "id": "Lettre-a-ma-meilleure-amie",
+  "slug": "Lettre-a-ma-meilleure-amie",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Lettre-a-ma-meilleure-amie"
+},
+{
+  "titre": "Découvrir Lyon",
+  "id": "Decouvrir-Lyon",
+  "slug": "Decouvrir-Lyon",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Decouvrir-Lyon"
+},
+{
+  "titre": "La maison de Ben",
+  "id": "La-maison-de-Ben",
+  "slug": "La-maison-de-Ben",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-maison-de-Ben"
+},
+{
+  "titre": "Marseille, une ville à découvrir en un jour",
+  "id": "une-ville-a-decouvrir-en-un-jour",
+  "slug": "une-ville-a-decouvrir-en-un-jour",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/une-ville-a-decouvrir-en-un-jour"
+},
+{
+  "titre": "La météo - Quel temps fait-il ?",
+  "id": "La-meteo-Quel-temps-fait-il",
+  "slug": "La-meteo-Quel-temps-fait-il",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-meteo-Quel-temps-fait-il"
+}
 ]
