@@ -1,139 +1,169 @@
 [{
-    "titre": "Hotel Room Reservation",
-    "id": "hotel-room-reservation",
-    "slug": "Hotel-Room",
-    "url": "https://secretlengua1.com/English/Hotel-Room"
-  },
-  {
-    "titre": "How are you?",
-    "id": "how-are-you",
-    "slug": "How-are-you",
-    "url": "https://secretlengua1.com/English/How-are-you"
-  },
-  {
-    "titre": "My name is Sophie",
-    "id": "my-name-is-sophie",
-    "slug": "My-name-is-Sophie",
-    "url": "https://secretlengua1.com/English/My-name-is-Sophie"
-  },
-  {
-    "titre": "A day at the beach",
-    "id": "a-day-at-the-beach",
-    "slug": "A-day-at-the-beach",
-    "url": "https://secretlengua1.com/English/A-day-at-the-beach"
-  },
-  {
-    "titre": "The postcard",
-    "id": "the-postcard",
-    "slug": "The-postcard",
-    "url": "https://secretlengua1.com/English/The-postcard"
-  },
-  {
-    "titre": "Fish Market Purchase",
-    "id": "fish-market-purchase",
-    "slug": "Fish-Market-Purchase",
-    "url": "https://secretlengua1.com/English/Fish-Market-Purchase"
-  },
-  {
-    "titre": "English/The-wonders-of-nature",
-    "id": "english-the-wonders-of-nature",
-    "slug": "The-wonders-of-nature",
-    "url": "https://secretlengua1.com/English/The-wonders-of-nature"
-  },
-  {
-    "titre": "My dear family.",
-    "id": "my-dear-family",
-    "slug": "My-dear-famil",
-    "url": "https://secretlengua1.com/English/My-dear-famil"
-  },
-  {
-    "titre": "Planning an Evening",
-    "id": "planning-an-evening",
-    "slug": "planning-an-evening",
-    "url": "https://secretlengua1.com/English/planning-an-evening"
-  },
-  {
-    "titre": "Discovering a House",
-    "id": "discovering-a-house",
-    "slug": "discovering-a-House",
-    "url": "https://secretlengua1.com/English/discovering-a-House"
-  },
-  {
-    "titre": "A New Encounter",
-    "id": "a-new-encounter",
-    "slug": "A-New-Encounter",
-    "url": "https://secretlengua1.com/English/A-New-Encounter"
-  },
-  {
-    "titre": "A New Life in France",
-    "id": "a-new-life-in-france",
-    "slug": "a-new-Life-in-france",
-    "url": "https://secretlengua1.com/English/a-new-Life-in-france"
-  },
-  {
-    "titre": "A Charming City",
-    "id": "a-charming-city",
-    "slug": "charming-city",
-    "url": "https://secretlengua1.com/English/charming-city"
-  },
-  {
-    "titre": "My Family and Me",
-    "id": "my-family-and-me",
-    "slug": "my-family-and-me",
-    "url": "https://secretlengua1.com/English/my-family-and-me"
-  },
-  {
-    "titre": "Planning an Evening",
-    "id": "planning-an-evening-2",
-    "slug": "Planning-an-evening",
-    "url": "https://secretlengua1.com/English/Planning-an-evening"
-  },
-  {
-    "titre": "Discovering a House",
-    "id": "discovering-a-house-2",
-    "slug": "discovering-house",
-    "url": "https://secretlengua1.com/English/discovering-house"
-  },
-  {
-    "titre": "Room Reservation",
-    "id": "room-reservation",
-    "slug": "room-reservation",
-    "url": "https://secretlengua1.com/English/room-reservation"
-  },
-  {
-    "titre": "Adaptation to Urban Life",
-    "id": "adaptation-to-urban-life",
-    "slug": "Adaptation-to-Urban-Life",
-    "url": "https://secretlengua1.com/English/Adaptation-to-Urban-Life"
-  },
-  {
-    "titre": "A Friendly Conversation",
-    "id": "a-friendly-conversation",
-    "slug": "a-Friendly-conversation",
-    "url": "https://secretlengua1.com/English/a-Friendly-conversation"
-  },
-  {
-    "titre": "A Day with Sophie",
-    "id": "a-day-with-sophie",
-    "slug": "A-Day-with-Sophie",
-    "url": "https://secretlengua1.com/English/A-Day-with-Sophie"
-  },
-  {
-    "titre": "Exploring a Farm",
-    "id": "exploring-a-farm",
-    "slug": "exploring-a-farm",
-    "url": "https://secretlengua1.com/English/exploring-a-farm"
-  },
-  {
-    "titre": "Booking a Room",
-    "id": "booking-a-room",
-    "slug": "booking-a-room",
-    "url": "https://secretlengua1.com/English/booking-a-room"
-  },
-  {
-    "titre": "Transition to city life",
-    "id": "transition-to-city-life",
-    "slug": "transition-to-city-life",
-    "url": "https://secretlengua1.com/English/transition-to-city-life"
-  }
+  "titre": "Exercice 1",
+  "id": "DTGGFOZHLPAZYSS",
+  "slug": "DTGGFOZHLPAZYSS",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/DTGGFOZHLPAZYSS"
+},
+{
+  "titre": "Exercice 2",
+  "id": "UIVUA-WQEREXSBQ",
+  "slug": "UIVUA-WQEREXSBQ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UIVUA-WQEREXSBQ"
+},
+{
+  "titre": "Exercice 3",
+  "id": "S-HTFMVCTYA-PPI",
+  "slug": "S-HTFMVCTYA-PPI",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/S-HTFMVCTYA-PPI"
+},
+{
+  "titre": "Exercice 4",
+  "id": "SRHPWVMAUZKWNMJ",
+  "slug": "SRHPWVMAUZKWNMJ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/SRHPWVMAUZKWNMJ"
+},
+{
+  "titre": "Exercice 5",
+  "id": "ROYKIRHTKJ-PJXS",
+  "slug": "ROYKIRHTKJ-PJXS",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ROYKIRHTKJ-PJXS"
+},
+{
+  "titre": "Exercice 6",
+  "id": "OCUAIEZSSFDNOYP",
+  "slug": "OCUAIEZSSFDNOYP",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/OCUAIEZSSFDNOYP"
+},
+{
+  "titre": "Exercice 7",
+  "id": "LZJVFLFQX-CECLW",
+  "slug": "LZJVFLFQX-CECLW",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/LZJVFLFQX-CECLW"
+},
+{
+  "titre": "Exercice 8",
+  "id": "UTTIMEQXCVHIGMF",
+  "slug": "UTTIMEQXCVHIGMF",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UTTIMEQXCVHIGMF"
+},
+{
+  "titre": "Exercice 9",
+  "id": "ELRGUCQXDIGDPK",
+  "slug": "ELRGUCQXDIGDPK",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ELRGUCQXDIGDPK"
+},
+{
+  "titre": "Exercice 10",
+  "id": "YXPZWCYXKXZNHKK",
+  "slug": "YXPZWCYXKXZNHKK",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/YXPZWCYXKXZNHKK"
+},
+{
+  "titre": "Exercice 11",
+  "id": "UXCTZXXNW-QAWFU",
+  "slug": "UXCTZXXNW-QAWFU",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UXCTZXXNW-QAWFU"
+},
+{
+  "titre": "Exercice 12",
+  "id": "FBHWBZHZD-ZQHKT",
+  "slug": "FBHWBZHZD-ZQHKT",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/FBHWBZHZD-ZQHKT"
+},
+{
+  "titre": "Exercice 13",
+  "id": "XTUONZ-ASTH-JJB",
+  "slug": "XTUONZ-ASTH-JJB",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/XTUONZ-ASTH-JJB"
+},
+{
+  "titre": "Exercice 14",
+  "id": "FAHYJUXCQEZRKIH",
+  "slug": "FAHYJUXCQEZRKIH",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/FAHYJUXCQEZRKIH"
+},
+{
+  "titre": "Exercice 15",
+  "id": "IXVGUDVF-WMTSMQ",
+  "slug": "IXVGUDVF-WMTSMQ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/IXVGUDVF-WMTSMQ"
+},
+{
+  "titre": "Exercice 16",
+  "id": "OEBCUVTIWRUCRBB",
+  "slug": "OEBCUVTIWRUCRBB",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/OEBCUVTIWRUCRBB"
+},
+{
+  "titre": "Exercice 17",
+  "id": "IXVGUDVF-WMTSMQ",
+  "slug": "IXVGUDVF-WMTSMQ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/IXVGUDVF-WMTSMQ"
+},
+{
+  "titre": "Exercice 18",
+  "id": "XNLSYXNWYKDYCIQ",
+  "slug": "XNLSYXNWYKDYCIQ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/XNLSYXNWYKDYCIQ"
+},
+{
+  "titre": "Exercice 19",
+  "id": "ZXGLT-HONRHXXJ",
+  "slug": "ZXGLT-HONRHXXJ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ZXGLT-HONRHXXJ"
+},
+{
+  "titre": "Exercice 20",
+  "id": "QIZRTPWQRWESQKJ",
+  "slug": "QIZRTPWQRWESQKJ",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/QIZRTPWQRWESQKJ"
+},
+{
+  "titre": "Exercice 21",
+  "id": "GTZNRAJTNYRUXRB",
+  "slug": "GTZNRAJTNYRUXRB",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/GTZNRAJTNYRUXRB"
+},
+{
+  "titre": "Exercice 22",
+  "id": "SVND-FUNVOYAAAI",
+  "slug": "SVND-FUNVOYAAAI",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/SVND-FUNVOYAAAI"
+},
+{
+  "titre": "Exercice 23",
+  "id": "UIQNECYWSLTPBPT",
+  "slug": "UIQNECYWSLTPBPT",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UIQNECYWSLTPBPT"
+},
+{
+  "titre": "Exercice 24",
+  "id": "SBYJDQEXCHSCIOL",
+  "slug": "SBYJDQEXCHSCIOL",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/SBYJDQEXCHSCIOL"
+},
+{
+  "titre": "Exercice 25",
+  "id": "FBIQULQXZX-SAG",
+  "slug": "FBIQULQXZX-SAG",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/FBIQULQXZX-SAG"
+},
+{
+  "titre": "Exercice 26",
+  "id": "NOBJYBPBLTKUGSY",
+  "slug": "NOBJYBPBLTKUGSY",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/NOBJYBPBLTKUGSY"
+},
+{
+  "titre": "Exercice 27",
+  "id": "ONDWQPCYWQQVGSD",
+  "slug": "ONDWQPCYWQQVGSD",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ONDWQPCYWQQVGSD"
+},
+{
+  "titre": "Exercice 28",
+  "id": "ZGYIGKZNKTEM-O",
+  "slug": "ZGYIGKZNKTEM-O",
+  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ZGYIGKZNKTEM-O"
+}
 ]
