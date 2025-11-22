@@ -1,17 +1,5 @@
 [
   {
-    "titre": "¿Cómo estás?",
-    "id": "como-estas",
-    "slug": "Spanish-Reading-A1/como-esta",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/como-esta"
-  },
-  {
-    "titre": "Me llamo Sophie.",
-    "id": "me-llamo-sophie",
-    "slug": "Spanish-Reading-A1/Me-llamo-Sophie",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Me-llamo-Sophie"
-  },
-  {
     "titre": "Un día en la playa",
     "id": "un-dia-en-la-playa",
     "slug": "Spanish-Reading-A1/Un-dia-en-la-playa",
@@ -46,12 +34,6 @@
     "id": "un-dia-con-lucie",
     "slug": "Spanish-Reading-A1/Un-dia-con-Lucie",
     "url": "https://secretlengua1.com/Spanish-Reading-A1/Un-dia-con-Lucie"
-  },
-  {
-    "titre": "Un Nuevo Encuentro",
-    "id": "un-nuevo-encuentro",
-    "slug": "Spanish-Reading-A1/Un-Nuevo-Encuentro",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Un-Nuevo-Encuentro"
   },
   {
     "titre": "Una Nueva Vida en Francia",
