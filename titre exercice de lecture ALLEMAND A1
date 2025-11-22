@@ -1,15 +1,4 @@
-[ {
-    "titre": "Wie geht es dir?",
-    "id": "wie-geht-es-dir",
-    "slug": "Wie-geht-es-dir",
-    "url": "https://secretlengua1.com/German-A1/Wie-geht-es-dir"
-  },
-  {
-    "titre": "Ich heiße Sophie.",
-    "id": "ich-heisse-sophie",
-    "slug": "Ich-heisse-Sophie",
-    "url": "https://secretlengua1.com/German-A1/Ich-heisse-Sophie"
-  },
+[ 
   {
     "titre": "Ein Tag am Strand",
     "id": "ein-tag-am-strand",
@@ -39,12 +28,6 @@
     "id": "ein-tag-mit-lucie",
     "slug": "Ein-Tag-mit-Lucie",
     "url": "https://secretlengua1.com/German-A1/Ein-Tag-mit-Lucie"
-  },
-  {
-    "titre": "Eine Neue Begegnung",
-    "id": "eine-neue-begegnung",
-    "slug": "Eine-Neue-Begegnung",
-    "url": "https://secretlengua1.com/German-A1/Eine-Neue-Begegnung"
   },
   {
     "titre": "Ein Neues Leben in Frankreich",
