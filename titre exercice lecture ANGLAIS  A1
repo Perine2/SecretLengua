@@ -5,18 +5,6 @@
     "url": "https://secretlengua1.com/English/Hotel-Room"
   },
   {
-    "titre": "How are you?",
-    "id": "how-are-you",
-    "slug": "How-are-you",
-    "url": "https://secretlengua1.com/English/How-are-you"
-  },
-  {
-    "titre": "My name is Sophie",
-    "id": "my-name-is-sophie",
-    "slug": "My-name-is-Sophie",
-    "url": "https://secretlengua1.com/English/My-name-is-Sophie"
-  },
-  {
     "titre": "A day at the beach",
     "id": "a-day-at-the-beach",
     "slug": "A-day-at-the-beach",
@@ -57,12 +45,6 @@
     "id": "discovering-a-house",
     "slug": "discovering-a-House",
     "url": "https://secretlengua1.com/English/discovering-a-House"
-  },
-  {
-    "titre": "A New Encounter",
-    "id": "a-new-encounter",
-    "slug": "A-New-Encounter",
-    "url": "https://secretlengua1.com/English/A-New-Encounter"
   },
   {
     "titre": "A New Life in France",
