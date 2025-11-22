@@ -1,17 +1,4 @@
-[
-  {
-    "titre": "你好吗？",
-    "id": "ni-hao-ma",
-    "slug": "Chinese-Reading-A1/1",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/1"
-  },
-  {
-    "titre": "我叫索菲。",
-    "id": "wo-jiao-suofei",
-    "slug": "Chinese-Reading-A1/2",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/2"
-  },
-  {
+[{
     "titre": "一天在海灘上",
     "id": "yi-tian-zai-haitan-shang",
     "slug": "Chinese-Reading-A1/3",
