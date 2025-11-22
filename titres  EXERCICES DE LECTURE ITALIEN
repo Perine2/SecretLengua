@@ -1,21 +1,9 @@
 [
   {
-    "titre": "Come stai?",
-    "id": "come-stai",
-    "slug": "Come-stai",
-    "url": "https://secretlengua1.com/Italian-reading-A1/Come-stai"
-  },
-  {
     "titre": "Una giornata in spiaggia",
     "id": "una-giornata-in-spiaggia",
     "slug": "Una-giornata-in-spiaggia",
     "url": "https://secretlengua1.com/Italian-reading-A1/Una-giornata-in-spiaggia"
-  },
-  {
-    "titre": "Mi-chiamo-Sophie",
-    "id": "mi-chiamo-sophie",
-    "slug": "Mi-chiamo-Sophie",
-    "url": "https://secretlengua1.com/Italian-reading-A1/Mi-chiamo-Sophie"
   },
   {
     "titre": "La cartolina",
@@ -46,12 +34,6 @@
     "id": "una-giornata-con-lucie",
     "slug": "Una-giornata-con-Lucie",
     "url": "https://secretlengua1.com/Italian-reading-A1/Una-giornata-con-Lucie"
-  },
-  {
-    "titre": "Un Nuovo Incontro",
-    "id": "un-nuovo-incontro",
-    "slug": "Un-Nuovo-Incontro",
-    "url": "https://secretlengua1.com/Italian-reading-A1/Un-Nuovo-Incontro"
   },
   {
     "titre": "Una Nuova Vita in Francia",
