@@ -1,3 +1,22 @@
-secretlengua-pwa/
-└── manifest.webmanifest
+{
+  "name": "SecretLengua",
+  "short_name": "SecretLengua",
+  "start_url": "https://secretlengua1.com/",
+  "display": "standalone",
+  "background_color": "#370237",
+  "theme_color": "#370237",
+  "icons": [
+    {
+      "src": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/secretlengua-icon-192png-axVRZ.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/secretlengua-icon-512png-RFGf7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
  
