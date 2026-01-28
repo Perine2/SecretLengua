@@ -4,8 +4,8 @@
   "start_url": "https://secretlengua1.com/",
   "scope": "https://secretlengua1.com/",
   "display": "standalone",
-  "background_color": "#370237",
-  "theme_color": "#370237",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
   "description": "SecretLengua – Apprendre les langues par la pratique quotidienne",
   "icons": [
     {
