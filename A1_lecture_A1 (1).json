@@ -1,4 +1,34 @@
-[
+[{
+  "titre": "Le premier jour à l’atelier",
+  "id": "Le-premier-jour-a-latelier",
+  "slug": "Le-premier-jour-a-latelier",
+  "url": "https://secretlengua1.com/reading-exercice/Le-premier-jour-a-latelier"
+},{
+  "titre": "Au guichet des inscriptions",
+  "id": "Au-guichet-des-inscriptions",
+  "slug": "Au-guichet-des-inscriptions",
+  "url": "https://secretlengua1.com/reading-exercice/Au-guichet-des-inscriptions"
+},{
+  "titre": "Une discussion pendant la pause",
+  "id": "Une-discussion-pendant-la-pause",
+  "slug": "Une-discussion-pendant-la-pause",
+  "url": "https://secretlengua1.com/reading-exercice/Une-discussion-pendant-la-pause"
+},{
+  "titre": "Le déjeuner au bureau",
+  "id": "Le-dejeuner-au-bureau",
+  "slug": "Le-dejeuner-au-bureau",
+  "url": "https://secretlengua1.com/reading-exercice/Le-dejeuner-au-bureau"
+},{
+  "titre": "Le travail de Jean-Paul au marché",
+  "id": "Le-travail-de-Jean-Paul-au-marche",
+  "slug": "Le-travail-de-Jean-Paul-au-marche",
+  "url": "https://secretlengua1.com/reading-exercice/Le-travail-de-Jean-Paul-au-marche"
+},{
+  "titre": "Le formulaire à remplir",
+  "id": "Le-formulaire-a-remplir",
+  "slug": "Le-formulaire-a-remplir",
+  "url": "https://secretlengua1.com/reading-exercice/Le-formulaire-a-remplir"
+},
   {
     "titre": "Ma famille cherie",
     "id": "Ma famille cherie",
@@ -33,7 +63,37 @@
     "id": "Une-lettre-de-Paris",
     "slug": "Une-lettre-de-Paris",
     "url": "https://secretlengua1.com/reading-exercice/Une-lettre-de-Paris"
-  },
+  },{
+  "titre": "Le dîner du dimanche chez les N’Guessan",
+  "id": "Le-diner-du-dimanche-chez",
+  "slug": "Le-diner-du-dimanche-chez",
+  "url": "https://secretlengua1.com/reading-exercice/Le-diner-du-dimanche-chez"
+},{
+  "titre": "Fatou, la responsable de l’accueil",
+  "id": "Fatou-la-responsable-de-laccueil",
+  "slug": "Fatou-la-responsable-de-laccueil",
+  "url": "https://secretlengua1.com/reading-exercice/Fatou-la-responsable-de-laccueil"
+},{
+  "titre": "Les langues au quotidien à la bibliothèque",
+  "id": "Les-langues-au-quotidien-a-la-bibliotheque",
+  "slug": "Les-langues-au-quotidien-a-la-bibliotheque",
+  "url": "https://secretlengua1.com/reading-exercice/Les-langues-au-quotidien-a-la-bibliotheque"
+},{
+  "titre": "Une visite à la librairie du centre-ville",
+  "id": "Une-visite-a-la-librairie-du-centre-ville",
+  "slug": "Une-visite-a-la-librairie-du-centre-ville",
+  "url": "https://secretlengua1.com/reading-exercice/Une-visite-a-la-librairie-du-centre-ville"
+},{
+  "titre": "Une journée ordinaire pour Mariam",
+  "id": "Une-journee-ordinaire-pour-Mariam",
+  "slug": "Une-journee-ordinaire-pour-Mariam",
+  "url": "https://secretlengua1.com/reading-exercice/Une-journee-ordinaire-pour-Mariam"
+},{
+  "titre": "Le rendez-vous de huit heures",
+  "id": "Le-rendez-vous-de-huit-heures",
+  "slug": "Le-rendez-vous-de-huit-heures",
+  "url": "https://secretlengua1.com/reading-exercice/Le-rendez-vous-de-huit-heures"
+},
   {
     "titre": "Les merveilles de la nature",
     "id": "Les-merveilles-de-la-nature",
