@@ -28,7 +28,6 @@
 { "german": "Äpfel", "translate": "apples" },
 { "german": "Öl", "translate": "oil" },
 { "german": "Über", "translate": "over" },
-
 { "german": "ich", "translate": "I" },
 { "german": "du", "translate": "you" },
 { "german": "er", "translate": "he" },
@@ -38,7 +37,6 @@
 { "german": "ihr", "translate": "you (plural)" },
 { "german": "sie", "translate": "they" },
 { "german": "Sie", "translate": "you (formal)" },
-
 { "german": "gut", "translate": "good" },
 { "german": "schlecht", "translate": "bad" },
 { "german": "groß", "translate": "big" },
@@ -59,7 +57,6 @@
 { "german": "gemein", "translate": "mean" },
 { "german": "stark", "translate": "strong" },
 { "german": "schwach", "translate": "weak" },
-
 { "german": "sein", "translate": "to be" },
 { "german": "haben", "translate": "to have" },
 { "german": "machen", "translate": "to do/make" },
@@ -80,7 +77,6 @@
 { "german": "fragen", "translate": "ask" },
 { "german": "finden", "translate": "find" },
 { "german": "arbeiten", "translate": "work" },
-
 { "german": "gut", "translate": "well" },
 { "german": "schlecht", "translate": "badly" },
 { "german": "sehr", "translate": "very" },
@@ -101,7 +97,6 @@
 { "german": "auch", "translate": "also" },
 { "german": "danach", "translate": "afterwards" },
 { "german": "heute", "translate": "today" },
-
 { "german": "dies", "translate": "this" },
 { "german": "das", "translate": "that" },
 { "german": "jeder", "translate": "each" },
@@ -117,7 +112,6 @@
 { "german": "warum", "translate": "why" },
 { "german": "wie", "translate": "how" },
 { "german": "welcher", "translate": "which" },
-
 { "german": "in", "translate": "in" },
 { "german": "auf", "translate": "on" },
 { "german": "unter", "translate": "under" },
