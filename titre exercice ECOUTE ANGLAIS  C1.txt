@@ -2,180 +2,180 @@
   "titre": "Exercise 1",
   "id": "exercise-1",
   "slug": "WA-ZANQCZZKXCBN",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/WA-ZANQCZZKXCBN"
+  "url": "https://secretlengua.com/English-C1/WA-ZANQCZZKXCBN"
 },
 {
   "titre": "Exercise 2",
   "id": "exercise-2",
   "slug": "Y-YFGPSAFRCZZS",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/Y-YFGPSAFRCZZS"
+  "url": "https://secretlengua.com/English-C1/Y-YFGPSAFRCZZS"
 },
 {
   "titre": "Exercise 3",
   "id": "exercise-3",
   "slug": "MAEEDGHAIXPWNWV",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/MAEEDGHAIXPWNWV"
+  "url": "https://secretlengua.com/English-C1/MAEEDGHAIXPWNWV"
 },
 {
   "titre": "Exercise 4",
   "id": "exercise-4",
   "slug": "O-FJFGC-SA-ULFE",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/O-FJFGC-SA-ULFE"
+  "url": "https://secretlengua.com/English-C1/O-FJFGC-SA-ULFE"
 },
 {
   "titre": "Exercise 5",
   "id": "exercise-5",
   "slug": "HGBUDOOSEYYQC",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/HGBUDOOSEYYQC"
+  "url": "https://secretlengua.com/English-C1/HGBUDOOSEYYQC"
 },
 {
   "titre": "Exercise 6",
   "id": "exercise-6",
   "slug": "KUQSWFXOOZTDAGY",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/KUQSWFXOOZTDAGY"
+  "url": "https://secretlengua.com/English-C1/KUQSWFXOOZTDAGY"
 },
 {
   "titre": "Exercise 7",
   "id": "exercise-7",
   "slug": "NPTDCNLOW-KOKKU",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/NPTDCNLOW-KOKKU"
+  "url": "https://secretlengua.com/English-C1/NPTDCNLOW-KOKKU"
 },
 {
   "titre": "Exercise 8",
   "id": "exercise-8",
   "slug": "QPPP-BJKBCFOCUM",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/QPPP-BJKBCFOCUM"
+  "url": "https://secretlengua.com/English-C1/QPPP-BJKBCFOCUM"
 },
 {
   "titre": "Exercise 9",
   "id": "exercise-9",
   "slug": "EXAYEVJWDA-VVRL",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/EXAYEVJWDA-VVRL"
+  "url": "https://secretlengua.com/English-C1/EXAYEVJWDA-VVRL"
 },
 {
   "titre": "Exercise 10",
   "id": "exercise-10",
   "slug": "JMZBEIFMVWPFX",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/JMZBEIFMVWPFX"
+  "url": "https://secretlengua.com/English-C1/JMZBEIFMVWPFX"
 },
 {
   "titre": "Exercise 11",
   "id": "exercise-11",
   "slug": "XNTQOOXDXAJGOUH",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/XNTQOOXDXAJGOUH"
+  "url": "https://secretlengua.com/English-C1/XNTQOOXDXAJGOUH"
 },
 {
   "titre": "Exercise 12",
   "id": "exercise-12",
   "slug": "LCOGQFFYBDNLRNT",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/LCOGQFFYBDNLRNT"
+  "url": "https://secretlengua.com/English-C1/LCOGQFFYBDNLRNT"
 },
 {
   "titre": "Exercise 13",
   "id": "exercise-13",
   "slug": "PNEPOOGSXKYPAQM",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/PNEPOOGSXKYPAQM"
+  "url": "https://secretlengua.com/English-C1/PNEPOOGSXKYPAQM"
 },
 {
   "titre": "Exercise 14",
   "id": "exercise-14",
   "slug": "WFTYJGBTFQYY-HA",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/WFTYJGBTFQYY-HA"
+  "url": "https://secretlengua.com/English-C1/WFTYJGBTFQYY-HA"
 },
 {
   "titre": "Exercise 15",
   "id": "exercise-15",
   "slug": "OONU-BBYDSKUYBH",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/OONU-BBYDSKUYBH"
+  "url": "https://secretlengua.com/English-C1/OONU-BBYDSKUYBH"
 },
 {
   "titre": "Exercise 16",
   "id": "exercise-16",
   "slug": "TZZDMIXBURBWIMI",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/TZZDMIXBURBWIMI"
+  "url": "https://secretlengua.com/English-C1/TZZDMIXBURBWIMI"
 },
 {
   "titre": "Exercise 17",
   "id": "exercise-17",
   "slug": "CQMLUKZGOXXOPC",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/CQMLUKZGOXXOPC"
+  "url": "https://secretlengua.com/English-C1/CQMLUKZGOXXOPC"
 },
 {
   "titre": "Exercise 18",
   "id": "exercise-18",
   "slug": "WJIYWVYMNT-GDXG",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/WJIYWVYMNT-GDXG"
+  "url": "https://secretlengua.com/English-C1/WJIYWVYMNT-GDXG"
 },
 {
   "titre": "Exercise 19",
   "id": "exercise-19",
   "slug": "JQJWRLRMNJPRTZW",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/JQJWRLRMNJPRTZW"
+  "url": "https://secretlengua.com/English-C1/JQJWRLRMNJPRTZW"
 },
 {
   "titre": "Exercise 20",
   "id": "exercise-20",
   "slug": "H-WFJTXMBDCMNKM",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/H-WFJTXMBDCMNKM"
+  "url": "https://secretlengua.com/English-C1/H-WFJTXMBDCMNKM"
 },
 {
   "titre": "Exercise 21",
   "id": "exercise-21",
   "slug": "RAPPLHRNEPKCU",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/RAPPLHRNEPKCU"
+  "url": "https://secretlengua.com/English-C1/RAPPLHRNEPKCU"
 },
 {
   "titre": "Exercise 22",
   "id": "exercise-22",
   "slug": "ILVFSW-BZGST-KH",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/ILVFSW-BZGST-KH"
+  "url": "https://secretlengua.com/English-C1/ILVFSW-BZGST-KH"
 },
 {
   "titre": "Exercise 23",
   "id": "exercise-23",
   "slug": "WDBCTLLLYCBQNT",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/WDBCTLLLYCBQNT"
+  "url": "https://secretlengua.com/English-C1/WDBCTLLLYCBQNT"
 },
 {
   "titre": "Exercise 24",
   "id": "exercise-24",
   "slug": "LXEV-HO-HQWJDC",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/LXEV-HO-HQWJDC"
+  "url": "https://secretlengua.com/English-C1/LXEV-HO-HQWJDC"
 },
 {
   "titre": "Exercise 25",
   "id": "exercise-25",
   "slug": "KMTCIDIHAUBLYXQ",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/KMTCIDIHAUBLYXQ"
+  "url": "https://secretlengua.com/English-C1/KMTCIDIHAUBLYXQ"
 },
 {
   "titre": "Exercise 26",
   "id": "exercise-26",
   "slug": "CPMGEBDQPPAWMH",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/CPMGEBDQPPAWMH"
+  "url": "https://secretlengua.com/English-C1/CPMGEBDQPPAWMH"
 },
 {
   "titre": "Exercise 27",
   "id": "exercise-27",
   "slug": "DFYPXVXCOTZEAWL",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/DFYPXVXCOTZEAWL"
+  "url": "https://secretlengua.com/English-C1/DFYPXVXCOTZEAWL"
 },
 {
   "titre": "Exercise 28",
   "id": "exercise-28",
   "slug": "KYW-FSWHDAHSDRA",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/KYW-FSWHDAHSDRA"
+  "url": "https://secretlengua.com/English-C1/KYW-FSWHDAHSDRA"
 },
 {
   "titre": "Exercise 29",
   "id": "exercise-29",
   "slug": "HVRKSWGHLPXAENQ",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/HVRKSWGHLPXAENQ"
+  "url": "https://secretlengua.com/English-C1/HVRKSWGHLPXAENQ"
 },
 {
   "titre": "Exercise 30",
   "id": "exercise-30",
   "slug": "DOURSHASWHAMHPJ",
-  "url": "https://cmde-2lj6e37h.dcms.site/English-C1/DOURSHASWHAMHPJ"
+  "url": "https://secretlengua.com/English-C1/DOURSHASWHAMHPJ"
 }
 ]
