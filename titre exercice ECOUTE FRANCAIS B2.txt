@@ -2,168 +2,168 @@
   "titre": "Exercice 1",
   "id": "DTGGFOZHLPAZYSS",
   "slug": "DTGGFOZHLPAZYSS",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/DTGGFOZHLPAZYSS"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/DTGGFOZHLPAZYSS"
 },
 {
   "titre": "Exercice 2",
   "id": "UIVUA-WQEREXSBQ",
   "slug": "UIVUA-WQEREXSBQ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UIVUA-WQEREXSBQ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/UIVUA-WQEREXSBQ"
 },
 {
   "titre": "Exercice 3",
   "id": "S-HTFMVCTYA-PPI",
   "slug": "S-HTFMVCTYA-PPI",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/S-HTFMVCTYA-PPI"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/S-HTFMVCTYA-PPI"
 },
 {
   "titre": "Exercice 4",
   "id": "SRHPWVMAUZKWNMJ",
   "slug": "SRHPWVMAUZKWNMJ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/SRHPWVMAUZKWNMJ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/SRHPWVMAUZKWNMJ"
 },
 {
   "titre": "Exercice 5",
   "id": "ROYKIRHTKJ-PJXS",
   "slug": "ROYKIRHTKJ-PJXS",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ROYKIRHTKJ-PJXS"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/ROYKIRHTKJ-PJXS"
 },
 {
   "titre": "Exercice 6",
   "id": "OCUAIEZSSFDNOYP",
   "slug": "OCUAIEZSSFDNOYP",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/OCUAIEZSSFDNOYP"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/OCUAIEZSSFDNOYP"
 },
 {
   "titre": "Exercice 7",
   "id": "LZJVFLFQX-CECLW",
   "slug": "LZJVFLFQX-CECLW",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/LZJVFLFQX-CECLW"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/LZJVFLFQX-CECLW"
 },
 {
   "titre": "Exercice 8",
   "id": "UTTIMEQXCVHIGMF",
   "slug": "UTTIMEQXCVHIGMF",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UTTIMEQXCVHIGMF"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/UTTIMEQXCVHIGMF"
 },
 {
   "titre": "Exercice 9",
   "id": "ELRGUCQXDIGDPK",
   "slug": "ELRGUCQXDIGDPK",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ELRGUCQXDIGDPK"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/ELRGUCQXDIGDPK"
 },
 {
   "titre": "Exercice 10",
   "id": "YXPZWCYXKXZNHKK",
   "slug": "YXPZWCYXKXZNHKK",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/YXPZWCYXKXZNHKK"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/YXPZWCYXKXZNHKK"
 },
 {
   "titre": "Exercice 11",
   "id": "UXCTZXXNW-QAWFU",
   "slug": "UXCTZXXNW-QAWFU",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UXCTZXXNW-QAWFU"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/UXCTZXXNW-QAWFU"
 },
 {
   "titre": "Exercice 12",
   "id": "FBHWBZHZD-ZQHKT",
   "slug": "FBHWBZHZD-ZQHKT",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/FBHWBZHZD-ZQHKT"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/FBHWBZHZD-ZQHKT"
 },
 {
   "titre": "Exercice 13",
   "id": "XTUONZ-ASTH-JJB",
   "slug": "XTUONZ-ASTH-JJB",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/XTUONZ-ASTH-JJB"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/XTUONZ-ASTH-JJB"
 },
 {
   "titre": "Exercice 14",
   "id": "FAHYJUXCQEZRKIH",
   "slug": "FAHYJUXCQEZRKIH",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/FAHYJUXCQEZRKIH"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/FAHYJUXCQEZRKIH"
 },
 {
   "titre": "Exercice 15",
   "id": "IXVGUDVF-WMTSMQ",
   "slug": "IXVGUDVF-WMTSMQ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/IXVGUDVF-WMTSMQ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/IXVGUDVF-WMTSMQ"
 },
 {
   "titre": "Exercice 16",
   "id": "OEBCUVTIWRUCRBB",
   "slug": "OEBCUVTIWRUCRBB",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/OEBCUVTIWRUCRBB"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/OEBCUVTIWRUCRBB"
 },
 {
   "titre": "Exercice 17",
   "id": "IXVGUDVF-WMTSMQ",
   "slug": "IXVGUDVF-WMTSMQ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/IXVGUDVF-WMTSMQ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/IXVGUDVF-WMTSMQ"
 },
 {
   "titre": "Exercice 18",
   "id": "XNLSYXNWYKDYCIQ",
   "slug": "XNLSYXNWYKDYCIQ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/XNLSYXNWYKDYCIQ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/XNLSYXNWYKDYCIQ"
 },
 {
   "titre": "Exercice 19",
   "id": "ZXGLT-HONRHXXJ",
   "slug": "ZXGLT-HONRHXXJ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ZXGLT-HONRHXXJ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/ZXGLT-HONRHXXJ"
 },
 {
   "titre": "Exercice 20",
   "id": "QIZRTPWQRWESQKJ",
   "slug": "QIZRTPWQRWESQKJ",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/QIZRTPWQRWESQKJ"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/QIZRTPWQRWESQKJ"
 },
 {
   "titre": "Exercice 21",
   "id": "GTZNRAJTNYRUXRB",
   "slug": "GTZNRAJTNYRUXRB",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/GTZNRAJTNYRUXRB"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/GTZNRAJTNYRUXRB"
 },
 {
   "titre": "Exercice 22",
   "id": "SVND-FUNVOYAAAI",
   "slug": "SVND-FUNVOYAAAI",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/SVND-FUNVOYAAAI"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/SVND-FUNVOYAAAI"
 },
 {
   "titre": "Exercice 23",
   "id": "UIQNECYWSLTPBPT",
   "slug": "UIQNECYWSLTPBPT",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/UIQNECYWSLTPBPT"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/UIQNECYWSLTPBPT"
 },
 {
   "titre": "Exercice 24",
   "id": "SBYJDQEXCHSCIOL",
   "slug": "SBYJDQEXCHSCIOL",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/SBYJDQEXCHSCIOL"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/SBYJDQEXCHSCIOL"
 },
 {
   "titre": "Exercice 25",
   "id": "FBIQULQXZX-SAG",
   "slug": "FBIQULQXZX-SAG",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/FBIQULQXZX-SAG"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/FBIQULQXZX-SAG"
 },
 {
   "titre": "Exercice 26",
   "id": "NOBJYBPBLTKUGSY",
   "slug": "NOBJYBPBLTKUGSY",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/NOBJYBPBLTKUGSY"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/NOBJYBPBLTKUGSY"
 },
 {
   "titre": "Exercice 27",
   "id": "ONDWQPCYWQQVGSD",
   "slug": "ONDWQPCYWQQVGSD",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ONDWQPCYWQQVGSD"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/ONDWQPCYWQQVGSD"
 },
 {
   "titre": "Exercice 28",
   "id": "ZGYIGKZNKTEM-O",
   "slug": "ZGYIGKZNKTEM-O",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/ZGYIGKZNKTEM-O"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/ZGYIGKZNKTEM-O"
 }
 ]
