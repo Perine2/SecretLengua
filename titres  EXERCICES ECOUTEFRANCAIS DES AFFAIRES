@@ -1,106 +1,105 @@
 [
-  
   {
-    "titre": "Exercice 1",
-    "id": "exercice-1",
-    "slug": "Exercice-1",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/MCK-T-AQYBR"
-  },
-  {
-    "titre": "Exercice 2",
-    "id": "exercice-2",
-    "slug": "Exercice-2",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/IZQHGBYJLYGCDVF"
-  },
-  {
-    "titre": "Exercice 3",
-    "id": "exercice-3",
-    "slug": "Exercice-3",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/RME-LYQJOLRCPWQEAFY"
-  },
-  {
-    "titre": "Exercice 4",
-    "id": "exercice-4",
-    "slug": "Exercice-4",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/ARQWNKPWHOFZYHH"
-  },
-  {
-    "titre": "Exercice 5",
-    "id": "exercice-5",
-    "slug": "Exercice-5",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/UKOSAGECDLWLTGB"
-  },
-  {
-    "titre": "Exercice 6",
-    "id": "exercice-6",
-    "slug": "Exercice-6",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/PTBQQKNPFASP-ZP"
-  },
-  {
-    "titre": "Exercice 7",
-    "id": "exercice-7",
-    "slug": "Exercice-7",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/C-LPZWQQKQS-LKX-U"
-  },
-  {
-    "titre": "Exercice 8",
-    "id": "exercice-8",
-    "slug": "Exercice-8",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/QCSEMELPFELUTNS"
-  },
-  {
-    "titre": "Exercice 9",
-    "id": "exercice-9",
-    "slug": "Exercice-9",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/HVHCLCOWJLUSPXE"
-  },
-  {
-    "titre": "Exercice 10",
-    "id": "exercice-10",
-    "slug": "Exercice-10",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/BYMPZTMOOCIDQQ"
-  },
-  {
-    "titre": "Exercice 11",
-    "id": "exercice-11",
-    "slug": "Exercice-11",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/ACRHDJLKOSSJWER"
-  },
-  {
-    "titre": "Exercice 12",
-    "id": "exercice-12",
-    "slug": "Exercice-12",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/DWX-A-QEFYROLP"
-  },
-  {
-    "titre": "Exercice 13",
-    "id": "exercice-13",
-    "slug": "Exercice-13",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/OPWFYPILMTUVPHS"
-  },
-  {
-    "titre": "Exercice 14",
-    "id": "exercice-14",
-    "slug": "Exercice-14",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/FOREX-SMUBUNIOMWGFWL"
-  },
-  {
-    "titre": "Exercice 15",
-    "id": "exercice-15",
-    "slug": "Exercice-15",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/ZCCNRW-HSHAT-TN"
-  },
-  {
-    "titre": "Exercice 16",
-    "id": "exercice-16",
-    "slug": "Exercice-16",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/20-XDMIDSSJDYMP-AH"
-  },
-  {
-    "titre": "Exercice 17",
-    "id": "exercice-17",
-    "slug": "Exercice-17",
-    "url": "https://cmde-2lj6e37h.dcms.site/Professional-FRENCH-language/JCCRGGKFCBIDYAA"
-  }
+  "titre": "Exercice 1",
+  "id": "exercice-1",
+  "slug": "Exercice-1",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/MCK-T-AQYBR"
+},
+{
+  "titre": "Exercice 2",
+  "id": "exercice-2",
+  "slug": "Exercice-2",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/IZQHGBYJLYGCDVF"
+},
+{
+  "titre": "Exercice 3",
+  "id": "exercice-3",
+  "slug": "Exercice-3",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/RME-LYQJOLRCPWQEAFY"
+},
+{
+  "titre": "Exercice 4",
+  "id": "exercice-4",
+  "slug": "Exercice-4",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/ARQWNKPWHOFZYHH"
+},
+{
+  "titre": "Exercice 5",
+  "id": "exercice-5",
+  "slug": "Exercice-5",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/UKOSAGECDLWLTGB"
+},
+{
+  "titre": "Exercice 6",
+  "id": "exercice-6",
+  "slug": "Exercice-6",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/PTBQQKNPFASP-ZP"
+},
+{
+  "titre": "Exercice 7",
+  "id": "exercice-7",
+  "slug": "Exercice-7",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/C-LPZWQQKQS-LKX-U"
+},
+{
+  "titre": "Exercice 8",
+  "id": "exercice-8",
+  "slug": "Exercice-8",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/QCSEMELPFELUTNS"
+},
+{
+  "titre": "Exercice 9",
+  "id": "exercice-9",
+  "slug": "Exercice-9",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/HVHCLCOWJLUSPXE"
+},
+{
+  "titre": "Exercice 10",
+  "id": "exercice-10",
+  "slug": "Exercice-10",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/BYMPZTMOOCIDQQ"
+},
+{
+  "titre": "Exercice 11",
+  "id": "exercice-11",
+  "slug": "Exercice-11",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/ACRHDJLKOSSJWER"
+},
+{
+  "titre": "Exercice 12",
+  "id": "exercice-12",
+  "slug": "Exercice-12",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/DWX-A-QEFYROLP"
+},
+{
+  "titre": "Exercice 13",
+  "id": "exercice-13",
+  "slug": "Exercice-13",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/OPWFYPILMTUVPHS"
+},
+{
+  "titre": "Exercice 14",
+  "id": "exercice-14",
+  "slug": "Exercice-14",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/FOREX-SMUBUNIOMWGFWL"
+},
+{
+  "titre": "Exercice 15",
+  "id": "exercice-15",
+  "slug": "Exercice-15",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/ZCCNRW-HSHAT-TN"
+},
+{
+  "titre": "Exercice 16",
+  "id": "exercice-16",
+  "slug": "Exercice-16",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/20-XDMIDSSJDYMP-AH"
+},
+{
+  "titre": "Exercice 17",
+  "id": "exercice-17",
+  "slug": "Exercice-17",
+  "url": "https://secretlengua.com/Professional-FRENCH-language/JCCRGGKFCBIDYAA"
+}
       ]
     
