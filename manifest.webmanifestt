@@ -1,0 +1,22 @@
+{
+  "name": "SecretLengua",
+  "short_name": "SecretLengua",
+  "start_url": "https://secretlengua.com/",
+  "scope": "https://secretlengua.com/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E49FD2",
+  "description": "SecretLengua – Apprendre les langues par la pratique quotidienne",
+  "icons": [
+    {
+      "src": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/secretlengua-icon-192png-axVRZ.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/secretlengua-icon-512png-RFGf7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
