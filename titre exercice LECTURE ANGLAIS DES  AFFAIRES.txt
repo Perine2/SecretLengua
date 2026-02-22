@@ -2,251 +2,252 @@
   "titre": "Merv Griffin: Business Icon",
   "id": "merv-griffin-business-icon",
   "slug": "Merv-Griffin-Business-Icon",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Merv-Griffin-Business-Icon"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Merv-Griffin-Business-Icon"
 },
 {
   "titre": "Steve Jobs: The Visionary Entrepreneur",
   "id": "steve-jobs-the-visionary-entrepreneur",
   "slug": "Steve-Jobs-The-Visionary-Entrepreneur",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Steve-Jobs-The-Visionary-Entrepreneur"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Steve-Jobs-The-Visionary-Entrepreneur"
 },
 {
   "titre": "Business Proposal Writing",
   "id": "business-proposal-writing",
   "slug": "Business-Proposal-Writing",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Business-Proposal-Writing"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Business-Proposal-Writing"
 },
 {
   "titre": "Business Meetings",
   "id": "business-meetings",
   "slug": "Business-Meetings",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Business-Meetings"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Business-Meetings"
 },
 {
   "titre": "Networking",
   "id": "networking",
   "slug": "NetworNetworkingking",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/NetworNetworkingking"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/NetworNetworkingking"
 },
 {
   "titre": "Tips for an Effective Business Presentation",
   "id": "tips-for-an-effective-business-presentation",
   "slug": "Tips-for-an-Effective-Business-Presentation",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Tips-for-an-Effective-Business-Presentation"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Tips-for-an-Effective-Business-Presentation"
 },
 {
   "titre": "Canceling a Meeting",
   "id": "canceling-a-meeting",
   "slug": "Canceling-a-Meeting",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Canceling-a-Meeting"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Canceling-a-Meeting"
 },
 {
   "titre": "Leaving a Message",
   "id": "leaving-a-message",
   "slug": "Leaving-a-Message",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Leaving-a-Message"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Leaving-a-Message"
 },
 {
   "titre": "Returning a Phone Call",
   "id": "returning-a-phone-call",
   "slug": "Returning-a-Phone-Call",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Returning-a-Phone-Call"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Returning-a-Phone-Call"
 },
 {
   "titre": "Arranging a Meeting",
   "id": "arranging-a-meeting",
   "slug": "Arranging-a-Meeting",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Arranging-a-Meeting"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Arranging-a-Meeting"
 },
 {
   "titre": "Environmental Sustainability in Business",
   "id": "environmental-sustainability-in-business",
   "slug": "Environmental-Sustainability-in-Business",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Environmental-Sustainability-in-Business"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Environmental-Sustainability-in-Business"
 },
 {
   "titre": "Financial Risk Assessment – Making Informed Decisions",
   "id": "financial-risk-assessment-making-informed-decisions",
   "slug": "Financial-Risk-Assessmens",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Financial-Risk-Assessmens"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Financial-Risk-Assessmens"
 },
 {
   "titre": "Apologizing for Service Disruption Due to Technical Issues",
   "id": "apologizing-for-service-disruption",
   "slug": "for-Service-Disruption",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/for-Service-Disruption"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/for-Service-Disruption"
 },
 {
   "titre": "Addressing Customer Concerns and Complaints with Empathy and Solutions",
   "id": "addressing-customer-concerns-with-empathy-and-solutions",
   "slug": "Empathy-and-Solutions",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Empathy-and-Solutions"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Empathy-and-Solutions"
 },
 {
   "titre": "Handling Serious Customer Complaints with Patience and Solutions",
   "id": "handling-serious-customer-complaints-with-patience-and-solutions",
   "slug": "Patience-and-Solutions",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Patience-and-Solutions"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Patience-and-Solutions"
 },
 {
   "titre": "Handling Customer Complaints in Business",
   "id": "handling-customer-complaints-in-business",
   "slug": "Handling-Customer-Complaints-in-Business",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Handling-Customer-Complaints-in-Business"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Handling-Customer-Complaints-in-Business"
 },
 {
   "titre": "Understanding Economic Fluctuations",
   "id": "understanding-economic-fluctuations",
   "slug": "Understanding-Economic-Fluctuations",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Understanding-Economic-Fluctuations"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Understanding-Economic-Fluctuations"
 },
 {
   "titre": "Understanding Market Competition",
   "id": "understanding-market-competition",
   "slug": "Understanding-Market-Competition",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Understanding-Market-Competition"
-},{
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Understanding-Market-Competition"
+},
+{
   "titre": "The Business Balance Sheet Chronicle",
   "id": "the-business-balance-sheet-chronicle",
   "slug": "Businss-BalanceM",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Businss-BalanceM"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Businss-BalanceM"
 },
 {
   "titre": "The Business Odyssey: B2B vs. B2C",
   "id": "the-business-odyssey-b2b-vs-b2c",
   "slug": "The-Business-Odyssey-B2B-vs-B2C",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/The-Business-Odyssey-B2B-vs-B2C"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/The-Business-Odyssey-B2B-vs-B2C"
 },
 {
   "titre": "Remote-Work",
   "id": "remote-work",
   "slug": "Remote-Work",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Remote-Work"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Remote-Work"
 },
 {
   "titre": "The Business Chronicles: Meetings",
   "id": "the-business-chronicles-meetings",
   "slug": "The-Business-Chronicles-Meetings",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/The-Business-Chronicles-Meetings"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/The-Business-Chronicles-Meetings"
 },
 {
   "titre": "E-commerce Platforms",
   "id": "e-commerce-platforms",
   "slug": "E-commerce-Platforms",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/E-commerce-Platforms"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/E-commerce-Platforms"
 },
 {
   "titre": "Remote Work 2",
   "id": "remote-work-2",
   "slug": "Remote-Work-2",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Remote-Work-2"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Remote-Work-2"
 },
 {
   "titre": "Employee Productivity",
   "id": "employee-productivity",
   "slug": "Employee-Productivity",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Employee-Productivity"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Employee-Productivity"
 },
 {
   "titre": "Short-term versus Long-term Investments",
   "id": "short-term-versus-long-term-investments",
   "slug": "Short-term-versus-Long-term-Investments",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Short-term-versus-Long-term-Investments"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Short-term-versus-Long-term-Investments"
 },
 {
   "titre": "Mergers and Acquisitions",
   "id": "mergers-and-acquisitions",
   "slug": "Mergers-and-Acquisitions",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Mergers-and-Acquisitions"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Mergers-and-Acquisitions"
 },
 {
   "titre": "Trade Secrets",
   "id": "trade-secrets",
   "slug": "Trade-Secrets",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Trade-Secrets"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Trade-Secrets"
 },
 {
   "titre": "Customer Acquisition",
   "id": "customer-acquisition",
   "slug": "Customer-Acquisition",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Customer-Acquisition"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Customer-Acquisition"
 },
 {
   "titre": "Vendor Management",
   "id": "vendor-management",
   "slug": "Vendor-Management",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Vendor-Management"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Vendor-Management"
 },
 {
   "titre": "Marketing Strategy",
   "id": "marketing-strategy",
   "slug": "Marketing-Strategy",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Marketing-Strategy"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Marketing-Strategy"
 },
 {
   "titre": "Value-Proposition",
   "id": "value-proposition",
   "slug": "Value-Proposition",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Value-Proposition"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Value-Proposition"
 },
 {
   "titre": "Cash Flow Analysis",
   "id": "cash-flow-analysis",
   "slug": "Cash-Flow-Analysis",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Cash-Flow-Analysis"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Cash-Flow-Analysis"
 },
 {
   "titre": "Elon Musk",
   "id": "elon-musk",
   "slug": "Elon-Musk",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Elon-Musk"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Elon-Musk"
 },
 {
   "titre": "Steve Jobs – Innovative Product Development",
   "id": "steve-jobs-innovative-product-development",
   "slug": "Steve-Jobs-Innovative-Product-Development",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Steve-Jobs-Innovative-Product-Development"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Steve-Jobs-Innovative-Product-Development"
 },
 {
   "titre": "Elon Musk: Visionary Entrepreneur",
   "id": "elon-musk-visionary-entrepreneur",
   "slug": "Elon-Musk-Visionary-Entrepreneur",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Elon-Musk-Visionary-Entrepreneur"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Elon-Musk-Visionary-Entrepreneur"
 },
 {
   "titre": "Howard Schultz: Coffee Mogul",
   "id": "howard-schultz-coffee-mogul",
   "slug": "Howard-Schultz-Coffee-Mogul",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Howard-Schultz-Coffee-Mogul"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Howard-Schultz-Coffee-Mogul"
 },
 {
   "titre": "Steve Jobs: Apple Inc.",
   "id": "steve-jobs-apple-inc",
   "slug": "Steve-Jobs-Apple-Inc",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Steve-Jobs-Apple-Inc"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Steve-Jobs-Apple-Inc"
 },
 {
   "titre": "Elon Musk: Innovating the Future",
   "id": "elon-musk-innovating-the-future",
   "slug": "Elon-Musk-Innovating-the-Future",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Elon-Musk-Innovating-the-Future"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Elon-Musk-Innovating-the-Future"
 },
 {
   "titre": "Richard Jones: The Tech Pioneer",
   "id": "richard-jones-the-tech-pioneer",
   "slug": "Richard-Jones-The-Tech-Pioneer",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Richard-Jones-The-Tech-Pioneer"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Richard-Jones-The-Tech-Pioneer"
 },
 {
   "titre": "Elon Musk: Revolutionizing the Future",
   "id": "elon-musk-revolutionizing-the-future",
   "slug": "Elon-Musk-Revolutionizing-the-Future",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Elon-Musk-Revolutionizing-the-Future"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Elon-Musk-Revolutionizing-the-Future"
 },
 {
   "titre": "Warren Buffett: Investing Wisdom",
   "id": "warren-buffett-investing-wisdom",
   "slug": "Warren-Buffett-Investing-Wisdom",
-  "url": "https://cmde-2lj6e37h.dcms.site/Professional-ENGLISH-language/Warren-Buffett-Investing-Wisdom"
+  "url": "https://secretlengua.com/Professional-ENGLISH-language/Warren-Buffett-Investing-Wisdom"
 }
 ]
