@@ -2,168 +2,168 @@
   "titre": "J'ai acquis de l'expertise",
   "id": "acquis-de-lexpertise",
   "slug": "acquis-de-lexpertise",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/acquis-de-lexpertise"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/acquis-de-lexpertise"
 },
 {
   "titre": "L'enseignement de base : qu'en est-il ?",
   "id": "Lenseignement-de-base-quen-est-il",
   "slug": "Lenseignement-de-base-quen-est-il",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Lenseignement-de-base-quen-est-il"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Lenseignement-de-base-quen-est-il"
 },
 {
   "titre": "La commémoration de la Reconnaissance",
   "id": "La-commemoration-de-la-Reconnaissance",
   "slug": "La-commemoration-de-la-Reconnaissance",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-commemoration-de-la-Reconnaissance"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-commemoration-de-la-Reconnaissance"
 },
 {
   "titre": "La francophonie dans le monde",
   "id": "La-francophonie-dans-le-monde",
   "slug": "La-francophonie-dans-le-monde",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-francophonie-dans-le-monde"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-francophonie-dans-le-monde"
 },
 {
   "titre": "La Tresse Rouge",
   "id": "La-Tresse-Rouge",
   "slug": "La-Tresse-Rouge",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-Tresse-Rouge"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-Tresse-Rouge"
 },
 {
   "titre": "La vie d'un Sculpteur",
   "id": "La-vie-dun-Sculpteur",
   "slug": "La-vie-dun-Sculpteur",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-vie-dun-Sculpteur"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-vie-dun-Sculpteur"
 },
 {
   "titre": "La vie d'une Marchande de Thé",
   "id": "La-vie-dune-Marchande-de-The",
   "slug": "La-vie-dune-Marchande-de-The",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-vie-dune-Marchande-de-The"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-vie-dune-Marchande-de-The"
 },
 {
   "titre": "La Détective Privée",
   "id": "La-Detective-Privee",
   "slug": "La-Detective-Privee",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-Detective-Privee"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-Detective-Privee"
 },
 {
   "titre": "Le métier de Diététicien",
   "id": "Le-metier-de-Dieteticien",
   "slug": "Le-metier-de-Dieteticien",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Le-metier-de-Dieteticien"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Le-metier-de-Dieteticien"
 },
 {
   "titre": "Le rêve d'un Navigateur",
   "id": "Le-reve-dun-Navigateur",
   "slug": "Le-reve-dun-Navigateur",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Le-reve-dun-Navigateur"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Le-reve-dun-Navigateur"
 },
 {
   "titre": "La Passion du Sport",
   "id": "La-Passion-du-Sport",
   "slug": "La-Passion-du-Sport",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-Passion-du-Sport"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-Passion-du-Sport"
 },
 {
   "titre": "Les îles Galápagos",
   "id": "Les-iles-Galapagos",
   "slug": "Les-iles-Galapagos",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Les-iles-Galapagos"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Les-iles-Galapagos"
 },
 {
   "titre": "Les puzzles",
   "id": "Les-puzzles",
   "slug": "Les-puzzles",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Les-puzzles"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Les-puzzles"
 },
 {
   "titre": "Les Déplacés Climatiques",
   "id": "Les-Deplaces-Climatiques",
   "slug": "Les-Deplaces-Climatiques",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Les-Deplaces-Climatiques"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Les-Deplaces-Climatiques"
 },
 {
   "titre": "L’association Nouveau Départ",
   "id": "Lassociation-Nouveau-Depart",
   "slug": "Lassociation-Nouveau-Depart",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Lassociation-Nouveau-Depart"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Lassociation-Nouveau-Depart"
 },
 {
   "titre": "Privilégier le Leadership au Succès",
   "id": "Leadership-au-Succes",
   "slug": "Leadership-au-Succes",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Leadership-au-Succes"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Leadership-au-Succes"
 },
 {
   "titre": "Problème Technique",
   "id": "Probleme-Technique",
   "slug": "Probleme-Technique",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Probleme-Technique"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Probleme-Technique"
 },
 {
   "titre": "Sauvons notre Planète !",
   "id": "Sauvons-notre-Planete",
   "slug": "Sauvons-notre-Planete",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Sauvons-notre-Planete"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Sauvons-notre-Planete"
 },
 {
   "titre": "Recette de la pâte à galette",
   "id": "Recette-de-la-pate-a-galette",
   "slug": "Recette-de-la-pate-a-galette",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Recette-de-la-pate-a-galette"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Recette-de-la-pate-a-galette"
 },
 {
   "titre": "Decouverte de Londres",
   "id": "Decouverte-de-Londres",
   "slug": "Decouverte-de-Londres",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Decouverte-de-Londres"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Decouverte-de-Londres"
 },
 {
   "titre": "Une famille aux professions variées",
   "id": "Une-famille-aux-professions-variees",
   "slug": "Une-famille-aux-professions-variees",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Une-famille-aux-professions-variees"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Une-famille-aux-professions-variees"
 },
 {
   "titre": "Le climat et les habitants de Stockholm (Rayan)",
   "id": "Le-climat-et-les-habitants-de-Stockholm-Rayan",
   "slug": "Le-climat-et-les-habitants-de-Stockholm-Rayan",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Le-climat-et-les-habitants-de-Stockholm-Rayan"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Le-climat-et-les-habitants-de-Stockholm-Rayan"
 },
 {
   "titre": "Une conversation téléphonique",
   "id": "Une-conversation-telephonique",
   "slug": "Une-conversation-telephonique",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Une-conversation-telephonique"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Une-conversation-telephonique"
 },
 {
   "titre": "Lettre à ma meilleure amie",
   "id": "Lettre-a-ma-meilleure-amie",
   "slug": "Lettre-a-ma-meilleure-amie",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Lettre-a-ma-meilleure-amie"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Lettre-a-ma-meilleure-amie"
 },
 {
   "titre": "Découvrir Lyon",
   "id": "Decouvrir-Lyon",
   "slug": "Decouvrir-Lyon",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/Decouvrir-Lyon"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/Decouvrir-Lyon"
 },
 {
   "titre": "La maison de Ben",
   "id": "La-maison-de-Ben",
   "slug": "La-maison-de-Ben",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-maison-de-Ben"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-maison-de-Ben"
 },
 {
   "titre": "Marseille, une ville à découvrir en un jour",
   "id": "une-ville-a-decouvrir-en-un-jour",
   "slug": "une-ville-a-decouvrir-en-un-jour",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/une-ville-a-decouvrir-en-un-jour"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/une-ville-a-decouvrir-en-un-jour"
 },
 {
   "titre": "La météo - Quel temps fait-il ?",
   "id": "La-meteo-Quel-temps-fait-il",
   "slug": "La-meteo-Quel-temps-fait-il",
-  "url": "https://cmde-2lj6e37h.dcms.site/FRENCH-READING-B2/La-meteo-Quel-temps-fait-il"
+  "url": "https://secretlengua.com/FRENCH-READING-B2/La-meteo-Quel-temps-fait-il"
 }
 ]
