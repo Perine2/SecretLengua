@@ -9,14 +9,16 @@
   "description": "SecretLengua – Apprendre les langues par la pratique quotidienne",
   "icons": [
     {
-      "src": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/secretlengua-icon-192png-axVRZ.png",
+      "src": "https://cdn.cmsfly.com/68e3e4b59a78480012932cf6/images/secretlengua-icon-192-bVZwd.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://cdn.cmsfly.com/682340d18e925800120b9f82/images/secretlengua-icon-512png-RFGf7.png",
+      "src": "https://cdn.cmsfly.com/68e3e4b59a78480012932cf6/images/secretlengua-icon-512-THXFh.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
+
+
