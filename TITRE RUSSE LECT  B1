@@ -19,6 +19,83 @@
 { "titre": "Капитан Торнегрис", "id": "Kapitan-Tornegris", "slug": "Kapitan-Tornegris", "url": "https://secretlengua1.com/reading-exercice/Kapitan-Tornegris" },
 { "titre": "Волшебство Рождества приближается", "id": "Volshebstvo-Rozhdestva-priblizhaetsya", "slug": "Volshebstvo-Rozhdestva-priblizhaetsya", "url": "https://secretlengua1.com/reading-exercice/Volshebstvo-Rozhdestva-priblizhaetsya" },
 { "titre": "Советы студентам", "id": "Sovety-studentam", "slug": "Sovety-studentam", "url": "https://secretlengua1.com/reading-exercice/Sovety-studentam" },
-{ "titre": "Новый старт", "id": "Novyj-start", "slug": "Novyj-start", "url": "https://secretlengua1.com/reading-exercice/Novyj-start" }
+{ "titre": "Новый старт", "id": "Novyj-start", "slug": "Novyj-start", "url": "https://secretlengua1.com/reading-exercice/Novyj-start" },{
+  "titre": "Сохранение здоровья",
+  "id": "sohranenie-zdorovya",
+  "slug": "Sohranenie-zdorovya",
+  "url": "RUSSE-Reading-b1/Sohranenie-zdorovya"
+},
+{
+  "titre": "Отпуск в Пиренеях",
+  "id": "otpusk-v-pireneyah",
+  "slug": "Otpusk-v-Pireneyah",
+  "url": "RUSSE-Reading-b1/Otpusk-v-Pireneyah"
+},
+{
+  "titre": "Отдых в горах",
+  "id": "otdyh-v-gorah",
+  "slug": "Otdyh-v-gorah",
+  "url": "RUSSE-Reading-b1/Otdyh-v-gorah"
+},
+{
+  "titre": "Онлайн-обучение: лучшая альтернатива?",
+  "id": "onlain-obuchenie-luchshaya-alternativa",
+  "slug": "Onlain-obuchenie-Luchshaya-Alternativa",
+  "url": "RUSSE-Reading-b1/Sestra-i-brat"
+},
+{
+  "titre": "Сестра и брат",
+  "id": "sestra-i-brat",
+  "slug": "Sestra-i-Brat",
+  "url": "RUSSE-Reading-b1/Sestra-brat"
+},
+{
+  "titre": "Он очарователен",
+  "id": "on-ocharovatelen",
+  "slug": "On-ocharovatelen",
+  "url": "RUSSE-Reading-b1/On-ocharovatelen"
+},
+{
+  "titre": "Магазин обуви",
+  "id": "magazin-obuvi",
+  "slug": "Magazin-Obuvi",
+  "url": "RUSSE-Reading-b1/Magazin-obuvi"
+},
+{
+  "titre": "Круиз по Атлантике",
+  "id": "kruiz-po-atlantike",
+  "slug": "Kruiz-po-Atlantike",
+  "url": "RUSSE-Reading-b1/Kruiz-po-Atlantike"
+},
+{
+  "titre": "День на природе",
+  "id": "den-na-prirode",
+  "slug": "Den-na-Prirode",
+  "url": "RUSSE-Reading-b1/Den-na-prirode"
+},
+{
+  "titre": "Шале в Альпах",
+  "id": "shale-v-alpah",
+  "slug": "Shale-v-Alpah",
+  "url": "RUSSE-Reading-b1/Shale-v-Alpah"
+},
+{
+  "titre": "День на ферме",
+  "id": "den-na-ferme",
+  "slug": "Den-na-Ferme",
+  "url": "RUSSE-Reading-b1/Den-na-ferme"
+},
+{
+  "titre": "Мои первые шаги в мире футбола",
+  "id": "moi-pervye-shagi-v-mire-futbola",
+  "slug": "Moi-Pervye-Shagi-v-Mire-Futbola",
+  "url": "RUSSE-Reading-b1/Moi-pervye-shagi-v-mire-futbola"
+},
+{
+  "titre": "В поисках работы",
+  "id": "v-poiskah-raboty",
+  "slug": "V-Poiskah-Raboty",
+  "url": "RUSSE-Reading-b1/V-poiskah-raboty"
+}
       ]
     
