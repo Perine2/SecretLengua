@@ -1,6 +1,154 @@
 [
-  
   {
+    "titre": "Yer Edatları",
+    "id": "Yer-Edatları",
+    "slug": "Yer-Edatları",
+    "url": "https://secretlengua1.com/turkish-Grammar/Prepositions-de-lieu"
+  },
+  {
+    "titre": "Yer Edatları",
+    "id": "Yer-Edatları-2",
+    "slug": "Yer-Edatları-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/GIHXEFHUDHHGBPH"
+  },
+  {
+    "titre": "Hareket Edatları2",
+    "id": "Hareket-Edatları2",
+    "slug": "Hareket-Edatları2",
+    "url": "https://secretlengua1.com/turkish-Grammar/Prepositions-de-mouvement"
+  },
+  {
+    "titre": "Hareket Edatları2",
+    "id": "Hareket-Edatları2-2",
+    "slug": "Hareket-Edatları2-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/MMBRPKPSFOTNM-J"
+  },
+  {
+    "titre": "Zaman Edatları",
+    "id": "Zaman-Edatları",
+    "slug": "Zaman-Edatları",
+    "url": "https://secretlengua1.com/turkish-Grammar/Prepositions-de-temps"
+  },
+  {
+    "titre": "Zaman Edatları2",
+    "id": "Zaman-Edatları2",
+    "slug": "Zaman-Edatları2",
+    "url": "https://secretlengua1.com/turkish-Grammar/GNWTGAXBOLS-BW"
+  },
+  {
+    "titre": "Tarz Edatları",
+    "id": "Tarz-Edatları",
+    "slug": "Tarz-Edatları",
+    "url": "https://secretlengua1.com/turkish-Grammar/Prepositions-de-maniere"
+  },
+  {
+    "titre": "Tarz Edatları2",
+    "id": "Tarz-Edatları2",
+    "slug": "Tarz-Edatları2",
+    "url": "https://secretlengua1.com/turkish-Grammar/ZGAZPFLWS-LPYHO"
+  },
+  {
+    "titre": "Sebep ve Sonuç Edatları",
+    "id": "Sebep-ve-Sonuç-Edatları",
+    "slug": "Sebep-ve-Sonuç-Edatları",
+    "url": "https://secretlengua1.com/turkish-Grammar/Prepositions-de-cause-et-de-consequence"
+  },
+  {
+    "titre": "Sebep ve Sonuç Edatları2",
+    "id": "Sebep-ve-Sonuç-Edatları2",
+    "slug": "Sebep-ve-Sonuç-Edatları2",
+    "url": "https://secretlengua1.com/turkish-Grammar/TAVCLSYIOGNKHWE"
+  },
+  {
+    "titre": "Bağlaçlar",
+    "id": "Bağlaçlar",
+    "slug": "Bağlaçlar",
+    "url": "https://secretlengua1.com/turkish-Grammar/Conjonctions-de-coordination"
+  },
+  {
+    "titre": "Bağlaçlar2",
+    "id": "Bağlaçlar2",
+    "slug": "Bağlaçlar2",
+    "url": "https://secretlengua1.com/turkish-Grammar/TIKPLUBEFPLZLPG"
+  },
+  {
+    "titre": "Bağımlı Bağlaçlar",
+    "id": "Bağımlı-Bağlaçlar",
+    "slug": "Bağımlı-Bağlaçlar",
+    "url": "https://secretlengua1.com/turkish-Grammar/Conjonctions-de-subordination"
+  },
+  {
+    "titre": "Bağımlı Bağlaçlar2",
+    "id": "Bağımlı-Bağlaçlar2",
+    "slug": "Bağımlı-Bağlaçlar2",
+    "url": "https://secretlengua1.com/turkish-Grammar/QCPBDOD-JUOUSES"
+  },
+  {
+    "titre": "İkili Bağlaçlar (Karşılıklı Bağlaçlar)",
+    "id": "İkili-Bağlaçlar-Karşılıklı-Bağlaçlar",
+    "slug": "İkili-Bağlaçlar-Karşılıklı-Bağlaçlar",
+    "url": "https://secretlengua1.com/turkish-Grammar/Conjonctions-correlatives"
+  },
+  {
+    "titre": "İkili Bağlaçlar (Karşılıklı Bağlaçlar)2",
+    "id": "İkili-Bağlaçlar-Karşılıklı-Bağlaçlar2",
+    "slug": "İkili-Bağlaçlar-Karşılıklı-Bağlaçlar2",
+    "url": "https://secretlengua1.com/turkish-Grammar/BUDVFYZBWRXLZBO"
+  },
+  {
+    "titre": "İyelik Zamirleri / Sahiplik Belirteçleri",
+    "id": "İyelik-Zamirleri-Sahiplik-Belirteçleri",
+    "slug": "İyelik-Zamirleri-Sahiplik-Belirteçleri",
+    "url": "https://secretlengua1.com/turkish-Grammar/Determinants-possessifs"
+  },
+  {
+    "titre": "İyelik Zamirleri / Sahiplik Belirteçleri2",
+    "id": "İyelik-Zamirleri-Sahiplik-Belirteçleri2",
+    "slug": "İyelik-Zamirleri-Sahiplik-Belirteçleri2",
+    "url": "https://secretlengua1.com/turkish-Grammar/EGHPUVWGPAGTOEA"
+  },
+  {
+    "titre": "İşaret Zamirleri / Gösterim Belirteçleri",
+    "id": "İşaret-Zamirleri-Gösterim-Belirteçleri",
+    "slug": "İşaret-Zamirleri-Gösterim-Belirteçleri",
+    "url": "https://secretlengua1.com/turkish-Grammar/Determinants-demonstratifs"
+  },
+  {
+    "titre": "İşaret Zamirleri / Gösterim Belirteçleri2",
+    "id": "İşaret-Zamirleri-Gösterim-Belirteçleri2",
+    "slug": "İşaret-Zamirleri-Gösterim-Belirteçleri2",
+    "url": "https://secretlengua1.com/turkish-Grammar/DPDPYUKSPDTABJN"
+  },
+  {
+    "titre": "Sıfatlardan Zarf Oluşturma",
+    "id": "Sıfatlardan-Zarf-Oluşturma",
+    "slug": "Sıfatlardan-Zarf-Oluşturma",
+    "url": "https://secretlengua1.com/turkish-Grammar/Formation-dadverbes-a-partir-dadjectifs"
+  },
+  {
+    "titre": "Sıfatlardan Zarf Oluşturma2",
+    "id": "Sıfatlardan-Zarf-Oluşturma2",
+    "slug": "Sıfatlardan-Zarf-Oluşturma2",
+    "url": "https://secretlengua1.com/turkish-Grammar/VDXMMNJTJROZMJJ"
+  },
+  {
+    "titre": "Synonym Oluşumu",
+    "id": "Synonym-Oluşumu",
+    "slug": "Synonym-Oluşumu",
+    "url": "https://secretlengua1.com/turkish-Grammar/Formation-de-synonymes"
+  },
+  {
+    "titre": "Synonym Oluşumu2",
+    "id": "Synonym-Oluşumu2",
+    "slug": "Synonym-Oluşumu2",
+    "url": "https://secretlengua1.com/turkish-Grammar/QDIOJFWTJUDGGCP"
+  },
+  {
+    "titre": "Karşıt Anlamlı Kelimelerin Oluşumu",
+    "id": "Karşıt-Anlamlı-Kelimelerin-Oluşumu",
+    "slug": "Karşıt-Anlamlı-Kelimelerin-Oluşumu",
+    "url": "https://secretlengua1.com/turkish-Grammar/Formation-de-mots-contraires"
+  },{
     "titre": "Türkçede geniş zaman fiilleri",
     "id": "Verbes-au-present-simple",
     "slug": "Verbes-au-present-simple",
@@ -119,6 +267,155 @@
     "id": "SCPKCNSVKSMFDKW",
     "slug": "SCPKCNSVKSMFDKW",
     "url": "https://secretlengua1.com/turkish-Grammar/SCPKCNSVKSMFDKW"
+  },{
+    "titre": "Karşıt Anlamlı Kelimelerin Oluşumu2",
+    "id": "Karşıt-Anlamlı-Kelimelerin-Oluşumu2",
+    "slug": "Karşıt-Anlamlı-Kelimelerin-Oluşumu2",
+    "url": "https://secretlengua1.com/turkish-Grammar/QCFIYIEIIAGRWPK"
+  },
+  {
+    "titre": "Verilen Sıfattan Türemiş İsimlerin Oluşumu",
+    "id": "Verilen-Sıfattan-Türemiş-İsimlerin-Oluşumu",
+    "slug": "Verilen-Sıfattan-Türemiş-İsimlerin-Oluşumu",
+    "url": "https://secretlengua1.com/turkish-Grammar/Formation-de-nom-derive-de-ladjectif-donne"
+  },
+  {
+    "titre": "Verilen Sıfattan Türemiş İsimlerin Oluşumu2",
+    "id": "Verilen-Sıfattan-Türemiş-İsimlerin-Oluşumu2",
+    "slug": "Verilen-Sıfattan-Türemiş-İsimlerin-Oluşumu2",
+    "url": "https://secretlengua1.com/turkish-Grammar/HBM-DYHBVKVPNFP"
+  },
+  {
+    "titre": "İsimden Türemiş Sıfatların Oluşumu",
+    "id": "İsimden-Türemiş-Sıfatların-Oluşumu",
+    "slug": "İsimden-Türemiş-Sıfatların-Oluşumu",
+    "url": "https://secretlengua1.com/turkish-Grammar/Formation-de-ladjectif-derive-du-substantif"
+  },
+  {
+    "titre": "İsimden Türemiş Sıfatların Oluşumu2",
+    "id": "İsimden-Türemiş-Sıfatların-Oluşumu2",
+    "slug": "İsimden-Türemiş-Sıfatların-Oluşumu2",
+    "url": "https://secretlengua1.com/turkish-Grammar/TVHTU-OAPGKRDQRG"
+  },
+  {
+    "titre": "Türk Alfabesi",
+    "id": "Türk-Alfabesi",
+    "slug": "Türk-Alfabesi",
+    "url": "https://secretlengua1.com/turkish-Grammar/Alphabet-turc"
+  },
+  {
+    "titre": "Türk Alfabesi 2",
+    "id": "Türk-Alfabesi-2",
+    "slug": "Türk-Alfabesi-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/NGNRXJOD-ESGLTJ"
+  },
+  {
+    "titre": "Büyük Ünlü Uyumu",
+    "id": "Büyük-Ünlü-Uyumu",
+    "slug": "Büyük-Ünlü-Uyumu",
+    "url": "https://secretlengua1.com/turkish-Grammar/Harmonie-vocalique-majeure"
+  },
+  {
+    "titre": "Büyük Ünlü Uyumu2",
+    "id": "Büyük-Ünlü-Uyumu2",
+    "slug": "Büyük-Ünlü-Uyumu2",
+    "url": "https://secretlengua1.com/turkish-Grammar/PBSA-QEPEDTDSQ"
+  },
+  {
+    "titre": "İyelik Ekleri",
+    "id": "İyelik-Ekleri",
+    "slug": "İyelik-Ekleri",
+    "url": "https://secretlengua1.com/turkish-Grammar/Suffixes-possessifs"
+  },
+  {
+    "titre": "İyelik Ekleri2",
+    "id": "İyelik-Ekleri2",
+    "slug": "İyelik-Ekleri2",
+    "url": "https://secretlengua1.com/turkish-Grammar/CYROFYTMPTVLENB"
+  },
+  {
+    "titre": "Şimdiki Zaman (-yor) – Présent Progressif",
+    "id": "Şimdiki-Zaman-yor-Présent-Progressif",
+    "slug": "Şimdiki-Zaman-yor-Présent-Progressif",
+    "url": "https://secretlengua1.com/turkish-Grammar/Present-progressif"
+  },
+  {
+    "titre": "Şimdiki Zaman (-yor) – Présent Progressif2",
+    "id": "Şimdiki-Zaman-yor-Présent-Progressif2",
+    "slug": "Şimdiki-Zaman-yor-Présent-Progressif2",
+    "url": "https://secretlengua1.com/turkish-Grammar/V-XSAAHJXIPTTFB"
+  },
+  {
+    "titre": "Olumsuzluk (-me / -ma)",
+    "id": "Olumsuzluk-me-ma",
+    "slug": "Olumsuzluk-me-ma",
+    "url": "https://secretlengua1.com/turkish-Grammar/Negation-au-present-avec-phrases-longues"
+  },
+  {
+    "titre": "Olumsuzluk (-me / -ma)2",
+    "id": "Olumsuzluk-me-ma2",
+    "slug": "Olumsuzluk-me-ma2",
+    "url": "https://secretlengua1.com/turkish-Grammar/QELGHONY-KOQPOA"
+  },
+  {
+    "titre": "Geçmiş zaman (-di)",
+    "id": "Geçmiş-zaman-di",
+    "slug": "Geçmiş-zaman-di",
+    "url": "https://secretlengua1.com/turkish-Grammar/Gecmis-zaman-di-Passe-simple"
+  },
+  {
+    "titre": "Geçmiş zaman (-di) 2",
+    "id": "Geçmiş-zaman-di-2",
+    "slug": "Geçmiş-zaman-di-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/TZJNQEZ-MJTVWHF"
+  },
+  {
+    "titre": "Soru yapısı (mi / mı / mu / mü)",
+    "id": "Soru-yapısı-mi-mi-mu-mü",
+    "slug": "Soru-yapısı-mi-mi-mu-mü",
+    "url": "https://secretlengua1.com/turkish-Grammar/Soru-yapisi-mi-mi-mu-mu"
+  },
+  {
+    "titre": "Soru yapısı (mi / mı / mu / mü)",
+    "id": "Soru-yapısı-mi-mi-mu-mü-2",
+    "slug": "Soru-yapısı-mi-mi-mu-mü-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/HNLTTGVKMEW-QZW"
+  },
+  {
+    "titre": "Gelecek zaman (-ecek / -acak)",
+    "id": "Gelecek-zaman-ecek-akacak",
+    "slug": "Gelecek-zaman-ecek-akacak",
+    "url": "https://secretlengua1.com/turkish-Grammar/Gelecek-zaman-ecek-acak"
+  },
+  {
+    "titre": "Gelecek zaman (-ecek / -acak)2",
+    "id": "Gelecek-zaman-ecek-akacak-2",
+    "slug": "Gelecek-zaman-ecek-akacak-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/EKILGAEHYB-GTEDD"
+  },
+  {
+    "titre": "Şart Kipi (-se / -sa)",
+    "id": "Şart-Kipi-se-sa",
+    "slug": "Şart-Kipi-se-sa",
+    "url": "https://secretlengua1.com/turkish-Grammar/Sart-kipi-se-sa"
+  },
+  {
+    "titre": "Şart Kipi (-se / -sa) 2",
+    "id": "Şart-Kipi-se-sa-2",
+    "slug": "Şart-Kipi-se-sa-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/WUWQGDQQGLPOCYA"
+  },
+  {
+    "titre": "Gereklilik Kipi (-meli / -malı)",
+    "id": "Gereklilik-Kipi-meli-mali",
+    "slug": "Gereklilik-Kipi-meli-mali",
+    "url": "https://secretlengua1.com/turkish-Grammar/Gereklilik-kipi-meli-mali"
+  },
+  {
+    "titre": "Gereklilik Kipi (-meli / -malı) 2",
+    "id": "Gereklilik-Kipi-meli-mali-2",
+    "slug": "Gereklilik-Kipi-meli-mali-2",
+    "url": "https://secretlengua1.com/turkish-Grammar/GMECaVCUT-U-GZLI"
   }
       ]
     
