@@ -1,5 +1,64 @@
-[
- {
+[{
+    "titre": "Rezept für den Pfannkuchenteig",
+    "id": "Rezept-fur-den-Pfannkuchenteig",
+    "slug": "Rezept-fur-den-Pfannkuchenteig",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Rezept-fur-den-Pfannkuchenteig"
+  },
+  {
+    "titre": "Entdeckung von London",
+    "id": "Entdeckung-von-London",
+    "slug": "Entdeckung-von-London",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Entdeckung-von-London"
+  },
+  {
+    "titre": "Eine Familie mit vielfältigen Berufen",
+    "id": "Eine-Familie-mit-vielfaltigen-Berufen",
+    "slug": "Eine-Familie-mit-vielfaltigen-Berufen",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Eine-Familie-mit-vielfaltigen-Berufen"
+  },
+  {
+    "titre": "Das Klima und die Bewohner von Stockholm (Rayan)",
+    "id": "Das-Klima-und-die-Bewohner-von-Stockholm-Rayan",
+    "slug": "Das-Klima-und-die-Bewohner-von-Stockholm-Rayan",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Das-Klima-und-die-Bewohner-von-Stockholm"
+  },
+  {
+    "titre": "Ein Telefonat",
+    "id": "Ein-Telefonat",
+    "slug": "Ein-Telefonat",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Ein-Telefonat"
+  },
+  {
+    "titre": "Brief an meine beste Freundin",
+    "id": "Brief-an-meine-beste-Freundin",
+    "slug": "Brief-an-meine-beste-Freundin",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Brief-an-meine-beste-Freundin"
+  },
+  {
+    "titre": "Lyon entdecken",
+    "id": "Lyon-entdecken",
+    "slug": "Lyon-entdecken",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Lyon-entdecken"
+  },
+  {
+    "titre": "Das Haus von Ben",
+    "id": "Das-Haus-von-Ben",
+    "slug": "Das-Haus-von-Ben",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Das-Haus-von-Ben"
+  },
+  {
+    "titre": "Marseille",
+    "id": "Marseille",
+    "slug": "Marseille",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Marseille"
+  },
+  {
+    "titre": "Das Wetter - Wie ist das Wetter?",
+    "id": "Das-Wetter-Wie-ist-das-Wetter",
+    "slug": "Das-Wetter-Wie-ist-das-Wetter",
+    "url": "https://secretlengua1.com/reading-exercice/GERMAN-Reading-B2/Das-Wetter-Wie-ist-das-Wetter"
+  }
+ ,{
     "titre": "Ich habe Fachkenntnisse erworben",
     "id": "Ich-habe-Fachkenntnisse-erworben",
     "slug": "Ich-habe-Fachkenntnisse-erworben",
