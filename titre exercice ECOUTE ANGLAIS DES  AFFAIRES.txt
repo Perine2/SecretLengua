@@ -255,5 +255,64 @@
   "id": "exercise-43",
   "slug": "WJDYWWHKLTDSS-B",
   "url": "https://secretlengua.com/Professional-ENGLISH-language/WJDYWWHKLTDSS-B"
-}
+},{
+    "titre": "Exercise 44",
+    "id": "C-XGXAGEFDKMXIE",
+    "slug": "C-XGXAGEFDKMXIE",
+    "url": "https://secretlengua1.com/reading-exercice/C-XGXAGEFDKMXIE"
+  },
+  {
+    "titre": "Exercise 45",
+    "id": "WUWSQHT-WVPAQRB",
+    "slug": "WUWSQHT-WVPAQRB",
+    "url": "https://secretlengua1.com/reading-exercice/WUWSQHT-WVPAQRB"
+  },
+  {
+    "titre": "Exercise 46",
+    "id": "VYKAZBTIZQLAXQV",
+    "slug": "VYKAZBTIZQLAXQV",
+    "url": "https://secretlengua1.com/reading-exercice/VYKAZBTIZQLAXQV"
+  },
+  {
+    "titre": "Exercise 47",
+    "id": "Q-UXLFGPLJFBTXG",
+    "slug": "Q-UXLFGPLJFBTXG",
+    "url": "https://secretlengua1.com/reading-exercice/Q-UXLFGPLJFBTXG"
+  },
+  {
+    "titre": "Exercise 48",
+    "id": "WGUPIZOFLKEGLPO",
+    "slug": "WGUPIZOFLKEGLPO",
+    "url": "https://secretlengua1.com/reading-exercice/WGUPIZOFLKEGLPO"
+  },
+  {
+    "titre": "Exercise 49",
+    "id": "QTWMEZ-PDXSTPIF",
+    "slug": "QTWMEZ-PDXSTPIF",
+    "url": "https://secretlengua1.com/reading-exercice/QTWMEZ-PDXSTPIF"
+  },
+  {
+    "titre": "Exercise 50",
+    "id": "WCZTYQJZI-BECQK",
+    "slug": "WCZTYQJZI-BECQK",
+    "url": "https://secretlengua1.com/reading-exercice/WCZTYQJZI-BECQK"
+  },
+  {
+    "titre": "Exercise 51",
+    "id": "MTLRGEAAEPXFDZE",
+    "slug": "MTLRGEAAEPXFDZE",
+    "url": "https://secretlengua1.com/reading-exercice/MTLRGEAAEPXFDZE"
+  },
+  {
+    "titre": "Exercise 52",
+    "id": "NNH-MWCUZPMPNJG",
+    "slug": "NNH-MWCUZPMPNJG",
+    "url": "https://secretlengua1.com/reading-exercice/NNH-MWCUZPMPNJG"
+  },
+  {
+    "titre": "Exercise 53",
+    "id": "WSROMVNT-NLLBQN",
+    "slug": "WSROMVNT-NLLBQN",
+    "url": "https://secretlengua1.com/reading-exercice/WSROMVNT-NLLBQN"
+  }
 ]
