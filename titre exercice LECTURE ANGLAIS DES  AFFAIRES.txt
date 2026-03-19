@@ -249,5 +249,64 @@
   "id": "warren-buffett-investing-wisdom",
   "slug": "Warren-Buffett-Investing-Wisdom",
   "url": "https://secretlengua.com/Professional-ENGLISH-language/Warren-Buffett-Investing-Wisdom"
-}
+},{
+    "titre": "Esercizio 1",
+    "id": "Achieving",
+    "slug": "Achieving",
+    "url": "https://secretlengua1.com/reading-exercice/Achieving"
+  },
+  {
+    "titre": "Esercizio 2",
+    "id": "Chatbots",
+    "slug": "Chatbots",
+    "url": "https://secretlengua1.com/reading-exercice/Chatbots"
+  },
+  {
+    "titre": "Esercizio 3",
+    "id": "Are-Dragons-real",
+    "slug": "Are-Dragons-real",
+    "url": "https://secretlengua1.com/reading-exercice/Are-Dragons-real"
+  },
+  {
+    "titre": "Esercizio 4",
+    "id": "Cryptocurrency",
+    "slug": "Cryptocurrency",
+    "url": "https://secretlengua1.com/reading-exercice/Cryptocurrency"
+  },
+  {
+    "titre": "Esercizio 5",
+    "id": "Foreign-Exchange-Trading",
+    "slug": "Foreign-Exchange-Trading",
+    "url": "https://secretlengua1.com/reading-exercice/Foreign-Exchange-Trading"
+  },
+  {
+    "titre": "Esercizio 6",
+    "id": "Liabilities",
+    "slug": "Liabilities",
+    "url": "https://secretlengua1.com/reading-exercice/Liabilities"
+  },
+  {
+    "titre": "Esercizio 7",
+    "id": "Strategic-Alliance",
+    "slug": "Strategic-Alliance",
+    "url": "https://secretlengua1.com/reading-exercice/Strategic-Alliance"
+  },
+  {
+    "titre": "Esercizio 8",
+    "id": "The-Dot-Com-Bubble",
+    "slug": "The-Dot-Com-Bubble",
+    "url": "https://secretlengua1.com/reading-exercice/The-Dot-Com-Bubble"
+  },
+  {
+    "titre": "Esercizio 9",
+    "id": "Private-Equity-Funds",
+    "slug": "Private-Equity-Funds",
+    "url": "https://secretlengua1.com/reading-exercice/Private-Equity-Funds"
+  },
+  {
+    "titre": "Esercizio 10",
+    "id": "Applying-for-Business-Positions",
+    "slug": "Applying-for-Business-Positions",
+    "url": "https://secretlengua1.com/reading-exercice/Applying-for-Business-Positions"
+  }
 ]
