@@ -249,64 +249,64 @@
   "id": "warren-buffett-investing-wisdom",
   "slug": "Warren-Buffett-Investing-Wisdom",
   "url": "https://secretlengua.com/Professional-ENGLISH-language/Warren-Buffett-Investing-Wisdom"
-},{
-    "titre": "Esercizio 1",
+}, {
+    "titre": "Achieving",
     "id": "Achieving",
     "slug": "Achieving",
-    "url": "https://secretlengua1.com/reading-exercice/Achieving"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Achieving"
   },
   {
-    "titre": "Esercizio 2",
+    "titre": "Chatbots",
     "id": "Chatbots",
     "slug": "Chatbots",
-    "url": "https://secretlengua1.com/reading-exercice/Chatbots"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Chatbots"
   },
   {
-    "titre": "Esercizio 3",
+    "titre": "Are Dragons real?",
     "id": "Are-Dragons-real",
     "slug": "Are-Dragons-real",
-    "url": "https://secretlengua1.com/reading-exercice/Are-Dragons-real"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Are-Dragons-real"
   },
   {
-    "titre": "Esercizio 4",
+    "titre": "Cryptocurrency",
     "id": "Cryptocurrency",
     "slug": "Cryptocurrency",
-    "url": "https://secretlengua1.com/reading-exercice/Cryptocurrency"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Cryptocurrency"
   },
   {
-    "titre": "Esercizio 5",
+    "titre": "Foreign Exchange Trading",
     "id": "Foreign-Exchange-Trading",
     "slug": "Foreign-Exchange-Trading",
-    "url": "https://secretlengua1.com/reading-exercice/Foreign-Exchange-Trading"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Foreign-Exchange-Trading"
   },
   {
-    "titre": "Esercizio 6",
+    "titre": "Liabilities",
     "id": "Liabilities",
     "slug": "Liabilities",
-    "url": "https://secretlengua1.com/reading-exercice/Liabilities"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Liabilities"
   },
   {
-    "titre": "Esercizio 7",
+    "titre": "Strategic Alliance",
     "id": "Strategic-Alliance",
     "slug": "Strategic-Alliance",
-    "url": "https://secretlengua1.com/reading-exercice/Strategic-Alliance"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Strategic-Alliance"
   },
   {
-    "titre": "Esercizio 8",
+    "titre": "The Dot-Com Bubble",
     "id": "The-Dot-Com-Bubble",
     "slug": "The-Dot-Com-Bubble",
-    "url": "https://secretlengua1.com/reading-exercice/The-Dot-Com-Bubble"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/The-Dot-Com-Bubble"
   },
   {
-    "titre": "Esercizio 9",
+    "titre": "Private Equity Funds",
     "id": "Private-Equity-Funds",
     "slug": "Private-Equity-Funds",
-    "url": "https://secretlengua1.com/reading-exercice/Private-Equity-Funds"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Private-Equity-Funds"
   },
   {
-    "titre": "Esercizio 10",
+    "titre": "Applying for Business Positions",
     "id": "Applying-for-Business-Positions",
     "slug": "Applying-for-Business-Positions",
-    "url": "https://secretlengua1.com/reading-exercice/Applying-for-Business-Positions"
+    "url": "https://secretlengua.com/Professional-ENGLISH-language/Applying-for-Business-Positions"
   }
 ]
