@@ -1,9 +1,9 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+"vocabulary": 0,
+  "dictation": 0,
+  "grammar": 0,
+  "reading": 0,
+  "listening": 0,
+  "business": 0,
+  "advanced": 0
 }
