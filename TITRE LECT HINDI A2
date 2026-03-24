@@ -1,278 +1,164 @@
 [
   {
-  "exercises": [
-    {
-      "title": "Routine Quotidienne dans un Village de Montagne",
-      "slug": "routine-village-montagne",
-      "content": "Même si la plupart des gens ne le réalisent pas, chaque journée suit une routine, ou un ensemble établi de procédures et de pratiques générales. Les routines rendent les horaires quotidiens plus faciles à gérer, permettent de libérer du temps supplémentaire et assurent que les individus accomplissent autant de leurs tâches et objectifs que possible.\nJetons un coup d'œil à une routine typique dans un village de montagne!\nLe réveil sonne, et Émilie se lève en bâillant de son lit. Elle n'a pas beaucoup dormi la nuit précédente, il lui faut donc quelques minutes pour se lever et se préparer à commencer la journée.\nÉmilie entre dans la salle de bain et se lave le visage dans le lavabo, utilisant du savon et de l'eau chaude pour le faire. Elle se regarde dans le miroir et se sèche le visage avec une serviette. Ensuite, elle prend une douche et se nettoie.\nSous la douche, Émilie applique du shampoing sur ses cheveux et du savon sur le reste de son corps, avant de rincer et de sortir. Elle se sèche avec une plus grande serviette et s'habille avec ses vêtements. Enfin, elle se brosse les cheveux et sort.\nEnsuite, Émilie prend son petit déjeuner, comprenant du pain frais et du fromage local. Elle retourne ensuite dans la salle de bain pour se brosser les dents. Avant de quitter sa maison, Émilie fait son lit et vérifie que le feu de bois est bien éteint. Elle se rend à l'école à pied, un petit bâtiment en bois situé au cœur du village.\nÀ l'école, Émilie assiste aux cours, déjeune avec ses camarades de classe et socialise avec eux. Ensuite, elle rentre chez elle en fin d'après-midi.\nChez elle, Émilie termine ses devoirs et les place dans son sac à dos pour le lendemain. Une fois ses devoirs terminés, Émilie joue avec ses frères et sœurs dans les champs voisins avant de rentrer pour le dîner.\nÉmilie dîne avec sa famille, partageant un repas de soupe chaude et de pain frais. Pour clore cette journée bien remplie, Émilie se brosse les dents et se met au lit, prête à commencer une nouvelle journée dans les montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850964873-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1",
-        "https://feeds.soundcloud.com/stream/1850965542-perinemagne-routine-quotidienne-dans-un-village-de-montagne-c1h"
-      ],
-      "localStorage": "score_routine-village-montagne",
-      "questions": [
-        {
-          "question": "Quelle est la première activité quotidienne d'Émilie décrite dans le texte ?",
-          "choices": [
-            "Prendre son petit déjeuner",
-            "Se laver le visage",
-            "Allumer le feu de bois",
-            "Faire son lit"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie après s'être lavé le visage dans la salle de bain ?",
-          "choices": [
-            "Elle prend une douche",
-            "Elle s'habille",
-            "Elle se brosse les cheveux",
-            "Elle se brosse les dents"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quel aliment compose le petit déjeuner d'Émilie ?",
-          "choices": [
-            "Des œufs brouillés",
-            "Du pain frais et du fromage local",
-            "Des céréales avec du lait",
-            "Des fruits et du yaourt"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Où se rend Émilie après avoir pris son petit déjeuner ?",
-          "choices": [
-            "À l'école",
-            "Au travail",
-            "Chez sa grand-mère",
-            "Au marché"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Comment se rend Émilie à l'école ?",
-          "choices": [
-            "En voiture",
-            "En bus scolaire",
-            "À pied",
-            "À vélo"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'activité d'Émilie après l'école ?",
-          "choices": [
-            "Elle fait ses devoirs",
-            "Elle joue avec ses frères et sœurs",
-            "Elle va chez le voisin",
-            "Elle prend une douche"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le repas du soir d'Émilie avec sa famille ?",
-          "choices": [
-            "Des pâtes avec de la sauce tomate",
-            "De la soupe chaude et du pain frais",
-            "Des pizzas maison",
-            "Des légumes grillés avec du riz"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Que fait Émilie juste avant de se coucher ?",
-          "choices": [
-            "Elle lit un livre",
-            "Elle regarde la télévision",
-            "Elle se brosse les dents",
-            "Elle écrit dans son journal intime"
-          ],
-          "answer": "c"
-        }
-      ]
-    },
-    {
-      "title": "Observation des Baleines Bleues dans l'Océan Indien",
-      "slug": "observation-baleines-ocean-indien",
-      "content": "Avez-vous déjà rêvé d'observer une baleine de près? Les baleines bleues sont les plus grands mammifères de la planète, pesant jusqu'à 200 tonnes. Elles peuvent atteindre jusqu'à 88 pieds de long, soit plus grand qu'un avion de ligne! Leurs migrations sont parmi les plus fascinantes au monde, avec les baleines bleues parcourant de nombreuses miles pour se nourrir et mettre bas. Les petits de baleines, appelés veaux, naissent au large des côtes de l'île Maurice, puis ensemble, ils parcourent plus de 10 000 kilomètres jusqu'aux eaux riches en krill de l'océan Antarctique. Le voyage dure de 4 à 5 mois et traverse l'océan Indien, avec des arrêts pour se reposer dans les eaux chaudes des Maldives. Vous pouvez observer ces baleines majestueuses le long des côtes de Madagascar et de l'Afrique du Sud, où elles viennent parfois près des rivages lors de leurs migrations saisonnières. Assurez-vous de garder un œil sur l'eau pour repérer les jets d'eau caractéristiques, annonçant l'émergence imminente de ces créatures géantes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850961696-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1",
-        "https://feeds.soundcloud.com/stream/1850963328-perinemagne-observation-des-baleines-bleues-dans-locean-indien-c1h"
-      ],
-      "localStorage": "score_observation-baleines-ocean-indien",
-      "questions": [
-        {
-          "question": "Quel est le sujet principal du texte ?",
-          "choices": [
-            "Les oiseaux migrateurs",
-            "Les baleines bleues dans l'océan Indien",
-            "Les baleines grises dans le Pacifique",
-            "Les requins dans l'Atlantique"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la caractéristique principale des baleines bleues ?",
-          "choices": [
-            "Leur taille immense",
-            "Leur vitesse de nage",
-            "Leur couleur bleue vive",
-            "Leur migration annuelle"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Où naissent les petits de baleines, selon le texte ?",
-          "choices": [
-            "Au large des côtes de l'île Maurice",
-            "Dans les eaux riches en krill de l'océan Antarctique",
-            "Dans les eaux chaudes des Maldives",
-            "Dans les eaux froides du Groenland"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelle est la durée approximative du voyage des baleines bleues depuis leur naissance jusqu'aux eaux de l'océan Antarctique ?",
-          "choices": [
-            "1 à 2 semaines",
-            "1 à 2 mois",
-            "4 à 5 mois",
-            "1 à 2 ans"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Où peut-on observer les baleines bleues le long de leurs migrations saisonnières ?",
-          "choices": [
-            "Les côtes du Brésil",
-            "Les côtes de l'Afrique du Sud et de Madagascar",
-            "Les côtes de l'Australie",
-            "Les côtes de la Californie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est le comportement caractéristique des baleines bleues lorsqu'elles émergent de l'eau ?",
-          "choices": [
-            "Elles bondissent hors de l'eau.",
-            "Elles crachent de l'eau par leur évent.",
-            "Elles nagent en formation serrée.",
-            "Elles nagent rapidement vers la côte."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'intérêt de garder un œil sur l'eau lors de l'observation des baleines bleues ?",
-          "choices": [
-            "Pour éviter les collisions avec d'autres bateaux.",
-            "Pour repérer les jets d'eau annonçant leur émergence.",
-            "Pour observer les nageoires dorsales des baleines.",
-            "Pour surveiller les mouvements des poissons."
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme qualifie le mieux les baleines bleues dans le texte ?",
-          "choices": [
-            "Gigantesques",
-            "Agiles",
-            "Timides",
-            "Chantantes"
-          ],
-          "answer": "a"
-        }
-      ]
-    },
-    {
-      "title": "Parc National de l'Himalaya",
-      "slug": "parc-national-himalaya",
-      "content": "Le plus grand parc national d'Asie, le parc national de l'Himalaya, s'étend sur 5 000 kilomètres carrés et s'étire à travers les contreforts de l'Himalaya en Inde, au Népal et au Bhoutan. Cela rend ce parc plus grand que plusieurs petits pays combinés. Il abrite une biodiversité incroyable avec plus de 500 espèces de plantes endémiques et plus de 100 espèces d'animaux, y compris le majestueux léopard des neiges et le rare panda rouge. De plus, le parc regorge de sanctuaires d'oiseaux qui attirent les ornithologues du monde entier. Dans ses vastes terres, le parc de l'Himalaya présente près de 200 lacs, 400 kilomètres de sentiers de randonnée et des cascades spectaculaires alimentées par les rivières de fonte des glaciers. En outre, le parc dispose de centres de recherche dédiés à l'étude de la biodiversité himalayenne et à la conservation des espèces menacées telles que le tigre du Bengale et le rhinocéros indien. Le parc repose sur une activité tectonique élevée en raison de sa situation près de la ceinture de feu de l'Himalaya, ce qui entraîne des séismes fréquents mais offre également des sources chaudes thermales appréciées des visiteurs. Des équipes de surveillance veillent à la sécurité des visiteurs et à la préservation de l'écosystème fragile du parc. Le parc national de l'Himalaya est un trésor naturel à découvrir pour quiconque cherche à explorer les merveilles de cette majestueuse chaîne de montagnes.",
-      "audio": [
-        "https://feeds.soundcloud.com/stream/1850957421-perinemagne-parc-national-de-lhimalaya-c1"
-      ],
-      "localStorage": "score_parc-national-himalaya",
-      "questions": [
-        {
-          "question": "Où se situe le parc national de l'Himalaya ?",
-          "choices": [
-            "En Chine",
-            "En Inde, au Népal et au Bhoutan",
-            "Au Japon",
-            "En Russie"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quelle est la superficie approximative du parc national de l'Himalaya ?",
-          "choices": [
-            "500 kilomètres carrés",
-            "5 000 kilomètres carrés",
-            "50 000 kilomètres carrés",
-            "500 000 kilomètres carrés"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Combien d'espèces d'animaux sont présentes dans le parc national de l'Himalaya ?",
-          "choices": [
-            "Moins de 50 espèces",
-            "Environ 100 espèces",
-            "Plus de 100 espèces",
-            "Plus de 500 espèces"
-          ],
-          "answer": "c"
-        },
-        {
-          "question": "Quelle est l'une des espèces animales emblématiques du parc national de l'Himalaya mentionnée dans le texte ?",
-          "choices": [
-            "Le tigre du Bengale",
-            "Le lion",
-            "Le kangourou",
-            "L'éléphant africain"
-          ],
-          "answer": "a"
-        },
-        {
-          "question": "Quelles sont les caractéristiques géographiques du parc de l'Himalaya selon le texte ?",
-          "choices": [
-            "Des montagnes uniquement",
-            "Des lacs, des sentiers de randonnée et des cascades",
-            "Des déserts et des canyons",
-            "Des forêts uniquement"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel est l'impact de l'activité tectonique près du parc national de l'Himalaya ?",
-          "choices": [
-            "Aucun impact",
-            "Des tremblements de terre fréquents et des sources chaudes thermales",
-            "Un climat très stable",
-            "Une faune et une flore très variées"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quels sont les efforts mentionnés dans le texte pour préserver le parc national de l'Himalaya ?",
-          "choices": [
-            "Des programmes de chasse",
-            "Des équipes de surveillance pour la sécurité des visiteurs et la préservation de l'écosystème",
-            "Des activités industrielles",
-            "L'urbanisation du parc"
-          ],
-          "answer": "b"
-        },
-        {
-          "question": "Quel terme décrit le mieux le parc national de l'Himalaya selon le texte ?",
-          "choices": [
-            "Un trésor naturel",
-            "Un désert aride",
-            "Une zone industrielle",
-            "Un terrain vague"
-          ],
-          "answer": "a"
-        }
-      ]
-    
+    "titre": "अंत्वन के खोज",
+    "id": "antvan-ke-khoj",
+    "slug": "antvan-ke-khoj",
+    "url": "Hindi-Reading-A2/TEXTE10"
+  },
+  {
+    "titre": "शादी की सालगिरह के लिए एक आश्चर्य",
+    "id": "shaadi-ki-saalgirah-ke-liye-ek-aashcharya",
+    "slug": "shaadi-ki-saalgirah-ke-liye-ek-aashcharya",
+    "url": "Hindi-Reading-A2/texte11"
+  },
+  {
+    "titre": "टेलीविज़न प्रोग्राम के सामक्षिकता के सामने दुविधा",
+    "id": "television-program-ke-samakshikta-ke-samne-duvidha",
+    "slug": "television-program-ke-samakshikta-ke-samne-duvidha",
+    "url": "Hindi-Reading-A2/texte12"
+  },
+  {
+    "titre": "मित्रों के बीच मिठाई वाली मुलाकात",
+    "id": "mitron-ke-beech-mithai-wali-mulaqat",
+    "slug": "mitron-ke-beech-mithai-wali-mulaqat",
+    "url": "Hindi-Reading-A2/texte-13"
+  },
+  {
+    "titre": "चचेरे भाईबंधुओं के बीच पत्राचार।",
+    "id": "chachere-bhaibandhuon-ke-beech-patrchar",
+    "slug": "chachere-bhaibandhuon-ke-beech-patrchar",
+    "url": "Hindi-Reading-A2/texte14"
+  },
+  {
+    "titre": "प्रियदर्शकों के लिए तैयारी",
+    "id": "priyadarshakon-ke-liye-taiyari",
+    "slug": "priyadarshakon-ke-liye-taiyari",
+    "url": "Hindi-Reading-A2/texte-15"
+  },
+  {
+    "titre": "परिवार के साथ एक दिन की योजना",
+    "id": "parivar-ke-saath-ek-din-ki-yojna",
+    "slug": "parivar-ke-saath-ek-din-ki-yojna",
+    "url": "Hindi-Reading-A2/texte-16"
+  },
+  {
+    "titre": "एक संवाद के साथी की तलाश में",
+    "id": "ek-samvad-ke-saathi-ki-talash-mein",
+    "slug": "ek-samvad-ke-saathi-ki-talash-mein",
+    "url": "Hindi-Reading-A2/texte-17"
+  },
+  {
+    "titre": "एक मित्रापूर्ण दोपहर की तैयारी",
+    "id": "ek-mitrapurn-dopahar-ki-taiyari",
+    "slug": "ek-mitrapurn-dopahar-ki-taiyari",
+    "url": "Hindi-Reading-A2/texte-18"
+  },
+  {
+    "titre": "स्पेन से पत्राचार",
+    "id": "spain-se-patrchar",
+    "slug": "spain-se-patrchar",
+    "url": "Hindi-Reading-A2/texte-19"
+  },
+  {
+    "titre": "परिवार में उत्सव के पल",
+    "id": "parivar-mein-utsav-ke-pal",
+    "slug": "parivar-mein-utsav-ke-pal",
+    "url": "Hindi-Reading-A2/texte-20"
+  },
+  {
+    "titre": "एक लंदनी जोड़े की दिनचर्या",
+    "id": "ek-londni-jode-ki-dincharaya",
+    "slug": "ek-londni-jode-ki-dincharaya",
+    "url": "Hindi-Reading-A2/texte-21"
+  },
+  {
+    "titre": "एक रेस्तरां में एक शाम",
+    "id": "ek-restoran-mein-ek-shaam",
+    "slug": "ek-restoran-mein-ek-shaam",
+    "url": "Hindi-Reading-A2/texte-22"
+  },
+  {
+    "titre": "एक यादगार जन्मदिन का दिन",
+    "id": "ek-yaadgar-janm-din-ka-din",
+    "slug": "ek-yaadgar-janm-din-ka-din",
+    "url": "Hindi-Reading-A2/texte-23"
+  },
+  {
+    "titre": "मेरे गांव की खोज",
+    "id": "mere-gav-ki-khoj",
+    "slug": "mere-gav-ki-khoj",
+    "url": "Hindi-Reading-A2/texte-24"
+  },
+  {
+    "titre": "एक अविस्मरणीय विवाह दिवस की यादें",
+    "id": "ek-avismaraniya-vivah-divas-ki-yaadein",
+    "slug": "ek-avismaraniya-vivah-divas-ki-yaadein",
+    "url": "Hindi-Reading-A2/texte-25"
+  },
+  {
+    "titre": "एक पेशेवर प्रस्तुति का दिन",
+    "id": "ek-peshevar-prastuti-ka-din",
+    "slug": "ek-peshevar-prastuti-ka-din",
+    "url": "Hindi-Reading-A2/texte-26"
+  },
+  {
+    "titre": "एक आदर्शवादी विदाई",
+    "id": "ek-adarshvadi-vidai",
+    "slug": "ek-adarshvadi-vidai",
+    "url": "Hindi-Reading-A2/texte-27"
+  },
+  {
+    "titre": "एक यादगार भोजन",
+    "id": "ek-yaadgar-bhojan",
+    "slug": "ek-yaadgar-bhojan",
+    "url": "Hindi-Reading-A2/texte-28"
+  },
+  {
+    "titre": "एक मदद की झटका",
+    "id": "ek-madad-ki-jhatka",
+    "slug": "ek-madad-ki-jhatka",
+    "url": "Hindi-Reading-A2/texte-29"
+  },
+  {
+    "titre": "ग्रामीण क्षेत्र में आराम का एक दिन",
+    "id": "gramin-kshetra-mein-aram-ka-ek-din",
+    "slug": "gramin-kshetra-mein-aram-ka-ek-din",
+    "url": "Hindi-Reading-A2/texte-30"
+  },
+  {
+    "titre": "एक भरी हुई दिन",
+    "id": "ek-bhari-hui-din",
+    "slug": "ek-bhari-hui-din",
+    "url": "Hindi-Reading-A2/texte-31"
+  },
+  {
+    "titre": "पुस्तकालय में एक अध्ययनपूर्ण दोपहर।",
+    "id": "pustakalay-mein-ek-adhyayanpurn-dopahar",
+    "slug": "pustakalay-mein-ek-adhyayanpurn-dopahar",
+    "url": "Hindi-Reading-A2/texte-32"
+  },
+  {
+    "titre": "एक रोमांटिक मुलाकात",
+    "id": "ek-romantic-mulaqat",
+    "slug": "ek-romantic-mulaqat",
+    "url": "Hindi-Reading-A2/texte-33"
+  },
+  {
+    "titre": "एक एयरपोर्ट पर एक दिन।",
+    "id": "ek-airport-par-ek-din",
+    "slug": "ek-airport-par-ek-din",
+    "url": "Hindi-Reading-A2/texte-35"
+  },
+  {
+    "titre": "एक संग्रहालय में एक शिक्षाप्रद दौरा",
+    "id": "ek-sangrahalay-mein-ek-shikshaprad-daura",
+    "slug": "ek-sangrahalay-mein-ek-shikshaprad-daura",
+    "url": "Hindi-Reading-A2/texte-34"
+  },
+  {
+    "titre": "किराए के लिए एक अपार्टमेंट की खोज",
+    "id": "kiraye-ke-liye-ek-apartment-ki-khoj",
+    "slug": "kiraye-ke-liye-ek-apartment-ki-khoj",
+    "url": "Hindi-Reading-A2/texte-36"
+  }
+]
