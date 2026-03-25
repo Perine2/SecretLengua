@@ -1,5 +1,74 @@
 [
-  {
+ {
+"titre": "Laura y su amor por el deporte",
+"id": "laura-y-su-amor-por-el-deporte",
+"slug": "Laura-y-su-amor-por-el-deporte",
+"url": "https://secretlengua1.com/spanish-dictation/Laura-y-su-amor-por-el-deporte
+"
+},
+{
+"titre": "Tom quiere dominar un instrumento musical",
+"id": "tom-quiere-dominar-un-instrumento-musical",
+"slug": "Tom-quiere-dominar",
+"url": "https://secretlengua1.com/spanish-dictation/Tom-quiere-dominar
+"
+},
+{
+"titre": "Laura asume responsabilidades",
+"id": "laura-asume-responsabilidades",
+"slug": "Laura-asume-responsabilidades",
+"url": "https://secretlengua1.com/spanish-dictation/Laura-asume-responsabilidades
+"
+},
+{
+"titre": "¿Dónde están las llaves de la oficina?",
+"id": "donde-estan-las-llaves-de-la-oficina",
+"slug": "Donde-estan-las-llaves-de-la-oficina",
+"url": "https://secretlengua1.com/spanish-dictation/Donde-estan-las-llaves-de-la-oficina
+"
+},
+{
+"titre": "Sarah se muda a otra ciudad.",
+"id": "sarah-se-muda-a-otra-ciudad",
+"slug": "Sarah-se-muda-a-otra-ciudad",
+"url": "https://secretlengua1.com/spanish-dictation/Sarah-se-muda-a-otra-ciudad
+"
+},
+{
+"titre": "Lukas va al acuario.",
+"id": "lukas-va-al-acuario",
+"slug": "Lukas-va-al-acuario",
+"url": "https://secretlengua1.com/spanish-dictation/Lukas-va-al-acuario
+"
+},
+{
+"titre": "Anna tiene dolor de cabeza",
+"id": "anna-tiene-dolor-de-cabeza",
+"slug": "Anna-tiene-dolor-de-cabeza",
+"url": "https://secretlengua1.com/spanish-dictation/Anna-tiene-dolor-de-cabeza
+"
+},
+{
+"titre": "Lukas busca un apartamento",
+"id": "lukas-busca-un-apartamento",
+"slug": "Lukas-busca-un-apartamento",
+"url": "https://secretlengua1.com/spanish-dictation/Lukas-busca-un-apartamento
+"
+},
+{
+"titre": "En el nido de hormigas",
+"id": "en-el-nido-de-hormigas",
+"slug": "En-el-nido-de-hormigas",
+"url": "https://secretlengua1.com/spanish-dictation/En-el-nido-de-hormigas
+"
+},
+{
+"titre": "En el campeonato de atletismo",
+"id": "en-el-campeonato-de-atletismo",
+"slug": "En-el-campeonato-de-atletismo",
+"url": "https://secretlengua1.com/spanish-dictation/En-el-campeonato-de-atletismo
+"
+}, {
     "titre": "Los lindos patos",
     "id": "los-lindos-patos",
     "slug": "Los-lindos-patos",
