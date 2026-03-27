@@ -177,5 +177,89 @@
   "id": "exercise-30",
   "slug": "DOURSHASWHAMHPJ",
   "url": "https://secretlengua.com/English-C1/DOURSHASWHAMHPJ"
-}
+},
+{
+    "titre": "Exercise 31",
+    "id": "UDHZYHSRJAHPSGH",
+    "slug": "UDHZYHSRJAHPSGH",
+    "url": "https://secretlengua1.com/English-C1/UDHZYHSRJAHPSGH"
+  },
+  {
+    "titre": "Exercise 32",
+    "id": "ENUCXTEENUSJUFM",
+    "slug": "ENUCXTEENUSJUFM",
+    "url": "https://secretlengua1.com/English-C1/ENUCXTEENUSJUFM"
+  },
+  {
+    "titre": "Exercise 33",
+    "id": "WDNAHPCYRFQJEQD",
+    "slug": "WDNAHPCYRFQJEQD",
+    "url": "https://secretlengua1.com/English-C1/WDNAHPCYRFQJEQD"
+  },
+  {
+    "titre": "Exercise 34",
+    "id": "XFTBYZLZXBCAZAY",
+    "slug": "XFTBYZLZXBCAZAY",
+    "url": "https://secretlengua1.com/English-C1/XFTBYZLZXBCAZAY"
+  },
+  {
+    "titre": "Exercise 35",
+    "id": "PLJOSLSMNDDAOSN",
+    "slug": "PLJOSLSMNDDAOSN",
+    "url": "https://secretlengua1.com/English-C1/PLJOSLSMNDDAOSN"
+  },
+  {
+    "titre": "Exercise 36",
+    "id": "FMHFYWAPOHRLDIU",
+    "slug": "FMHFYWAPOHRLDIU",
+    "url": "https://secretlengua1.com/English-C1/FMHFYWAPOHRLDIU"
+  },
+  {
+    "titre": "Exercise 37",
+    "id": "IDNRBZROZEDXSZE",
+    "slug": "IDNRBZROZEDXSZE",
+    "url": "https://secretlengua1.com/English-C1/IDNRBZROZEDXSZE"
+  },
+  {
+    "titre": "Exercise 38",
+    "id": "NHFQMSHWYRWXORO",
+    "slug": "NHFQMSHWYRWXORO",
+    "url": "https://secretlengua1.com/English-C1/NHFQMSHWYRWXORO"
+  },
+  {
+    "titre": "Exercise 39",
+    "id": "WXXXSQZU-ECIMDY",
+    "slug": "WXXXSQZU-ECIMDY",
+    "url": "https://secretlengua1.com/English-C1/WXXXSQZU-ECIMDY"
+  },
+  {
+    "titre": "Exercise 40",
+    "id": "SMXXIVTZZKMJZGE",
+    "slug": "SMXXIVTZZKMJZGE",
+    "url": "https://secretlengua1.com/English-C1/SMXXIVTZZKMJZGE"
+  },
+  {
+    "titre": "Exercise 41",
+    "id": "NBNYKMDZNRVXXCH",
+    "slug": "NBNYKMDZNRVXXCH",
+    "url": "https://secretlengua1.com/English-C1/NBNYKMDZNRVXXCH"
+  },
+  {
+    "titre": "Exercise 42",
+    "id": "YALXMYZLLMIMYZX",
+    "slug": "YALXMYZLLMIMYZX",
+    "url": "https://secretlengua1.com/English-C1/YALXMYZLLMIMYZX"
+  },
+  {
+    "titre": "Exercise 43",
+    "id": "GNM-B-JFUTOOSPW",
+    "slug": "GNM-B-JFUTOOSPW",
+    "url": "https://secretlengua1.com/English-C1/GNM-B-JFUTOOSPW"
+  },
+  {
+    "titre": "Exercise 44",
+    "id": "AMCNGUFXRCBEQEC",
+    "slug": "AMCNGUFXRCBEQEC",
+    "url": "https://secretlengua1.com/English-C1/AMCNGUFXRCBEQEC"
+  }
 ]
