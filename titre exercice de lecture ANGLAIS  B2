@@ -15,7 +15,43 @@
   "id": "the-rise-of-cultural-tourism",
   "slug": "The-Rise-of-Cultural-Tourism",
   "url": "https://secretlengua.com/English-B2/The-Rise-of-Cultural-Tourism"
-},
+}, 
+{
+    "titre": "Interviewer",
+    "id": "Interviewer",
+    "slug": "Interviewer",
+    "url": "https://secretlengua1.com/English-B2/Interviewer"
+  },
+  {
+    "titre": "The Curriculum Vitae (CV),",
+    "id": "The-Curriculum-Vitae",
+    "slug": "The-Curriculum-Vitae",
+    "url": "https://secretlengua1.com/English-B2/The-Curriculum-Vitae"
+  },
+  {
+    "titre": "business terminology",
+    "id": "In-business-terminology",
+    "slug": "In-business-terminology",
+    "url": "https://secretlengua1.com/English-B2/In-business-terminology"
+  },
+  {
+    "titre": "Business realm",
+    "id": "realm-of-business-operations",
+    "slug": "realm-of-business-operations",
+    "url": "https://secretlengua1.com/English-B2/realm-of-business-operations"
+  },
+  {
+    "titre": "Plastic",
+    "id": "Plastic-is-an-indispensable",
+    "slug": "Plastic-is-an-indispensable",
+    "url": "https://secretlengua1.com/English-B2/Plastic-is-an-indispensable"
+  },
+  {
+    "titre": "Social media",
+    "id": "Social-media",
+    "slug": "Social-media",
+    "url": "https://secretlengua1.com/English-B2/Social-media"
+  },
 {
   "titre": "The Commemoration of Thanksgiving",
   "id": "the-commemoration-of-thanksgiving",
@@ -225,5 +261,35 @@
   "id": "a-universal-tradition",
   "slug": "A-Universal-Tradition",
   "url": "https://secretlengua.com/English-B2/A-Universal-Tradition"
-}
+},
+{
+    "titre": "Remote-work",
+    "id": "Remote-work",
+    "slug": "Remote-work",
+    "url": "https://secretlengua1.com/English-B2/Remote-work"
+  },
+  {
+    "titre": "Internet",
+    "id": "Internet",
+    "slug": "Internet",
+    "url": "https://secretlengua1.com/English-B2/Internet"
+  },
+  {
+    "titre": "Digital Detox",
+    "id": "Digital-Detox",
+    "slug": "Digital-Detox",
+    "url": "https://secretlengua1.com/English-B2/Digital-Detox"
+  },
+  {
+    "titre": "Customer service",
+    "id": "Customer-service",
+    "slug": "Customer-service",
+    "url": "https://secretlengua1.com/English-B2/Customer-service"
+  },
+  {
+    "titre": "Coffee plays",
+    "id": "Coffee-plays",
+    "slug": "Coffee-plays",
+    "url": "https://secretlengua1.com/English-B2/Coffee-plays"
+  }
 ]
