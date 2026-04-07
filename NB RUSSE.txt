@@ -5,5 +5,6 @@
   "reading": 59,
   "listening": 59,
   "business": 0,
-  "advanced": 0
+  "advanced": 0,
+ "Professionalvocabulary": 200
 }
