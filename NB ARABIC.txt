@@ -4,7 +4,7 @@
   "grammar": 68,
   "reading": 76,
   "listening": 76,
-  "business": 0,
+  "business": 200,
   "advanced": 0,
-"Professionalvocabulary": 200
+"Professionalvocabulary": 0
 }
