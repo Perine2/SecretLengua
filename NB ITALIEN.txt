@@ -6,5 +6,5 @@
   "listening": 132,
   "business": 0,
   "advanced": 0,
- "ProfessionalVocabulary":200
+ "ProfessionalVocabulary": 200
 }
