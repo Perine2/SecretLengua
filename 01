@@ -1,5 +1,5 @@
 {
-"SecretLenguaEntryLevelTest": 10,
+"SecretLenguaEntryLevelTest": 27,
 "vocabulary": 100,
   "dictation": 33,
   "grammar": 108,
@@ -8,5 +8,6 @@
   "business": 200,
   "advanced": 9,
   "advancedgrammar": 52,
- "AdvancedVocabulary":31
+ "AdvancedVocabulary":31,
+"SecretLenguaExitTest":27
 }
