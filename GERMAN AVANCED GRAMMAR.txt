@@ -1,4 +1,10 @@
 [
+{
+  "titre": "Präteritum / Konjunktiv",
+  "id": "GERMAN-avanced-grammar/Prateritum-Konjunktiv",
+  "slug": "prateritum-konjunktiv",
+  "url": "https://secretlengua.com/GERMAN-avanced-grammar/Prateritum-Konjunktiv"
+},
   {
     "titre": "Prapositionen-Kasus",
     "id": "GERMAN-avanced-grammar/Prapositionen-Kasus",
