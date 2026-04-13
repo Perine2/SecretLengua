@@ -110,7 +110,7 @@
   {
     "titre": "Präteritum / Konjunktiv II",
     "id": "GERMAN-avanced-grammar/PrateritumKonjunktiv-II",
-    "slug": "prateritumkonjunktiv-II",
+    "slug": "prateritum-konjunktiv-II",
     "url": "https://secretlengua.com/GERMAN-avanced-grammar/PrateritumKonjunktiv-II"
   },
   {
@@ -154,5 +154,53 @@
     "id": "GERMAN-avanced-grammar/Futur-I-Konjunktiv-II",
     "slug": "futur-I-konjunktiv-II",
     "url": "https://secretlengua.com/GERMAN-avanced-grammar/Futur-I-Konjunktiv-II"
+  },
+  {
+    "titre": "Konjunktiv II / Konjunktiv I",
+    "id": "GERMAN-avanced-grammar/Konjunktiv-II-Konjunktiv-I",
+    "slug": "konjunktiv-II-konjunktiv-I",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/Konjunktiv-II-Konjunktiv-I"
+  },
+  {
+    "titre": "richtige Verbform.1",
+    "id": "GERMAN-avanced-grammar/forme-correcte-du-verbe-1",
+    "slug": "richtige-verbform-1",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/forme-correcte-du-verbe-1"
+  },
+  {
+    "titre": "richtige Verbform. 2",
+    "id": "GERMAN-avanced-grammar/richtige-Verbform-2",
+    "slug": "richtige-verbform-2",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/richtige-Verbform-2"
+  },
+  {
+    "titre": "richtige Verbform. 3",
+    "id": "GERMAN-avanced-grammar/richtige-Verbform3",
+    "slug": "richtige-verbform-3",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/richtige-Verbform3"
+  },
+  {
+    "titre": "richtige Verbform. 4",
+    "id": "GERMAN-avanced-grammar/richtige-Verbform4",
+    "slug": "richtige-verbform-4",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/richtige-Verbform4"
+  },
+  {
+    "titre": "richtige Verbform. 5",
+    "id": "GERMAN-avanced-grammar/richtige-Verbform5",
+    "slug": "richtige-verbform-5",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/richtige-Verbform5"
+  },
+  {
+    "titre": "richtige Verbform.6",
+    "id": "GERMAN-avanced-grammar/richtige-Verbform6",
+    "slug": "richtige-verbform-6",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/richtige-Verbform6"
+  },
+  {
+    "titre": "richtige Verbform.7",
+    "id": "GERMAN-avanced-grammar/richtige-Verbform7",
+    "slug": "richtige-verbform-7",
+    "url": "https://secretlengua.com/GERMAN-avanced-grammar/richtige-Verbform7"
   }
 ]
