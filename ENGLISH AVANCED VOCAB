@@ -1,188 +1,224 @@
 [
-    {
-      "titre": "English Exercise 1",
-      "id": "exercise-1",
-      "slug": "vocab-1",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-1"
-    },
-    {
-      "titre": "English Exercise 2",
-      "id": "exercise-2",
-      "slug": "vocab-2",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-2"
-    },
-    {
-      "titre": "English Exercise 3",
-      "id": "exercise-3",
-      "slug": "vocab-3",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-3"
-    },
-    {
-      "titre": "English Exercise 4",
-      "id": "exercise-4",
-      "slug": "vocab-4",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-4"
-    },
-    {
-      "titre": "English Exercise 5",
-      "id": "exercise-5",
-      "slug": "vocab-5",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-5"
-    },
-    {
-      "titre": "English Exercise 6",
-      "id": "exercise-6",
-      "slug": "vocab-6",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-6"
-    },
-    {
-      "titre": "English Exercise 7",
-      "id": "exercise-7",
-      "slug": "vocab-7",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-7"
-    },
-    {
-      "titre": "English Exercise 8",
-      "id": "exercise-8",
-      "slug": "vocab-8",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-8"
-    },
-    {
-      "titre": "English Exercise 9",
-      "id": "exercise-9",
-      "slug": "vocab-9",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-9"
-    },
-    {
-      "titre": "English Exercise 10",
-      "id": "exercise-10",
-      "slug": "vocab-10",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-10"
-    },
-    {
-      "titre": "English Exercise 11",
-      "id": "exercise-11",
-      "slug": "vocab-11",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-11"
-    },
-    {
-      "titre": "English Exercise 12",
-      "id": "exercise-12",
-      "slug": "vocab-12",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-12"
-    },
-    {
-      "titre": "English Exercise 13",
-      "id": "exercise-13",
-      "slug": "vocab-13",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-13"
-    },
-    {
-      "titre": "English Exercise 14",
-      "id": "exercise-14",
-      "slug": "vocab-14",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-14"
-    },
-    {
-      "titre": "English Exercise 15",
-      "id": "exercise-15",
-      "slug": "vocab-15",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-15"
-    },
-    {
-      "titre": "English Exercise 16",
-      "id": "exercise-16",
-      "slug": "vocab-16",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-16"
-    },
-    {
-      "titre": "English Exercise 17",
-      "id": "exercise-17",
-      "slug": "vocab-17",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-17"
-    },
-    {
-      "titre": "English Exercise 18",
-      "id": "exercise-18",
-      "slug": "vocab-18",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-18"
-    },
-    {
-      "titre": "English Exercise 19",
-      "id": "exercise-19",
-      "slug": "vocab-19",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-19"
-    },
-    {
-      "titre": "English Exercise 20",
-      "id": "exercise-20",
-      "slug": "vocab-20",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-20"
-    },
-    {
-      "titre": "English Exercise 21",
-      "id": "exercise-21",
-      "slug": "vocab-21",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-21"
-    },
-    {
-      "titre": "English Exercise 22",
-      "id": "exercise-22",
-      "slug": "vocab-22",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-22"
-    },
-    {
-      "titre": "English Exercise 23",
-      "id": "exercise-23",
-      "slug": "vocab-23",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-23"
-    },
-    {
-      "titre": "English Exercise 24",
-      "id": "exercise-24",
-      "slug": "vocab-24",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-24"
-    },
-    {
-      "titre": "English Exercise 25",
-      "id": "exercise-25",
-      "slug": "vocab-25",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-25"
-    },
-    {
-      "titre": "English Exercise 26",
-      "id": "exercise-26",
-      "slug": "vocab-26",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-26"
-    },
-    {
-      "titre": "English Exercise 27",
-      "id": "exercise-27",
-      "slug": "vocab-27",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-27"
-    },
-    {
-      "titre": "English Exercise 28",
-      "id": "exercise-28",
-      "slug": "vocab-28",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-28"
-    },
-    {
-      "titre": "English Exercise 29",
-      "id": "exercise-29",
-      "slug": "vocab-29",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-29"
-    },
-    {
-      "titre": "English Exercise 30",
-      "id": "exercise-30",
-      "slug": "vocab-30",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-30"
-    },
-    {
-      "titre": "English Exercise 31",
-      "id": "exercise-31",
-      "slug": "vocab31",
-      "url": "https://secretlengua.com/English-avanced-vocabulary/vocab31"
-    }
-  ]
+  {
+    "titre": "English Exercise 32",
+    "id": "exercise-32",
+    "slug": "Vocab-32",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/Vocab-32"
+  },
+  {
+    "titre": "English Exercise 33",
+    "id": "exercise-33",
+    "slug": "vocab-33",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-33"
+  },
+  {
+    "titre": "English Exercise 34",
+    "id": "exercise-34",
+    "slug": "Vocab-34",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/Vocab-34"
+  },
+  {
+    "titre": "English Exercise 35",
+    "id": "exercise-35",
+    "slug": "vocab-35",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-35"
+  },
+  {
+    "titre": "English Exercise 36",
+    "id": "exercise-36",
+    "slug": "vocab-36",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-36"
+  },
+  {
+    "titre": "English Exercise 37",
+    "id": "exercise-37",
+    "slug": "vocab-37",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-37"
+  },
+  {
+    "titre": "English Exercise 38",
+    "id": "exercise-38",
+    "slug": "vocab-38",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-38"
+  },
+  {
+    "titre": "English Exercise 39",
+    "id": "exercise-39",
+    "slug": "vocab-39",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-39"
+  },
+  {
+    "titre": "English Exercise 40",
+    "id": "exercise-40",
+    "slug": "vocab-40",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-40"
+  },
+  {
+    "titre": "English Exercise 41",
+    "id": "exercise-41",
+    "slug": "vocab-41",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-41"
+  },
+  {
+    "titre": "English Exercise 42",
+    "id": "exercise-42",
+    "slug": "vocab-42",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-42"
+  },
+  {
+    "titre": "English Exercise 43",
+    "id": "exercise-43",
+    "slug": "Vocab-43",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/Vocab-43"
+  },
+  {
+    "titre": "English Exercise 44",
+    "id": "exercise-44",
+    "slug": "vocab-44",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-44"
+  },
+  {
+    "titre": "English Exercise 45",
+    "id": "exercise-45",
+    "slug": "vocab-45",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-45"
+  },
+  {
+    "titre": "English Exercise 46",
+    "id": "exercise-46",
+    "slug": "vocab-46",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-46"
+  },
+  {
+    "titre": "English Exercise 47",
+    "id": "exercise-47",
+    "slug": "vocab-47",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-47"
+  },
+  {
+    "titre": "English Exercise 48",
+    "id": "exercise-48",
+    "slug": "vocab-48",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-48"
+  },
+  {
+    "titre": "English Exercise 49",
+    "id": "exercise-49",
+    "slug": "vocab-49",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-49"
+  },
+  {
+    "titre": "English Exercise 50",
+    "id": "exercise-50",
+    "slug": "vocab-50",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-50"
+  },
+  {
+    "titre": "English Exercise 51",
+    "id": "exercise-51",
+    "slug": "vocab-51",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-51"
+  },
+  {
+    "titre": "English Exercise 52",
+    "id": "exercise-52",
+    "slug": "vocab-52",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-52"
+  },
+  {
+    "titre": "English Exercise 53",
+    "id": "exercise-53",
+    "slug": "vocab-53",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-53"
+  },
+  {
+    "titre": "English Exercise 54",
+    "id": "exercise-54",
+    "slug": "vocab-54",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-54"
+  },
+  {
+    "titre": "English Exercise 55",
+    "id": "exercise-55",
+    "slug": "vocab-55",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-55"
+  },
+  {
+    "titre": "English Exercise 56",
+    "id": "exercise-56",
+    "slug": "vocab-56",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-56"
+  },
+  {
+    "titre": "English Exercise 57",
+    "id": "exercise-57",
+    "slug": "vocab-57",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-57"
+  },
+  {
+    "titre": "English Exercise 58",
+    "id": "exercise-58",
+    "slug": "vocab-58",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-58"
+  },
+  {
+    "titre": "English Exercise 59",
+    "id": "exercise-59",
+    "slug": "vocab58",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab58"
+  },
+  {
+    "titre": "English Exercise 60",
+    "id": "exercise-60",
+    "slug": "vocab-59",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-59"
+  },
+  {
+    "titre": "English Exercise 61",
+    "id": "exercise-61",
+    "slug": "vocab-60",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-60"
+  },
+  {
+    "titre": "English Exercise 62",
+    "id": "exercise-62",
+    "slug": "vocab-61",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-61"
+  },
+  {
+    "titre": "English Exercise 63",
+    "id": "exercise-63",
+    "slug": "vocab-62",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-62"
+  },
+  {
+    "titre": "English Exercise 64",
+    "id": "exercise-64",
+    "slug": "vocab-63",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-63"
+  },
+  {
+    "titre": "English Exercise 65",
+    "id": "exercise-65",
+    "slug": "vocab-64",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-64"
+  },
+  {
+    "titre": "English Exercise 66",
+    "id": "exercise-66",
+    "slug": "vocab-65",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-65"
+  },
+  {
+    "titre": "English Exercise 67",
+    "id": "exercise-67",
+    "slug": "vocab-66",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-66"
+  },
+  {
+    "titre": "English Exercise 68",
+    "id": "exercise-68",
+    "slug": "vocab-67",
+    "url": "https://secretlengua.com/English-avanced-vocabulary/vocab-67"
+  }
+]
