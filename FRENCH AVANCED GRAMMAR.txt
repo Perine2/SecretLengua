@@ -184,5 +184,257 @@
     "id": "exercise-31",
     "slug": "Passe-simple-Conditionnel-passe",
     "url": "https://secretlengua.com/french-avanced-grammar/Passe-simple-Conditionnel-passe"
+  },
+ {
+    "titre": "Passe-simple/Present-de-limperatif",
+    "id": "exercise-33",
+    "slug": "Passe-simple-Present-de-limperatif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Passe-simple-Present-de-limperatif"
+  },
+  {
+    "titre": "Passe-simple/Passe-de-limperatif",
+    "id": "exercise-34",
+    "slug": "Passe-simple-Passe-de-limperatif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Passe-simple-Passe-de-limperatif"
+  },
+  {
+    "titre": "Passe-simple/Infinitif/Participe/Gerondif",
+    "id": "exercise-35",
+    "slug": "Passe-simple-Infinitif-Participe-Gerondif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Passe-simple-Infinitif-Participe-Gerondif"
+  },
+  {
+    "titre": "Imparfait/Present",
+    "id": "exercise-36",
+    "slug": "Imparfait-Present",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Present"
+  },
+  {
+    "titre": "Imparfait/Futur",
+    "id": "exercise-37",
+    "slug": "Imparfait-Futur",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Futur"
+  },
+  {
+    "titre": "Imparfait/Passe-simple",
+    "id": "exercise-38",
+    "slug": "Imparfait-Passe-simple",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Passe-simple"
+  },
+  {
+    "titre": "Imparfait/Futur-anterieur",
+    "id": "exercise-39",
+    "slug": "Imparfait-Futur-anterieur",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Futur-anterieur"
+  },
+  {
+    "titre": "Imparfait/Passe-compose",
+    "id": "exercise-40",
+    "slug": "Imparfait-Passe-compose",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Passe-compose"
+  },
+  {
+    "titre": "Imparfait/Plus-que-parfait",
+    "id": "exercise-41",
+    "slug": "Imparfait-Plus-que-parfait",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Plus-que-parfait"
+  },
+  {
+    "titre": "Imparfait/Passe-anterieur",
+    "id": "exercise-42",
+    "slug": "Imparfait-Passe-anterieur",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Passe-anterieur"
+  },
+  {
+    "titre": "Imparfait/Present-du-subjonctif",
+    "id": "exercise-43",
+    "slug": "Imparfait-Present-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Present-du-subjonctif"
+  },
+  {
+    "titre": "Imparfait/Imparfait-du-subjonctif",
+    "id": "exercise-44",
+    "slug": "Imparfait-Imparfait-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Imparfait-du-subjonctif"
+  },
+  {
+    "titre": "Imparfait/Passe-du-subjonctif",
+    "id": "exercise-45",
+    "slug": "Imparfait-Passe-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Passe-du-subjonctif"
+  },
+  {
+    "titre": "Imparfait/Plus-que-parfait-du-subjonctif",
+    "id": "exercise-46",
+    "slug": "Imparfait-Plus-que-parfait-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Plus-que-parfait-du-subjonctif"
+  },
+  {
+    "titre": "Imparfait/Conditionnel-present",
+    "id": "exercise-47",
+    "slug": "Imparfait-Conditionnel-present",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Conditionnel-present"
+  },
+  {
+    "titre": "Imparfait/Conditionnel-passe",
+    "id": "exercise-48",
+    "slug": "Imparfait-Conditionnel-passe",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Conditionnel-passe"
+  },
+  {
+    "titre": "Imparfait/Present-de-limperatif",
+    "id": "exercise-49",
+    "slug": "Imparfait-Present-de-limperatif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Present-de-limperatif"
+  },
+  {
+    "titre": "Imparfait/Passe-de-limperatif",
+    "id": "exercise-50",
+    "slug": "Imparfait-Passe-de-limperatif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Passe-de-limperatif"
+  },
+  {
+    "titre": "Imparfait/Presentdu-subjonctif",
+    "id": "exercise-51",
+    "slug": "Imparfait-Presentdu-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Imparfait-Presentdu-subjonctif"
+  },
+  {
+    "titre": "Futur-simple/Futur-anterieur",
+    "id": "exercise-52",
+    "slug": "Futur-simple-Futur-anterieur",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Futur-anterieur"
+  },
+  {
+    "titre": "Futur-simple/Passe-compose",
+    "id": "exercise-53",
+    "slug": "Futur-simple-Passe-compose",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Passe-compose"
+  },
+  {
+    "titre": "Futur-simple/Plus-que-parfait",
+    "id": "exercise-54",
+    "slug": "Futur-simple-Plus-que-parfait",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Plus-que-parfait"
+  },
+  {
+    "titre": "Futur simple / Passé antérieur",
+    "id": "exercise-55",
+    "slug": "Futur-simple-Passe-anterieur",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Passe-anterieur"
+  },
+  {
+    "titre": "Futur simple / Présent du subjonctif",
+    "id": "exercise-56",
+    "slug": "Futur-simple-Present-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Present-du-subjonctif"
+  },
+  {
+    "titre": "Futur simple / Imparfait du subjonctif",
+    "id": "exercise-57",
+    "slug": "Futur-simple-Imparfait-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Imparfait-du-subjonctif"
+  },
+  {
+    "titre": "Futur simple / Passé du subjonctif",
+    "id": "exercise-58",
+    "slug": "Futur-simple-Passe-du-subjonctif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Passe-du-subjonctif"
+  },
+  {
+    "titre": "Futur simple / Conditionnel présent",
+    "id": "exercise-59",
+    "slug": "Futur-simple-Conditionnel-present",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Conditionnel-present"
+  },
+  {
+    "titre": "Futur simple / Conditionnel passé",
+    "id": "exercise-60",
+    "slug": "Futur-simple-Conditionnel-passe",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Conditionnel-passe"
+  },
+  {
+    "titre": "Futur simple / Présent de l’impératif",
+    "id": "exercise-61",
+    "slug": "Futur-simple-Present-de-limperatif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Present-de-limperatif"
+  },
+  {
+    "titre": "Futur simple / Passé de l’impératif",
+    "id": "exercise-62",
+    "slug": "Futur-simple-Passe-de-limperatif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Passe-de-limperatif"
+  },
+  {
+    "titre": "Futur simple / Infinitif/Participe/Gérondif",
+    "id": "exercise-63",
+    "slug": "Futur-simple-Infinitif-Participe-Gerondif",
+    "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Infinitif-Participe-Gerondif"
+  },
+  {
+    "titre": "Forme correcte du verbe 1",
+    "id": "exercise-64",
+    "slug": "Forme-correcte-du-verbe-1",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-1"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-2",
+    "id": "exercise-65",
+    "slug": "Forme-correcte-du-verbe-2",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-2"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-3",
+    "id": "exercise-66",
+    "slug": "Forme-correcte-du-verbe-3",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-3"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-4",
+    "id": "exercise-67",
+    "slug": "Forme-correcte-du-verbe-4",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-4"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-5",
+    "id": "exercise-68",
+    "slug": "Forme-correcte-du-verbe-5",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-5"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-6",
+    "id": "exercise-69",
+    "slug": "Forme-correcte-du-verbe-6",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-6"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-7",
+    "id": "exercise-70",
+    "slug": "Forme-correcte-du-verbe-7",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-7"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-8",
+    "id": "exercise-71",
+    "slug": "Forme-correcte-du-verbe-8",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-8"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-9",
+    "id": "exercise-72",
+    "slug": "Forme-correcte-du-verbe-9",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-9"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-10",
+    "id": "exercise-73",
+    "slug": "Forme-correcte-du-verbe-10",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-10"
+  },
+  {
+    "titre": "Forme-correcte-du-verbe-11",
+    "id": "exercise-74",
+    "slug": "Forme-correcte-du-verbe-11",
+    "url": "https://secretlengua.com/french-avanced-grammar/Forme-correcte-du-verbe-11"
   }
 ]
