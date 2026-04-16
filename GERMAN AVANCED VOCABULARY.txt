@@ -130,5 +130,191 @@
     "id": "exercise-22",
     "slug": "Verben-Nomen-einsetzen-2",
     "url": "https://secretlengua.com/German-avanced-vocabulary/Verben-Nomen-einsetzen-2"
+  },
+{
+    "titre": "Prapositione-einsetzen",
+    "id": "exercise-1",
+    "slug": "Prapositione-einsetzen",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Prapositione-einsetzen"
+  },
+  {
+    "titre": "Prapositionen-einsetzen-2",
+    "id": "exercise-2",
+    "slug": "Prapositionen-einsetzen-2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Prapositionen-einsetzen-2"
+  },
+  {
+    "titre": "Konjunktioonen-einsetzen",
+    "id": "exercise-3",
+    "slug": "Konjunktioonen-einsetzen",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Konjunktioonen-einsetzen"
+  },
+  {
+    "titre": "Konjunktionen-einsetzen2",
+    "id": "exercise-4",
+    "slug": "Konjunktionen-einsetzen2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Konjunktionen-einsetzen2"
+  },
+  {
+    "titre": "Pronomeeinsetzen",
+    "id": "exercise-5",
+    "slug": "Pronomeeinsetzen",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Pronomeeinsetzen"
+  },
+  {
+    "titre": "Konjunktioneneinsetzen2",
+    "id": "exercise-6",
+    "slug": "Konjunktioneneinsetzen2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Konjunktioneneinsetzen2"
+  },
+  {
+    "titre": "Richtige-Worter",
+    "id": "exercise-7",
+    "slug": "Richtige-Worter",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Richtige-Worter"
+  },
+  {
+    "titre": "Richtige-Worter2",
+    "id": "exercise-8",
+    "slug": "Richtige-Worter2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Richtige-Worter2"
+  },
+  {
+    "titre": "Richtige-Worter3",
+    "id": "exercise-9",
+    "slug": "Richtige-Worter3",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Richtige-Worter3"
+  },
+  {
+    "titre": "Synonym2",
+    "id": "exercise-10",
+    "slug": "Synonym2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Synonym2"
+  },
+  {
+    "titre": "Antonyme",
+    "id": "exercise-11",
+    "slug": "Antonyme",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Antonyme"
+  },
+  {
+    "titre": "Adverbe",
+    "id": "exercise-12",
+    "slug": "Adverbe",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Adverbe"
+  },
+  {
+    "titre": "Namen-Abgeleitete-Namen",
+    "id": "exercise-13",
+    "slug": "Namen-Abgeleitete-Namen",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Namen-Abgeleitete-Namen"
+  },
+  {
+    "titre": "Synonyme2",
+    "id": "exercise-14",
+    "slug": "Synonyme2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Synonyme2"
+  },
+  {
+    "titre": "Synonyme3",
+    "id": "exercise-15",
+    "slug": "Synonyme3",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Synonyme3"
+  },
+  {
+    "titre": "Antonyme2",
+    "id": "exercise-16",
+    "slug": "Antonyme2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Antonyme2"
+  },
+  {
+    "titre": "Antonyme3",
+    "id": "exercise-17",
+    "slug": "Antonyme3",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Antonyme3"
+  },
+  {
+    "titre": "Adjectifs-1",
+    "id": "exercise-18",
+    "slug": "Adjectifs-1",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Adjectifs-1"
+  },
+  {
+    "titre": "Adjectifs2",
+    "id": "exercise-19",
+    "slug": "Adjectifs2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Adjectifs2"
+  },
+  {
+    "titre": "Adverbes1",
+    "id": "exercise-20",
+    "slug": "Adverbes1",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Adverbes1"
+  },
+  {
+    "titre": "Adverbes2",
+    "id": "exercise-21",
+    "slug": "Adverbes2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Adverbes2"
+  },
+  {
+    "titre": "Verben1",
+    "id": "exercise-22",
+    "slug": "Verben1",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Verben1"
+  },
+  {
+    "titre": "Verben2",
+    "id": "exercise-23",
+    "slug": "Verben2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Verben2"
+  },
+  {
+    "titre": "Prepositions1",
+    "id": "exercise-24",
+    "slug": "Prepositions1",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Prepositions1"
+  },
+  {
+    "titre": "Prepositions2",
+    "id": "exercise-25",
+    "slug": "Prepositions2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Prepositions2"
+  },
+  {
+    "titre": "Konjunktionen1",
+    "id": "exercise-26",
+    "slug": "Konjunktionen1",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Konjunktionen1"
+  },
+  {
+    "titre": "Konjunktionen2",
+    "id": "exercise-27",
+    "slug": "Konjunktionen2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Konjunktionen2"
+  },
+  {
+    "titre": "Pronomen1",
+    "id": "exercise-28",
+    "slug": "Pronomen1",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Pronomen1"
+  },
+  {
+    "titre": "Pronomen2",
+    "id": "exercise-29",
+    "slug": "Pronomen2",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Pronomen2"
+  },
+  {
+    "titre": "Namen-Abeleitete-Namen",
+    "id": "exercise-30",
+    "slug": "Namen-Abeleitete-Namen",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Namen-Abeleitete-Namen"
+  },
+  {
+    "titre": "Namen-Abgeleitete-amen",
+    "id": "exercise-31",
+    "slug": "Namen-Abgeleitete-amen",
+    "url": "https://secretlengua.com/German-avanced-vocabulary/Namen-Abgeleitete-amen"
   }
 ]
