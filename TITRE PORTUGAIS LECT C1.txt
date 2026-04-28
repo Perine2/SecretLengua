@@ -58,5 +58,89 @@
     "id": "Jantar-no-Restaurante",
     "slug": "Jantar-no-Restaurante",
     "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Jantar-no-Restaurante"
+  },
+{
+    "titre": "Experiência de sonambulismo",
+    "id": "Experiencia-de-sonambulismo",
+    "slug": "Experiencia-de-sonambulismo",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Experiencia-sonambulismo"
+  },
+  {
+    "titre": "Visão geral dos esportes",
+    "id": "Visao-geral-dos-esportes",
+    "slug": "Visao-geral-dos-esportes",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Visao-geraldos-esportes"
+  },
+  {
+    "titre": "Le Voyage des Pionniers",
+    "id": "Le-Voyage-des-Pionniers",
+    "slug": "Le-Voyage-des-Pionniers",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Le-Voyagedes-Pionniers"
+  },
+  {
+    "titre": "A Saga de Sobrevivência nos Andes",
+    "id": "A-Saga-de-Sobrevivencia-nos-Andes",
+    "slug": "A-Saga-de-Sobrevivencia-nos-Andes",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/A-Saga-de-nos-Andes"
+  },
+  {
+    "titre": "Viagem",
+    "id": "Viagem",
+    "slug": "Viagem",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Viagem"
+  },
+  {
+    "titre": "Variedades de Molho Barbecue",
+    "id": "Variedades-de-Molho-Barbecue",
+    "slug": "Variedades-de-Molho-Barbecue",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Variedades-Molho-Barbecue"
+  },
+  {
+    "titre": "Tempo",
+    "id": "Tempo",
+    "slug": "Tempo",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Tempo"
+  },
+  {
+    "titre": "Clima",
+    "id": "Clima",
+    "slug": "Clima",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/Clima"
+  },
+  {
+    "titre": "O solo",
+    "id": "O-solo",
+    "slug": "O-solo",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/O-solo"
+  },
+  {
+    "titre": "A fauna",
+    "id": "A-fauna",
+    "slug": "A-fauna",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/A-fauna"
+  },
+  {
+    "titre": "A flora",
+    "id": "A-flora",
+    "slug": "A-flora",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/A-flora"
+  },
+  {
+    "titre": "A atmosfera",
+    "id": "A-atmosfera",
+    "slug": "A-atmosfera",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/A-atmosfera"
+  },
+  {
+    "titre": "O universo",
+    "id": "O-universo",
+    "slug": "O-universo",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/O-universo"
+  },
+  {
+    "titre": "O Balanço Cósmico",
+    "id": "O-Balanco-Cosmico",
+    "slug": "O-Balanco-Cosmico",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/O-Balanco-Cosmico"
   }
 ]
