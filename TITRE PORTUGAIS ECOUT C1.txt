@@ -64,5 +64,89 @@
     "id": "GNIGJTWQUCF-ZMH",
     "slug": "GNIGJTWQUCF-ZMH",
     "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/GNIGJTWQUCF-ZMH"
+  },
+{
+    "titre": "Exercício 12",
+    "id": "CF-BKWP-TFBYAHO",
+    "slug": "CF-BKWP-TFBYAHO",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/CF-BKWP-TFBYAHO"
+  },
+  {
+    "titre": "Exercício 13",
+    "id": "ILWPQPYTFBF-ZLI",
+    "slug": "ILWPQPYTFBF-ZLI",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/ILWPQPYTFBF-ZLI"
+  },
+  {
+    "titre": "Exercício 14",
+    "id": "QOLIVVVPFBTIHGH",
+    "slug": "QOLIVVVPFBTIHGH",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/QOLIVVVPFBTIHGH"
+  },
+  {
+    "titre": "Exercício 15",
+    "id": "DSNUKOKIEZWIBSC",
+    "slug": "DSNUKOKIEZWIBSC",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/DSNUKOKIEZWIBSC"
+  },
+  {
+    "titre": "Exercício 16",
+    "id": "MXXUAIKLSDYUXVC",
+    "slug": "MXXUAIKLSDYUXVC",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/MXXUAIKLSDYUXVC"
+  },
+  {
+    "titre": "Exercício 17",
+    "id": "GCALUPDBDBVTJDM",
+    "slug": "GCALUPDBDBVTJDM",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/GCALUPDBDBVTJDM"
+  },
+  {
+    "titre": "Exercício 18",
+    "id": "IKWBOWKKQJXLLF",
+    "slug": "IKWBOWKKQJXLLF",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/IKWBOWKKQJXLLF"
+  },
+  {
+    "titre": "Exercício 19",
+    "id": "TVKAKDPXTMYELXF",
+    "slug": "TVKAKDPXTMYELXF",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/TVKAKDPXTMYELXF"
+  },
+  {
+    "titre": "Exercício 20",
+    "id": "SYYHSNYAPBU-HJI",
+    "slug": "SYYHSNYAPBU-HJI",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/SYYHSNYAPBU-HJI"
+  },
+  {
+    "titre": "Exercício 21",
+    "id": "WIFLKHBMVXEJURM",
+    "slug": "WIFLKHBMVXEJURM",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/WIFLKHBMVXEJURM"
+  },
+  {
+    "titre": "Exercício 22",
+    "id": "JIYZUQJPNNAVXPP",
+    "slug": "JIYZUQJPNNAVXPP",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/JIYZUQJPNNAVXPP"
+  },
+  {
+    "titre": "Exercício 23",
+    "id": "NSQHGVNIHLUCWLY",
+    "slug": "NSQHGVNIHLUCWLY",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/NSQHGVNIHLUCWLY"
+  },
+  {
+    "titre": "Exercício 24",
+    "id": "HNIUYXKGURVFUGG",
+    "slug": "HNIUYXKGURVFUGG",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/HNIUYXKGURVFUGG"
+  },
+  {
+    "titre": "Exercício 25",
+    "id": "AFSQDJGSXR-RPLN",
+    "slug": "AFSQDJGSXR-RPLN",
+    "url": "https://secretlengua.com/PORTUGAIS-Reading-C1/AFSQDJGSXR-RPLN"
   }
 ]
