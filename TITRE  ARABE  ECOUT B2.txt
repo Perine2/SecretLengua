@@ -1,188 +1,176 @@
 [
-{
-  "titre": "English Exercise 1",
-  "id": "exercise-1",
-  "slug": "exercise-1",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-1"
-},
-{
-  "titre": "English Exercise 2",
-  "id": "exercise-2",
-  "slug": "exercise-2",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/Vocab-2"
-},
-{
-  "titre": "English Exercise 3",
-  "id": "exercise-3",
-  "slug": "exercise-3",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-3"
-},
-{
-  "titre": "English Exercise 4",
-  "id": "exercise-4",
-  "slug": "exercise-4",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/Vocab-4"
-},
-{
-  "titre": "English Exercise 5",
-  "id": "exercise-5",
-  "slug": "exercise-5",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-5"
-},
-{
-  "titre": "English Exercise 6",
-  "id": "exercise-6",
-  "slug": "exercise-6",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-6"
-},
-{
-  "titre": "English Exercise 7",
-  "id": "exercise-7",
-  "slug": "exercise-7",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-7"
-},
-{
-  "titre": "English Exercise 8",
-  "id": "exercise-8",
-  "slug": "exercise-8",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-8"
-},
-{
-  "titre": "English Exercise 9",
-  "id": "exercise-9",
-  "slug": "exercise-9",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-9"
-},
-{
-  "titre": "English Exercise 10",
-  "id": "exercise-10",
-  "slug": "exercise-10",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-10"
-},
-{
-  "titre": "English Exercise 11",
-  "id": "exercise-11",
-  "slug": "exercise-11",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-11"
-},
-{
-  "titre": "English Exercise 12",
-  "id": "exercise-12",
-  "slug": "exercise-12",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-12"
-},
-{
-  "titre": "English Exercise 13",
-  "id": "exercise-13",
-  "slug": "exercise-13",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-13"
-},
-{
-  "titre": "English Exercise 14",
-  "id": "exercise-14",
-  "slug": "exercise-14",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-14"
-},
-{
-  "titre": "English Exercise 15",
-  "id": "exercise-15",
-  "slug": "exercise-15",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-15"
-},
-{
-  "titre": "English Exercise 16",
-  "id": "exercise-16",
-  "slug": "exercise-16",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-16"
-},
-{
-  "titre": "English Exercise 17",
-  "id": "exercise-17",
-  "slug": "exercise-17",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-17"
-},
-{
-  "titre": "English Exercise 18",
-  "id": "exercise-18",
-  "slug": "exercise-18",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-18"
-},
-{
-  "titre": "English Exercise 19",
-  "id": "exercise-19",
-  "slug": "exercise-19",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-19"
-},
-{
-  "titre": "English Exercise 20",
-  "id": "exercise-20",
-  "slug": "exercise-20",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-20"
-},
-{
-  "titre": "English Exercise 21",
-  "id": "exercise-21",
-  "slug": "exercise-21",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-21"
-},
- {
-    "titre": "English Exercise 22",
-    "id": "exercise-22",
-    "slug": "exercise-22",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-22"
+  {
+    "titre": "تمرين 1",
+    "id": "IOVDAOJFLFZCZGU",
+    "slug": "IOVDAOJFLFZCZGU",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/IOVDAOJFLFZCZGU"
   },
   {
-    "titre": "English Exercise 23",
-    "id": "exercise-23",
-    "slug": "exercise-23",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-23"
+    "titre": "تمرين 2",
+    "id": "KWWXEEHJWTXRKAE",
+    "slug": "KWWXEEHJWTXRKAE",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/KWWXEEHJWTXRKAE"
   },
   {
-    "titre": "English Exercise 24",
-    "id": "exercise-24",
-    "slug": "exercise-24",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-24"
+    "titre": "تمرين 3",
+    "id": "QJHLKSC-BJKAONE",
+    "slug": "QJHLKSC-BJKAONE",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/QJHLKSC-BJKAONE"
   },
   {
-    "titre": "English Exercise 25",
-    "id": "exercise-25",
-    "slug": "exercise-25",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-25"
+    "titre": "تمرين 4",
+    "id": "WWPMISKGIYKRBLI",
+    "slug": "WWPMISKGIYKRBLI",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/WWPMISKGIYKRBLI"
   },
   {
-    "titre": "English Exercise 26",
-    "id": "exercise-26",
-    "slug": "exercise-26",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-26"
+    "titre": "تمرين 5",
+    "id": "ZLWCDTQDLVVLOFW",
+    "slug": "ZLWCDTQDLVVLOFW",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/ZLWCDTQDLVVLOFW"
   },
   {
-    "titre": "English Exercise 27",
-    "id": "exercise-27",
-    "slug": "exercise-27",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-27"
+    "titre": "تمرين 6",
+    "id": "EBLJSVREETAXMYO",
+    "slug": "EBLJSVREETAXMYO",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/EBLJSVREETAXMYO"
   },
   {
-    "titre": "English Exercise 28",
-    "id": "exercise-28",
-    "slug": "exercise-28",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-28"
+    "titre": "تمرين 7",
+    "id": "OAOTKXXZAHIQOPK",
+    "slug": "OAOTKXXZAHIQOPK",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/OAOTKXXZAHIQOPK"
   },
   {
-    "titre": "English Exercise 29",
-    "id": "exercise-29",
-    "slug": "exercise-29",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-29"
+    "titre": "تمرين 8",
+    "id": "MGXGLKKIEJDMDNM",
+    "slug": "MGXGLKKIEJDMDNM",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/MGXGLKKIEJDMDNM"
   },
   {
-    "titre": "English Exercise 30",
-    "id": "exercise-30",
-    "slug": "exercise-30",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-30"
+    "titre": "تمرين 9",
+    "id": "BFNETGDPGITGQXZ",
+    "slug": "BFNETGDPGITGQXZ",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/BFNETGDPGITGQXZ"
   },
   {
-    "titre": "English Exercise 31",
-    "id": "exercise-31",
-    "slug": "exercise-31",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab31"
+    "titre": "تمرين 10",
+    "id": "texte",
+    "slug": "texte",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/texte"
+  },
+  {
+    "titre": "تمرين 11",
+    "id": "MGUMBWYKQGOUDAI",
+    "slug": "MGUMBWYKQGOUDAI",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/MGUMBWYKQGOUDAI"
+  },
+  {
+    "titre": "تمرين 12",
+    "id": "ZGRBVARBONDHNQA",
+    "slug": "ZGRBVARBONDHNQA",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/ZGRBVARBONDHNQA"
+  },
+  {
+    "titre": "تمرين 13",
+    "id": "GYSHLLIOWTHZJAE",
+    "slug": "GYSHLLIOWTHZJAE",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/GYSHLLIOWTHZJAE"
+  },
+  {
+    "titre": "تمرين 14",
+    "id": "PLTSZCSZYGFHTCL",
+    "slug": "PLTSZCSZYGFHTCL",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/PLTSZCSZYGFHTCL"
+  },
+  {
+    "titre": "تمرين 15",
+    "id": "HVOPCZEFMOOITN",
+    "slug": "HVOPCZEFMOOITN",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/HVOPCZEFMOOITN"
+  },
+  {
+    "titre": "تمرين 16",
+    "id": "CNBEWHFGOKXSAIN",
+    "slug": "CNBEWHFGOKXSAIN",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/CNBEWHFGOKXSAIN"
+  },
+  {
+    "titre": "تمرين 17",
+    "id": "GNZQHNUYIQCDBM",
+    "slug": "GNZQHNUYIQCDBM",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/GNZQHNUYIQCDBM"
+  },
+  {
+    "titre": "تمرين 18",
+    "id": "MPBRH-WKR-QAYQV",
+    "slug": "MPBRH-WKR-QAYQV",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/MPBRH-WKR-QAYQV"
+  },
+  {
+    "titre": "تمرين 19",
+    "id": "NXMOZGDKFJHB-IC",
+    "slug": "NXMOZGDKFJHB-IC",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/NXMOZGDKFJHB-IC"
+  },
+  {
+    "titre": "تمرين 20",
+    "id": "QW-RSBILKSXFDC",
+    "slug": "QW-RSBILKSXFDC",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/QW-RSBILKSXFDC"
+  },
+  {
+    "titre": "تمرين 21",
+    "id": "IKPVPWQNGFINVEL",
+    "slug": "IKPVPWQNGFINVEL",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/IKPVPWQNGFINVEL"
+  },
+  {
+    "titre": "تمرين 22",
+    "id": "JPCWASVAJWKPKRA",
+    "slug": "JPCWASVAJWKPKRA",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/JPCWASVAJWKPKRA"
+  },
+  {
+    "titre": "تمرين 23",
+    "id": "YIWKBEBBUBOWRGN",
+    "slug": "YIWKBEBBUBOWRGN",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/YIWKBEBBUBOWRGN"
+  },
+  {
+    "titre": "تمرين 24",
+    "id": "ITBDMHFZASEKXVZ",
+    "slug": "ITBDMHFZASEKXVZ",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/ITBDMHFZASEKXVZ"
+  },
+  {
+    "titre": "تمرين 25",
+    "id": "DRWOIVCQZXIVHIM",
+    "slug": "DRWOIVCQZXIVHIM",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/DRWOIVCQZXIVHIM"
+  },
+  {
+    "titre": "تمرين 26",
+    "id": "YMGZSRNURLPO-RX",
+    "slug": "YMGZSRNURLPO-RX",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/YMGZSRNURLPO-RX"
+  },
+  {
+    "titre": "تمرين 27",
+    "id": "SNNQIBKOOAWCAZA",
+    "slug": "SNNQIBKOOAWCAZA",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/SNNQIBKOOAWCAZA"
+  },
+  {
+    "titre": "تمرين 28",
+    "id": "CRCYUFWGTCKDHBU",
+    "slug": "CRCYUFWGTCKDHBU",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/CRCYUFWGTCKDHBU"
+  },
+  {
+    "titre": "تمرين 29",
+    "id": "QPEZEWVZMIJKCWF",
+    "slug": "QPEZEWVZMIJKCWF",
+    "url": "https://secretlengua.com/ARABIC-Reading-B2/QPEZEWVZMIJKCWF"
   }
 ]
