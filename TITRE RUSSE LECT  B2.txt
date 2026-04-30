@@ -1,188 +1,176 @@
 [
-{
-  "titre": "English Exercise 1",
-  "id": "exercise-1",
-  "slug": "exercise-1",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-1"
-},
-{
-  "titre": "English Exercise 2",
-  "id": "exercise-2",
-  "slug": "exercise-2",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/Vocab-2"
-},
-{
-  "titre": "English Exercise 3",
-  "id": "exercise-3",
-  "slug": "exercise-3",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-3"
-},
-{
-  "titre": "English Exercise 4",
-  "id": "exercise-4",
-  "slug": "exercise-4",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/Vocab-4"
-},
-{
-  "titre": "English Exercise 5",
-  "id": "exercise-5",
-  "slug": "exercise-5",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-5"
-},
-{
-  "titre": "English Exercise 6",
-  "id": "exercise-6",
-  "slug": "exercise-6",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-6"
-},
-{
-  "titre": "English Exercise 7",
-  "id": "exercise-7",
-  "slug": "exercise-7",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-7"
-},
-{
-  "titre": "English Exercise 8",
-  "id": "exercise-8",
-  "slug": "exercise-8",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-8"
-},
-{
-  "titre": "English Exercise 9",
-  "id": "exercise-9",
-  "slug": "exercise-9",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-9"
-},
-{
-  "titre": "English Exercise 10",
-  "id": "exercise-10",
-  "slug": "exercise-10",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-10"
-},
-{
-  "titre": "English Exercise 11",
-  "id": "exercise-11",
-  "slug": "exercise-11",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-11"
-},
-{
-  "titre": "English Exercise 12",
-  "id": "exercise-12",
-  "slug": "exercise-12",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-12"
-},
-{
-  "titre": "English Exercise 13",
-  "id": "exercise-13",
-  "slug": "exercise-13",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-13"
-},
-{
-  "titre": "English Exercise 14",
-  "id": "exercise-14",
-  "slug": "exercise-14",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-14"
-},
-{
-  "titre": "English Exercise 15",
-  "id": "exercise-15",
-  "slug": "exercise-15",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-15"
-},
-{
-  "titre": "English Exercise 16",
-  "id": "exercise-16",
-  "slug": "exercise-16",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-16"
-},
-{
-  "titre": "English Exercise 17",
-  "id": "exercise-17",
-  "slug": "exercise-17",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-17"
-},
-{
-  "titre": "English Exercise 18",
-  "id": "exercise-18",
-  "slug": "exercise-18",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-18"
-},
-{
-  "titre": "English Exercise 19",
-  "id": "exercise-19",
-  "slug": "exercise-19",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-19"
-},
-{
-  "titre": "English Exercise 20",
-  "id": "exercise-20",
-  "slug": "exercise-20",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-20"
-},
-{
-  "titre": "English Exercise 21",
-  "id": "exercise-21",
-  "slug": "exercise-21",
-  "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-21"
-},
- {
-    "titre": "English Exercise 22",
-    "id": "exercise-22",
-    "slug": "exercise-22",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-22"
+  {
+    "titre": "Я приобрел экспертизу",
+    "id": "ya-priobrel-ekspertizu",
+    "slug": "Ya-priobrel-ekspertizu",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Ya-priobrel-ekspertizu"
   },
   {
-    "titre": "English Exercise 23",
-    "id": "exercise-23",
-    "slug": "exercise-23",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-23"
+    "titre": "Празднование Дня Благодарения",
+    "id": "prazdnovanie-dnya-blagodareniya",
+    "slug": "Prazdnovanie-Dnya-Blagodareniya",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Prazdnovanie-Dnya-Blagodareniya"
   },
   {
-    "titre": "English Exercise 24",
-    "id": "exercise-24",
-    "slug": "exercise-24",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-24"
+    "titre": "Франкофония в мире",
+    "id": "franko-foniya-v-mire",
+    "slug": "Frankofoniya-v-mire",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Frankofoniya-v-mire"
   },
   {
-    "titre": "English Exercise 25",
-    "id": "exercise-25",
-    "slug": "exercise-25",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-25"
+    "titre": "Красная коса",
+    "id": "krasnaya-kosa",
+    "slug": "Krasnaya-kosa",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Krasnaya-kosa"
   },
   {
-    "titre": "English Exercise 26",
-    "id": "exercise-26",
-    "slug": "exercise-26",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-26"
+    "titre": "Жизнь скульптора",
+    "id": "zhizn-skulptora",
+    "slug": "Zhizn-skulptora",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Zhizn-skulptora"
   },
   {
-    "titre": "English Exercise 27",
-    "id": "exercise-27",
-    "slug": "exercise-27",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab-27"
+    "titre": "Жизнь ботаника",
+    "id": "zhizn-botanika",
+    "slug": "Zhizn-botanika",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Zhizn-botanika"
   },
   {
-    "titre": "English Exercise 28",
-    "id": "exercise-28",
-    "slug": "exercise-28",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-28"
+    "titre": "Основное образование: какова ситуация?",
+    "id": "osnovnoe-obrazovanie-kakova-situaciya",
+    "slug": "Osnovnoe-obrazovaniekakova-situaciya",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Osnovnoe-obrazovaniekakova-situaciya"
   },
   {
-    "titre": "English Exercise 29",
-    "id": "exercise-29",
-    "slug": "exercise-29",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-29"
+    "titre": "Жизнь чайной торговки",
+    "id": "zhizn-chajnoj-torgovki",
+    "slug": "Zhizn-chajnoj-torgovki",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Zhizn-chajnoj-torgovki"
   },
   {
-    "titre": "English Exercise 30",
-    "id": "exercise-30",
-    "slug": "exercise-30",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/VOCAB-30"
+    "titre": "Частный детектив",
+    "id": "chastnyj-detektiv",
+    "slug": "Chastnyj-detektiv",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Chastnyj-detektiv"
   },
   {
-    "titre": "English Exercise 31",
-    "id": "exercise-31",
-    "slug": "exercise-31",
-    "url": "https://secretlengua.com/English-advanced-vocabulary/vocab31"
+    "titre": "Профессия диетолога",
+    "id": "professiya-dietologa",
+    "slug": "Mechtanavigatora",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Mechtanavigatora"
+  },
+  {
+    "titre": "Мечта навигатора",
+    "id": "mechta-navigatora",
+    "slug": "Mechta-navigatora",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Mechta-navigatora"
+  },
+  {
+    "titre": "Страсть к спорту",
+    "id": "strast-k-sportu",
+    "slug": "Strast-k-sportu",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Strast-k-sportu"
+  },
+  {
+    "titre": "Галапагосские острова",
+    "id": "galapagosskie-ostrova",
+    "slug": "Galapagosskie-ostrova",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Galapagosskie-ostrova"
+  },
+  {
+    "titre": "Пазлы",
+    "id": "pazly",
+    "slug": "Pazly",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Pazly"
+  },
+  {
+    "titre": "Климатические переселенцы",
+    "id": "klimaticheskie-pereselency",
+    "slug": "Klimaticheskie-pereselency",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Klimaticheskie-pereselency"
+  },
+  {
+    "titre": "Ассоциация 'Новый старт'",
+    "id": "associaciya-novyj-star",
+    "slug": "Associaciya-Novyj-star",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Associaciya-Novyj-star"
+  },
+  {
+    "titre": "Предпочтение лидерству перед успехом",
+    "id": "predpochtenie-liderstvu-pered-uspehom",
+    "slug": "Predpochtenie-liderstvu-pered-uspehom",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Predpochtenie-liderstvu-pered-uspehom"
+  },
+  {
+    "titre": "Проблема техническая",
+    "id": "problema-tehnicheskaya",
+    "slug": "Problema-tehnicheskaya",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Problema-tehnicheskaya"
+  },
+  {
+    "titre": "Спасем нашу планету!",
+    "id": "spasem-nashu-planety",
+    "slug": "Spasem-nashu-planety",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Spasem-nashu-planety"
+  },
+  {
+    "titre": "Рецепт галетного теста",
+    "id": "recept-galetnogo-testa",
+    "slug": "Recept-galetnogo-testa",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Recept-galetnogo-testa"
+  },
+  {
+    "titre": "Знакомство с Лондоном",
+    "id": "znakomstvo-s-londonom",
+    "slug": "Znakomstvo-s-Londonom",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Znakomstvo-s-Londonom"
+  },
+  {
+    "titre": "Семья с разнообразными профессиями",
+    "id": "semya-s-raznoobraznymi-professiyami",
+    "slug": "Semya-s-raznoobraznymi-professiyami",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Semya-s-raznoobraznymi-professiyami"
+  },
+  {
+    "titre": "Климат и жители Стокгольма (Раян)",
+    "id": "klimat-i-zhiteli-stokgolma",
+    "slug": "Klimat-i-zhiteli-Stokgolma",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Klimat-i-zhiteli-Stokgolma"
+  },
+  {
+    "titre": "Телефонный разговор",
+    "id": "telefonnyj-razgovor",
+    "slug": "Telefonnyj-razgovor",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Telefonnyj-razgovor"
+  },
+  {
+    "titre": "Письмо моей лучшей подруге",
+    "id": "pismo-moej-luchshej-podruge",
+    "slug": "Pismo-moej-luchshej-podruge",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Pismo-moej-luchshej-podruge"
+  },
+  {
+    "titre": "Откройте для себя Лион",
+    "id": "otkrojte-dlya-sebya-lion",
+    "slug": "Otkrojte-dlya-sebya-Lion",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Otkrojte-dlya-sebya-Lion"
+  },
+  {
+    "titre": "Дом Бена",
+    "id": "dom-bena",
+    "slug": "Dom-Bena",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Dom-Bena"
+  },
+  {
+    "titre": "Марсель, город, который стоит открыть за один день",
+    "id": "marsel-gorod-kotoryj-stoit-otkryt-za-odin-den",
+    "slug": "Marsel-gorod-kotoryj-stoit-otkryt-za-odin-den",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Marsel-gorod-kotoryj-stoit-otkryt-za-odin-den"
+  },
+  {
+    "titre": "Какая погода?",
+    "id": "kakaya-pogod",
+    "slug": "Kakaya-pogod",
+    "url": "https://secretlengua.com/RUSSE-Reading-B2/Kakaya-pogod"
   }
 ]
