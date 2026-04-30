@@ -64,5 +64,59 @@
     "id": "opyt-somnabulizma",
     "slug": "Opyt-somnabulizma",
     "url": "https://secretlengua.com/RUSSE-Reading-C1/Opyt-somnabulizma"
+  },
+ {
+    "titre": "Обзор спорта",
+    "id": "obzor-sporta",
+    "slug": "Obzor-sporta",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Obzor-sporta"
+  },
+  {
+    "titre": "Путешествие Пионеров",
+    "id": "puteshestvie-pionerov",
+    "slug": "Puteshestvie-Pionerov",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Puteshestvie-Pionerov"
+  },
+  {
+    "titre": "Сага о выживании в Андах",
+    "id": "saga-o-vyzhivanii-v-andah",
+    "slug": "Saga-o-vyzhivanii-v-Andah",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Saga-o-vyzhivanii-v-Andah"
+  },
+  {
+    "titre": "Путешествие",
+    "id": "puteshestvie",
+    "slug": "Puteshestvie",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Puteshestvie"
+  },
+  {
+    "titre": "Разновидности барбекю-соуса",
+    "id": "raznovidnosti-barbekyu-sousa",
+    "slug": "Raznovidnosti-barbekyu-sousa",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Raznovidnosti-barbekyu-sousa"
+  },
+  {
+    "titre": "Погода",
+    "id": "pogoda",
+    "slug": "Pogoda",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Pogoda"
+  },
+  {
+    "titre": "Климат",
+    "id": "klimat",
+    "slug": "Klimat",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Klimat"
+  },
+  {
+    "titre": "Почва",
+    "id": "pochva",
+    "slug": "Pochva",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Pochva"
+  },
+  {
+    "titre": "Дикая природа",
+    "id": "dikaya-priroda",
+    "slug": "Dikaya-priroda",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/Dikaya-priroda"
   }
 ]
