@@ -64,5 +64,59 @@
     "id": "zmo-zdolexakeqv",
     "slug": "ZMO-ZDOLEXAKEQV",
     "url": "https://secretlengua.com/RUSSE-Reading-C1/ZMO-ZDOLEXAKEQV"
+  },
+  {
+    "titre": "Упражнение 12",
+    "id": "ajkoxhyhspbcdqv",
+    "slug": "AJKOXHYHSPBCDQV",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/AJKOXHYHSPBCDQV"
+  },
+  {
+    "titre": "Упражнение 13",
+    "id": "zonzdwqdz-uekji",
+    "slug": "ZONZDWQDZ-UEKJI",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/ZONZDWQDZ-UEKJI"
+  },
+  {
+    "titre": "Упражнение 14",
+    "id": "ocverzhnpebvueh",
+    "slug": "OCVERZHNPEBVUEH",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/OCVERZHNPEBVUEH"
+  },
+  {
+    "titre": "Упражнение 15",
+    "id": "wlrcuhtcgllgijo",
+    "slug": "WLRCUHTCGLLGIJO",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/WLRCUHTCGLLGIJO"
+  },
+  {
+    "titre": "Упражнение 16",
+    "id": "dqhksrnfymqsjgn",
+    "slug": "DQHKSRNFYMQSJGN",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/DQHKSRNFYMQSJGN"
+  },
+  {
+    "titre": "Упражнение 17",
+    "id": "ntlxslpfsavmchl",
+    "slug": "NTLXSLPFSAVMCHL",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/NTLXSLPFSAVMCHL"
+  },
+  {
+    "titre": "Упражнение 18",
+    "id": "zjfomwhhqnvuue",
+    "slug": "ZJFOMWHHQNHVUUE",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/ZJFOMWHHQNHVUUE"
+  },
+  {
+    "titre": "Упражнение 19",
+    "id": "zwhegzcnsioqfql",
+    "slug": "ZWHEGZCNLSIQFQL",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/ZWHEGZCNLSIQFQL"
+  },
+  {
+    "titre": "Упражнение 20",
+    "id": "tbyaiordtwugebd",
+    "slug": "TBYAIORDTWUGEBD",
+    "url": "https://secretlengua.com/RUSSE-Reading-C1/TBYAIORDTWUGEBD"
   }
 ]
