@@ -65,7 +65,7 @@
     "slug": "XIKPLXFJFE-FKIY",
     "url": "https://secretlengua.com/ARABIC-Reading-C1/XIKPLXFJFE-FKIY"
   },
- {
+  {
     "titre": "تمرين 12",
     "id": "MDNINZOOVHDBPWV",
     "slug": "MDNINZOOVHDBPWV",
@@ -136,5 +136,11 @@
     "id": "QJEZQYSDFCOAWRH",
     "slug": "QJEZQYSDFCOAWRH",
     "url": "https://secretlengua.com/ARABIC-Reading-C1/QJEZQYSDFCOAWRH"
+  },
+  {
+    "titre": "تمرين 24",
+    "id": "ARABIC-Reading-C1/EXERCISE24",
+    "slug": "EXERCISE24",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/EXERCISE24"
   }
 ]
