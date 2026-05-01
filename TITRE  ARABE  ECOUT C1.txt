@@ -139,8 +139,8 @@
   },
   {
     "titre": "تمرين 24",
-    "id": "ARABIC-Reading-C1/EXERCISE24",
-    "slug": "EXERCISE24",
-    "url": "https://secretlengua.com/ARABIC-Reading-C1/EXERCISE24"
+    "id": "MGYAMF-WXLDPOVZ",
+    "slug": "MGYAMF-WXLDPOVZ",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/MGYAMF-WXLDPOVZ"
   }
 ]
