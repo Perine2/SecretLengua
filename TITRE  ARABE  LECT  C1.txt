@@ -64,5 +64,83 @@
     "id": "texte-11",
     "slug": "texte-11",
     "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-11"
+  },
+{
+    "titre": "نظرة عامة على الرياضة",
+    "id": "texte-12",
+    "slug": "texte-12",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-12"
+  },
+  {
+    "titre": "رحلة الرواد",
+    "id": "texte-13",
+    "slug": "texte-13",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-13"
+  },
+  {
+    "titre": "ملحمة البقاء في جبال الأنديز",
+    "id": "texte-14",
+    "slug": "texte-14",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-14"
+  },
+  {
+    "titre": "الرحلة",
+    "id": "texte-15",
+    "slug": "texte-15",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-15"
+  },
+  {
+    "titre": "أنواع صلصة الشواء",
+    "id": "texte-16",
+    "slug": "texte-16",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-16"
+  },
+  {
+    "titre": "الطقس",
+    "id": "texte-17",
+    "slug": "texte-17",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-17"
+  },
+  {
+    "titre": "مناخ",
+    "id": "texte-18",
+    "slug": "texte-18",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-18"
+  },
+  {
+    "titre": "التربة",
+    "id": "texte-19",
+    "slug": "texte-19",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-19"
+  },
+  {
+    "titre": "الحياة البرية",
+    "id": "texte-20",
+    "slug": "texte-20",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-20"
+  },
+  {
+    "titre": "النباتات",
+    "id": "texte-21",
+    "slug": "texte-21",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-21"
+  },
+  {
+    "titre": "الغلاف الجوي",
+    "id": "texte-22",
+    "slug": "texte-22",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-22"
+  },
+  {
+    "titre": "الكون",
+    "id": "texte-23",
+    "slug": "texte-23",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-23"
+  },
+  {
+    "titre": "ورقة الميزانية الكونية",
+    "id": "texte-24",
+    "slug": "texte-24",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/texte-24"
   }
 ]
