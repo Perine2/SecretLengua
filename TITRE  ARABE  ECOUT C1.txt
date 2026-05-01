@@ -64,5 +64,77 @@
     "id": "XIKPLXFJFE-FKIY",
     "slug": "XIKPLXFJFE-FKIY",
     "url": "https://secretlengua.com/ARABIC-Reading-C1/XIKPLXFJFE-FKIY"
+  },
+ {
+    "titre": "تمرين 12",
+    "id": "MDNINZOOVHDBPWV",
+    "slug": "MDNINZOOVHDBPWV",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/MDNINZOOVHDBPWV"
+  },
+  {
+    "titre": "تمرين 13",
+    "id": "QJHSVRJTC-DWVYH",
+    "slug": "QJHSVRJTC-DWVYH",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/QJHSVRJTC-DWVYH"
+  },
+  {
+    "titre": "تمرين 14",
+    "id": "PIYHUSHTJKXELNY",
+    "slug": "PIYHUSHTJKXELNY",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/PIYHUSHTJKXELNY"
+  },
+  {
+    "titre": "تمرين 15",
+    "id": "UBNYMQCZBUUJNHM",
+    "slug": "UBNYMQCZBUUJNHM",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/UBNYMQCZBUUJNHM"
+  },
+  {
+    "titre": "تمرين 16",
+    "id": "XAAGKLEVCNYNZUE",
+    "slug": "XAAGKLEVCNYNZUE",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/XAAGKLEVCNYNZUE"
+  },
+  {
+    "titre": "تمرين 17",
+    "id": "CCCTBMAIWEERWYS",
+    "slug": "CCCTBMAIWEERWYS",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/CCCTBMAIWEERWYS"
+  },
+  {
+    "titre": "تمرين 18",
+    "id": "TKDNSQUJYROWMFE",
+    "slug": "TKDNSQUJYROWMFE",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/TKDNSQUJYROWMFE"
+  },
+  {
+    "titre": "تمرين 19",
+    "id": "MRQ-N-MKVOPFGQD",
+    "slug": "MRQ-N-MKVOPFGQD",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/MRQ-N-MKVOPFGQD"
+  },
+  {
+    "titre": "تمرين 20",
+    "id": "TBYMRDRPAG-EBJ",
+    "slug": "TBYMRDRPAG-EBJ",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/TBYMRDRPAG-EBJ"
+  },
+  {
+    "titre": "تمرين 21",
+    "id": "PBALGGMOXHHZLSM",
+    "slug": "PBALGGMOXHHZLSM",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/PBALGGMOXHHZLSM"
+  },
+  {
+    "titre": "تمرين 22",
+    "id": "UNTEASUSRRYE-GW",
+    "slug": "UNTEASUSRRYE-GW",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/UNTEASUSRRYE-GW"
+  },
+  {
+    "titre": "تمرين 23",
+    "id": "QJEZQYSDFCOAWRH",
+    "slug": "QJEZQYSDFCOAWRH",
+    "url": "https://secretlengua.com/ARABIC-Reading-C1/QJEZQYSDFCOAWRH"
   }
 ]
