@@ -2,8 +2,8 @@
 "vocabulary": 100,
   "dictation": 10,
   "grammar": 70,
-  "reading": 46,
-  "listening": 46,
+  "reading": 56,
+  "listening": 56,
   "business": 200,
   "advanced": 0,
 "Professionalvocabulary": 0
