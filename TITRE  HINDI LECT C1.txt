@@ -70,5 +70,41 @@
     "id": "texte-12",
     "slug": "texte-12",
     "url": "https://secretlengua.com/hindi-reading-c1/texte-12"
+  },
+ {
+    "titre": "ले वॉयेज दे पिओनियर्स",
+    "id": "texte-13",
+    "slug": "texte-13",
+    "url": "https://secretlengua.com/hindi-reading-c1/texte-13"
+  },
+  {
+    "titre": "एंडीज में जीवित रहने की सागा",
+    "id": "texte-14",
+    "slug": "texte-14",
+    "url": "https://secretlengua.com/hindi-reading-c1/texte-14"
+  },
+  {
+    "titre": "यात्रा",
+    "id": "texte-15",
+    "slug": "texte-15",
+    "url": "https://secretlengua.com/hindi-reading-c1/texte-15"
+  },
+  {
+    "titre": "सॉस बार्बेक्यू के प्रकार",
+    "id": "texte-16",
+    "slug": "texte-16",
+    "url": "https://secretlengua.com/hindi-reading-c1/texte-16"
+  },
+  {
+    "titre": "मौसम",
+    "id": "texte-17",
+    "slug": "texte-17",
+    "url": "https://secretlengua.com/hindi-reading-c1/texte-17"
+  },
+  {
+    "titre": "जलवायु",
+    "id": "texte-18",
+    "slug": "texte-18",
+    "url": "https://secretlengua.com/hindi-reading-c1/texte-18"
   }
 ]
