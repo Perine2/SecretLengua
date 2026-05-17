@@ -70,5 +70,35 @@
     "id": "UY-XMDABU-TTME",
     "slug": "UY-XMDABU-TTME",
     "url": "https://secretlengua.com/hindi-reading-c1/UY-XMDABU-TTME"
+  },
+{
+    "titre": "अभ्यास 13",
+    "id": "WBVJJQYN-XSWEJL",
+    "slug": "WBVJJQYN-XSWEJL",
+    "url": "https://secretlengua.com/hindi-reading-c1/WBVJJQYN-XSWEJL"
+  },
+  {
+    "titre": "अभ्यास 14",
+    "id": "TNIETDSGEJGRSNP",
+    "slug": "TNIETDSGEJGRSNP",
+    "url": "https://secretlengua.com/hindi-reading-c1/TNIETDSGEJGRSNP"
+  },
+  {
+    "titre": "अभ्यास 15",
+    "id": "ZQDIVJBYSLAZVBV",
+    "slug": "ZQDIVJBYSLAZVBV",
+    "url": "https://secretlengua.com/hindi-reading-c1/ZQDIVJBYSLAZVBV"
+  },
+  {
+    "titre": "अभ्यास 16",
+    "id": "TIVAGOIAIUZOWLE",
+    "slug": "TIVAGOIAIUZOWLE",
+    "url": "https://secretlengua.com/hindi-reading-c1/TIVAGOIAIUZOWLE"
+  },
+  {
+    "titre": "अभ्यास 17",
+    "id": "UPGFRRDVYRZKDXR",
+    "slug": "UPGFRRDVYRZKDXR",
+    "url": "https://secretlengua.com/hindi-reading-c1/UPGFRRDVYRZKDXR"
   }
 ]
