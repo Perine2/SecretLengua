@@ -1,8 +1,8 @@
 {
   "name": "SecretLengua",
   "short_name": "SecretLengua",
-  "start_url": "https://secretlengua.com/",
-  "scope": "https://secretlengua.com/",
+  "start_url": "https://secretlengua.online/",
+  "scope": "https://secretlengua.online/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#E49FD2",
