@@ -3,30 +3,30 @@
     "titre": "Reading",
     "id": "entry-test-a2-fr",
     "slug": "entry-test-A2-FR",
-    "url": "https://secretlengua1.com/secretlengua-Test/entry-test-A2-FR"
+    "url": "https://secretlengua.online/secretlengua-Test/entry-test-A2-FR"
   },
   {
     "titre": "Listening",
     "id": "listening-a2-fr",
     "slug": "Listening-A2-FR",
-    "url": "https://secretlengua1.com/secretlengua-Test/Listening-A2-FR"
+    "url": "https://secretlengua.online/secretlengua-Test/Listening-A2-FR"
   },
   {
     "titre": "Dictation",
     "id": "grammar-a2-fr",
     "slug": "Grammar-A2-FR",
-    "url": "https://secretlengua1.com/secretlengua-Test/Grammar-A2-FR"
+    "url": "https://secretlengua.online/secretlengua-Test/Grammar-A2-FR"
   },
   {
     "titre": "Grammar",
     "id": "dictation-a2-fr",
     "slug": "DIctation-A2-FR",
-    "url": "https://secretlengua1.com/secretlengua-Test/DIctation-A2-FR"
+    "url": "https://secretlengua.online/secretlengua-Test/DIctation-A2-FR"
   },
   {
     "titre": "Vocabulary",
     "id": "vocabulary-a2-fr",
     "slug": "VOCABULARY-A2-FR",
-    "url": "https://secretlengua1.com/secretlengua-Test/VOCABULARY-A2-FR"
+    "url": "https://secretlengua.online/secretlengua-Test/VOCABULARY-A2-FR"
   }
 ]
