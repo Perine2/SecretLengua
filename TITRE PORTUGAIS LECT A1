@@ -1,57 +1,56 @@
 [
   {
-  "titre": "As cores",
-  "id": "as-cores",
-  "slug": "As-cores",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/As-cores"
-},
-{
-  "titre": "Um dia no campo",
-  "id": "um-dia-no-campo",
-  "slug": "Um-dia-no-campo",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Um-dia-no-campo"
-},
-{
-  "titre": "No supermercado",
-  "id": "no-supermercado",
-  "slug": "No-supermercado",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/No-supermercado"
-},
-{
-  "titre": "Uma surpresa para o aniversário de casamento",
-  "id": "uma-surpresa-para-o-aniversario-de-casamento",
-  "slug": "Uma-surpresa-para-o-aniversario",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Uma-surpresa-para-o-aniversario"
-},
-{
-  "titre": "Dilema diante da programação de TV",
-  "id": "dilema-diante-da-programacao-de-tv",
-  "slug": "Dilema-diante-da-programacao",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Dilema-diante-da-programacao"
-},
-{
-  "titre": "Encontro gourmet entre amigos",
-  "id": "encontro-gourmet-entre-amigos",
-  "slug": "Encontro-gourmet-entre-amigos",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Encontro-gourmet-entre-amigos"
-},
-{
-  "titre": "Troca de cartas entre primos",
-  "id": "troca-de-cartas-entre-primos",
-  "slug": "Troca-de-cartas-entre-primos",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Troca-de-cartas-entre-primos"
-},
-{
-  "titre": "Planejamento de um dia em família",
-  "id": "planejamento-de-um-dia-em-familia",
-  "slug": "Planejamento-de-um-dia-em-familia",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Planejamento-de-um-dia-em-familia"
-},
-{
-  "titre": "Preparativos para uma festa entre amigos",
-  "id": "preparativos-para-uma-festa-entre-amigos",
-  "slug": "Preparativos-para-uma-festa",
-  "url": "https://secretlengua1.com/portuguese-Reading-A1/Preparativos-para-uma-festa"
-}
-      ]
-    
+    "titre": "As cores",
+    "id": "as-cores",
+    "slug": "As-cores",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/As-cores"
+  },
+  {
+    "titre": "Um dia no campo",
+    "id": "um-dia-no-campo",
+    "slug": "Um-dia-no-campo",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Um-dia-no-campo"
+  },
+  {
+    "titre": "No supermercado",
+    "id": "no-supermercado",
+    "slug": "No-supermercado",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/No-supermercado"
+  },
+  {
+    "titre": "Uma surpresa para o aniversário de casamento",
+    "id": "uma-surpresa-para-o-aniversario-de-casamento",
+    "slug": "Uma-surpresa-para-o-aniversario",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Uma-surpresa-para-o-aniversario"
+  },
+  {
+    "titre": "Dilema diante da programação de TV",
+    "id": "dilema-diante-da-programacao-de-tv",
+    "slug": "Dilema-diante-da-programacao",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Dilema-diante-da-programacao"
+  },
+  {
+    "titre": "Encontro gourmet entre amigos",
+    "id": "encontro-gourmet-entre-amigos",
+    "slug": "Encontro-gourmet-entre-amigos",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Encontro-gourmet-entre-amigos"
+  },
+  {
+    "titre": "Troca de cartas entre primos",
+    "id": "troca-de-cartas-entre-primos",
+    "slug": "Troca-de-cartas-entre-primos",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Troca-de-cartas-entre-primos"
+  },
+  {
+    "titre": "Planejamento de um dia em família",
+    "id": "planejamento-de-um-dia-em-familia",
+    "slug": "Planejamento-de-um-dia-em-familia",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Planejamento-de-um-dia-em-familia"
+  },
+  {
+    "titre": "Preparativos para uma festa entre amigos",
+    "id": "preparativos-para-uma-festa-entre-amigos",
+    "slug": "Preparativos-para-uma-festa",
+    "url": "https://secretlengua.online/portuguese-Reading-A1/Preparativos-para-uma-festa"
+  }
+]
