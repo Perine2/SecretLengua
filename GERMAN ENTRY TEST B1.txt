@@ -3,30 +3,30 @@
     "titre": "Lesen",
     "id": "secretlengua-Test/Reading-B1-German",
     "slug": "reading-b1-german",
-    "url": "https://secretlengua1.com/secretlengua-Test/Reading-B1-German"
+    "url": "https://secretlengua.online/secretlengua-Test/Reading-B1-German"
   },
   {
     "titre": "Hören",
     "id": "secretlengua-Test/Listening-B1-German",
     "slug": "listening-b1-german",
-    "url": "https://secretlengua1.com/secretlengua-Test/Listening-B1-German"
+    "url": "https://secretlengua.online/secretlengua-Test/Listening-B1-German"
   },
   {
     "titre": "Diktat",
     "id": "secretlengua-Test/dictation-B1-German",
     "slug": "dictation-b1-german",
-    "url": "https://secretlengua1.com/secretlengua-Test/dictation-B1-German"
+    "url": "https://secretlengua.online/secretlengua-Test/dictation-B1-German"
   },
   {
     "titre": "Grammatik",
     "id": "secretlengua-Test/Grammar-B1-German",
     "slug": "grammar-b1-german",
-    "url": "https://secretlengua1.com/secretlengua-Test/Grammar-B1-German"
+    "url": "https://secretlengua.online/secretlengua-Test/Grammar-B1-German"
   },
   {
     "titre": "Wortschatz",
     "id": "secretlengua-Test/Vocabulary-B1-german",
     "slug": "vocabulary-b1-german",
-    "url": "https://secretlengua1.com/secretlengua-Test/Vocabulary-B1-german"
+    "url": "https://secretlengua.online/secretlengua-Test/Vocabulary-B1-german"
   }
 ]
