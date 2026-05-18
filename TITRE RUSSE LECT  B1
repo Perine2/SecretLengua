@@ -1,101 +1,36 @@
 [
-  { "titre": "Телефонный разговор", "id": "Telefonnyj-razgovor", "slug": "Telefonnyj-razgovor", "url": "https://secretlengua1.com/reading-exercice/Telefonnyj-razgovor" },
-{ "titre": "Письмо моему лучшему другу", "id": "Pismo-moemu-luchshemu-drugu", "slug": "Pismo-moemu-luchshemu-drugu", "url": "https://secretlengua1.com/reading-exercice/Pismo-moemu-luchshemu-drugu" },
-{ "titre": "Открывая для себя Берлин", "id": "Otkryvaya-dlya-sebya-Berlin", "slug": "Otkryvaya-dlya-sebya-Berlin", "url": "https://secretlengua1.com/reading-exercice/Otkryvaya-dlya-sebya-Berlin" },
-{ "titre": "Дом Софии", "id": "Dom-Sofii", "slug": "Dom-Sofii", "url": "https://secretlengua1.com/reading-exercice/Dom-Sofii" },
-{ "titre": "Откройте для себя Ниццу за один день", "id": "Otkrojte-dlya-sebya-Niccu-za-odin", "slug": "Otkrojte-dlya-sebya-Niccu-za-odin", "url": "https://secretlengua1.com/reading-exercice/Otkrojte-dlya-sebya-Niccu-za-odin" },
-{ "titre": "Прогноз погоды", "id": "Prognoz-pogody", "slug": "Prognoz-pogody", "url": "https://secretlengua1.com/reading-exercice/Prognoz-pogody" },
-{ "titre": "Рождественский праздник в Лондоне", "id": "Rozhdestvenskij-prazdnik-v-Londone", "slug": "Rozhdestvenskij-prazdnik-v-Londone", "url": "https://secretlengua1.com/reading-exercice/Rozhdestvenskij-prazdnik-v-Londone" },
-{ "titre": "Рождественские праздники в Амстердаме", "id": "Rozhdestvenskie-prazdniki-v-Amsterdame", "slug": "Rozhdestvenskie-prazdniki-v-Amsterdame", "url": "https://secretlengua1.com/reading-exercice/Rozhdestvenskie-prazdniki-v-Amsterdame" },
-{ "titre": "Пасхальные торжества в Берлине", "id": "Pashalnye-torzhestva-v-Berline", "slug": "Pashalnye-torzhestva-v-Berline", "url": "https://secretlengua1.com/reading-exercice/Pashalnye-torzhestva-v-Berline" },
-{ "titre": "День в Риме", "id": "Den-v-Rime", "slug": "Den-v-Rime", "url": "https://secretlengua1.com/reading-exercice/Den-v-Rime" },
-{ "titre": "Части человеческого тела", "id": "Chasti-chelovecheskogo-tela", "slug": "Chasti-chelovecheskogo-tela", "url": "https://secretlengua1.com/reading-exercice/Chasti-chelovecheskogo-tela" },
-{ "titre": "Планы на каникулы", "id": "Plany-na-anikuly", "slug": "Plany-na-anikuly", "url": "https://secretlengua1.com/reading-exercice/Plany-na-anikuly" },
-{ "titre": "Эйфелева башня", "id": "Ejfeleva-bashnya", "slug": "Ejfeleva-bashnya", "url": "https://secretlengua1.com/reading-exercice/Ejfeleva-bashnya" },
-{ "titre": "Летние каникулы", "id": "Letnie-kanikuly", "slug": "Letnie-kanikuly", "url": "https://secretlengua1.com/reading-exercice/Letnie-kanikuly" },
-{ "titre": "Одежда", "id": "Odezhda", "slug": "Odezhda", "url": "https://secretlengua1.com/reading-exercice/Odezhda" },
-{ "titre": "Заниматься садоводством", "id": "Zanimatsya-sadovodstvom", "slug": "Zanimatsya-sadovodstvom", "url": "https://secretlengua1.com/reading-exercice/Zanimatsya-sadovodstvom" },
-{ "titre": "Пасха в Италии", "id": "Pasha-v-Italii", "slug": "Pasha-v-Italii", "url": "https://secretlengua1.com/reading-exercice/Pasha-v-Italii" },
-{ "titre": "Капитан Торнегрис", "id": "Kapitan-Tornegris", "slug": "Kapitan-Tornegris", "url": "https://secretlengua1.com/reading-exercice/Kapitan-Tornegris" },
-{ "titre": "Волшебство Рождества приближается", "id": "Volshebstvo-Rozhdestva-priblizhaetsya", "slug": "Volshebstvo-Rozhdestva-priblizhaetsya", "url": "https://secretlengua1.com/reading-exercice/Volshebstvo-Rozhdestva-priblizhaetsya" },
-{ "titre": "Советы студентам", "id": "Sovety-studentam", "slug": "Sovety-studentam", "url": "https://secretlengua1.com/reading-exercice/Sovety-studentam" },
-{ "titre": "Новый старт", "id": "Novyj-start", "slug": "Novyj-start", "url": "https://secretlengua1.com/reading-exercice/Novyj-start" },{
-  "titre": "Сохранение здоровья",
-  "id": "sohranenie-zdorovya",
-  "slug": "Sohranenie-zdorovya",
-  "url": "RUSSE-Reading-b1/Sohranenie-zdorovya"
-},
-{
-  "titre": "Отпуск в Пиренеях",
-  "id": "otpusk-v-pireneyah",
-  "slug": "Otpusk-v-Pireneyah",
-  "url": "RUSSE-Reading-b1/Otpusk-v-Pireneyah"
-},
-{
-  "titre": "Отдых в горах",
-  "id": "otdyh-v-gorah",
-  "slug": "Otdyh-v-gorah",
-  "url": "RUSSE-Reading-b1/Otdyh-v-gorah"
-},
-{
-  "titre": "Онлайн-обучение: лучшая альтернатива?",
-  "id": "onlain-obuchenie-luchshaya-alternativa",
-  "slug": "Onlain-obuchenie-Luchshaya-Alternativa",
-  "url": "RUSSE-Reading-b1/Sestra-i-brat"
-},
-{
-  "titre": "Сестра и брат",
-  "id": "sestra-i-brat",
-  "slug": "Sestra-i-Brat",
-  "url": "RUSSE-Reading-b1/Sestra-brat"
-},
-{
-  "titre": "Он очарователен",
-  "id": "on-ocharovatelen",
-  "slug": "On-ocharovatelen",
-  "url": "RUSSE-Reading-b1/On-ocharovatelen"
-},
-{
-  "titre": "Магазин обуви",
-  "id": "magazin-obuvi",
-  "slug": "Magazin-Obuvi",
-  "url": "RUSSE-Reading-b1/Magazin-obuvi"
-},
-{
-  "titre": "Круиз по Атлантике",
-  "id": "kruiz-po-atlantike",
-  "slug": "Kruiz-po-Atlantike",
-  "url": "RUSSE-Reading-b1/Kruiz-po-Atlantike"
-},
-{
-  "titre": "День на природе",
-  "id": "den-na-prirode",
-  "slug": "Den-na-Prirode",
-  "url": "RUSSE-Reading-b1/Den-na-prirode"
-},
-{
-  "titre": "Шале в Альпах",
-  "id": "shale-v-alpah",
-  "slug": "Shale-v-Alpah",
-  "url": "RUSSE-Reading-b1/Shale-v-Alpah"
-},
-{
-  "titre": "День на ферме",
-  "id": "den-na-ferme",
-  "slug": "Den-na-Ferme",
-  "url": "RUSSE-Reading-b1/Den-na-ferme"
-},
-{
-  "titre": "Мои первые шаги в мире футбола",
-  "id": "moi-pervye-shagi-v-mire-futbola",
-  "slug": "Moi-Pervye-Shagi-v-Mire-Futbola",
-  "url": "RUSSE-Reading-b1/Moi-pervye-shagi-v-mire-futbola"
-},
-{
-  "titre": "В поисках работы",
-  "id": "v-poiskah-raboty",
-  "slug": "V-Poiskah-Raboty",
-  "url": "RUSSE-Reading-b1/V-poiskah-raboty"
-}
-      ]
-    
+  { "titre": "Телефонный разговор", "id": "Telefonnyj-razgovor", "slug": "Telefonnyj-razgovor", "url": "https://secretlengua.online/reading-exercice/Telefonnyj-razgovor" },
+  { "titre": "Письмо моему лучшему другу", "id": "Pismo-moemu-luchshemu-drugu", "slug": "Pismo-moemu-luchshemu-drugu", "url": "https://secretlengua.online/reading-exercice/Pismo-moemu-luchshemu-drugu" },
+  { "titre": "Открывая для себя Берлин", "id": "Otkryvaya-dlya-sebya-Berlin", "slug": "Otkryvaya-dlya-sebya-Berlin", "url": "https://secretlengua.online/reading-exercice/Otkryvaya-dlya-sebya-Berlin" },
+  { "titre": "Дом Софии", "id": "Dom-Sofii", "slug": "Dom-Sofii", "url": "https://secretlengua.online/reading-exercice/Dom-Sofii" },
+  { "titre": "Откройте для себя Ниццу за один день", "id": "Otkrojte-dlya-sebya-Niccu-za-odin", "slug": "Otkrojte-dlya-sebya-Niccu-za-odin", "url": "https://secretlengua.online/reading-exercice/Otkrojte-dlya-sebya-Niccu-za-odin" },
+  { "titre": "Прогноз погоды", "id": "Prognoz-pogody", "slug": "Prognoz-pogody", "url": "https://secretlengua.online/reading-exercice/Prognoz-pogody" },
+  { "titre": "Рождественский праздник в Лондоне", "id": "Rozhdestvenskij-prazdnik-v-Londone", "slug": "Rozhdestvenskij-prazdnik-v-Londone", "url": "https://secretlengua.online/reading-exercice/Rozhdestvenskij-prazdnik-v-Londone" },
+  { "titre": "Рождественские праздники в Амстердаме", "id": "Rozhdestvenskie-prazdniki-v-Amsterdame", "slug": "Rozhdestvenskie-prazdniki-v-Amsterdame", "url": "https://secretlengua.online/reading-exercice/Rozhdestvenskie-prazdniki-v-Amsterdame" },
+  { "titre": "Пасхальные торжества в Берлине", "id": "Pashalnye-torzhestva-v-Berline", "slug": "Pashalnye-torzhestva-v-Berline", "url": "https://secretlengua.online/reading-exercice/Pashalnye-torzhestva-v-Berline" },
+  { "titre": "День в Риме", "id": "Den-v-Rime", "slug": "Den-v-Rime", "url": "https://secretlengua.online/reading-exercice/Den-v-Rime" },
+  { "titre": "Части человеческого тела", "id": "Chasti-chelovecheskogo-tela", "slug": "Chasti-chelovecheskogo-tela", "url": "https://secretlengua.online/reading-exercice/Chasti-chelovecheskogo-tela" },
+  { "titre": "Планы на каникулы", "id": "Plany-na-anikuly", "slug": "Plany-na-anikuly", "url": "https://secretlengua.online/reading-exercice/Plany-na-anikuly" },
+  { "titre": "Эйфелева башня", "id": "Ejfeleva-bashnya", "slug": "Ejfeleva-bashnya", "url": "https://secretlengua.online/reading-exercice/Ejfeleva-bashnya" },
+  { "titre": "Летние каникулы", "id": "Letnie-kanikuly", "slug": "Letnie-kanikuly", "url": "https://secretlengua.online/reading-exercice/Letnie-kanikuly" },
+  { "titre": "Одежда", "id": "Odezhda", "slug": "Odezhda", "url": "https://secretlengua.online/reading-exercice/Odezhda" },
+  { "titre": "Заниматься садоводством", "id": "Zanimatsya-sadovodstvom", "slug": "Zanimatsya-sadovodstvom", "url": "https://secretlengua.online/reading-exercice/Zanimatsya-sadovodstvom" },
+  { "titre": "Пасха в Италии", "id": "Pasha-v-Italii", "slug": "Pasha-v-Italii", "url": "https://secretlengua.online/reading-exercice/Pasha-v-Italii" },
+  { "titre": "Капитан Торнегрис", "id": "Kapitan-Tornegris", "slug": "Kapitan-Tornegris", "url": "https://secretlengua.online/reading-exercice/Kapitan-Tornegris" },
+  { "titre": "Волшебство Рождества приближается", "id": "Volshebstvo-Rozhdestva-priblizhaetsya", "slug": "Volshebstvo-Rozhdestva-priblizhaetsya", "url": "https://secretlengua.online/reading-exercice/Volshebstvo-Rozhdestva-priblizhaetsya" },
+  { "titre": "Советы студентам", "id": "Sovety-studentam", "slug": "Sovety-studentam", "url": "https://secretlengua.online/reading-exercice/Sovety-studentam" },
+  { "titre": "Новый старт", "id": "Novyj-start", "slug": "Novyj-start", "url": "https://secretlengua.online/reading-exercice/Novyj-start" },
+  { "titre": "Сохранение здоровья", "id": "sohranenie-zdorovya", "slug": "Sohranenie-zdorovya", "url": "https://secretlengua.online/RUSSE-Reading-b1/Sohranenie-zdorovya" },
+  { "titre": "Отпуск в Пиренеях", "id": "otpusk-v-pireneyah", "slug": "Otpusk-v-Pireneyah", "url": "https://secretlengua.online/RUSSE-Reading-b1/Otpusk-v-Pireneyah" },
+  { "titre": "Отдых в горах", "id": "otdyh-v-gorah", "slug": "Otdyh-v-gorah", "url": "https://secretlengua.online/RUSSE-Reading-b1/Otdyh-v-gorah" },
+  { "titre": "Онлайн-обучение: лучшая альтернатива?", "id": "onlain-obuchenie-luchshaya-alternativa", "slug": "Onlain-obuchenie-Luchshaya-Alternativa", "url": "https://secretlengua.online/RUSSE-Reading-b1/Sestra-i-brat" },
+  { "titre": "Сестра и брат", "id": "sestra-i-brat", "slug": "Sestra-i-Brat", "url": "https://secretlengua.online/RUSSE-Reading-b1/Sestra-brat" },
+  { "titre": "Он очарователен", "id": "on-ocharovatelen", "slug": "On-ocharovatelen", "url": "https://secretlengua.online/RUSSE-Reading-b1/On-ocharovatelen" },
+  { "titre": "Магазин обуви", "id": "magazin-obuvi", "slug": "Magazin-Obuvi", "url": "https://secretlengua.online/RUSSE-Reading-b1/Magazin-obuvi" },
+  { "titre": "Круиз по Атлантике", "id": "kruiz-po-atlantike", "slug": "Kruiz-po-Atlantike", "url": "https://secretlengua.online/RUSSE-Reading-b1/Kruiz-po-Atlantike" },
+  { "titre": "День на природе", "id": "den-na-prirode", "slug": "Den-na-Prirode", "url": "https://secretlengua.online/RUSSE-Reading-b1/Den-na-prirode" },
+  { "titre": "Шале в Альпах", "id": "shale-v-alpah", "slug": "Shale-v-Alpah", "url": "https://secretlengua.online/RUSSE-Reading-b1/Shale-v-Alpah" },
+  { "titre": "День на ферме", "id": "den-na-ferme", "slug": "Den-na-Ferme", "url": "https://secretlengua.online/RUSSE-Reading-b1/Den-na-ferme" },
+  { "titre": "Мои первые шаги в мире футбола", "id": "moi-pervye-shagi-v-mire-futbola", "slug": "Moi-Pervye-Shagi-v-Mire-Futbola", "url": "https://secretlengua.online/RUSSE-Reading-b1/Moi-pervye-shagi-v-mire-futbola" },
+  { "titre": "В поисках работы", "id": "v-poiskah-raboty", "slug": "V-Poiskah-Raboty", "url": "https://secretlengua.online/RUSSE-Reading-b1/V-poiskah-raboty" }
+]
