@@ -3,18 +3,18 @@
     "titre": "व्यायाम 1",
     "id": "exercise-1",
     "slug": "XUBLBWSFAVBJRJL",
-    "url": "https://secretlengua1.com/HINDI-Reading-B1/XUBLBWSFAVBJRJL"
+    "url": "https://secretlengua.online/HINDI-Reading-B1/XUBLBWSFAVBJRJL"
   },
   {
     "titre": "व्यायाम 2",
     "id": "exercise-2",
     "slug": "UPFNUVKCLNSBDHI",
-    "url": "https://secretlengua1.com/HINDI-Reading-B1/UPFNUVKCLNSBDHI"
+    "url": "https://secretlengua.online/HINDI-Reading-B1/UPFNUVKCLNSBDHI"
   },
   {
     "titre": "व्यायाम 3",
     "id": "exercise-3",
     "slug": "YDUWXLAFKXBJLQQ",
-    "url": "https://secretlengua1.com/HINDI-Reading-B1/YDUWXLAFKXBJLQQ"
+    "url": "https://secretlengua.online/HINDI-Reading-B1/YDUWXLAFKXBJLQQ"
   }
 ]
