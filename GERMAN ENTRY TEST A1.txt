@@ -3,30 +3,30 @@
     "titre": "Lesen",
     "id": "secretlengua-Test/REading-German-A1",
     "slug": "reading-german-a1",
-    "url": "https://secretlengua1.com/secretlengua-Test/REading-German-A1"
+    "url": "https://secretlengua.online/secretlengua-Test/REading-German-A1"
   },
   {
     "titre": "Hören",
     "id": "secretlengua-Test/Listening-german-A1",
     "slug": "listening-german-a1",
-    "url": "https://secretlengua1.com/secretlengua-Test/Listening-german-A1"
+    "url": "https://secretlengua.online/secretlengua-Test/Listening-german-A1"
   },
   {
     "titre": "Diktat",
     "id": "secretlengua-Test/dictation-german-test",
     "slug": "dictation-german-test",
-    "url": "https://secretlengua1.com/secretlengua-Test/dictation-german-test"
+    "url": "https://secretlengua.online/secretlengua-Test/dictation-german-test"
   },
   {
     "titre": "Grammatik",
     "id": "secretlengua-Test/Grammar-A1-test",
     "slug": "grammar-a1-test",
-    "url": "https://secretlengua1.com/secretlengua-Test/Grammar-A1-test"
+    "url": "https://secretlengua.online/secretlengua-Test/Grammar-A1-test"
   },
   {
     "titre": "Wortschatz",
     "id": "secretlengua-Test/vocabulary-A1-German",
     "slug": "vocabulary-a1-german",
-    "url": "https://secretlengua1.com/secretlengua-Test/vocabulary-A1-German"
+    "url": "https://secretlengua.online/secretlengua-Test/vocabulary-A1-German"
   }
 ]
