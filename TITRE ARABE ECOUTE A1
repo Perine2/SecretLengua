@@ -1,57 +1,11 @@
 [
-  {
-    "titre": "تمرين 1",
-    "id": "tamrin-1",
-    "slug": "تمرين-1",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/AJNKPRIBGTOOYAI"
-},
-{
-    "titre": "تمرين 2",
-    "id": "tamrin-2",
-    "slug": "تمرين-2",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/TCTLNZRI-ZGWCD-PH"
-},
-{
-    "titre": "تمرين 3",
-    "id": "tamrin-3",
-    "slug": "تمرين-3",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/LFEAMPLGZCVPHYD"
-},
-{
-    "titre": "تمرين 4",
-    "id": "tamrin-4",
-    "slug": "تمرين-4",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/J-QRXLXMFSL-XRI"
-},
-{
-    "titre": "تمرين 5",
-    "id": "tamrin-5",
-    "slug": "تمرين-5",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/FJMBPXENORIBPEX"
-},
-{
-    "titre": "تمرين 6",
-    "id": "tamrin-6",
-    "slug": "تمرين-6",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/RTXBKWXX-ZJO-NG"
-},
-{
-    "titre": "تمرين 7",
-    "id": "tamrin-7",
-    "slug": "تمرين-7",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/HGZHGNCRBHCVCHO"
-},
-{
-    "titre": "تمرين 8",
-    "id": "tamrin-8",
-    "slug": "تمرين-8",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/SZKITRQGJAUFSMO"
-},
-{
-    "titre": "تمرين 9",
-    "id": "tamrin-9",
-    "slug": "تمرين-9",
-    "url": "https://secretlengua1.com/Arabic-Reading-A1/JBEC-JYLQNKZWRF"
-}
-      ]
-    
+  {"titre":"تمرين 1","id":"tamrin-1","slug":"تمرين-1","url":"https://secretlengua.online/Arabic-Reading-A1/AJNKPRIBGTOOYAI"},
+  {"titre":"تمرين 2","id":"tamrin-2","slug":"تمرين-2","url":"https://secretlengua.online/Arabic-Reading-A1/TCTLNZRI-ZGWCD-PH"},
+  {"titre":"تمرين 3","id":"tamrin-3","slug":"تمرين-3","url":"https://secretlengua.online/Arabic-Reading-A1/LFEAMPLGZCVPHYD"},
+  {"titre":"تمرين 4","id":"tamrin-4","slug":"تمرين-4","url":"https://secretlengua.online/Arabic-Reading-A1/J-QRXLXMFSL-XRI"},
+  {"titre":"تمرين 5","id":"tamrin-5","slug":"تمرين-5","url":"https://secretlengua.online/Arabic-Reading-A1/FJMBPXENORIBPEX"},
+  {"titre":"تمرين 6","id":"tamrin-6","slug":"تمرين-6","url":"https://secretlengua.online/Arabic-Reading-A1/RTXBKWXX-ZJO-NG"},
+  {"titre":"تمرين 7","id":"tamrin-7","slug":"تمرين-7","url":"https://secretlengua.online/Arabic-Reading-A1/HGZHGNCRBHCVCHO"},
+  {"titre":"تمرين 8","id":"tamrin-8","slug":"تمرين-8","url":"https://secretlengua.online/Arabic-Reading-A1/SZKITRQGJAUFSMO"},
+  {"titre":"تمرين 9","id":"tamrin-9","slug":"تمرين-9","url":"https://secretlengua.online/Arabic-Reading-A1/JBEC-JYLQNKZWRF"}
+]
