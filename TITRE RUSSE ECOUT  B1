@@ -1,101 +1,36 @@
 [
-  { "titre": "Упражнение 1", "id": "SXTDQKMAPCPGDYO", "slug": "SXTDQKMAPCPGDYO", "url": "https://secretlengua1.com/reading-exercice/SXTDQKMAPCPGDYO" },
-{ "titre": "Упражнение 2", "id": "ZNIULDWKQFPHUZP", "slug": "ZNIULDWKQFPHUZP", "url": "https://secretlengua1.com/reading-exercice/ZNIULDWKQFPHUZP" },
-{ "titre": "Упражнение 3", "id": "L-ZMXKU-HRPRMNO", "slug": "L-ZMXKU-HRPRMNO", "url": "https://secretlengua1.com/reading-exercice/L-ZMXKU-HRPRMNO" },
-{ "titre": "Упражнение 4", "id": "CLLCQL-BOUEFRJC", "slug": "CLLCQL-BOUEFRJC", "url": "https://secretlengua1.com/reading-exercice/CLLCQL-BOUEFRJC" },
-{ "titre": "Упражнение 5", "id": "XNHOGAVLDBGAWBY", "slug": "XNHOGAVLDBGAWBY", "url": "https://secretlengua1.com/reading-exercice/XNHOGAVLDBGAWBY" },
-{ "titre": "Упражнение 6", "id": "YJJXYQGKJEACVBR", "slug": "YJJXYQGKJEACVBR", "url": "https://secretlengua1.com/reading-exercice/YJJXYQGKJEACVBR" },
-{ "titre": "Упражнение 7", "id": "QVMJUWVVHDPEYJD", "slug": "QVMJUWVVHDPEYJD", "url": "https://secretlengua1.com/reading-exercice/QVMJUWVVHDPEYJD" },
-{ "titre": "Упражнение 8", "id": "JUYOELILOIAYRX", "slug": "JUYOELILOIAYRX", "url": "https://secretlengua1.com/reading-exercice/JUYOELILOIAYRX" },
-{ "titre": "Упражнение 9", "id": "PMPC-JUZQRRMRR", "slug": "PMPC-JUZQRRMRR", "url": "https://secretlengua1.com/reading-exercice/PMPC-JUZQRRMRR" },
-{ "titre": "Упражнение 10", "id": "AYQGXSVPYBAHSSE", "slug": "AYQGXSVPYBAHSSE", "url": "https://secretlengua1.com/reading-exercice/AYQGXSVPYBAHSSE" },
-{ "titre": "Упражнение 11", "id": "GVSLCLTJSHZBJPD", "slug": "GVSLCLTJSHZBJPD", "url": "https://secretlengua1.com/reading-exercice/GVSLCLTJSHZBJPD" },
-{ "titre": "Упражнение 12", "id": "VWE-MXWBHANAAJ", "slug": "VWE-MXWBHANAAJ", "url": "https://secretlengua1.com/reading-exercice/VWE-MXWBHANAAJ" },
-{ "titre": "Упражнение 13", "id": "UXKVXURO-HGAQXI", "slug": "UXKVXURO-HGAQXI", "url": "https://secretlengua1.com/reading-exercice/UXKVXURO-HGAQXI" },
-{ "titre": "Упражнение 14", "id": "ZNPC-UQYM-YWQ-PCA", "slug": "ZNPC-UQYM-YWQ-PCA", "url": "https://secretlengua1.com/reading-exercice/ZNPC-UQYM-YWQ-PCA" },
-{ "titre": "Упражнение 15", "id": "WQURDAJKZCGIIQT", "slug": "WQURDAJKZCGIIQT", "url": "https://secretlengua1.com/reading-exercice/WQURDAJKZCGIIQT" },
-{ "titre": "Упражнение 16", "id": "TVLGXZBZNZQXVX", "slug": "TVLGXZBZNZQXVX", "url": "https://secretlengua1.com/reading-exercice/TVLGXZBZNZQXVX" },
-{ "titre": "Упражнение 17", "id": "ZAJGQWINLLBPDCY", "slug": "ZAJGQWINLLBPDCY", "url": "https://secretlengua1.com/reading-exercice/ZAJGQWINLLBPDCY" },
-{ "titre": "Упражнение 18", "id": "BGYZUZTQXNFOKFD", "slug": "BGYZUZTQXNFOKFD", "url": "https://secretlengua1.com/reading-exercice/BGYZUZTQXNFOKFD" },
-{ "titre": "Упражнение 19", "id": "IROVTZHRDMJEYI", "slug": "IROVTZHRDMJEYI", "url": "https://secretlengua1.com/reading-exercice/IROVTZHRDMJEYI" },
-{ "titre": "Упражнение 20", "id": "GCYPVVFE-BMHCBT", "slug": "GCYPVVFE-BMHCBT", "url": "https://secretlengua1.com/reading-exercice/GCYPVVFE-BMHCBT" },
-{ "titre": "Упражнение 21", "id": "STARAOOQBIVMBKJ", "slug": "STARAOOQBIVMBKJ", "url": "https://secretlengua1.com/reading-exercice/STARAOOQBIVMBKJ" },{
-  "titre": "Упражнение 22",
-  "id": "uprazhnenie-22",
-  "slug": "Uprazhnenie-22",
-  "url": "RUSSE-Reading-b1/K-YIJNAGGIQRZ"
-},
-{
-  "titre": "Упражнение 23",
-  "id": "uprazhnenie-23",
-  "slug": "Uprazhnenie-23",
-  "url": "RUSSE-Reading-b1/LDOHPOUOKIVWNWJ"
-},
-{
-  "titre": "Упражнение 24",
-  "id": "uprazhnenie-24",
-  "slug": "Uprazhnenie-24",
-  "url": "RUSSE-Reading-b1/PORCKKBLTFUMFXJ"
-},
-{
-  "titre": "Упражнение 25",
-  "id": "uprazhnenie-25",
-  "slug": "Uprazhnenie-25",
-  "url": "RUSSE-Reading-b1/DQUCNBMYRKYEQDH"
-},
-{
-  "titre": "Упражнение 26",
-  "id": "uprazhnenie-26",
-  "slug": "Uprazhnenie-26",
-  "url": "RUSSE-Reading-b1/FCJVZPIRDPMPTEY"
-},
-{
-  "titre": "Упражнение 27",
-  "id": "uprazhnenie-27",
-  "slug": "Uprazhnenie-27",
-  "url": "RUSSE-Reading-b1/EECDDJTODBGRAKG"
-},
-{
-  "titre": "Упражнение 28",
-  "id": "uprazhnenie-28",
-  "slug": "Uprazhnenie-28",
-  "url": "RUSSE-Reading-b1/WALRITTQZAWDRBQ"
-},
-{
-  "titre": "Упражнение 29",
-  "id": "uprazhnenie-29",
-  "slug": "Uprazhnenie-29",
-  "url": "RUSSE-Reading-b1/MCYPJIK-CEDIJMP"
-},
-{
-  "titre": "Упражнение 30",
-  "id": "uprazhnenie-30",
-  "slug": "Uprazhnenie-30",
-  "url": "RUSSE-Reading-b1/LMIMPODQUTSMZAM"
-},
-{
-  "titre": "Упражнение 31",
-  "id": "uprazhnenie-31",
-  "slug": "Uprazhnenie-31",
-  "url": "RUSSE-Reading-b1/SBJZNOHEZGCENBU"
-},
-{
-  "titre": "Упражнение 32",
-  "id": "uprazhnenie-32",
-  "slug": "Uprazhnenie-32",
-  "url": "RUSSE-Reading-b1/WNYZZHDJSSXYFVP"
-},
-{
-  "titre": "Упражнение 33",
-  "id": "uprazhnenie-33",
-  "slug": "Uprazhnenie-33",
-  "url": "RUSSE-Reading-b1/JFTWRJDRCPIOYJK"
-},
-{
-  "titre": "Упражнение 34",
-  "id": "uprazhnenie-34",
-  "slug": "Uprazhnenie-34",
-  "url": "RUSSE-Reading-b1/EYWK-LTVOIJDTO"
-}
-      ]
-    
+  { "titre": "Упражнение 1", "id": "SXTDQKMAPCPGDYO", "slug": "SXTDQKMAPCPGDYO", "url": "https://secretlengua.online/reading-exercice/SXTDQKMAPCPGDYO" },
+  { "titre": "Упражнение 2", "id": "ZNIULDWKQFPHUZP", "slug": "ZNIULDWKQFPHUZP", "url": "https://secretlengua.online/reading-exercice/ZNIULDWKQFPHUZP" },
+  { "titre": "Упражнение 3", "id": "L-ZMXKU-HRPRMNO", "slug": "L-ZMXKU-HRPRMNO", "url": "https://secretlengua.online/reading-exercice/L-ZMXKU-HRPRMNO" },
+  { "titre": "Упражнение 4", "id": "CLLCQL-BOUEFRJC", "slug": "CLLCQL-BOUEFRJC", "url": "https://secretlengua.online/reading-exercice/CLLCQL-BOUEFRJC" },
+  { "titre": "Упражнение 5", "id": "XNHOGAVLDBGAWBY", "slug": "XNHOGAVLDBGAWBY", "url": "https://secretlengua.online/reading-exercice/XNHOGAVLDBGAWBY" },
+  { "titre": "Упражнение 6", "id": "YJJXYQGKJEACVBR", "slug": "YJJXYQGKJEACVBR", "url": "https://secretlengua.online/reading-exercice/YJJXYQGKJEACVBR" },
+  { "titre": "Упражнение 7", "id": "QVMJUWVVHDPEYJD", "slug": "QVMJUWVVHDPEYJD", "url": "https://secretlengua.online/reading-exercice/QVMJUWVVHDPEYJD" },
+  { "titre": "Упражнение 8", "id": "JUYOELILOIAYRX", "slug": "JUYOELILOIAYRX", "url": "https://secretlengua.online/reading-exercice/JUYOELILOIAYRX" },
+  { "titre": "Упражнение 9", "id": "PMPC-JUZQRRMRR", "slug": "PMPC-JUZQRRMRR", "url": "https://secretlengua.online/reading-exercice/PMPC-JUZQRRMRR" },
+  { "titre": "Упражнение 10", "id": "AYQGXSVPYBAHSSE", "slug": "AYQGXSVPYBAHSSE", "url": "https://secretlengua.online/reading-exercice/AYQGXSVPYBAHSSE" },
+  { "titre": "Упражнение 11", "id": "GVSLCLTJSHZBJPD", "slug": "GVSLCLTJSHZBJPD", "url": "https://secretlengua.online/reading-exercice/GVSLCLTJSHZBJPD" },
+  { "titre": "Упражнение 12", "id": "VWE-MXWBHANAAJ", "slug": "VWE-MXWBHANAAJ", "url": "https://secretlengua.online/reading-exercice/VWE-MXWBHANAAJ" },
+  { "titre": "Упражнение 13", "id": "UXKVXURO-HGAQXI", "slug": "UXKVXURO-HGAQXI", "url": "https://secretlengua.online/reading-exercice/UXKVXURO-HGAQXI" },
+  { "titre": "Упражнение 14", "id": "ZNPC-UQYM-YWQ-PCA", "slug": "ZNPC-UQYM-YWQ-PCA", "url": "https://secretlengua.online/reading-exercice/ZNPC-UQYM-YWQ-PCA" },
+  { "titre": "Упражнение 15", "id": "WQURDAJKZCGIIQT", "slug": "WQURDAJKZCGIIQT", "url": "https://secretlengua.online/reading-exercice/WQURDAJKZCGIIQT" },
+  { "titre": "Упражнение 16", "id": "TVLGXZBZNZQXVX", "slug": "TVLGXZBZNZQXVX", "url": "https://secretlengua.online/reading-exercice/TVLGXZBZNZQXVX" },
+  { "titre": "Упражнение 17", "id": "ZAJGQWINLLBPDCY", "slug": "ZAJGQWINLLBPDCY", "url": "https://secretlengua.online/reading-exercice/ZAJGQWINLLBPDCY" },
+  { "titre": "Упражнение 18", "id": "BGYZUZTQXNFOKFD", "slug": "BGYZUZTQXNFOKFD", "url": "https://secretlengua.online/reading-exercice/BGYZUZTQXNFOKFD" },
+  { "titre": "Упражнение 19", "id": "IROVTZHRDMJEYI", "slug": "IROVTZHRDMJEYI", "url": "https://secretlengua.online/reading-exercice/IROVTZHRDMJEYI" },
+  { "titre": "Упражнение 20", "id": "GCYPVVFE-BMHCBT", "slug": "GCYPVVFE-BMHCBT", "url": "https://secretlengua.online/reading-exercice/GCYPVVFE-BMHCBT" },
+  { "titre": "Упражнение 21", "id": "STARAOOQBIVMBKJ", "slug": "STARAOOQBIVMBKJ", "url": "https://secretlengua.online/reading-exercice/STARAOOQBIVMBKJ" },
+  { "titre": "Упражнение 22", "id": "uprazhnenie-22", "slug": "Uprazhnenie-22", "url": "https://secretlengua.online/reading-exercice/K-YIJNAGGIQRZ" },
+  { "titre": "Упражнение 23", "id": "uprazhnenie-23", "slug": "Uprazhnenie-23", "url": "https://secretlengua.online/reading-exercice/LDOHPOUOKIVWNWJ" },
+  { "titre": "Упражнение 24", "id": "uprazhnenie-24", "slug": "Uprazhnenie-24", "url": "https://secretlengua.online/reading-exercice/PORCKKBLTFUMFXJ" },
+  { "titre": "Упражнение 25", "id": "uprazhnenie-25", "slug": "Uprazhnenie-25", "url": "https://secretlengua.online/reading-exercice/DQUCNBMYRKYEQDH" },
+  { "titre": "Упражнение 26", "id": "uprazhnenie-26", "slug": "Uprazhnenie-26", "url": "https://secretlengua.online/reading-exercice/FCJVZPIRDPMPTEY" },
+  { "titre": "Упражнение 27", "id": "uprazhnenie-27", "slug": "Uprazhnenie-27", "url": "https://secretlengua.online/reading-exercice/EECDDJTODBGRAKG" },
+  { "titre": "Упражнение 28", "id": "uprazhnenie-28", "slug": "Uprazhnenie-28", "url": "https://secretlengua.online/reading-exercice/WALRITTQZAWDRBQ" },
+  { "titre": "Упражнение 29", "id": "uprazhnenie-29", "slug": "Uprazhnenie-29", "url": "https://secretlengua.online/reading-exercice/MCYPJIK-CEDIJMP" },
+  { "titre": "Упражнение 30", "id": "uprazhnenie-30", "slug": "Uprazhnenie-30", "url": "https://secretlengua.online/reading-exercice/LMIMPODQUTSMZAM" },
+  { "titre": "Упражнение 31", "id": "uprazhnenie-31", "slug": "Uprazhnenie-31", "url": "https://secretlengua.online/reading-exercice/SBJZNOHEZGCENBU" },
+  { "titre": "Упражнение 32", "id": "uprazhnenie-32", "slug": "Uprazhnenie-32", "url": "https://secretlengua.online/reading-exercice/WNYZZHDJSSXYFVP" },
+  { "titre": "Упражнение 33", "id": "uprazhnenie-33", "slug": "Uprazhnenie-33", "url": "https://secretlengua.online/reading-exercice/JFTWRJDRCPIOYJK" },
+  { "titre": "Упражнение 34", "id": "uprazhnenie-34", "slug": "Uprazhnenie-34", "url": "https://secretlengua.online/reading-exercice/EYWK-LTVOIJDTO" }
+]
