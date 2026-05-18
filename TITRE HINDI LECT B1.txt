@@ -3,18 +3,18 @@
     "titre": "एक फोन बातचीत",
     "id": "texte-1",
     "slug": "texte-1",
-    "url": "https://secretlengua1.com/HINDI-Reading-B1/TEXTE-1"
+    "url": "https://secretlengua.online/HINDI-Reading-B1/TEXTE-1"
   },
   {
     "titre": "मेरे सबसे अच्छे दोस्त को पत्र",
     "id": "texte-2",
     "slug": "texte-2",
-    "url": "https://secretlengua1.com/HINDI-Reading-B1/texte-2"
+    "url": "https://secretlengua.online/HINDI-Reading-B1/texte-2"
   },
   {
     "titre": "बर्लिन की खोज करें",
     "id": "texte-3",
     "slug": "texte-3",
-    "url": "https://secretlengua1.com/HINDI-Reading-B1/texte-3"
+    "url": "https://secretlengua.online/HINDI-Reading-B1/texte-3"
   }
 ]
