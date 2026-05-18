@@ -1,57 +1,11 @@
 [
-  {
-  "titre": "الألوان",
-  "id": "al-alwan",
-  "slug": "texte1",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte1"
-},
-{
-  "titre": "التقاليد في الصين",
-  "id": "al-taqalid-fi-al-sin",
-  "slug": "texte2",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte2"
-},
-{
-  "titre": "فصول السنة",
-  "id": "fusul-al-sana",
-  "slug": "texte3",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte3"
-},
-{
-  "titre": "وسائل النقل",
-  "id": "wasail-al-naql",
-  "slug": "texte-4",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte-4"
-},
-{
-  "titre": "يوم في الريف",
-  "id": "yawm-fi-al-rif",
-  "slug": "texte-5",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte-5"
-},
-{
-  "titre": "وجبات العائلة",
-  "id": "wajabat-al-aila",
-  "slug": "texte-6",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte-6"
-},
-{
-  "titre": "يومي في الجبال",
-  "id": "yawmi-fi-al-jibal",
-  "slug": "texte7",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte7"
-},
-{
-  "titre": "في السوبرماركت",
-  "id": "fi-al-supermarket",
-  "slug": "texte-8",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte-8"
-},
-{
-  "titre": "أنشطة ثيو",
-  "id": "anshitat-thiyo",
-  "slug": "texte-9",
-  "url": "https://secretlengua1.com/Arabic-Reading-A1/texte-9"
-}
-      ]
-    
+  {"titre":"الألوان","id":"al-alwan","slug":"texte1","url":"https://secretlengua.online/Arabic-Reading-A1/texte1"},
+  {"titre":"التقاليد في الصين","id":"al-taqalid-fi-al-sin","slug":"texte2","url":"https://secretlengua.online/Arabic-Reading-A1/texte2"},
+  {"titre":"فصول السنة","id":"fusul-al-sana","slug":"texte3","url":"https://secretlengua.online/Arabic-Reading-A1/texte3"},
+  {"titre":"وسائل النقل","id":"wasail-al-naql","slug":"texte-4","url":"https://secretlengua.online/Arabic-Reading-A1/texte-4"},
+  {"titre":"يوم في الريف","id":"yawm-fi-al-rif","slug":"texte-5","url":"https://secretlengua.online/Arabic-Reading-A1/texte-5"},
+  {"titre":"وجبات العائلة","id":"wajabat-al-aila","slug":"texte-6","url":"https://secretlengua.online/Arabic-Reading-A1/texte-6"},
+  {"titre":"يومي في الجبال","id":"yawmi-fi-al-jibal","slug":"texte7","url":"https://secretlengua.online/Arabic-Reading-A1/texte7"},
+  {"titre":"في السوبرماركت","id":"fi-al-supermarket","slug":"texte-8","url":"https://secretlengua.online/Arabic-Reading-A1/texte-8"},
+  {"titre":"أنشطة ثيو","id":"anshitat-thiyo","slug":"texte-9","url":"https://secretlengua.online/Arabic-Reading-A1/texte-9"}
+]
