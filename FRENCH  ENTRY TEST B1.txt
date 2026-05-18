@@ -3,30 +3,30 @@
     "titre": "Reading",
     "id": "reading-fr-b1",
     "slug": "Reading-fr-B1",
-    "url": "https://secretlengua1.com/secretlengua-Test/Reading-fr-B1"
+    "url": "https://secretlengua.online/secretlengua-Test/Reading-fr-B1"
   },
   {
     "titre": "Listening",
     "id": "listening-fr-b1",
     "slug": "listening-FR-B1",
-    "url": "https://secretlengua1.com/secretlengua-Test/listening-FR-B1"
+    "url": "https://secretlengua.online/secretlengua-Test/listening-FR-B1"
   },
   {
     "titre": "Dictation",
     "id": "grammar-fr-b1",
     "slug": "Grammar-fr-B1",
-    "url": "https://secretlengua1.com/secretlengua-Test/Grammar-fr-B1"
+    "url": "https://secretlengua.online/secretlengua-Test/Grammar-fr-B1"
   },
   {
     "titre": "Grammar",
     "id": "dictation-fr-b1",
     "slug": "Dictation-fr-B1",
-    "url": "https://secretlengua1.com/secretlengua-Test/Dictation-fr-B1"
+    "url": "https://secretlengua.online/secretlengua-Test/Dictation-fr-B1"
   },
   {
     "titre": "Vocabulary",
     "id": "vocabulary-fr-b1",
     "slug": "vocabulary-FR-B1",
-    "url": "https://secretlengua1.com/secretlengua-Test/vocabulary-FR-B1"
+    "url": "https://secretlengua.online/secretlengua-Test/vocabulary-FR-B1"
   }
 ]
