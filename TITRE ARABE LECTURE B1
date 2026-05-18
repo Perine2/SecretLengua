@@ -1,194 +1,41 @@
 [
- {
-  "titre": "مكالمة هاتفية",
-  "id": "TEXTE-1",
-  "slug": "TEXTE-1",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/TEXTE-1"
-},{
-  "titre": "رسالة إلى صديقي المقرب",
-  "id": "texte-2",
-  "slug": "texte-2",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-2"
-},{
-  "titre": "اكتشاف برلين",
-  "id": "texte-3",
-  "slug": "texte-3",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-3"
-},{
-  "titre": "منزل صوفي",
-  "id": "texte-4",
-  "slug": "texte-4",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-4"
-},{
-  "titre": "اكتشاف نيس في يوم واحد",
-  "id": "texte-5",
-  "slug": "texte-5",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-5"
-},{
-  "titre": "توقعات الطقس",
-  "id": "texte-6",
-  "slug": "texte-6",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-6"
-},{
-  "titre": "احتفالات عيد الميلاد في لندن",
-  "id": "texte-7",
-  "slug": "texte-7",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-7"
-},{
-  "titre": "احتفالات عيد الميلاد في أمستردام",
-  "id": "texte8",
-  "slug": "texte8",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte8"
-},{
-  "titre": "الاحتفالات بعيد الفصح في برلين.",
-  "id": "texte-9",
-  "slug": "texte-9",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-9"
-},{
-  "titre": "عيد الفصح في إيطاليا",
-  "id": "texte-10",
-  "slug": "texte-10",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-10"
-},{
-  "titre": "يوم واحد في روما",
-  "id": "texte-11",
-  "slug": "texte-11",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-11"
-},{
-  "titre": "أجزاء الجسم البشري",
-  "id": "texte-12",
-  "slug": "texte-12",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-12"
-},{
-  "titre": "مشاريع للعطلة",
-  "id": "texte-13",
-  "slug": "texte-13",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-13"
-},{
-  "titre": "برج إيفل",
-  "id": "texte-14",
-  "slug": "texte-14",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-14"
-},{
-  "titre": "العطلة الصيفية",
-  "id": "texte-15",
-  "slug": "texte-15",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-15"
-},{
-  "titre": "الملابس",
-  "id": "texte-16",
-  "slug": "texte-16",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-16"
-},{
-  "titre": "زراعة حديقته",
-  "id": "texte-17",
-  "slug": "texte-17",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-17"
-},{
-  "titre": "كابتن تورنجريس",
-  "id": "texte-18",
-  "slug": "texte-18",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-18"
-},{
-  "titre": "يقترب سحر عيد الميلاد",
-  "id": "texte-19",
-  "slug": "texte-19",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-19"
-},{
-  "titre": "نصائح للطلاب",
-  "id": "texte-20",
-  "slug": "texte-20",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-20"
-},{
-  "titre": "بداية جديدة",
-  "id": "texte-21",
-  "slug": "texte-21",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-21"
-},{
-  "titre": "رحلة في جبال البيرينيه",
-  "id": "texte-22",
-  "slug": "texte-22",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-22"
-},{
-  "titre": "عطلة في الجبال",
-  "id": "texte-23",
-  "slug": "texte-23",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-23"
-},{
-  "titre": "التعلم عبر الإنترنت: هل هو البديل الأفضل؟",
-  "id": "texte-24",
-  "slug": "texte-24",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-24"
-},{
-  "titre": "أخت وأخ",
-  "id": "texte-25",
-  "slug": "texte-25",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-25"
-},{
-  "titre": "إنه ساحر",
-  "id": "texte-26",
-  "slug": "texte-26",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-26"
-},{
-  "titre": "محل الأحذية",
-  "id": "texte-27",
-  "slug": "texte-27",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-27"
-},{
-  "titre": "رحلة عبر المحيط الأطلسي",
-  "id": "texte-28",
-  "slug": "texte-28",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-28"
-},{
-  "titre": "المطبخ الإيطالي",
-  "id": "texte-29",
-  "slug": "texte-29",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-29"
-},{
-  "titre": "عشاء عائلي",
-  "id": "texte-30",
-  "slug": "texte-30",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-30"
-},{
-  "titre": "يوم في الريف",
-  "id": "texte-31",
-  "slug": "texte-31",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-31"
-},{
-  "titre": "الشاليه في جبال الألب",
-  "id": "texte-32",
-  "slug": "texte-32",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-32"
-},{
-  "titre": "يوم في المزرعة",
-  "id": "texte-33",
-  "slug": "texte-33",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-33"
-},{
-  "titre": "بداياتي في عالم كرة القدم",
-  "id": "texte-34",
-  "slug": "texte-34",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-34"
-},{
-  "titre": "بحثًا عن وظيفة",
-  "id": "texte-35",
-  "slug": "texte-35",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-35"
-},{
-  "titre": "الحياة في أعالي البحار",
-  "id": "texte-36",
-  "slug": "texte-36",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-36"
-},{
-  "titre": "حياة الفحم",
-  "id": "texte-37",
-  "slug": "texte-37",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-37"
-},{
-  "titre": "العازف على الكمان المتحمس",
-  "id": "texte-38",
-  "slug": "texte-38",
-  "url": "https://secretlengua1.com/reading-exercice/ARABIC-Reading-B1/texte-38"
-}
-      ]
+  {"titre":"مكالمة هاتفية","id":"TEXTE-1","slug":"TEXTE-1","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/TEXTE-1"},
+  {"titre":"رسالة إلى صديقي المقرب","id":"texte-2","slug":"texte-2","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-2"},
+  {"titre":"اكتشاف برلين","id":"texte-3","slug":"texte-3","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-3"},
+  {"titre":"منزل صوفي","id":"texte-4","slug":"texte-4","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-4"},
+  {"titre":"اكتشاف نيس في يوم واحد","id":"texte-5","slug":"texte-5","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-5"},
+  {"titre":"توقعات الطقس","id":"texte-6","slug":"texte-6","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-6"},
+  {"titre":"احتفالات عيد الميلاد في لندن","id":"texte-7","slug":"texte-7","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-7"},
+  {"titre":"احتفالات عيد الميلاد في أمستردام","id":"texte8","slug":"texte8","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte8"},
+  {"titre":"الاحتفالات بعيد الفصح في برلين.","id":"texte-9","slug":"texte-9","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-9"},
+  {"titre":"عيد الفصح في إيطاليا","id":"texte-10","slug":"texte-10","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-10"},
+  {"titre":"يوم واحد في روما","id":"texte-11","slug":"texte-11","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-11"},
+  {"titre":"أجزاء الجسم البشري","id":"texte-12","slug":"texte-12","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-12"},
+  {"titre":"مشاريع للعطلة","id":"texte-13","slug":"texte-13","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-13"},
+  {"titre":"برج إيفل","id":"texte-14","slug":"texte-14","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-14"},
+  {"titre":"العطلة الصيفية","id":"texte-15","slug":"texte-15","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-15"},
+  {"titre":"الملابس","id":"texte-16","slug":"texte-16","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-16"},
+  {"titre":"زراعة حديقته","id":"texte-17","slug":"texte-17","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-17"},
+  {"titre":"كابتن تورنجريس","id":"texte-18","slug":"texte-18","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-18"},
+  {"titre":"يقترب سحر عيد الميلاد","id":"texte-19","slug":"texte-19","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-19"},
+  {"titre":"نصائح للطلاب","id":"texte-20","slug":"texte-20","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-20"},
+  {"titre":"بداية جديدة","id":"texte-21","slug":"texte-21","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-21"},
+  {"titre":"رحلة في جبال البيرينيه","id":"texte-22","slug":"texte-22","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-22"},
+  {"titre":"عطلة في الجبال","id":"texte-23","slug":"texte-23","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-23"},
+  {"titre":"التعلم عبر الإنترنت: هل هو البديل الأفضل؟","id":"texte-24","slug":"texte-24","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-24"},
+  {"titre":"أخت وأخ","id":"texte-25","slug":"texte-25","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-25"},
+  {"titre":"إنه ساحر","id":"texte-26","slug":"texte-26","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-26"},
+  {"titre":"محل الأحذية","id":"texte-27","slug":"texte-27","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-27"},
+  {"titre":"رحلة عبر المحيط الأطلسي","id":"texte-28","slug":"texte-28","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-28"},
+  {"titre":"المطبخ الإيطالي","id":"texte-29","slug":"texte-29","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-29"},
+  {"titre":"عشاء عائلي","id":"texte-30","slug":"texte-30","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-30"},
+  {"titre":"يوم في الريف","id":"texte-31","slug":"texte-31","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-31"},
+  {"titre":"الشاليه في جبال الألب","id":"texte-32","slug":"texte-32","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-32"},
+  {"titre":"يوم في المزرعة","id":"texte-33","slug":"texte-33","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-33"},
+  {"titre":"بداياتي في عالم كرة القدم","id":"texte-34","slug":"texte-34","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-34"},
+  {"titre":"بحثًا عن وظيفة","id":"texte-35","slug":"texte-35","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-35"},
+  {"titre":"الحياة في أعالي البحار","id":"texte-36","slug":"texte-36","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-36"},
+  {"titre":"حياة الفحم","id":"texte-37","slug":"texte-37","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-37"},
+  {"titre":"العازف على الكمان المتحمس","id":"texte-38","slug":"texte-38","url":"https://secretlengua.online/reading-exercice/ARABIC-Reading-B1/texte-38"}
+]
     
