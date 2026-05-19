@@ -1,182 +1,33 @@
 [
-  {
-    "titre": "一通電話交談。",
-    "id": "一通電話交談。",
-    "slug": "一通電話交談。",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/1"
-  },
-  {
-    "titre": "給我最好的朋友。",
-    "id": "給我最好的朋友。",
-    "slug": "給我最好的朋友。",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/2"
-  },
-  {
-    "titre": "一天遊覽尼斯",
-    "id": "一天遊覽尼斯",
-    "slug": "一天遊覽尼斯",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/3"
-  },
-  {
-    "titre": "阿姆斯特丹的聖誕節慶4",
-    "id": "阿姆斯特丹的聖誕節慶4",
-    "slug": "阿姆斯特丹的聖誕節慶4",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/4"
-  },
-  {
-    "titre": "阿姆斯特丹的聖誕節慶",
-    "id": "阿姆斯特丹的聖誕節慶",
-    "slug": "阿姆斯特丹的聖誕節慶",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/5"
-  },
-  {
-    "titre": "意大利的復活節",
-    "id": "意大利的復活節",
-    "slug": "意大利的復活節",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/6"
-  },
-  {
-    "titre": "在羅馬的一天",
-    "id": "在羅馬的一天",
-    "slug": "在羅馬的一天",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/7"
-  },
-  {
-    "titre": "人體的部位",
-    "id": "人體的部位",
-    "slug": "人體的部位",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/8"
-  },
-  {
-    "titre": "艾菲爾鐵塔",
-    "id": "艾菲爾鐵塔",
-    "slug": "艾菲爾鐵塔",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/9"
-  },
-  {
-    "titre": "夏季假期",
-    "id": "夏季假期",
-    "slug": "夏季假期",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/10"
-  },
-  {
-    "titre": "服裝",
-    "id": "服裝",
-    "slug": "服裝",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/11"
-  },
-  {
-    "titre": "聖誕魔法即將來臨",
-    "id": "聖誕魔法即將來臨",
-    "slug": "聖誕魔法即將來臨",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/12"
-  },
-  {
-    "titre": "給學生的建議",
-    "id": "給學生的建議",
-    "slug": "給學生的建議",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/13"
-  },
-  {
-    "titre": "新的開始",
-    "id": "新的開始",
-    "slug": "新的開始",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/14"
-  },
-  {
-    "titre": "保护健康",
-    "id": "保护健康",
-    "slug": "保护健康",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/15"
-  },
-  {
-    "titre": "在山上度假",
-    "id": "在山上度假",
-    "slug": "在山上度假",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/16"
-  },
-  {
-    "titre": "線上學習：是最好的選擇嗎？",
-    "id": "線上學習：是最好的選擇嗎？",
-    "slug": "線上學習：是最好的選擇嗎？",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/17"
-  },
-  {
-    "titre": "姐妹和兄弟",
-    "id": "姐妹和兄弟",
-    "slug": "姐妹和兄弟",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/18"
-  },
-  {
-    "titre": "大西洋郵輪",
-    "id": "大西洋郵輪",
-    "slug": "大西洋郵輪",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/19"
-  },
-  {
-    "titre": "意大利菜",
-    "id": "意大利菜",
-    "slug": "意大利菜",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/20"
-  },
-  {
-    "titre": "家庭晚餐",
-    "id": "家庭晚餐",
-    "slug": "家庭晚餐",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/21"
-  },
-  {
-    "titre": "一天在農場",
-    "id": "一天在農場",
-    "slug": "一天在農場",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/22"
-  },
-  {
-    "titre": "尋找工作",
-    "id": "尋找工作",
-    "slug": "尋找工作",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/23"
-  },
-  {
-    "titre": "海上生活",
-    "id": "海上生活",
-    "slug": "海上生活",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/24"
-  },
-  {
-    "titre": "查本的生活",
-    "id": "查本的生活",
-    "slug": "查本的生活",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/25"
-  },
-  {
-    "titre": "熱愛小提琴的音樂家",
-    "id": "熱愛小提琴的音樂家",
-    "slug": "熱愛小提琴的音樂家",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/26"
-  },
-  {
-    "titre": "重新詮釋聖誕傳統",
-    "id": "重新詮釋聖誕傳統",
-    "slug": "重新詮釋聖誕傳統",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/27"
-  },
-  {
-    "titre": "網球選手",
-    "id": "網球選手",
-    "slug": "網球選手",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/28"
-  },
-  {
-    "titre": "登山之旅",
-    "id": "登山之旅",
-    "slug": "登山之旅",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/29"
-  },{
-    "titre": "海底探險家",
-    "id": "海底探險家",
-    "slug": "海底探險家",
-    "url": "https://secretlengua1.com/reading-exercice/Chinese-Reading-B1/30"
-  }
-      ]
+  { "titre": "一通電話交談。", "id": "一通電話交談。", "slug": "一通電話交談。", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/1" },
+  { "titre": "給我最好的朋友。", "id": "給我最好的朋友。", "slug": "給我最好的朋友。", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/2" },
+  { "titre": "一天遊覽尼斯", "id": "一天遊覽尼斯", "slug": "一天遊覽尼斯", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/3" },
+  { "titre": "阿姆斯特丹的聖誕節慶4", "id": "阿姆斯特丹的聖誕節慶4", "slug": "阿姆斯特丹的聖誕節慶4", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/4" },
+  { "titre": "阿姆斯特丹的聖誕節慶", "id": "阿姆斯特丹的聖誕節慶", "slug": "阿姆斯特丹的聖誕節慶", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/5" },
+  { "titre": "意大利的復活節", "id": "意大利的復活節", "slug": "意大利的復活節", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/6" },
+  { "titre": "在羅馬的一天", "id": "在羅馬的一天", "slug": "在羅馬的一天", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/7" },
+  { "titre": "人體的部位", "id": "人體的部位", "slug": "人體的部位", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/8" },
+  { "titre": "艾菲爾鐵塔", "id": "艾菲爾鐵塔", "slug": "艾菲爾鐵塔", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/9" },
+  { "titre": "夏季假期", "id": "夏季假期", "slug": "夏季假期", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/10" },
+  { "titre": "服裝", "id": "服裝", "slug": "服裝", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/11" },
+  { "titre": "聖誕魔法即將來臨", "id": "聖誕魔法即將來臨", "slug": "聖誕魔法即將來臨", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/12" },
+  { "titre": "給學生的建議", "id": "給學生的建議", "slug": "給學生的建議", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/13" },
+  { "titre": "新的開始", "id": "新的開始", "slug": "新的開始", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/14" },
+  { "titre": "保护健康", "id": "保护健康", "slug": "保护健康", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/15" },
+  { "titre": "在山上度假", "id": "在山上度假", "slug": "在山上度假", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/16" },
+  { "titre": "線上學習：是最好的選擇嗎？", "id": "線上學習：是最好的選擇嗎？", "slug": "線上學習：是最好的選擇嗎？", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/17" },
+  { "titre": "姐妹和兄弟", "id": "姐妹和兄弟", "slug": "姐妹和兄弟", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/18" },
+  { "titre": "大西洋郵輪", "id": "大西洋郵輪", "slug": "大西洋郵輪", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/19" },
+  { "titre": "意大利菜", "id": "意大利菜", "slug": "意大利菜", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/20" },
+  { "titre": "家庭晚餐", "id": "家庭晚餐", "slug": "家庭晚餐", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/21" },
+  { "titre": "一天在農場", "id": "一天在農場", "slug": "一天在農場", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/22" },
+  { "titre": "尋找工作", "id": "尋找工作", "slug": "尋找工作", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/23" },
+  { "titre": "海上生活", "id": "海上生活", "slug": "海上生活", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/24" },
+  { "titre": "查本的生活", "id": "查本的生活", "slug": "查本的生活", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/25" },
+  { "titre": "熱愛小提琴的音樂家", "id": "熱愛小提琴的音樂家", "slug": "熱愛小提琴的音樂家", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/26" },
+  { "titre": "重新詮釋聖誕傳統", "id": "重新詮釋聖誕傳統", "slug": "重新詮釋聖誕傳統", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/27" },
+  { "titre": "網球選手", "id": "網球選手", "slug": "網球選手", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/28" },
+  { "titre": "登山之旅", "id": "登山之旅", "slug": "登山之旅", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/29" },
+  { "titre": "海底探險家", "id": "海底探險家", "slug": "海底探險家", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/30" }
+]
     
