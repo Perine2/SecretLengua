@@ -1,105 +1,19 @@
 [
-  {
-    "titre": "练习一",
-    "id": "exercise-1",
-    "slug": "Chinese-Reading-A1/1-UEFRIVISMTPESWG",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/1-UEFRIVISMTPESWG"
-  },
-  {
-    "titre": "练习二",
-    "id": "exercise-2",
-    "slug": "Chinese-Reading-A1/2-RHIJHNELIFKAKTR",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/2-RHIJHNELIFKAKTR"
-  },
-  {
-    "titre": "练习三",
-    "id": "exercise-3",
-    "slug": "Chinese-Reading-A1/3-RVTNLYCBPHIEDIZ",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/3-RVTNLYCBPHIEDIZ"
-  },
-  {
-    "titre": "练习四",
-    "id": "exercise-4",
-    "slug": "Chinese-Reading-A1/4-N-SXBUKSLSLGJ-F",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/4-N-SXBUKSLSLGJ-F"
-  },
-  {
-    "titre": "练习五",
-    "id": "exercise-5",
-    "slug": "Chinese-Reading-A1/5-ISLVJJQCO-BKXRZ",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/5-ISLVJJQCO-BKXRZ"
-  },
-  {
-    "titre": "练习六",
-    "id": "exercise-6",
-    "slug": "Chinese-Reading-A1/6-DOXHDWTCBLBZNHH",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/6-DOXHDWTCBLBZNHH"
-  },
-  {
-    "titre": "练习七",
-    "id": "exercise-7",
-    "slug": "Chinese-Reading-A1/7-AKVN-SIEXQIFCQX",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/7-AKVN-SIEXQIFCQX"
-  },
-  {
-    "titre": "练习八",
-    "id": "exercise-8",
-    "slug": "Chinese-Reading-A1/8-DORHZWBTLPCZV-V",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/8-DORHZWBTLPCZV-V"
-  },
-  {
-    "titre": "练习九",
-    "id": "exercise-9",
-    "slug": "Chinese-Reading-A1/9-LZWCPRM-QDJW-TN",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/9-LZWCPRM-QDJW-TN"
-  },
-  {
-    "titre": "练习十",
-    "id": "exercise-10",
-    "slug": "Chinese-Reading-A1/10-JESMVJEWVBULTAR",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/10-JESMVJEWVBULTAR"
-  },
-  {
-    "titre": "练习十一",
-    "id": "exercise-11",
-    "slug": "Chinese-Reading-A1/11-UMYHQNQQIMMVKOR",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/11-UMYHQNQQIMMVKOR"
-  },
-  {
-    "titre": "练习十二",
-    "id": "exercise-12",
-    "slug": "Chinese-Reading-A1/12-F-O-TDEZIYONEG",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/12-F-O-TDEZIYONEG"
-  },
-  {
-    "titre": "练习十三",
-    "id": "exercise-13",
-    "slug": "Chinese-Reading-A1/13-RCWQZKLRRACDDLC",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/13-RCWQZKLRRACDDLC"
-  },
-  {
-    "titre": "练习十四",
-    "id": "exercise-14",
-    "slug": "Chinese-Reading-A1/14-QTHKT-RRNKLC-RK",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/14-QTHKT-RRNKLC-RK"
-  },
-  {
-    "titre": "练习十五",
-    "id": "exercise-15",
-    "slug": "Chinese-Reading-A1/15-NXGZWWNSVUSLEBW",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/15-NXGZWWNSVUSLEBW"
-  },
-  {
-    "titre": "练习十六",
-    "id": "exercise-16",
-    "slug": "Chinese-Reading-A1/16-ZSHUKHSOAMWG-N",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/16-ZSHUKHSOAMWG-N"
-  },
-  {
-    "titre": "练习十七",
-    "id": "exercise-17",
-    "slug": "Chinese-Reading-A1/17-YBDUMNLKMZPZMCK",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/17-YBDUMNLKMZPZMCK"
-  }
-      ]
-    
+  { "titre": "练习一", "id": "exercise-1", "slug": "UEFRIVISMTPESWG", "url": "https://secretlengua.online/Chinese-Reading-A1/UEFRIVISMTPESWG" },
+  { "titre": "练习二", "id": "exercise-2", "slug": "RHIJHNELIFKAKTR", "url": "https://secretlengua.online/Chinese-Reading-A1/RHIJHNELIFKAKTR" },
+  { "titre": "练习三", "id": "exercise-3", "slug": "RVTNLYCBPHIEDIZ", "url": "https://secretlengua.online/Chinese-Reading-A1/RVTNLYCBPHIEDIZ" },
+  { "titre": "练习四", "id": "exercise-4", "slug": "NSXBUKSLSLGJF", "url": "https://secretlengua.online/Chinese-Reading-A1/NSXBUKSLSLGJF" },
+  { "titre": "练习五", "id": "exercise-5", "slug": "ISLVJJQCOBKXRZ", "url": "https://secretlengua.online/Chinese-Reading-A1/ISLVJJQCOBKXRZ" },
+  { "titre": "练习六", "id": "exercise-6", "slug": "DOXHDWTCBLBZNHH", "url": "https://secretlengua.online/Chinese-Reading-A1/DOXHDWTCBLBZNHH" },
+  { "titre": "练习七", "id": "exercise-7", "slug": "AKVNSIEXQIFCQX", "url": "https://secretlengua.online/Chinese-Reading-A1/AKVNSIEXQIFCQX" },
+  { "titre": "练习八", "id": "exercise-8", "slug": "DORHZWBTLPCZVV", "url": "https://secretlengua.online/Chinese-Reading-A1/DORHZWBTLPCZVV" },
+  { "titre": "练习九", "id": "exercise-9", "slug": "LZWCPRMQDJWTN", "url": "https://secretlengua.online/Chinese-Reading-A1/LZWCPRMQDJWTN" },
+  { "titre": "练习十", "id": "exercise-10", "slug": "JESMVJEWVBULTAR", "url": "https://secretlengua.online/Chinese-Reading-A1/JESMVJEWVBULTAR" },
+  { "titre": "练习十一", "id": "exercise-11", "slug": "UMYHQNQQIMMVKOR", "url": "https://secretlengua.online/Chinese-Reading-A1/UMYHQNQQIMMVKOR" },
+  { "titre": "练习十二", "id": "exercise-12", "slug": "FOTDEZIYONEG", "url": "https://secretlengua.online/Chinese-Reading-A1/FOTDEZIYONEG" },
+  { "titre": "练习十三", "id": "exercise-13", "slug": "RCWQZKLRRACDDLC", "url": "https://secretlengua.online/Chinese-Reading-A1/RCWQZKLRRACDDLC" },
+  { "titre": "练习十四", "id": "exercise-14", "slug": "QTHKTRRNKLCRK", "url": "https://secretlengua.online/Chinese-Reading-A1/QTHKTRRNKLCRK" },
+  { "titre": "练习十五", "id": "exercise-15", "slug": "NXGZWWNSVUSLEBW", "url": "https://secretlengua.online/Chinese-Reading-A1/NXGZWWNSVUSLEBW" },
+  { "titre": "练习十六", "id": "exercise-16", "slug": "ZSHUKHSOAMWGN", "url": "https://secretlengua.online/Chinese-Reading-A1/ZSHUKHSOAMWGN" },
+  { "titre": "练习十七", "id": "exercise-17", "slug": "YBDUMNLKMZPZMCK", "url": "https://secretlengua.online/Chinese-Reading-A1/YBDUMNLKMZPZMCK" }
+]
