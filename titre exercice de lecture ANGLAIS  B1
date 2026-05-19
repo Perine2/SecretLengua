@@ -1,347 +1,60 @@
-[ {
-    "titre": "He is charming",
-    "id": "he-is-charming",
-    "slug": "He-is-charming",
-    "url": "https://secretlengua1.com/EnglishB1/He-is-charming"
-  },
-  {
-    "titre": "The shoe store",
-    "id": "the-shoe-store",
-    "slug": "The-shoe-store",
-    "url": "https://secretlengua1.com/EnglishB1/The-shoe-store"
-  },
-  {
-    "titre": "The cruise on the Atlantic",
-    "id": "the-cruise-on-the-atlantic",
-    "slug": "The-cruise-on-the-Atlantic",
-    "url": "https://secretlengua1.com/EnglishB1/The-cruise-on-the-Atlantic"
-  },
-  {
-    "titre": "Italian food",
-    "id": "italian-food",
-    "slug": "Italian-food",
-    "url": "https://secretlengua1.com/EnglishB1/Italian-food"
-  },
-  {
-    "titre": "A family dinner",
-    "id": "a-family-dinner",
-    "slug": "A-family-dinner",
-    "url": "https://secretlengua1.com/EnglishB1/A-family-dinner"
-  },
-  {
-    "titre": "A day in the countryside",
-    "id": "a-day-in-the-countryside",
-    "slug": "A-day-in-the-countryside",
-    "url": "https://secretlengua1.com/EnglishB1/A-day-in-the-countryside"
-  },
-  {
-    "titre": "The chalet in the Alps",
-    "id": "the-chalet-in-the-alps",
-    "slug": "The-chalet-in-the-Alps",
-    "url": "https://secretlengua1.com/EnglishB1/The-chalet-in-the-Alps"
-  },
-  {
-    "titre": "A day on the farm",
-    "id": "a-day-on-the-farm",
-    "slug": "A-day-on-the-farm",
-    "url": "https://secretlengua1.com/EnglishB1/A-day-on-the-farm"
-  },
-  {
-    "titre": "My beginnings in the world of football",
-    "id": "my-beginnings-in-the-world-of-football",
-    "slug": "My-beginnings",
-    "url": "https://secretlengua1.com/EnglishB1/My-beginnings"
-  },
-  {
-    "titre": "Looking for a job",
-    "id": "looking-for-a-job",
-    "slug": "Looking-for-a-job",
-    "url": "https://secretlengua1.com/EnglishB1/Looking-for-a-job"
-  },
-  {
-    "titre": "Life at sea",
-    "id": "life-at-sea",
-    "slug": "Life-at-sea",
-    "url": "https://secretlengua1.com/EnglishB1/Life-at-sea"
-  },
-  {
-    "titre": "The Life of Charbon",
-    "id": "the-life-of-charbon",
-    "slug": "The-Life-of-Charbon",
-    "url": "https://secretlengua1.com/EnglishB1/The-Life-of-Charbon"
-  },
-  {
-    "titre": "The passionate violinist",
-    "id": "the-passionate-violinist",
-    "slug": "The-passionate-violinist",
-    "url": "https://secretlengua1.com/EnglishB1/The-passionate-violinist"
-  },
-  {
-    "titre": "The-tennis-player",
-    "id": "the-tennis-player",
-    "slug": "The-tennis-player",
-    "url": "https://secretlengua1.com/EnglishB1/The-tennis-player"
-  },
-  {
-    "titre": "The reinvented Christmas traditions.",
-    "id": "the-reinvented-christmas-traditions",
-    "slug": "The reinvented Christmas traditions",
-    "url": "https://secretlengua1.com/EnglishB1/The reinvented Christmas traditions"
-  },
-  {
-    "titre": "The mountain trip.",
-    "id": "the-mountain-trip",
-    "slug": "The-mountain-trip",
-    "url": "https://secretlengua1.com/EnglishB1/The-mountain-trip"
-  },
-  {
-    "titre": "The deep-sea explorer.",
-    "id": "the-deep-sea-explorer-1",
-    "slug": "The-dedicated-veterinarian",
-    "url": "https://secretlengua1.com/EnglishB1/The-dedicated-veterinarian"
-  },
-  {
-    "titre": "The deep-sea explorer.",
-    "id": "the-deep-sea-explorer-2",
-    "slug": "The-deep-sea-explorer",
-    "url": "https://secretlengua1.com/EnglishB1/The-deep-sea-explorer"
-  },{
-    "titre": "Letter to my best friend",
-    "id": "letter-to-my-best-friend",
-    "slug": "letter-to-my-best-friend",
-    "url": "https://secretlengua1.com/EnglishB1/letter-to-my-best-friend"
-  },
-  {
-    "titre": "A phone conversation",
-    "id": "a-phone-conversation",
-    "slug": "A-phone-conversation",
-    "url": "https://secretlengua1.com/EnglishB1/A-phone-conversation"
-  },
-  {
-    "titre": "Discovering Berlin",
-    "id": "discovering-berlin",
-    "slug": "Discovering-Berlin",
-    "url": "https://secretlengua1.com/EnglishB1/Discovering-Berlin"
-  },
-  {
-    "titre": "Letter to My Best Friend",
-    "id": "letter-to-my-best-friend-2",
-    "slug": "to-My-Best-Friend",
-    "url": "https://secretlengua1.com/EnglishB1/to-My-Best-Friend"
-  },
-  {
-    "titre": "Sophies-house",
-    "id": "sophies-house",
-    "slug": "Sophies-house",
-    "url": "https://secretlengua1.com/EnglishB1/Sophies-house"
-  },
-  {
-    "titre": "Lucas's House",
-    "id": "lucass-house",
-    "slug": "Lucass-House",
-    "url": "https://secretlengua1.com/EnglishB1/Lucass-House"
-  },
-  {
-    "titre": "Discover Nice in one day",
-    "id": "discover-nice-in-one-day",
-    "slug": "Discover-Nice-in-one-day",
-    "url": "https://secretlengua1.com/EnglishB1/Discover-Nice-in-one-day"
-  },
-  {
-    "titre": "Weather forecast",
-    "id": "weather-forecast",
-    "slug": "Weather-forecast",
-    "url": "https://secretlengua1.com/EnglishB1/Weather-forecast"
-  },
-  {
-    "titre": "Christmas in London",
-    "id": "christmas-in-london",
-    "slug": "Christmas-in-London",
-    "url": "https://secretlengua1.com/EnglishB1/Christmas-in-London"
-  },
-  {
-    "titre": "Discovering Rome in One Day",
-    "id": "discovering-rome-in-one-day",
-    "slug": "Discovering-Rome-in-One-Day",
-    "url": "https://secretlengua1.com/EnglishB1/Discovering-Rome-in-One-Day"
-  },
-  {
-    "titre": "Congratulations!",
-    "id": "congratulations",
-    "slug": "Congratulations",
-    "url": "https://secretlengua1.com/EnglishB1/Congratulations"
-  },
-  {
-    "titre": "Weather Forecast",
-    "id": "weather-forecast-2",
-    "slug": "Weather-Forecast",
-    "url": "https://secretlengua1.com/EnglishB1/Weather-Forecast"
-  },
-  {
-    "titre": "A meeting",
-    "id": "a-meeting",
-    "slug": "A-meeting",
-    "url": "https://secretlengua1.com/EnglishB1/A-meeting"
-  },
-  {
-    "titre": "Dear Amelie,",
-    "id": "dear-amelie",
-    "slug": "Dear-Amelie",
-    "url": "https://secretlengua1.com/EnglishB1/Dear-Amelie"
-  },
-  {
-    "titre": "The City of Doges",
-    "id": "the-city-of-doges",
-    "slug": "The-City-of-Doges",
-    "url": "https://secretlengua1.com/EnglishB1/The-City-of-Doges"
-  },
-  {
-    "titre": "At the bus station",
-    "id": "at-the-bus-station",
-    "slug": "At-the-bus-station",
-    "url": "https://secretlengua1.com/EnglishB1/At-the-bus-station"
-  },
-  {
-    "titre": "Preparation for a job interview",
-    "id": "preparation-for-a-job-interview",
-    "slug": "Preparation-for-a-job-interview",
-    "url": "https://secretlengua1.com/EnglishB1/Preparation-for-a-job-interview"
-  },
-  {
-    "titre": "Allergies",
-    "id": "allergies",
-    "slug": "allergies",
-    "url": "https://secretlengua1.com/EnglishB1/allergies"
-  },
-  {
-    "titre": "Take a break",
-    "id": "take-a-break",
-    "slug": "Take-a-break",
-    "url": "https://secretlengua1.com/EnglishB1/Take-a-break"
-  },
-  {
-    "titre": "personalized activities",
-    "id": "personalized-activities",
-    "slug": "personalized-activities",
-    "url": "https://secretlengua1.com/EnglishB1/personalized-activities"
-  },{
-    "titre": "A Restaurant Reservation",
-    "id": "a-restaurant-reservation",
-    "slug": "A-Restaurant-Reservation",
-    "url": "https://secretlengua1.com/EnglishB1/A-Restaurant-Reservation"
-  },
-  {
-    "titre": "Christmas festivities in Amsterdam",
-    "id": "christmas-festivities-in-amsterdam",
-    "slug": "Christmas-festivities-in-Amsterdam",
-    "url": "https://secretlengua1.com/EnglishB1/Christmas-festivities-in-Amsterdam"
-  },
-  {
-    "titre": "Easter celebrations in Berlin",
-    "id": "easter-celebrations-in-berlin",
-    "slug": "Easter-celebrations-in-Berlin",
-    "url": "https://secretlengua1.com/EnglishB1/Easter-celebrations-in-Berlin"
-  },
-  {
-    "titre": "Easter in Italy",
-    "id": "easter-in-italy",
-    "slug": "Easter-in-Italy",
-    "url": "https://secretlengua1.com/EnglishB1/Easter-in-Italy"
-  },
-  {
-    "titre": "A day in Rome",
-    "id": "a-day-in-rome",
-    "slug": "A-day-in-Rome",
-    "url": "https://secretlengua1.com/EnglishB1/A-day-in-Rome"
-  },
-  {
-    "titre": "Parts of the human body",
-    "id": "parts-of-the-human-body",
-    "slug": "Parts-of-the-human-body",
-    "url": "https://secretlengua1.com/EnglishB1/Parts-of-the-human-body"
-  },
-  {
-    "titre": "Vacation plans",
-    "id": "vacation-plans",
-    "slug": "Vacation-plans",
-    "url": "https://secretlengua1.com/EnglishB1/Vacation-plans"
-  },
-  {
-    "titre": "Summer-vacations",
-    "id": "summer-vacations",
-    "slug": "Summer-vacations",
-    "url": "https://secretlengua1.com/EnglishB1/Summer-vacations"
-  },
-  {
-    "titre": "Dear Sir/Madam,",
-    "id": "dear-sirmadam",
-    "slug": "Dear-SirMadam",
-    "url": "https://secretlengua1.com/EnglishB1/Dear-SirMadam"
-  },
-  {
-    "titre": "Clothing.",
-    "id": "clothing",
-    "slug": "Clothing",
-    "url": "https://secretlengua1.com/EnglishB1/Clothing"
-  },
-  {
-    "titre": "Cultivating one's garden",
-    "id": "cultivating-ones-garden",
-    "slug": "Cultivating-ones-garden",
-    "url": "https://secretlengua1.com/EnglishB1/Cultivating-ones-garden"
-  },
-  {
-    "titre": "Captain Greystorm",
-    "id": "captain-greystorm",
-    "slug": "Captain-Greystorm",
-    "url": "https://secretlengua1.com/EnglishB1/Captain-Greystorm"
-  },
-  {
-    "titre": "The magic of Christmas is coming",
-    "id": "the-magic-of-christmas-is-coming",
-    "slug": "The-magic-of-Christmas-is-coming",
-    "url": "https://secretlengua1.com/EnglishB1/The-magic-of-Christmas-is-coming"
-  },
-  {
-    "titre": "Tips for students",
-    "id": "tips-for-students",
-    "slug": "Tips-for-students",
-    "url": "https://secretlengua1.com/EnglishB1/Tips-for-students"
-  },
-  {
-    "titre": "A new start",
-    "id": "a-new-start",
-    "slug": "A-new-start",
-    "url": "https://secretlengua1.com/EnglishB1/A-new-start"
-  },
-  {
-    "titre": "Preserve your health",
-    "id": "preserve-your-health",
-    "slug": "Preserve-your-health",
-    "url": "https://secretlengua1.com/EnglishB1/Preserve-your-health"
-  },
-  {
-    "titre": "A getaway in the Pyrenees",
-    "id": "a-getaway-in-the-pyrenees",
-    "slug": "A-getaway-in-the-Pyrenees",
-    "url": "https://secretlengua1.com/EnglishB1/A-getaway-in-the-Pyrenees"
-  },
-  {
-    "titre": "A vacation in the mountains",
-    "id": "a-vacation-in-the-mountains",
-    "slug": "A-vacation-in-the-mountains",
-    "url": "https://secretlengua1.com/EnglishB1/A-vacation-in-the-mountains"
-  },
-  {
-    "titre": "Online learning: is it the best alternative?",
-    "id": "online-learning-is-it-the-best-alternative",
-    "slug": "Online-learni",
-    "url": "https://secretlengua1.com/EnglishB1/Online-learni"
-  },
-  {
-    "titre": "Sister and brother",
-    "id": "sister-and-brother",
-    "slug": "Sister-and-brother",
-    "url": "https://secretlengua1.com/EnglishB1/Sister-and-brother"
-  }
+[
+  {"titre":"He is charming","id":"he-is-charming","slug":"He-is-charming","url":"https://secretlengua.online/EnglishB1/He-is-charming"},
+  {"titre":"The shoe store","id":"the-shoe-store","slug":"The-shoe-store","url":"https://secretlengua.online/EnglishB1/The-shoe-store"},
+  {"titre":"The cruise on the Atlantic","id":"the-cruise-on-the-atlantic","slug":"The-cruise-on-the-Atlantic","url":"https://secretlengua.online/EnglishB1/The-cruise-on-the-Atlantic"},
+  {"titre":"Italian food","id":"italian-food","slug":"Italian-food","url":"https://secretlengua.online/EnglishB1/Italian-food"},
+  {"titre":"A family dinner","id":"a-family-dinner","slug":"A-family-dinner","url":"https://secretlengua.online/EnglishB1/A-family-dinner"},
+  {"titre":"A day in the countryside","id":"a-day-in-the-countryside","slug":"A-day-in-the-countryside","url":"https://secretlengua.online/EnglishB1/A-day-in-the-countryside"},
+  {"titre":"The chalet in the Alps","id":"the-chalet-in-the-alps","slug":"The-chalet-in-the-Alps","url":"https://secretlengua.online/EnglishB1/The-chalet-in-the-Alps"},
+  {"titre":"A day on the farm","id":"a-day-on-the-farm","slug":"A-day-on-the-farm","url":"https://secretlengua.online/EnglishB1/A-day-on-the-farm"},
+  {"titre":"My beginnings in the world of football","id":"my-beginnings-in-the-world-of-football","slug":"My-beginnings","url":"https://secretlengua.online/EnglishB1/My-beginnings"},
+  {"titre":"Looking for a job","id":"looking-for-a-job","slug":"Looking-for-a-job","url":"https://secretlengua.online/EnglishB1/Looking-for-a-job"},
+  {"titre":"Life at sea","id":"life-at-sea","slug":"Life-at-sea","url":"https://secretlengua.online/EnglishB1/Life-at-sea"},
+  {"titre":"The Life of Charbon","id":"the-life-of-charbon","slug":"The-Life-of-Charbon","url":"https://secretlengua.online/EnglishB1/The-Life-of-Charbon"},
+  {"titre":"The passionate violinist","id":"the-passionate-violinist","slug":"The-passionate-violinist","url":"https://secretlengua.online/EnglishB1/The-passionate-violinist"},
+  {"titre":"The-tennis-player","id":"the-tennis-player","slug":"The-tennis-player","url":"https://secretlengua.online/EnglishB1/The-tennis-player"},
+  {"titre":"The reinvented Christmas traditions.","id":"the-reinvented-christmas-traditions","slug":"The-reinvented-Christmas-traditions","url":"https://secretlengua.online/EnglishB1/The-reinvented-Christmas-traditions"},
+  {"titre":"The mountain trip.","id":"the-mountain-trip","slug":"The-mountain-trip","url":"https://secretlengua.online/EnglishB1/The-mountain-trip"},
+  {"titre":"The deep-sea explorer.","id":"the-deep-sea-explorer-1","slug":"The-dedicated-veterinarian","url":"https://secretlengua.online/EnglishB1/The-dedicated-veterinarian"},
+  {"titre":"The deep-sea explorer.","id":"the-deep-sea-explorer-2","slug":"The-deep-sea-explorer","url":"https://secretlengua.online/EnglishB1/The-deep-sea-explorer"},
+  {"titre":"Letter to my best friend","id":"letter-to-my-best-friend","slug":"letter-to-my-best-friend","url":"https://secretlengua.online/EnglishB1/letter-to-my-best-friend"},
+  {"titre":"A phone conversation","id":"a-phone-conversation","slug":"A-phone-conversation","url":"https://secretlengua.online/EnglishB1/A-phone-conversation"},
+  {"titre":"Discovering Berlin","id":"discovering-berlin","slug":"Discovering-Berlin","url":"https://secretlengua.online/EnglishB1/Discovering-Berlin"},
+  {"titre":"Letter to My Best Friend","id":"letter-to-my-best-friend-2","slug":"to-My-Best-Friend","url":"https://secretlengua.online/EnglishB1/to-My-Best-Friend"},
+  {"titre":"Sophies-house","id":"sophies-house","slug":"Sophies-house","url":"https://secretlengua.online/EnglishB1/Sophies-house"},
+  {"titre":"Lucas's House","id":"lucass-house","slug":"Lucass-House","url":"https://secretlengua.online/EnglishB1/Lucass-House"},
+  {"titre":"Discover Nice in one day","id":"discover-nice-in-one-day","slug":"Discover-Nice-in-one-day","url":"https://secretlengua.online/EnglishB1/Discover-Nice-in-one-day"},
+  {"titre":"Weather forecast","id":"weather-forecast","slug":"Weather-forecast","url":"https://secretlengua.online/EnglishB1/Weather-forecast"},
+  {"titre":"Christmas in London","id":"christmas-in-london","slug":"Christmas-in-London","url":"https://secretlengua.online/EnglishB1/Christmas-in-London"},
+  {"titre":"Discovering Rome in One Day","id":"discovering-rome-in-one-day","slug":"Discovering-Rome-in-One-Day","url":"https://secretlengua.online/EnglishB1/Discovering-Rome-in-One-Day"},
+  {"titre":"Congratulations!","id":"congratulations","slug":"Congratulations","url":"https://secretlengua.online/EnglishB1/Congratulations"},
+  {"titre":"Weather Forecast","id":"weather-forecast-2","slug":"Weather-Forecast","url":"https://secretlengua.online/EnglishB1/Weather-Forecast"},
+  {"titre":"A meeting","id":"a-meeting","slug":"A-meeting","url":"https://secretlengua.online/EnglishB1/A-meeting"},
+  {"titre":"Dear Amelie,","id":"dear-amelie","slug":"Dear-Amelie","url":"https://secretlengua.online/EnglishB1/Dear-Amelie"},
+  {"titre":"The City of Doges","id":"the-city-of-doges","slug":"The-City-of-Doges","url":"https://secretlengua.online/EnglishB1/The-City-of-Doges"},
+  {"titre":"At the bus station","id":"at-the-bus-station","slug":"At-the-bus-station","url":"https://secretlengua.online/EnglishB1/At-the-bus-station"},
+  {"titre":"Preparation for a job interview","id":"preparation-for-a-job-interview","slug":"Preparation-for-a-job-interview","url":"https://secretlengua.online/EnglishB1/Preparation-for-a-job-interview"},
+  {"titre":"Allergies","id":"allergies","slug":"allergies","url":"https://secretlengua.online/EnglishB1/allergies"},
+  {"titre":"Take a break","id":"take-a-break","slug":"Take-a-break","url":"https://secretlengua.online/EnglishB1/Take-a-break"},
+  {"titre":"personalized activities","id":"personalized-activities","slug":"personalized-activities","url":"https://secretlengua.online/EnglishB1/personalized-activities"},
+  {"titre":"A Restaurant Reservation","id":"a-restaurant-reservation","slug":"A-Restaurant-Reservation","url":"https://secretlengua.online/EnglishB1/A-Restaurant-Reservation"},
+  {"titre":"Christmas festivities in Amsterdam","id":"christmas-festivities-in-amsterdam","slug":"Christmas-festivities-in-Amsterdam","url":"https://secretlengua.online/EnglishB1/Christmas-festivities-in-Amsterdam"},
+  {"titre":"Easter celebrations in Berlin","id":"easter-celebrations-in-berlin","slug":"Easter-celebrations-in-Berlin","url":"https://secretlengua.online/EnglishB1/Easter-celebrations-in-Berlin"},
+  {"titre":"Easter in Italy","id":"easter-in-italy","slug":"Easter-in-Italy","url":"https://secretlengua.online/EnglishB1/Easter-in-Italy"},
+  {"titre":"A day in Rome","id":"a-day-in-rome","slug":"A-day-in-Rome","url":"https://secretlengua.online/EnglishB1/A-day-in-Rome"},
+  {"titre":"Parts of the human body","id":"parts-of-the-human-body","slug":"Parts-of-the-human-body","url":"https://secretlengua.online/EnglishB1/Parts-of-the-human-body"},
+  {"titre":"Vacation plans","id":"vacation-plans","slug":"Vacation-plans","url":"https://secretlengua.online/EnglishB1/Vacation-plans"},
+  {"titre":"Summer-vacations","id":"summer-vacations","slug":"Summer-vacations","url":"https://secretlengua.online/EnglishB1/Summer-vacations"},
+  {"titre":"Dear Sir/Madam,","id":"dear-sirmadam","slug":"Dear-SirMadam","url":"https://secretlengua.online/EnglishB1/Dear-SirMadam"},
+  {"titre":"Clothing.","id":"clothing","slug":"Clothing","url":"https://secretlengua.online/EnglishB1/Clothing"},
+  {"titre":"Cultivating one's garden","id":"cultivating-ones-garden","slug":"Cultivating-ones-garden","url":"https://secretlengua.online/EnglishB1/Cultivating-ones-garden"},
+  {"titre":"Captain Greystorm","id":"captain-greystorm","slug":"Captain-Greystorm","url":"https://secretlengua.online/EnglishB1/Captain-Greystorm"},
+  {"titre":"The magic of Christmas is coming","id":"the-magic-of-christmas-is-coming","slug":"The-magic-of-Christmas-is-coming","url":"https://secretlengua.online/EnglishB1/The-magic-of-Christmas-is-coming"},
+  {"titre":"Tips for students","id":"tips-for-students","slug":"Tips-for-students","url":"https://secretlengua.online/EnglishB1/Tips-for-students"},
+  {"titre":"A new start","id":"a-new-start","slug":"A-new-start","url":"https://secretlengua.online/EnglishB1/A-new-start"},
+  {"titre":"Preserve your health","id":"preserve-your-health","slug":"Preserve-your-health","url":"https://secretlengua.online/EnglishB1/Preserve-your-health"},
+  {"titre":"A getaway in the Pyrenees","id":"a-getaway-in-the-pyrenees","slug":"A-getaway-in-the-Pyrenees","url":"https://secretlengua.online/EnglishB1/A-getaway-in-the-Pyrenees"},
+  {"titre":"A vacation in the mountains","id":"a-vacation-in-the-mountains","slug":"A-vacation-in-the-mountains","url":"https://secretlengua.online/EnglishB1/A-vacation-in-the-mountains"},
+  {"titre":"Online learning: is it the best alternative?","id":"online-learning-is-it-the-best-alternative","slug":"Online-learni","url":"https://secretlengua.online/EnglishB1/Online-learni"},
+  {"titre":"Sister and brother","id":"sister-and-brother","slug":"Sister-and-brother","url":"https://secretlengua.online/EnglishB1/Sister-and-brother"}
 ]
