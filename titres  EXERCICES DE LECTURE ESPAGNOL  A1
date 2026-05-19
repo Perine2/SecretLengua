@@ -1,87 +1,16 @@
 [
-  {
-    "titre": "Un día en la playa",
-    "id": "un-dia-en-la-playa",
-    "slug": "Spanish-Reading-A1/Un-dia-en-la-playa",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Un-dia-en-la-playa"
-  },
-  {
-    "titre": "La postal",
-    "id": "la-postal",
-    "slug": "Spanish-Reading-A1/La-postal",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/La-postal"
-  },
-  {
-    "titre": "Las maravillas de la naturaleza",
-    "id": "las-maravillas-de-la-naturaleza",
-    "slug": "Spanish-Reading-A1/Las-maravillas-de-la-naturaleza",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Las-maravillas-de-la-naturaleza"
-  },
-  {
-    "titre": "Una carta desde París",
-    "id": "una-carta-desde-paris",
-    "slug": "Spanish-Reading-A1/Una-carta-desde-Paris",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Una-carta-desde-Paris"
-  },
-  {
-    "titre": "Mi querida familia",
-    "id": "mi-querida-familia",
-    "slug": "Spanish-Reading-A1/Mi-querida-familia",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Mi-querida-familia"
-  },
-  {
-    "titre": "Un día con Lucie",
-    "id": "un-dia-con-lucie",
-    "slug": "Spanish-Reading-A1/Un-dia-con-Lucie",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Un-dia-con-Lucie"
-  },
-  {
-    "titre": "Una Nueva Vida en Francia",
-    "id": "una-nueva-vida-en-francia",
-    "slug": "Spanish-Reading-A1/Una-Nueva-Vida-en-Francia",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Una-Nueva-Vida-en-Francia"
-  },
-  {
-    "titre": "Una Ciudad Encantadora",
-    "id": "una-ciudad-encantadora",
-    "slug": "Spanish-Reading-A1/Una-Ciudad-Encantadora",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Una-Ciudad-Encantadora"
-  },
-  {
-    "titre": "Vacaciones en Familia",
-    "id": "vacaciones-en-familia",
-    "slug": "Spanish-Reading-A1/Vacaciones-en-Familia",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Vacaciones-en-Familia"
-  },
-  {
-    "titre": "Mi Familia y Yo",
-    "id": "mi-familia-y-yo",
-    "slug": "Spanish-Reading-A1/Mi-Familia-y-Yo",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Mi-Familia-y-Yo"
-  },
-  {
-    "titre": "Planificación de una noche",
-    "id": "planificacion-de-una-noche",
-    "slug": "Spanish-Reading-A1/Planificacion-de-una-noche",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Planificacion-de-una-noche"
-  },
-  {
-    "titre": "Descubrimiento de una casa",
-    "id": "descubrimiento-de-una-casa",
-    "slug": "Spanish-Reading-A1/Descubrimiento-de-una-casa",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Descubrimiento-de-una-casa"
-  },
-  {
-    "titre": "Reserva de una habitación",
-    "id": "reserva-de-una-habitacion",
-    "slug": "Spanish-Reading-A1/Reserva-de-una-habitacion",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Reserva-de-una-habitacion"
-  },
-  {
-    "titre": "Adaptación a la Vida Urbana",
-    "id": "adaptacion-a-la-vida-urbana",
-    "slug": "Spanish-Reading-A1/Adaptacion-a-la-Vida-Urbana",
-    "url": "https://secretlengua1.com/Spanish-Reading-A1/Adaptacion-a-la-Vida-Urbana"
-  }
-      ]
-    
+  { "titre": "Un día en la playa", "id": "un-dia-en-la-playa", "slug": "Un-dia-en-la-playa", "url": "https://secretlengua.online/Spanish-Reading-A1/Un-dia-en-la-playa" },
+  { "titre": "La postal", "id": "la-postal", "slug": "La-postal", "url": "https://secretlengua.online/Spanish-Reading-A1/La-postal" },
+  { "titre": "Las maravillas de la naturaleza", "id": "las-maravillas-de-la-naturaleza", "slug": "Las-maravillas-de-la-naturaleza", "url": "https://secretlengua.online/Spanish-Reading-A1/Las-maravillas-de-la-naturaleza" },
+  { "titre": "Una carta desde París", "id": "una-carta-desde-paris", "slug": "Una-carta-desde-Paris", "url": "https://secretlengua.online/Spanish-Reading-A1/Una-carta-desde-Paris" },
+  { "titre": "Mi querida familia", "id": "mi-querida-familia", "slug": "Mi-querida-familia", "url": "https://secretlengua.online/Spanish-Reading-A1/Mi-querida-familia" },
+  { "titre": "Un día con Lucie", "id": "un-dia-con-lucie", "slug": "Un-dia-con-Lucie", "url": "https://secretlengua.online/Spanish-Reading-A1/Un-dia-con-Lucie" },
+  { "titre": "Una Nueva Vida en Francia", "id": "una-nueva-vida-en-francia", "slug": "Una-Nueva-Vida-en-Francia", "url": "https://secretlengua.online/Spanish-Reading-A1/Una-Nueva-Vida-en-Francia" },
+  { "titre": "Una Ciudad Encantadora", "id": "una-ciudad-encantadora", "slug": "Una-Ciudad-Encantadora", "url": "https://secretlengua.online/Spanish-Reading-A1/Una-Ciudad-Encantadora" },
+  { "titre": "Vacaciones en Familia", "id": "vacaciones-en-familia", "slug": "Vacaciones-en-Familia", "url": "https://secretlengua.online/Spanish-Reading-A1/Vacaciones-en-Familia" },
+  { "titre": "Mi Familia y Yo", "id": "mi-familia-y-yo", "slug": "Mi-Familia-y-Yo", "url": "https://secretlengua.online/Spanish-Reading-A1/Mi-Familia-y-Yo" },
+  { "titre": "Planificación de una noche", "id": "planificacion-de-una-noche", "slug": "Planificacion-de-una-noche", "url": "https://secretlengua.online/Spanish-Reading-A1/Planificacion-de-una-noche" },
+  { "titre": "Descubrimiento de una casa", "id": "descubrimiento-de-una-casa", "slug": "Descubrimiento-de-una-casa", "url": "https://secretlengua.online/Spanish-Reading-A1/Descubrimiento-de-una-casa" },
+  { "titre": "Reserva de una habitación", "id": "reserva-de-una-habitacion", "slug": "Reserva-de-una-habitacion", "url": "https://secretlengua.online/Spanish-Reading-A1/Reserva-de-una-habitacion" },
+  { "titre": "Adaptación a la Vida Urbana", "id": "adaptacion-a-la-vida-urbana", "slug": "Adaptacion-a-la-Vida-Urbana", "url": "https://secretlengua.online/Spanish-Reading-A1/Adaptacion-a-la-Vida-Urbana" }
+]
