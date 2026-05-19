@@ -1,110 +1,20 @@
-[ 
-  {
-    "titre": "Ein Tag am Strand",
-    "id": "ein-tag-am-strand",
-    "slug": "Ein-Tag-am-Strand",
-    "url": "https://secretlengua1.com/German-A1/Ein-Tag-am-Strand"
-  },
-{
-    "titre": "Erinnerungen an einen unvergesslichen Hochzeitstag",
-    "id": "erinnerungen-an-einen-unvergesslichen-hochzeitstag",
-    "slug": "Erinnerungen-an-einen-unvergesslichen-Hochzeitstag",
-    "url": "https://secretlengua1.com/German-A2/Erinnerungen-an-einen"
-  },
-  {
-    "titre": "Ein Tag der Vorstellung bei der Arbeit",
-    "id": "ein-tag-der-vorstellung-bei-der-arbeit",
-    "slug": "Ein-Tag-der-Vorstellung-bei-der-Arbeit",
-    "url": "https://secretlengua1.com/German-A2/Ein-Tag-der-Vorstellung"
-  },
-  {
-    "titre": "Ein Abschied voller Nostalgie",
-    "id": "ein-abschied-voller-nostalgie",
-    "slug": "Ein-Abschied-voller-Nostalgie",
-    "url": "https://secretlengua1.com/German-A2/Ein-Abschied-voller-Nostalgie"
-  },
-  {
-    "titre": "Eine helfende Hand",
-    "id": "eine-helfende-hand",
-    "slug": "Eine-helfende-Hand",
-    "url": "https://secretlengua1.com/German-A2/Eine-helfende-Hand"
-  },
-  {
-    "titre": "Ein entspannter Tag auf dem Land",
-    "id": "ein-entspannter-tag-auf-dem-land",
-    "slug": "Ein-entspannter-Tag-auf-dem-Land",
-    "url": "https://secretlengua1.com/German-A2/Ein-entspannter-Tag"
-  },
-  {
-    "titre": "Ein erfüllter Tag",
-    "id": "ein-erfullter-tag",
-    "slug": "Ein-erfüllter-Tag",
-    "url": "https://secretlengua1.com/German-A2/Ein-erfullter-Tag"
-  },
-  {
-    "titre": "Die Postkarte",
-    "id": "die-postkarte",
-    "slug": "Die-Postkarte",
-    "url": "https://secretlengua1.com/German-A1/Die-Postkarte"
-  },
-  {
-    "titre": "Ein Brief aus Paris",
-    "id": "ein-brief-aus-paris",
-    "slug": "Ein-Brief-aus-Paris",
-    "url": "https://secretlengua1.com/German-A1/Ein-Brief-aus-Paris"
-  },
-  {
-    "titre": "Meine liebe Familie",
-    "id": "meine-liebe-familie",
-    "slug": "Meine-liebe-Familie",
-    "url": "https://secretlengua1.com/German-A1/Meine-liebe-Familie"
-  },
-  {
-    "titre": "Ein Tag mit Lucie",
-    "id": "ein-tag-mit-lucie",
-    "slug": "Ein-Tag-mit-Lucie",
-    "url": "https://secretlengua1.com/German-A1/Ein-Tag-mit-Lucie"
-  },
-  {
-    "titre": "Ein Neues Leben in Frankreich",
-    "id": "ein-neues-leben-in-frankreich",
-    "slug": "Ein-Neues-Leben-in-Frankreich",
-    "url": "https://secretlengua1.com/German-A1/Ein-Neues-Leben-in-Frankreich"
-  },
-  {
-    "titre": "Eine charmante Stadt",
-    "id": "eine-charmante-stadt",
-    "slug": "Eine-charmante-Stadt",
-    "url": "https://secretlengua1.com/German-A1/Eine-charmante-Stadt"
-  },
-  {
-    "titre": "Meine Familie und ich",
-    "id": "meine-familie-und-ich",
-    "slug": "Meine-Familie-und-ich",
-    "url": "https://secretlengua1.com/German-A1/Meine-Familie-und-ich"
-  },
-  {
-    "titre": "Planung eines Abends",
-    "id": "planung-eines-abends",
-    "slug": "Planung-eines-Abends",
-    "url": "https://secretlengua1.com/German-A1/Planung-eines-Abends"
-  },
-  {
-    "titre": "Entdeckung eines Hauses",
-    "id": "entdeckung-eines-hauses",
-    "slug": "Entdeckung-eines-Hauses",
-    "url": "https://secretlengua1.com/German-A1/Entdeckung-eines-Hauses"
-  },
-  {
-    "titre": "Zimmerreservierung",
-    "id": "zimmerreservierung",
-    "slug": "Zimmerreservierung",
-    "url": "https://secretlengua1.com/German-A1/Zimmerreservierung"
-  },
-  {
-    "titre": "Anpassung an das Stadtleben",
-    "id": "anpassung-an-das-stadtleben",
-    "slug": "Anpassung-an-das-Stadtleben",
-    "url": "https://secretlengua1.com/German-A1/Anpassung-an-das-Stadtleben"
-  }
+[
+  {"titre":"Ein Tag am Strand","id":"ein-tag-am-strand","slug":"Ein-Tag-am-Strand","url":"https://secretlengua.online/German-A1/Ein-Tag-am-Strand"},
+  {"titre":"Erinnerungen an einen unvergesslichen Hochzeitstag","id":"erinnerungen-an-einen-unvergesslichen-hochzeitstag","slug":"Erinnerungen-an-einen-unvergesslichen-Hochzeitstag","url":"https://secretlengua.online/German-A2/Erinnerungen-an-einen"},
+  {"titre":"Ein Tag der Vorstellung bei der Arbeit","id":"ein-tag-der-vorstellung-bei-der-arbeit","slug":"Ein-Tag-der-Vorstellung-bei-der-Arbeit","url":"https://secretlengua.online/German-A2/Ein-Tag-der-Vorstellung"},
+  {"titre":"Ein Abschied voller Nostalgie","id":"ein-abschied-voller-nostalgie","slug":"Ein-Abschied-voller-Nostalgie","url":"https://secretlengua.online/German-A2/Ein-Abschied-voller-Nostalgie"},
+  {"titre":"Eine helfende Hand","id":"eine-helfende-hand","slug":"Eine-helfende-Hand","url":"https://secretlengua.online/German-A2/Eine-helfende-Hand"},
+  {"titre":"Ein entspannter Tag auf dem Land","id":"ein-entspannter-tag-auf-dem-land","slug":"Ein-entspannter-Tag-auf-dem-Land","url":"https://secretlengua.online/German-A2/Ein-entspannter-Tag"},
+  {"titre":"Ein erfüllter Tag","id":"ein-erfullter-tag","slug":"Ein-erfüllter-Tag","url":"https://secretlengua.online/German-A2/Ein-erfullter-Tag"},
+  {"titre":"Die Postkarte","id":"die-postkarte","slug":"Die-Postkarte","url":"https://secretlengua.online/German-A1/Die-Postkarte"},
+  {"titre":"Ein Brief aus Paris","id":"ein-brief-aus-paris","slug":"Ein-Brief-aus-Paris","url":"https://secretlengua.online/German-A1/Ein-Brief-aus-Paris"},
+  {"titre":"Meine liebe Familie","id":"meine-liebe-familie","slug":"Meine-liebe-Familie","url":"https://secretlengua.online/German-A1/Meine-liebe-Familie"},
+  {"titre":"Ein Tag mit Lucie","id":"ein-tag-mit-lucie","slug":"Ein-Tag-mit-Lucie","url":"https://secretlengua.online/German-A1/Ein-Tag-mit-Lucie"},
+  {"titre":"Ein Neues Leben in Frankreich","id":"ein-neues-leben-in-frankreich","slug":"Ein-Neues-Leben-in-Frankreich","url":"https://secretlengua.online/German-A1/Ein-Neues-Leben-in-Frankreich"},
+  {"titre":"Eine charmante Stadt","id":"eine-charmante-stadt","slug":"Eine-charmante-Stadt","url":"https://secretlengua.online/German-A1/Eine-charmante-Stadt"},
+  {"titre":"Meine Familie und ich","id":"meine-familie-und-ich","slug":"Meine-Familie-und-ich","url":"https://secretlengua.online/German-A1/Meine-Familie-und-ich"},
+  {"titre":"Planung eines Abends","id":"planung-eines-abends","slug":"Planung-eines-Abends","url":"https://secretlengua.online/German-A1/Planung-eines-Abends"},
+  {"titre":"Entdeckung eines Hauses","id":"entdeckung-eines-hauses","slug":"Entdeckung-eines-Hauses","url":"https://secretlengua.online/German-A1/Entdeckung-eines-Hauses"},
+  {"titre":"Zimmerreservierung","id":"zimmerreservierung","slug":"Zimmerreservierung","url":"https://secretlengua.online/German-A1/Zimmerreservierung"},
+  {"titre":"Anpassung an das Stadtleben","id":"anpassung-an-das-stadtleben","slug":"Anpassung-an-das-Stadtleben","url":"https://secretlengua.online/German-A1/Anpassung-an-das-Stadtleben"}
 ]
