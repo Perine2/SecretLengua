@@ -1,75 +1,14 @@
 [
-  {
-    "titre": "Esercizio 1",
-    "id": "esercizio-1",
-    "slug": "DXYHCBKGEALFAS",
-    "url": "https://secretlengua1.com/Italian-reading-A1/DXYHCBKGEALFAS"
-  },
-  {
-    "titre": "Esercizio 2",
-    "id": "esercizio-2",
-    "slug": "ZQMVFLVNWKUY-ML",
-    "url": "https://secretlengua1.com/Italian-reading-A1/ZQMVFLVNWKUY-ML"
-  },
-  {
-    "titre": "Esercizio 3",
-    "id": "esercizio-3",
-    "slug": "BTQ-HJOXVZVFESF",
-    "url": "https://secretlengua1.com/Italian-reading-A1/BTQ-HJOXVZVFESF"
-  },
-  {
-    "titre": "Esercizio 4",
-    "id": "esercizio-4",
-    "slug": "CXBVN-VZ-DWKQMH",
-    "url": "https://secretlengua1.com/Italian-reading-A1/CXBVN-VZ-DWKQMH"
-  },
-  {
-    "titre": "Esercizio 5",
-    "id": "esercizio-5",
-    "slug": "LVEAGVWHSKSVCB",
-    "url": "https://secretlengua1.com/Italian-reading-A1/LVEAGVWHSKSVCB"
-  },
-  {
-    "titre": "Esercizio 6",
-    "id": "esercizio-6",
-    "slug": "SYILGHQALPGEMGR",
-    "url": "https://secretlengua1.com/Italian-reading-A1/SYILGHQALPGEMGR"
-  },
-  {
-    "titre": "Esercizio 7",
-    "id": "esercizio-7",
-    "slug": "TKJAOXCUWBHHYXA",
-    "url": "https://secretlengua1.com/Italian-reading-A1/TKJAOXCUWBHHYXA"
-  },
-  {
-    "titre": "Esercizio 8",
-    "id": "esercizio-8",
-    "slug": "XLRRZVDNO-AZFZT",
-    "url": "https://secretlengua1.com/Italian-reading-A1/XLRRZVDNO-AZFZT"
-  },
-  {
-    "titre": "Esercizio 9",
-    "id": "esercizio-9",
-    "slug": "IXHJZVHPATXJEBW",
-    "url": "https://secretlengua1.com/Italian-reading-A1/IXHJZVHPATXJEBW"
-  },
-  {
-    "titre": "Esercizio 10",
-    "id": "esercizio-10",
-    "slug": "NGZQ-XNKB-OAQHZ",
-    "url": "https://secretlengua1.com/Italian-reading-A1/NGZQ-XNKB-OAQHZ"
-  },
-  {
-    "titre": "Esercizio 11",
-    "id": "esercizio-11",
-    "slug": "IAABXLJVCRLTAWB",
-    "url": "https://secretlengua1.com/Italian-reading-A1/IAABXLJVCRLTAWB"
-  },
-  {
-    "titre": "Esercizio 12",
-    "id": "esercizio-12",
-    "slug": "YODNYGNLVK-FW-O",
-    "url": "https://secretlengua1.com/Italian-reading-A1/YODNYGNLVK-FW-O"
-  }
-      ]
-    
+  { "titre": "Esercizio 1", "id": "esercizio-1", "slug": "DXYHCBKGEALFAS", "url": "https://secretlengua.online/Italian-reading-A1/DXYHCBKGEALFAS" },
+  { "titre": "Esercizio 2", "id": "esercizio-2", "slug": "ZQMVFLVNWKUY-ML", "url": "https://secretlengua.online/Italian-reading-A1/ZQMVFLVNWKUY-ML" },
+  { "titre": "Esercizio 3", "id": "esercizio-3", "slug": "BTQ-HJOXVZVFESF", "url": "https://secretlengua.online/Italian-reading-A1/BTQ-HJOXVZVFESF" },
+  { "titre": "Esercizio 4", "id": "esercizio-4", "slug": "CXBVN-VZ-DWKQMH", "url": "https://secretlengua.online/Italian-reading-A1/CXBVN-VZ-DWKQMH" },
+  { "titre": "Esercizio 5", "id": "esercizio-5", "slug": "LVEAGVWHSKSVCB", "url": "https://secretlengua.online/Italian-reading-A1/LVEAGVWHSKSVCB" },
+  { "titre": "Esercizio 6", "id": "esercizio-6", "slug": "SYILGHQALPGEMGR", "url": "https://secretlengua.online/Italian-reading-A1/SYILGHQALPGEMGR" },
+  { "titre": "Esercizio 7", "id": "esercizio-7", "slug": "TKJAOXCUWBHHYXA", "url": "https://secretlengua.online/Italian-reading-A1/TKJAOXCUWBHHYXA" },
+  { "titre": "Esercizio 8", "id": "esercizio-8", "slug": "XLRRZVDNO-AZFZT", "url": "https://secretlengua.online/Italian-reading-A1/XLRRZVDNO-AZFZT" },
+  { "titre": "Esercizio 9", "id": "esercizio-9", "slug": "IXHJZVHPATXJEBW", "url": "https://secretlengua.online/Italian-reading-A1/IXHJZVHPATXJEBW" },
+  { "titre": "Esercizio 10", "id": "esercizio-10", "slug": "NGZQ-XNKB-OAQHZ", "url": "https://secretlengua.online/Italian-reading-A1/NGZQ-XNKB-OAQHZ" },
+  { "titre": "Esercizio 11", "id": "esercizio-11", "slug": "IAABXLJVCRLTAWB", "url": "https://secretlengua.online/Italian-reading-A1/IAABXLJVCRLTAWB" },
+  { "titre": "Esercizio 12", "id": "esercizio-12", "slug": "YODNYGNLVK-FW-O", "url": "https://secretlengua.online/Italian-reading-A1/YODNYGNLVK-FW-O" }
+]
