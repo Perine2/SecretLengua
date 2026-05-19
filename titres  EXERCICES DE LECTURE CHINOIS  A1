@@ -1,86 +1,16 @@
-[{
-    "titre": "一天在海灘上",
-    "id": "yi-tian-zai-haitan-shang",
-    "slug": "Chinese-Reading-A1/3",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/3"
-  },
-  {
-    "titre": "明信片",
-    "id": "ming-xin-pian",
-    "slug": "Chinese-Reading-A1/4",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/4"
-  },
-  {
-    "titre": "大自然的奇蹟",
-    "id": "da-zi-ran-de-qi-ji",
-    "slug": "Chinese-Reading-A1/5",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/5"
-  },
-  {
-    "titre": "一封來自巴黎的信",
-    "id": "yi-feng-laizi-bali-de-xin",
-    "slug": "Chinese-Reading-A1/6",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/6"
-  },
-  {
-    "titre": "我親愛的家人",
-    "id": "wo-qin-ai-de-jia-ren",
-    "slug": "Chinese-Reading-A1/7",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/7"
-  },
-  {
-    "titre": "與Lucie度過的一天",
-    "id": "yu-lucie-duguo-de-yi-tian",
-    "slug": "Chinese-Reading-A1/8",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/8"
-  },
-  {
-    "titre": "一次新的相遇",
-    "id": "yi-ci-xin-de-xiang-yu",
-    "slug": "Chinese-Reading-A1/9",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/9"
-  },
-  {
-    "titre": "在法國的新生活",
-    "id": "zai-faguo-de-xin-shenghuo",
-    "slug": "Chinese-Reading-A1/10",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/10"
-  },
-  {
-    "titre": "一個迷人的城市",
-    "id": "yi-ge-mi-ren-de-chengshi",
-    "slug": "Chinese-Reading-A1/11",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/11"
-  },
-  {
-    "titre": "家庭度假",
-    "id": "jiating-dujia",
-    "slug": "Chinese-Reading-A1/12",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/12"
-  },
-  {
-    "titre": "我和我的家人",
-    "id": "wo-he-wo-de-jia-ren",
-    "slug": "Chinese-Reading-A1/13",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/13"
-  },
-  {
-    "titre": "晚會計劃",
-    "id": "wanhui-jihua",
-    "slug": "Chinese-Reading-A1/14",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/14"
-  },
-  {
-    "titre": "探索一個房子",
-    "id": "tansuo-yi-ge-fangzi",
-    "slug": "Chinese-Reading-A1/15",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/15"
-  },
-  {
-    "titre": "間預訂房",
-    "id": "jian-yuding-fang",
-    "slug": "Chinese-Reading-A1/16",
-    "url": "https://secretlengua1.com/Chinese-Reading-A1/16"
-  }
-      ]
-    
+[
+  { "titre": "一天在海灘上", "id": "yi-tian-zai-haitan-shang", "slug": "Chinese-Reading-A1/3", "url": "https://secretlengua.online/Chinese-Reading-A1/3" },
+  { "titre": "明信片", "id": "ming-xin-pian", "slug": "Chinese-Reading-A1/4", "url": "https://secretlengua.online/Chinese-Reading-A1/4" },
+  { "titre": "大自然的奇蹟", "id": "da-zi-ran-de-qi-ji", "slug": "Chinese-Reading-A1/5", "url": "https://secretlengua.online/Chinese-Reading-A1/5" },
+  { "titre": "一封來自巴黎的信", "id": "yi-feng-laizi-bali-de-xin", "slug": "Chinese-Reading-A1/6", "url": "https://secretlengua.online/Chinese-Reading-A1/6" },
+  { "titre": "我親愛的家人", "id": "wo-qin-ai-de-jia-ren", "slug": "Chinese-Reading-A1/7", "url": "https://secretlengua.online/Chinese-Reading-A1/7" },
+  { "titre": "與Lucie度過的一天", "id": "yu-lucie-duguo-de-yi-tian", "slug": "Chinese-Reading-A1/8", "url": "https://secretlengua.online/Chinese-Reading-A1/8" },
+  { "titre": "一次新的相遇", "id": "yi-ci-xin-de-xiang-yu", "slug": "Chinese-Reading-A1/9", "url": "https://secretlengua.online/Chinese-Reading-A1/9" },
+  { "titre": "在法國的新生活", "id": "zai-faguo-de-xin-shenghuo", "slug": "Chinese-Reading-A1/10", "url": "https://secretlengua.online/Chinese-Reading-A1/10" },
+  { "titre": "一個迷人的城市", "id": "yi-ge-mi-ren-de-chengshi", "slug": "Chinese-Reading-A1/11", "url": "https://secretlengua.online/Chinese-Reading-A1/11" },
+  { "titre": "家庭度假", "id": "jiating-dujia", "slug": "Chinese-Reading-A1/12", "url": "https://secretlengua.online/Chinese-Reading-A1/12" },
+  { "titre": "我和我的家人", "id": "wo-he-wo-de-jia-ren", "slug": "Chinese-Reading-A1/13", "url": "https://secretlengua.online/Chinese-Reading-A1/13" },
+  { "titre": "晚會計劃", "id": "wanhui-jihua", "slug": "Chinese-Reading-A1/14", "url": "https://secretlengua.online/Chinese-Reading-A1/14" },
+  { "titre": "探索一個房子", "id": "tansuo-yi-ge-fangzi", "slug": "Chinese-Reading-A1/15", "url": "https://secretlengua.online/Chinese-Reading-A1/15" },
+  { "titre": "間預訂房", "id": "jian-yuding-fang", "slug": "Chinese-Reading-A1/16", "url": "https://secretlengua.online/Chinese-Reading-A1/16" }
+]
