@@ -9,13 +9,13 @@
     "titre": "Grammar",
     "id": "grammar-a2",
     "slug": "grammar-a2",
-    "url": "https://secretlengua.online/secretlengua-Test/grammar-A2"
+    "url": "https://secretlengua.online/secretlengua-Test/Grammar-A2"
   },
   {
     "titre": "Listening",
     "id": "listening-a2",
     "slug": "listening-a2",
-    "url": "https://secretlengua.online/secretlengua-Test/listening-A2"
+    "url": "https://secretlengua.online/secretlengua-Test/Listening-A2"
   },
   {
     "titre": "Vocabulary",
@@ -27,6 +27,6 @@
     "titre": "Dictation",
     "id": "dictation-a2",
     "slug": "dictation-a2",
-    "url": "https://secretlengua.online/secretlengua-Test/dictation-A2"
+    "url": "https://secretlengua.online/secretlengua-Test/DICTATION-A2"
   }
 ]
