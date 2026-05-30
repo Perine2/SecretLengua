@@ -3,7 +3,7 @@
     "titre": "Reading",
     "id": "reading",
     "slug": "reading-a1",
-    "url": "https://secretlengua.online/secretlengua-Test/reading-english-a1"
+    "url": "https://secretlengua.online/secretlengua-Test/Reading-englis-a1"
   },
   {
     "titre": "Listening",
@@ -21,12 +21,12 @@
     "titre": "Dictation",
     "id": "dictation",
     "slug": "dictation-a1",
-    "url": "https://secretlengua.online/secretlengua-Test/dictation-a1-english"
+    "url": "https://secretlengua.online/secretlengua-Test/dictation-a1-englich"
   },
   {
     "titre": "Vocabulary",
     "id": "vocabulary",
     "slug": "vocabulary-a1",
-    "url": "https://secretlengua.online/secretlengua-Test/vocabulary-english"
+    "url": "https://secretlengua.online/secretlengua-Test/vocabulary-ENGLISH"
   }
 ]
