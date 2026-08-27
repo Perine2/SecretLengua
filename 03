@@ -1,6 +1,7 @@
 {
 "SecretLenguaEntryLevelTest": 27,
 "vocabulary": 100,
+"Object-Identification": 100,
   "dictation": 25,
   "grammar": 81,
   "reading": 170,
