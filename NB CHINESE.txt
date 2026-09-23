@@ -1,5 +1,5 @@
 {
-"vocabulary": 100,
+"vocabulary": 600,
   "dictation": 10,
   "grammar": 70,
   "reading": 69,
