@@ -1,9 +1,15 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+  "hindi": {
+    "hindifrench": [],
+    "hindienglish": [],
+    "hindigerman": [],
+    "hindispanish": [],
+    "hindichinese": [],
+    "hindiportuguese": [],
+    "hindiarabic": [],
+    "hinditurkish": [],
+    "hinditalian": [],
+    "hindirussian": [],
+    "hindipolish": []
+  }
 }
