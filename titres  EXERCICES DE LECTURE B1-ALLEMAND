@@ -6,8 +6,8 @@
   { "titre": "Wettervorhersage", "id": "wettervorhersage", "slug": "Wettervorhersage", "url": "https://secretlengua.online/german-Reading-B1/Wettervorhersage" },
   { "titre": "Nizza an einem Tag entdecken", "id": "nizza-an-einem-tag-entdecken", "slug": "Nizza-an-einem-Tag-entdecken", "url": "https://secretlengua.online/german-Reading-B1/Nizza-an-einem-Tag-entdecken" },
   { "titre": "Weihnachten in London", "id": "weihnachten-in-london", "slug": "Weihnachten-in-London", "url": "https://secretlengua.online/german-Reading-B1/Weihnachten-in-London" },
-  { "titre": "Weihnachtsfeierlichkeiten in Amsterdam", "id": "weihnachtsfeierlichkeiten-in-amsterdam", "slug": "Weihnachtsfeierlichkeiten", "url": "https://secretlengua.online/german-Reading-B1/Weihnachtsfeierlichkeiten" },
-  { "titre": "Die Osterfeierlichkeiten in Berlin", "id": "die-osterfeierlichkeiten-in-berlin", "slug": "Die-Osterfeierlichkeiten", "url": "https://secretlengua.online/german-Reading-B1/Die-Osterfeierlichkeiten" },
+  { "titre": "Weihnachts-Feierlichkeiten in Amsterdam", "id": "weihnachtsfeierlichkeiten-in-amsterdam", "slug": "Weihnachtsfeierlichkeiten", "url": "https://secretlengua.online/german-Reading-B1/Weihnachtsfeierlichkeiten" },
+  { "titre": "Die Oster-Feierlichkeiten in Berlin", "id": "die-osterfeierlichkeiten-in-berlin", "slug": "Die-Osterfeierlichkeiten", "url": "https://secretlengua.online/german-Reading-B1/Die-Osterfeierlichkeiten" },
   { "titre": "Ostern in Italien", "id": "ostern-in-italien", "slug": "Ostern-in-Italien", "url": "https://secretlengua.online/german-Reading-B1/Ostern-in-Italien" },
   { "titre": "Die Teile des menschlichen Körpers", "id": "die-teile-des-menschlichen-korpers", "slug": "Die-Teile-des-menschlichen-Korpers", "url": "https://secretlengua.online/german-Reading-B1/Die-Teile-des-menschlichen-Korpers" },
   { "titre": "Ein Tag auf dem Land", "id": "ein-tag-auf-dem-land", "slug": "Ein-Tag-auf-dem-Land", "url": "https://secretlengua.online/german-Reading-B1/Ein-Tag-auf-dem-Land" },
@@ -34,5 +34,5 @@
   { "titre": "Der Schuhladen", "id": "der-schuhladen", "slug": "Der-Schuhladen", "url": "https://secretlengua.online/german-Reading-B1/Der-Schuhladen" },
   { "titre": "Die Kreuzfahrt auf dem Atlantik", "id": "die-kreuzfahrt-auf-dem-atlantik", "slug": "Die-Kreuzfahrt-auf-dem-Atlantik", "url": "https://secretlengua.online/german-Reading-B1/Die-Kreuzfahrt-auf-dem-Atlantik" },
   { "titre": "italienisches Essen", "id": "italienisches-essen", "slug": "Italienisches-Essen", "url": "https://secretlengua.online/german-Reading-B1/italienisches-Essen" },
-  { "titre": "Ein Familienabendessen", "id": "ein-familienabendessen", "slug": "Ein-Familienabendessen", "url": "https://secretlengua.online/german-Reading-B1/Ein-Familienabendessen" }
+  { "titre": "Ein Familien-Abendessen", "id": "ein-familienabendessen", "slug": "Ein-Familienabendessen", "url": "https://secretlengua.online/german-Reading-B1/Ein-Familienabendessen" }
 ]
