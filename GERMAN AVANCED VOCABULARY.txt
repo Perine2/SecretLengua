@@ -162,7 +162,7 @@
     "url": "https://secretlengua.com/German-avanced-vocabulary/Pronomeeinsetzen"
   },
   {
-    "titre": "Konjunktioneneinsetzen2",
+    "titre": "Konjunktionen-einsetzen2",
     "id": "exercise-6",
     "slug": "Konjunktioneneinsetzen2",
     "url": "https://secretlengua.com/German-avanced-vocabulary/Konjunktioneneinsetzen2"
