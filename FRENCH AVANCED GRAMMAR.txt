@@ -366,7 +366,7 @@
     "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Passe-de-limperatif"
   },
   {
-    "titre": "Futur simple - Infinitif/Participe/Gérondif",
+    "titre": "Futur simple - Infinitif-Participe-Gérondif",
     "id": "exercise-63",
     "slug": "Futur-simple-Infinitif-Participe-Gerondif",
     "url": "https://secretlengua.com/french-avanced-grammar/Futur-simple-Infinitif-Participe-Gerondif"
