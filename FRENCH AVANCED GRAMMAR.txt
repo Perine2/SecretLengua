@@ -198,7 +198,7 @@
     "url": "https://secretlengua.com/french-avanced-grammar/Passe-simple-Passe-de-limperatif"
   },
   {
-    "titre": "Passe-simple-Infinitif/Participe/Gerondif",
+    "titre": "Passe-simple-Infinitif-Participe-Gerondif",
     "id": "exercise-35",
     "slug": "Passe-simple-Infinitif-Participe-Gerondif",
     "url": "https://secretlengua.com/french-avanced-grammar/Passe-simple-Infinitif-Participe-Gerondif"
