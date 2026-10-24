@@ -1,4 +1,4 @@
-{
+ {
 "vocabulary": 600,
   "dictation": 10,
   "grammar": 73,
