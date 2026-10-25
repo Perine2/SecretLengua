@@ -5,7 +5,7 @@
   "reading": 56,
   "listening": 56,
   "business": 200,
-  "advanced": 0,
+  "advanced": 120,
    "Essay": 120,
 "Professionalvocabulary": 0
 }
