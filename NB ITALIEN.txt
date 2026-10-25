@@ -1,6 +1,6 @@
 {
 "vocabulary": 600,
-  "dictation": 20,
+  "dictation": 140,
   "grammar": 79,
   "reading": 132,
   "listening": 132,
