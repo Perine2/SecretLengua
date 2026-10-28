@@ -7,5 +7,6 @@
   "business": 200,
   "advanced": 120,
    "Essay": 120,
- "Professionalvocabulary": 0
+ "AdvancedGrammar": 100,
+ "Advancedvocabulary": 0
 }
