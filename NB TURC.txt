@@ -8,5 +8,5 @@
   "advanced": 120,
    "Essay": 120,
 "AdvancedGrammar": 100,
- "Advancedvocabulary": 0
+ "Advancedvocabulary": 100
 }
