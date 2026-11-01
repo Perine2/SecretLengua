@@ -6,6 +6,7 @@
   "listening": 129,
   "business": 200,
   "advanced": 120,
+"Essay": 121,
 "AdvancedGrammar": 100,
  "Advancedvocabulary": 100
 }
