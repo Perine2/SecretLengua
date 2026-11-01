@@ -5,8 +5,8 @@
   "reading": 69,
   "listening": 69,
   "business": 200,
-  "advanced": 0,
+  "advanced": 100,
 "Essay": 121,
 "AdvancedGrammar": 101,
- "AdvancedVocabulary": 100
+ "Advancedvocabulary": 100
 }
