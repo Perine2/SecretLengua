@@ -3,18 +3,18 @@
     "titre": "1. Başlık",
     "id": "exercise-1",
     "slug": "ZXDWRELYJVCSSTK",
-    "url": "https://secretlengua.com/ZXDWRELYJVCSSTK"
+    "url": "https://secretlengua.com/TURKISH-Reading-B2/ZXDWRELYJVCSSTK"
   },
   {
     "titre": "2. Başlık",
     "id": "exercise-2",
     "slug": "YXCXYRRGHUYRTLC",
-    "url": "https://secretlengua.com/YXCXYRRGHUYRTLC"
+    "url": "https://secretlengua.com/TURKISH-Reading-B2/YXCXYRRGHUYRTLC"
   },
   {
     "titre": "3. Başlık",
     "id": "exercise-3",
     "slug": "QZEOFUVQOPUZCR",
-    "url": "https://secretlengua.com/QZEOFUVQOPUZCR"
+    "url": "https://secretlengua.com/TURKISH-Reading-B2/QZEOFUVQOPUZCR"
   }
 ]
