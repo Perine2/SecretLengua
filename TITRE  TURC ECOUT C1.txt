@@ -3,54 +3,54 @@
     "titre": "1. Başlık",
     "id": "exercise-1",
     "slug": "O-A-HQESYBWYLXK",
-    "url": "https://secretlengua.com/O-A-HQESYBWYLXK"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/O-A-HQESYBWYLXK"
   },
   {
     "titre": "2. Başlık",
     "id": "exercise-2",
     "slug": "TRGEFH-JIMHLBQY",
-    "url": "https://secretlengua.com/TRGEFH-JIMHLBQY"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/TRGEFH-JIMHLBQY"
   },
   {
     "titre": "3. Başlık",
     "id": "exercise-3",
     "slug": "THQRQGVXHYQXMMI",
-    "url": "https://secretlengua.com/THQRQGVXHYQXMMI"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/THQRQGVXHYQXMMI"
   },
   {
     "titre": "4. Başlık",
     "id": "exercise-4",
     "slug": "MMSFMBGYDDXBHWE",
-    "url": "https://secretlengua.com/MMSFMBGYDDXBHWE"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/MMSFMBGYDDXBHWE"
   },
   {
     "titre": "5. Başlık",
     "id": "exercise-5",
     "slug": "DKWKABFCRUBTAWS",
-    "url": "https://secretlengua.com/DKWKABFCRUBTAWS"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/DKWKABFCRUBTAWS"
   },
   {
     "titre": "6. Başlık",
     "id": "exercise-6",
     "slug": "YCAPAISBKGSWOCI",
-    "url": "https://secretlengua.com/YCAPAISBKGSWOCI"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/YCAPAISBKGSWOCI"
   },
   {
     "titre": "7. Başlık",
     "id": "exercise-7",
     "slug": "LTBTFOQIRTMMAYF",
-    "url": "https://secretlengua.com/LTBTFOQIRTMMAYF"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/LTBTFOQIRTMMAYF"
   },
   {
     "titre": "8. Başlık",
     "id": "exercise-8",
     "slug": "DMVHZYVDBUCHWGG",
-    "url": "https://secretlengua.com/DMVHZYVDBUCHWGG"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/DMVHZYVDBUCHWGG"
   },
   {
     "titre": "9. Başlık",
     "id": "exercise-9",
     "slug": "UWXBXRGQSTRWWXS",
-    "url": "https://secretlengua.com/UWXBXRGQSTRWWXS"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/UWXBXRGQSTRWWXS"
   }
 ]
