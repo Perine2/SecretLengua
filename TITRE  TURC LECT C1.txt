@@ -3,54 +3,54 @@
     "titre": "Dağ Köyünde Günlük Rutin",
     "id": "exercise-1",
     "slug": "Dag-Koyunde-Gunluk-Rutin",
-    "url": "https://secretlengua.com/Dag-Koyunde-Gunluk-Rutin"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Dag-Koyunde-Gunluk-Rutin"
   },
   {
     "titre": "Ekonomik Analiz",
     "id": "exercise-2",
     "slug": "Ekonomik-Analiz",
-    "url": "https://secretlengua.com/Ekonomik-Analiz"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Ekonomik-Analiz"
   },
   {
     "titre": "Peyzaj Mimarısı",
     "id": "exercise-3",
     "slug": "Peyzaj-Mimarisi",
-    "url": "https://secretlengua.com/Peyzaj-Mimarisi"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Peyzaj-Mimarisi"
   },
   {
     "titre": "Kent Peyzaj Mimarı",
     "id": "exercise-4",
     "slug": "Kent-Peyzaj-Mimari",
-    "url": "https://secretlengua.com/Kent-Peyzaj-Mimari"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Kent-Peyzaj-Mimari"
   },
   {
     "titre": "Ulaşım Yolları",
     "id": "exercise-5",
     "slug": "Ulasim-Yollari",
-    "url": "https://secretlengua.com/Ulasim-Yollari"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Ulasim-Yollari"
   },
   {
     "titre": "Açık Hava Keşfi",
     "id": "exercise-6",
     "slug": "Acik-Hava-Kesfi",
-    "url": "https://secretlengua.com/Acik-Hava-Kesfi"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Acik-Hava-Kesfi"
   },
   {
     "titre": "Restoranda Akşam Yemeği",
     "id": "exercise-7",
     "slug": "Restoranda-Aksam-Yemegi",
-    "url": "https://secretlengua.com/Restoranda-Aksam-Yemegi"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Restoranda-Aksam-Yemegi"
   },
   {
     "titre": "Somnambülizm deneyimi.",
     "id": "exercise-8",
     "slug": "Somnambulizm-deneyimi",
-    "url": "https://secretlengua.com/Somnambulizm-deneyimi"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Somnambulizm-deneyimi"
   },
   {
     "titre": "Aperçu des sports.",
     "id": "exercise-9",
     "slug": "Apercu-des-sports",
-    "url": "https://secretlengua.com/Apercu-des-sports"
+    "url": "https://secretlengua.com/TURKISH-Reading-C1/Apercu-des-sports"
   }
 ]
