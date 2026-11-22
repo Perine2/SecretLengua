@@ -10,5 +10,12 @@
 "AdvancedVocabulary": 163,
 "AdvancedGrammar": 164,
 "Essay":121,
-"SecretLenguaExitTest": 100
+ "SecretLenguaExitTest": 100,
+  "LevelA1 exercises": 120,
+  "LevelA2 exercises": 145,
+  "LevelB1 exercises": 158,
+  "LevelB2 exercises": 149,
+  "LevelC1 exercises": 143,
+  "LevelC2 exercises": 112,
+  "Businesslanguage": 152
 }
