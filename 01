@@ -1,6 +1,6 @@
 {
-"SecretLenguaEntryLevelTest": 100,
-"vocabulary": 600,
+  "SecretLenguaEntryLevelTest": 100,
+  "vocabulary": 600,
   "dictation": 153,
   "grammar": 108,
   "reading": 1378,
@@ -8,14 +8,14 @@
   "business": 200,
   "advanced": 129,
   "advancedgrammar": 155,
- "AdvancedVocabulary": 168,
-"Essay":121,
-"SecretLenguaExitTest": 100,
- "LevelA1 exercises": 120,
+  "AdvancedVocabulary": 168,
+  "Essay": 121,
+  "SecretLenguaExitTest": 100,
+  "LevelA1 exercises": 120,
   "LevelA2 exercises": 145,
- "LevelB1 exercises":158,
-"LevelB2 exercises": 149,
+  "LevelB1 exercises": 158,
+  "LevelB2 exercises": 149,
   "LevelC1 exercises": 143,
- "LevelC2 exercises": 112,
-"Businesslanguage": 152
+  "LevelC2 exercises": 112,
+  "Businesslanguage": 152
 }
