@@ -1,1 +1,10 @@
 
+{
+ "LevelA1": 120,
+  "LevelA2": 145,
+ "LevelB1":158,
+"LevelB2": 149,
+  "LevelC1": 143,
+ "LevelC2": 112,
+"Professionallanguage": 152
+}
