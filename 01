@@ -8,14 +8,14 @@
   "business": 200,
   "advanced": 129,
   "advancedgrammar": 155,
- "AdvancedVocabulary":168,
+ "AdvancedVocabulary": 168,
 "Essay":121,
-"SecretLenguaExitTest":100,
+"SecretLenguaExitTest": 100,
  "Level A1": 120,
   "Level A2": 145,
  "Level B1":158,
-"Level B2":149,
+"Level B2": 149,
   "Level C1": 143,
  "Level C2": 112,
-"Professional language":152
+"Professional language": 152
 }
