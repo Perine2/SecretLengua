@@ -11,11 +11,11 @@
  "AdvancedVocabulary": 168,
 "Essay":121,
 "SecretLenguaExitTest": 100,
- "Level A1": 120,
-  "Level A2": 145,
- "Level B1":158,
-"Level B2": 149,
-  "Level C1": 143,
- "Level C2": 112,
-"Professional language": 152
+ "LevelA1": 120,
+  "LevelA2": 145,
+ "LevelB1":158,
+"LevelB2": 149,
+  "LevelC1": 143,
+ "LevelC2": 112,
+"Professionallanguage": 152
 }
