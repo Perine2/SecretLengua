@@ -1,33 +1,182 @@
 [
-  { "titre": "練習一", "id": "練習一", "slug": "MGZVBAEY-CHUAEJ", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/1-MGZVBAEY-CHUAEJ" },
-  { "titre": "練習二", "id": "練習二", "slug": "PCUXVMRKASL-JBX", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/PCUXVMRKASL-JBX" },
-  { "titre": "練習三", "id": "練習三", "slug": "MTAQSXRGBLEXNS", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/MTAQSXRGBLEXNS" },
-  { "titre": "練習四", "id": "練習四", "slug": "ZBBGKIROZGBEATR", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/ZBBGKIROZGBEATR" },
-  { "titre": "練習五", "id": "練習五", "slug": "P-FZBDVJSLOMSRF", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/P-FZBDVJSLOMSRF" },
-  { "titre": "練習六", "id": "練習六", "slug": "TYHIIYDHEVSLBYB", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/TYHIIYDHEVSLBYB" },
-  { "titre": "練習七", "id": "練習七", "slug": "DDAHXS-VDOEJUPD", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/DDAHXS-VDOEJUPD" },
-  { "titre": "練習八", "id": "練習八", "slug": "QZREVKICFM-LKOJ", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/QZREVKICFM-LKOJ" },
-  { "titre": "練習九", "id": "練習九", "slug": "CAAFFVZBBJKUTHM", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/CAAFFVZBBJKUTHM" },
-  { "titre": "練習十", "id": "練習十", "slug": "HNNZOGIZFAALVVU", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/HNNZOGIZFAALVVU" },
-  { "titre": "練習十一", "id": "練習十一", "slug": "ZAIREIGZFJWRHPS", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/ZAIREIGZFJWRHPS" },
-  { "titre": "練習十二", "id": "練習十二", "slug": "WCAW-BHWVBGBIWM", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/WCAW-BHWVBGBIWM" },
-  { "titre": "練習十三", "id": "練習十三", "slug": "BNMARJBIHUSRJCU", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/BNMARJBIHUSRJCU" },
-  { "titre": "練習十四", "id": "練習十四", "slug": "OIDDMMTXNZJHFMP", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/OIDDMMTXNZJHFMP" },
-  { "titre": "練習十五", "id": "練習十五", "slug": "UTXNRZXXXTTDU", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/UTXNRZXXXTTDU" },
-  { "titre": "練習十六", "id": "練習十六", "slug": "RJN-JDSGJEMFPZX", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/RJN-JDSGJEMFPZX" },
-  { "titre": "練習十七", "id": "練習十七", "slug": "OYIOMCAMKCQSMYC", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/OYIOMCAMKCQSMYC" },
-  { "titre": "練習十八", "id": "練習十八", "slug": "NTBMUYGNWNBLEVJ", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/NTBMUYGNWNBLEVJ" },
-  { "titre": "練習十九", "id": "練習十九", "slug": "Y-FMBBLPJHMCGBF", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/Y-FMBBLPJHMCGBF" },
-  { "titre": "練習二十", "id": "練習二十", "slug": "EVHVSHASIMPOTIJ", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/EVHVSHASIMPOTIJ" },
-  { "titre": "練習二十一", "id": "練習二十一", "slug": "BXWPJCFNTLXYZKF", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/BXWPJCFNTLXYZKF" },
-  { "titre": "練習二十二", "id": "練習二十二", "slug": "MIIYHNR-RXYKRK", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/MIIYHNR-RXYKRK" },
-  { "titre": "練習二十三", "id": "練習二十三", "slug": "MHFUXUYTREQHVTQ", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/MHFUXUYTREQHVTQ" },
-  { "titre": "練習二十四", "id": "練習二十四", "slug": "IWGKDKELOZPECQN", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/IWGKDKELOZPECQN" },
-  { "titre": "練習二十五", "id": "練習二十五", "slug": "XFCAIDIBXBXTRYT", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/XFCAIDIBXBXTRYT" },
-  { "titre": "練習二十六", "id": "練習二十六", "slug": "LWYQJQXMBNNIBEM", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/LWYQJQXMBNNIBEM" },
-  { "titre": "練習二十七", "id": "練習二十七", "slug": "C-QZNOHAXAXYLNT", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/C-QZNOHAXAXYLNT" },
-  { "titre": "練習二十八", "id": "練習二十八", "slug": "UWHEAUJFNVHGJBV", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/UWHEAUJFNVHGJBV" },
-  { "titre": "練習二十九", "id": "練習二十九", "slug": "BTHGKREWOEMRVTU", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/29-BTHGKREWOEMRVTU" },
-  { "titre": "練習三十", "id": "練習三十", "slug": "DNUJCLZLJKFSVYU", "url": "https://secretlengua.online/reading-exercice/Chinese-Reading-B1/30-DNUJCLZLJKFSVYU" },
-  { "titre": "See more", "id": "練習三十", "slug": "DNUJCLZLJKFSVYU", "url": "https://secretlengua.online/JvKUH0-Zh5-ZgTnDC-4pxmcE/bh6Q-YGzy5Q" }
+  {
+    "titre": "练习 1",
+    "id": "1",
+    "slug": "MGZVBAEY-CHUAEJ",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/1"
+  },
+  {
+    "titre": "练习 2",
+    "id": "2",
+    "slug": "MGZVBAEY-CHUAEK",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/2"
+  },
+  {
+    "titre": "练习 3",
+    "id": "3",
+    "slug": "MGZVBAEY-CHUAEL",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/3"
+  },
+  {
+    "titre": "练习 4",
+    "id": "4",
+    "slug": "MGZVBAEY-CHUAEM",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/4"
+  },
+  {
+    "titre": "练习 5",
+    "id": "5",
+    "slug": "MGZVBAEY-CHUAEN",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/5"
+  },
+  {
+    "titre": "练习 6",
+    "id": "6",
+    "slug": "MGZVBAEY-CHUAEO",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/6"
+  },
+  {
+    "titre": "练习 7",
+    "id": "7",
+    "slug": "MGZVBAEY-CHUAEP",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/7"
+  },
+  {
+    "titre": "练习 8",
+    "id": "8",
+    "slug": "MGZVBAEY-CHUAEQ",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/8"
+  },
+  {
+    "titre": "练习 9",
+    "id": "9",
+    "slug": "MGZVBAEY-CHUAER",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/9"
+  },
+  {
+    "titre": "练习 10",
+    "id": "10",
+    "slug": "MGZVBAEY-CHUAES",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/10"
+  },
+  {
+    "titre": "练习 11",
+    "id": "11",
+    "slug": "MGZVBAEY-CHUAET",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/11"
+  },
+  {
+    "titre": "练习 12",
+    "id": "12",
+    "slug": "MGZVBAEY-CHUAEU",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/12"
+  },
+  {
+    "titre": "练习 13",
+    "id": "13",
+    "slug": "MGZVBAEY-CHUAEV",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/13"
+  },
+  {
+    "titre": "练习 14",
+    "id": "14",
+    "slug": "MGZVBAEY-CHUAEW",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/14"
+  },
+  {
+    "titre": "练习 15",
+    "id": "15",
+    "slug": "MGZVBAEY-CHUAEX",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/15"
+  },
+  {
+    "titre": "练习 16",
+    "id": "16",
+    "slug": "MGZVBAEY-CHUAEY",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/16"
+  },
+  {
+    "titre": "练习 17",
+    "id": "17",
+    "slug": "MGZVBAEY-CHUAEZ",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/17"
+  },
+  {
+    "titre": "练习 18",
+    "id": "18",
+    "slug": "MGZVBAEY-CHUAF0",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/18"
+  },
+  {
+    "titre": "练习 19",
+    "id": "19",
+    "slug": "MGZVBAEY-CHUAF1",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/19"
+  },
+  {
+    "titre": "练习 20",
+    "id": "20",
+    "slug": "MGZVBAEY-CHUAF2",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/20"
+  },
+  {
+    "titre": "练习 21",
+    "id": "21",
+    "slug": "MGZVBAEY-CHUAF3",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/21"
+  },
+  {
+    "titre": "练习 22",
+    "id": "22",
+    "slug": "MGZVBAEY-CHUAF4",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/22"
+  },
+  {
+    "titre": "练习 23",
+    "id": "23",
+    "slug": "MGZVBAEY-CHUAF5",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/23"
+  },
+  {
+    "titre": "练习 24",
+    "id": "24",
+    "slug": "MGZVBAEY-CHUAF6",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/24"
+  },
+  {
+    "titre": "练习 25",
+    "id": "25",
+    "slug": "MGZVBAEY-CHUAF7",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/25"
+  },
+  {
+    "titre": "练习 26",
+    "id": "26",
+    "slug": "MGZVBAEY-CHUAF8",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/26"
+  },
+  {
+    "titre": "练习 27",
+    "id": "27",
+    "slug": "MGZVBAEY-CHUAF9",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/27"
+  },
+  {
+    "titre": "练习 28",
+    "id": "28",
+    "slug": "MGZVBAEY-CHUAFA",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/28"
+  },
+  {
+    "titre": "练习 29",
+    "id": "29",
+    "slug": "MGZVBAEY-CHUAFB",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/29"
+  },
+  {
+    "titre": "练习 30",
+    "id": "30",
+    "slug": "MGZVBAEY-CHUAFC",
+    "url": "https://secretlengua.online/Chinese-Reading-B1/30"
+  }
 ]
